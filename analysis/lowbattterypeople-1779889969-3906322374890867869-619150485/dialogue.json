@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 8.5,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.191,
+      "end": 0.692,
+      "text": "What's wrong?",
+      "word_count": 2,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.253,
+      "end": 1.594,
+      "text": "Nothing.",
+      "word_count": 1,
+      "pause_before_sec": 0.512938,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.255,
+      "end": 6.624,
+      "text": "His nothing has three floors, a full staff, and a file with my name on it.",
+      "word_count": 16,
+      "pause_before_sec": 0.679438,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.165,
+      "end": 11.473,
+      "text": "Tell me what's wrong, because what I'm imagining is always worse than what you're hiding.",
+      "word_count": 15,
+      "pause_before_sec": 0.576187,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Only one diarized speaker label (SPEAKER_00) is present across all 4 lines despite the exchange reading as a two-person call-and-response ('What's wrong?' / 'Nothing.' / rebuttal / re-ask) -- diarization likely failed to separate the two voices, so speaker attribution here should not be trusted as ground truth even though it is reproduced as given in transcript.json. Structurally the dialogue is a tight 4-beat volley: short question, short deflection, an escalating punchline rebuttal, then a restated, more vulnerable version of the opening question -- a call-back structure that bookends the clip with 'wrong' (lines 1 and 4) while the middle two lines carry the comedic/emotional payload.",
+  "speech_rhythm_notes": "Word count balloons sharply from the clipped 2-word and 1-word opening exchange (lines 1-2) to two long 15-16 word lines (3-4), producing a staccato-then-runaway pacing shape. The largest inter-line pause in the clip (0.679s, before line 3) directly precedes the longest and most information-dense line ('three floors, a full staff, and a file with my name on it'), functioning as a comedic beat/setup pause before the punchline lands. Within line 3 there are two brief internal micro-pauses (0.25s each, at ~4.0s and ~5.0s) that fall mid-sentence at the clause breaks ('three floors, / a full staff, / and a file'), giving the punchline a listing cadence. Within line 4 there are two more internal pauses (0.50s at ~8.0s and 0.23s at ~9.6s), slowing the closing line down as it shifts from accusation back to vulnerability. The single longest pause in the whole clip (1.439s, from 11.98-13.42s) occurs after the final line ends rather than before any spoken line, functioning as a trailing hang/reaction beat rather than a mid-dialogue interruption point."
+}

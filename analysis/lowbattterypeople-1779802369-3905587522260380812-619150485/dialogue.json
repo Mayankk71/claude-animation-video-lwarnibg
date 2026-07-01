@@ -1,0 +1,81 @@
+{
+  "video_slug": "lowbattterypeople-1779802369-3905587522260380812-619150485",
+  "total_lines": 8,
+  "avg_words_per_line": 4.5,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.111,
+      "end": 0.471,
+      "text": "Wait, wait.",
+      "word_count": 2,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.652,
+      "end": 0.952,
+      "text": "See this?",
+      "word_count": 2,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.252,
+      "end": 1.593,
+      "text": "See this.",
+      "word_count": 2,
+      "pause_before_sec": 0.395188,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.734,
+      "end": 3.695,
+      "text": "You know what real love is?",
+      "word_count": 6,
+      "pause_before_sec": 1.27719,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.776,
+      "end": 6.598,
+      "text": "Pretending to watch the same reel twice.",
+      "word_count": 7,
+      "pause_before_sec": 0.950188,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.098,
+      "end": 8.7,
+      "text": "Because your wife forgot she already sent it to you.",
+      "word_count": 10,
+      "pause_before_sec": 0.491375,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.8,
+      "end": 9.661,
+      "text": "Oh my god, wait!",
+      "word_count": 4,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 9.761,
+      "end": 10.422,
+      "text": "This one too.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single-speaker monologue (SPEAKER_00 only, 8 lines) — this is a solo direct-to-camera bit rather than a back-and-forth dialogue, so there are no interruptions or overlapping turns. The line structure follows a setup/pause/punchline arc: two short attention-grabbing fragments ('Wait, wait.' / 'See this?' / 'See this.'), a rhetorical question ('You know what real love is?'), a one-line punchline ('Pretending to watch the same reel twice.'), a follow-up justification line, then a callback loop ('Oh my god, wait! This one too.') that mirrors the opening fragments to reset the joke structure.",
+  "speech_rhythm_notes": "The two longest pauses in the clip (1.277s before 'You know what real love is?' and 0.950s before the punchline 'Pretending to watch the same reel twice.') both land directly ahead of the setup question and its payoff line, functioning as comedic beat-holds. By contrast, the closing callback lines ('Oh my god, wait!' and 'This one too.', 4 and 3 words) have zero measured pause before them, landing back-to-back and fast to mimic a repeating/looping reaction after the slower buildup — a rhythmic contrast between the deliberate setup (long pauses, longer lines) and the rapid-fire tag ending (no pauses, short lines)."
+}

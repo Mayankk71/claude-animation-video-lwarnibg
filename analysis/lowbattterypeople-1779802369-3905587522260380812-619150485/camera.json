@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779802369-3905587522260380812-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.566667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot of the two stop-motion figures seated on a curb/step in front of a lit convenience-store entrance; both heads sit in the upper third, symmetrical left/right placement with roughly equal headroom on each; two shopping bags anchor the bottom-left corner as foreground weight; title card text ('THE ART OF REACTING') and episode label ('Episode 15') overlay the frame, meaning the actual character action is partly obscured by graphics during this shot."
+    },
+    {
+      "start": 2.566667,
+      "end": 8.066667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a tighter, static medium two-shot on the same pair now framed against a dark, blurred night-street background (storefront no longer visible) -- isolates the characters from the busy store backdrop for the dialogue-heavy middle section. Woman is left-of-center holding the phone low in frame, man is right-of-center holding the ice cream cone at frame-bottom; both faces held at consistent height for the entire ~5.5s duration with no reframing, pan, or zoom detected across the periodic samples -- camera does not move once the cut lands."
+    },
+    {
+      "start": 8.066667,
+      "end": 11.0,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cuts back to the original storefront medium two-shot framing (same background/positions as the opening shot) but without title text, giving a clean, uncluttered view of both faces for the punchline reaction; bags and doorframe verticals reappear as framing elements; still perfectly static, no push or handheld drift."
+    },
+    {
+      "start": 11.0,
+      "end": 12.933333333333334,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure graphic end card on solid black: series title centered in the upper-middle third, 'Created by Nin.' subtitle beneath it, and a small ribbon-style 'NEW EPISODE DAILY' badge lower-center -- no camera or characters, static text/graphic layout only."
+    }
+  ],
+  "framing_patterns_notes": "The video relies entirely on static locked-off shots and hard cuts rather than any pans, tilts, zooms, or handheld movement -- every camera change in this reel is a cut, not an in-shot move. It also reuses the exact same medium two-shot composition (character positions, eyeline height, phone/ice-cream props in the same hands) for both the cold-open/title shot and the punchline shot, book-ending the tighter reaction shot in between; this bookend framing lets the punchline land in a visually 'familiar' shot the viewer already saw at the top, reinforcing the reveal."
+}

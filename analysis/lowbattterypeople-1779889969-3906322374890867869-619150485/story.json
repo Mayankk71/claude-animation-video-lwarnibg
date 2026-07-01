@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "duration_sec": 13.524042,
+  "hook": {
+    "start": 0.191,
+    "end": 1.594,
+    "description": "Cold open, no title card first: a stop-motion wife (folding laundry, tired eyes) and husband (suit, glasses, guilty deadpan) sit side by side on a couch. She asks 'What's wrong?' and he flatly replies 'Nothing.' The big 'NOTHING' text overlay stamps across the frame the instant he says it, along with an 'Episode 16' series label in the corner.",
+    "why_it_works": "Opens mid-conversation with zero context, so the viewer is dropped straight into marital tension already in progress. The deadpan 'Nothing' plus oversized on-screen text creates instant dramatic irony -- we can already tell it's not nothing -- which baits viewers to keep watching to find out what he's hiding."
+  },
+  "setup": {
+    "start": 2.255,
+    "end": 6.624,
+    "description": "Wife escalates in one breath: 'His nothing has three floors, a full staff, and a file with my name on it.' The line reframes 'nothing' as something absurdly large and ominous (a building, staff, a file on her), establishing the joke's premise -- his 'nothing' is clearly a huge, suspicious secret -- while both characters keep still, deadpan expressions on the couch."
+  },
+  "conflict": {
+    "start": 7.165,
+    "end": 9.5,
+    "description": "She presses him directly: 'Tell me what's wrong, because what I'm imagining is always worse than what you're hiding,' voicing the classic tension between her spiraling imagination and his silence. This is the emotional crux of the skit -- her anxious need for disclosure versus his refusal to explain."
+  },
+  "punchline": {
+    "start": 9.5,
+    "end": 11.8,
+    "description": "As she finishes 'than what you're hiding,' the husband's face shifts into a faint, self-satisfied smirk (visible in the closing seconds of scene 2) rather than any reassurance or denial -- his silent smugness is the punchline, implying her worst fears are justified and he knows it, delivered purely through the stop-motion facial animation with no additional dialogue."
+  },
+  "ending": {
+    "start": 11.8,
+    "end": 13.524042,
+    "description": "Cut to a black end card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a torn-paper 'NEW EPISODE DAILY' badge stamped below it, closing out the episode.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE -- Created by Nin. / NEW EPISODE DAILY badge"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.594, "beat_type": "hook", "description": "Wife asks 'What's wrong?'; husband deadpans 'Nothing' as bold 'NOTHING' text overlay and 'Episode 16' label stamp the frame."},
+    {"start": 1.594, "end": 2.255, "beat_type": "hook", "description": "Beat of silence/held expressions bridging the deadpan answer into her rebuttal."},
+    {"start": 2.255, "end": 6.624, "beat_type": "setup", "description": "Wife lists absurd escalating evidence that his 'nothing' is actually something huge and suspicious: 'three floors, a full staff, and a file with my name on it.'"},
+    {"start": 6.624, "end": 7.165, "beat_type": "setup", "description": "Brief pause before she presses further."},
+    {"start": 7.165, "end": 9.5, "beat_type": "conflict", "description": "She begs him to just tell her what's wrong, revealing her anxious imagination is 'always worse' than the truth -- the core tension of the scene."},
+    {"start": 9.5, "end": 11.8, "beat_type": "punchline", "description": "No verbal reply; husband's expression settles into a smug, knowing smirk, silently confirming he is indeed hiding something -- the joke lands on his face, not a line."},
+    {"start": 11.8, "end": 13.524042, "beat_type": "ending", "description": "Black end card: 'LOW BATTERY PEOPLE, Created by Nin.' with 'NEW EPISODE DAILY' badge."}
+  ],
+  "narrative_notes": "At only ~13.5s of actual scene content (plus a ~1.7s end card), this reel compresses hook and setup almost into a single breath: the 'Nothing'/big-text beat IS the hook, and it flows directly into the wife's one uninterrupted escalating monologue that serves as both setup and conflict, split here only because the transcript contains a clear turn (evidence-listing vs. direct plea). There is no spoken punchline line -- the punchline is entirely visual/silent, carried by the husband's smirk in the final seconds of dialogue (no corresponding transcript segment exists for it, confirmed via keyframes periodic-10/11 showing his growing smile as she finishes speaking). The couple's dialogue is presented as a serialized sitcom snippet ('Episode 16'), and the true franchise hook is arguably the recurring format itself (deadpan spouse hiding something) rather than a self-contained twist unique to this clip."
+}

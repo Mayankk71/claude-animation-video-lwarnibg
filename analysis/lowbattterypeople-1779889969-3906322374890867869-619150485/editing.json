@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.38,
+  "cuts": [
+    {
+      "timestamp": 4.1,
+      "transition_type": "jump_cut",
+      "reason": "Cuts from the wide two-shot into a tight close-up on the wife's face right as she delivers the exaggerated punchline about his 'nothing' having three floors and a full staff, isolating her deadpan delivery for comedic emphasis."
+    },
+    {
+      "timestamp": 6.933333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out to the wide two-shot as the husband's line begins ('Tell me what's wrong...'), re-establishing both characters together so his reaction and dialogue play against her in-frame."
+    },
+    {
+      "timestamp": 11.8,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut from the live scene straight to the black title/CTA card ('Low Battery People... New Episode Daily') immediately after the husband's closing line, ending the joke on its final word and pivoting to the series branding/CTA."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 4.1,
+      "end": 6.933333,
+      "description": "Close-up on the wife's weary, deadpan face as she delivers the punchline about her husband's secretive 'nothing,' functioning as the comedic reaction/payoff shot rather than advancing plot."
+    }
+  ],
+  "pacing_notes": "The video uses only 3 cuts across ~13.5s, with shots ranging from a 1.6s outro card up to a 4.9s wide dialogue shot, averaging about 3.4s per shot. Pacing is deliberately slow and deadpan for a two-hander dialogue joke: it opens on a ~4.1s wide two-shot for the setup ('What's wrong?' / 'Nothing.'), punches into a ~2.8s close-up for the punchline line, returns to a longer ~4.9s wide shot to let the husband's rebuttal land and the joke breathe, then ends abruptly on a short ~1.6s black title/CTA card. There is no rapid-cut acceleration toward the punchline here; instead pacing relies on held shots and a single close-up insert for emphasis before an abrupt cut to the branding card."
+}

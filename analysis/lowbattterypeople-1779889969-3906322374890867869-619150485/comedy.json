@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.191,
+      "end": 1.594,
+      "mechanism": "deadpan",
+      "description": "Wife asks 'What's wrong?' and husband flatly answers 'Nothing' with his mouth barely moving and his default droopy, half-lidded 'low battery' expression never shifting.",
+      "why_it_lands": "The scene-0 keyframe shows both characters wearing the same sagging eyelids and flat mouth line before either line is even spoken, so the deadpan delivery of 'Nothing' just confirms a face that was already lying — the mismatch between exhausted expression and denial is set up visually before the dialogue starts."
+    },
+    {
+      "start": 1.594,
+      "end": 2.255,
+      "mechanism": "awkward_silence",
+      "description": "A 0.68s gap (the longest pause yet, per silence_pauses.json: 1.609-2.289s) sits between his dismissive 'Nothing' and her rebuttal, letting the flat denial hang in the room.",
+      "why_it_lands": "At this point in a 13-second short, a 0.68s dead pocket is proportionally huge — nearly 5% of the whole runtime spent just sitting in the unconvincing silence after 'Nothing,' which primes the audience to expect she won't let it go."
+    },
+    {
+      "start": 2.255,
+      "end": 6.624,
+      "mechanism": "escalation",
+      "description": "She rebuts 'Nothing' with a rapid three-part list that keeps scaling up in absurd specificity: 'three floors, a full staff, and a file with my name on it' — turning an abstract feeling into a literal corporate bureaucracy.",
+      "why_it_lands": "Each item in the list is more institutionally bizarre than the last (floors -> staff -> a literal file with her name on it), and it's delivered in one unbroken 4.4-second breath with no pause between clauses, so the joke's engine is the list itself accelerating past the size of an actual withheld feeling."
+    },
+    {
+      "start": 6.933,
+      "end": 11.473,
+      "mechanism": "recognition",
+      "description": "She pivots from the exaggerated bit to the plain, universal relationship truth: 'what I'm imagining is always worse than what you're hiding,' a real dynamic of anxious-partner mind-reading.",
+      "why_it_lands": "The line lands specifically because it follows the absurd 'three floors' image — the tonal drop from cartoon hyperbole to a flatly true statement about anxiety is what makes viewers in relationships wince/nod, especially since her raised eyebrows and open mouth in periodic-11 show she means it sincerely, not as another exaggeration."
+    },
+    {
+      "start": 6.575,
+      "end": 8.472,
+      "mechanism": "irony",
+      "description": "Throughout her entire escalating, mildly panicked monologue, the husband's face keeps its same faint closed-mouth smile and sleepy eyes seen in scene-2/periodic-9 — he looks amused or unbothered while being accused of hiding something serious.",
+      "why_it_lands": "His static half-smile directly contradicts the stakes of what she's describing (a hidden 'file with her name on it'), and the camera keeps cutting back to his unchanged face during her build-up, making his calm the visual punchline underneath her verbal one."
+    },
+    {
+      "start": 11.8,
+      "end": 13.433,
+      "mechanism": "awkward_silence",
+      "description": "The video ends on the longest pause in the whole piece (1.44s, per silence_pauses.json) immediately after her closing line, with no reply from him before the card cuts to the title screen.",
+      "why_it_lands": "Cutting to black on unresolved silence rather than a punchline reply denies the audience closure exactly where a sitcom would normally insert a comeback, which is what makes the final beat read as a relatable sting rather than a wrapped-up joke."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole 13.4-second piece runs on a single mismatch: two characters built with the same sagging, half-lidded 'low battery' character design (the series' visual gimmick, per keyframes/scene-0.jpg and periodic-9.jpg) so that a serious emotional confrontation is staged on faces that already look permanently unbothered. The comedy comes almost entirely from the gap between her rapidly escalating verbal image (a bureaucratic 'nothing' with floors and staff) and his motionless deadpan reaction, then the piece pivots in its last two lines from that exaggerated bit into a plain, quotable relationship truth, landing as a relatable gut-punch rather than a joke with a button. There is no reaction shot or reply after the final line — the cut to black on the 1.44s trailing pause is the series' signature way of ending on discomfort instead of resolution."
+}
