@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1779458902-3902705005849334582-619150485",
+  "cut_count": 5,
+  "avg_shot_length_sec": 1.97,
+  "cuts": [
+    {
+      "timestamp": 1.833333,
+      "transition_type": "jump_cut",
+      "reason": "Ultra-short (0.1s) flash cut right on the word 'nice' during the husband's 'I'm always nice' line, a near-subliminal jolt that punctuates his defensive claim before the accusation lands."
+    },
+    {
+      "timestamp": 1.933333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out to the wide two-shot of the couple at the kitchen counter, resetting the frame as the wife prepares to deliver the accusation."
+    },
+    {
+      "timestamp": 2.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts in tighter on the husband's stunned reaction as the wife's line 'You told his last girlfriend her energy was a lot' lands, isolating his face for the accusation's impact."
+    },
+    {
+      "timestamp": 6.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a close-up on the wife right after the husband's deadpan comeback 'I did her a favor,' capturing her unimpressed reaction as he doubles down with 'She didn't even thank me.'"
+    },
+    {
+      "timestamp": 10.0,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to the black end card with the show's title and 'new episode daily' tag, closing the skit immediately after the punchline beat to leave it hanging for comedic effect."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 2.9,
+      "end": 6.4,
+      "description": "Close-up on the husband's startled, guilty face as his wife accuses him of insulting his friend's ex-girlfriend ('her energy was a lot')."
+    },
+    {
+      "start": 6.4,
+      "end": 10.0,
+      "description": "Close-up on the wife's flat, unimpressed reaction as the husband justifies himself with 'I did her a favor... She didn't even thank me.'"
+    }
+  ],
+  "pacing_notes": "The scene opens with a normal-length wide establishing shot (1.8s) carrying the title card, then snaps into a near-instant 0.1s flash cut on the word 'nice' -- an abrupt jolt that undercuts the husband's claim of niceness before the story even gets going. It resets to a brief wide two-shot (~1s) before settling into two longer static reaction close-ups (3.5s and 3.6s) that hold on each character's face while they deliver the accusation and the deadpan justification, letting the dialogue and expressions carry the comedy without further cutting. The video then cuts straight to the end card, ending on the punchline rather than a reaction, so the pacing moves from a quick destabilizing gag cut into a slow, dialogue-driven back half."
+}

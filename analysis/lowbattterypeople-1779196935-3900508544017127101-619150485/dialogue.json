@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1779196935-3900508544017127101-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 4.6,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.706,
+      "end": 1.689,
+      "text": "Do you even listen to me?",
+      "word_count": 6,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.829,
+      "end": 2.11,
+      "text": "Yes.",
+      "word_count": 1,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.992,
+      "end": 3.834,
+      "text": "What did I just say?",
+      "word_count": 5,
+      "pause_before_sec": 0.729063,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.859,
+      "end": 7.002,
+      "text": "Something went wrong.",
+      "word_count": 3,
+      "pause_before_sec": 1.20156,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.025,
+      "end": 9.93,
+      "text": "And there's a strong chance it's my fault.",
+      "word_count": 8,
+      "pause_before_sec": 0.916813,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All 5 lines are spoken by the same speaker label (SPEAKER_00) with no timestamp overlaps, so this reads as a single character's internal monologue/narration rather than a back-and-forth exchange; the quick 'Do you even listen to me? / Yes.' exchange (0.14s gap, no silence-window match) mimics a two-person beat but is delivered by one voice track, and no line starts before the prior one ends, so zero interruptions are flagged. Gaps widen progressively after the opening exchange (0.14s, then 0.88s, then 2.0s, then 1.0s), matching a structure of quick setup followed by increasingly deliberate, spaced-out punchline delivery.",
+  "speech_rhythm_notes": "The clip opens with a tight, fast question-answer pair (1.829-2.11, only a 0.14s gap, no measurable silence) establishing a rapid rhythm, then rhythm decelerates sharply: 'What did I just say?' follows a 0.729s pause, and 'Something went wrong' — the shortest punchline-style line at 3 words — follows the single longest pause in the clip (1.20156s, drawn from back-to-back silence windows spanning 3.84s-5.78s). The closing line, the longest at 8 words, follows another substantial 0.917s pause, giving the clip a pattern of short lines cued by long pauses and one longer explanatory line closing out the beat."
+}

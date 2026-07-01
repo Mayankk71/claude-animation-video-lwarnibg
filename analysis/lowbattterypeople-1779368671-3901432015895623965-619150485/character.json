@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1779368671-3901432015895623965-619150485",
+  "characters": [
+    {
+      "name_or_role": "The Wife (speaker, woman in brown turtleneck)",
+      "personality_traits": [
+        "Anxious/controlling about mortality — she is the one pre-emptively laying down rules for who is allowed to die first, revealing a need to control an uncontrollable fear",
+        "Deadpan-serious delivery of an absurd threat ('I'm gonna be so mad at you') treated with total sincerity, which is the joke",
+        "Petty and self-interested under the guise of grief — her real worry is being stuck alone with in-laws ('your mother') and financial burdens ('mortgage'), not losing her husband",
+        "Assertive/nagging — she initiates every line, points/gestures at him, and doesn't wait for a reply"
+      ],
+      "emotional_range": [
+        "flat, mildly indignant at the open",
+        "escalating irritation as she lists grievances",
+        "sharp, wide-eyed alarm/anger on 'YOU.' and 'DON'T'",
+        "settles into a scolding, matter-of-fact tone by 'mortgage'"
+      ],
+      "expressions": [
+        "0:00 mouth slightly open, brows low and flat — already mid-complaint at the cut-in",
+        "0:04-0:06 brows drop further, eyes narrow and glare sideways up at him ('that's not how grief works' / 'I'm warning you') — classic scolding squint",
+        "0:07-0:09 eyes go wide and round, eyebrows sharply angled downward, mouth open in a shocked/indignant 'gasp' shape on 'YOU' and 'DON'T' — peak emotional beat",
+        "mouth closes to a tight downturned frown by 'mortgage,' eyes still narrowed — settling back into a hard stare"
+      ],
+      "gestures": [
+        "stands close beside him, body angled toward him the whole scene, never breaks visual focus on his face",
+        "one hand raised near her chest/gesturing as she speaks (subtle emphasis movements, no large arm swings)",
+        "otherwise stiff, formal posture (arms mostly down) appropriate to funeral attire, contrasted with the intensity of her expression"
+      ],
+      "interactions_notes": "She holds all conversational power: she speaks every line, stands slightly forward of him, and keeps her head turned and eyes locked upward at his face throughout, as if daring him to argue. He never gets a verbal turn — the entire 'interaction' is one-sided nagging that he can only receive. The physical size gap (she is notably shorter, he towers over her in an oversized black coat) is played for contrast: despite being smaller, she is clearly the dominant, more assertive figure in the exchange, while his height/blank stillness reads as passive helplessness rather than authority."
+    },
+    {
+      "name_or_role": "The Husband (silent tall man in black coat, holds folded glasses)",
+      "personality_traits": [
+        "Passive/non-verbal — has zero lines despite being addressed directly and repeatedly; his 'personality' is expressed entirely through stillness and micro-reactions",
+        "Long-suffering/resigned — droopy, half-lidded eyes and a downturned mouth suggest weary acceptance rather than surprise at her rant",
+        "Formal/composed — stands rigidly upright in mourning dress, holding his glasses rather than wearing them, as if he removed them just to endure the lecture"
+      ],
+      "emotional_range": [
+        "consistently weary/resigned across the whole scene — very little change",
+        "eyes stay heavy-lidded and downcast throughout, no visible surprise, anger, or defense mounted"
+      ],
+      "expressions": [
+        "0:00-0:09 unchanging droopy half-closed eyes, slightly furrowed brow, small closed downturned mouth — a fixed 'enduring it' expression",
+        "gaze stays fixed forward/slightly down rather than meeting her eyes directly, reinforcing that he is absorbing rather than engaging",
+        "final beat (post-scene sting) shows an exaggerated version of the same droopy sad-eyed look in extreme close-up, played as the episode's punchline image"
+      ],
+      "gestures": [
+        "holds a folded pair of glasses loosely in one hand at chest height for the entire scene, never puts them on or gestures with them",
+        "arms otherwise stay down at his sides inside an oversized black coat, body facing forward, no movement toward or away from her",
+        "no head turn toward camera/her — near-total physical stillness functions as the visual gag against her animated nagging"
+      ],
+      "interactions_notes": "He is positioned slightly behind/beside her and towers over her, yet cedes all conversational ground — a visual power-vs-voice inversion (physically dominant stance, verbally and behaviorally submissive). He never makes reciprocal eye contact, never responds, and never changes his stance, which frames him as the stoic 'straight man' absorbing his partner's comedic tirade at a funeral. The couple's static side-by-side blocking (no crossing, no distance change) keeps the whole joke contained in her face and voice while his stillness is the deadpan counterweight."
+    }
+  ]
+}

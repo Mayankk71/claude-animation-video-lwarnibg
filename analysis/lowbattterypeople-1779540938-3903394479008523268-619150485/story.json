@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1779540938-3903394479008523268-619150485",
+  "duration_sec": 14.846708,
+  "hook": {
+    "start": 0.375,
+    "end": 1.757,
+    "description": "Woman on a couch, deadpan, asks her partner point-blank: 'When do you think we'll be ready for kids?' Cold open with no visual establishing shot beyond the static couch scene; the blunt, adult-life-milestone question is the hook.",
+    "why_it_works": "Opens mid-conversation with a universally relatable, slightly loaded relationship question, creating instant curiosity about how the partner will respond, while the deadpan stop-motion facial expressions signal comedic tone before a word of the joke is spoken."
+  },
+  "setup": {
+    "start": 2.818,
+    "end": 4.38,
+    "description": "The man answers with a deflating admission: 'We killed a cactus last month.' The camera holds on the same static two-shot; a potted cactus sits on the coffee table in frame, visually corroborating the line.",
+    "conflict_note": "n/a"
+  },
+  "conflict": {
+    "start": 5.381,
+    "end": 7.263,
+    "description": "He escalates the self-deprecating case against parenthood: 'It needed water once a week and we forgot' -- establishing the couple's pattern of low-effort neglect as the internal obstacle to the idea of having kids."
+  },
+  "punchline": {
+    "start": 7.843,
+    "end": 11.508,
+    "description": "The man delivers the topper line: 'We are not ready for something that needs water every day and also has opinions,' landing the joke's comparison of a child to a needier, sentient houseplant. Scene 1 (4.23-11.6s) holds on the same static couch composition throughout, letting the escalating dialogue alone carry the comedic build without any cuts or visual gags."
+  },
+  "ending": {
+    "start": 11.6,
+    "end": 14.846708,
+    "description": "No further dialogue; the couple sits in silence on the couch (scene 2, 11.6-12.73s) before the frame holds on them as the show's title card fades in over the same shot, then cuts to a black card with the full title and tagline (scene 3, 12.73-14.85s).",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.757, "beat_type": "hook", "description": "Woman asks 'When do you think we'll be ready for kids?' over the static couch two-shot, immediately setting up the conversational premise."},
+    {"start": 1.757, "end": 4.38, "beat_type": "setup", "description": "Man responds with the deflating confession 'We killed a cactus last month,' introducing the couple's track record of neglect as the comedic premise, with the actual dead-adjacent cactus visible on the table."},
+    {"start": 4.38, "end": 7.263, "beat_type": "conflict", "description": "He elaborates on the failure -- 'It needed water once a week and we forgot' -- deepening the self-doubt/incompetence that stands between them and readiness for kids."},
+    {"start": 7.263, "end": 11.6, "beat_type": "punchline", "description": "Escalating topper: 'We are not ready for something that needs water every day and also has opinions,' the core joke comparing a baby unfavorably to a low-maintenance plant they already failed to keep alive."},
+    {"start": 11.6, "end": 14.846708, "beat_type": "ending", "description": "Silent beat on the couple's deadpan reaction, then the show branding card ('LOW BATTERY PEOPLE', 'CREATED BY NIN.', 'NEW EPISODE DAILY') appears, closing the episode and promoting the series."}
+  ],
+  "narrative_notes": "This 14.85s reel is unusually short and dialogue-only: there is a single unbroken static shot (scene index 1, 4.23-11.6s per scene_boundaries.json) that carries setup, conflict, and punchline back-to-back as one continuous escalating monologue from the male character, with no cutaways or camera changes -- the joke's structure lives entirely in the writing/timing of the line, not in visual staging. The hook and setup are nearly fused (the woman's question at 0.375-1.757s is answered almost immediately at 2.818s), and there is no traditional 'reset' before the punchline -- the conflict beat is really just the second half of the same joke expanding on the setup line. The ending is a two-part beat: a very brief silent reaction beat (scene 2) immediately followed by a title/branding card (scene 3) rather than a spoken sign-off or on-screen CTA text over the live action, which is a distinct pattern from reels that end on a visual gag."
+}

@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1779368671-3901432015895623965-619150485",
+  "cut_count": 6,
+  "avg_shot_length_sec": 1.84,
+  "cuts": [
+    {
+      "timestamp": 5.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide funeral two-shot into a tight push-in on the wife's face right as she escalates from 'I'm warning you' into the actual threat, sharpening focus on her building anger."
+    },
+    {
+      "timestamp": 6.733,
+      "transition_type": "jump_cut",
+      "reason": "Whip-fast cut to an extreme close-up/rack-focus on the husband's nose and silhouette as she says 'don't,' visually crowding him into the frame to sell the imbalance of the argument."
+    },
+    {
+      "timestamp": 6.933,
+      "transition_type": "jump_cut",
+      "reason": "A near-identical micro-cut on the same extreme close-up framing, holding on 'don't' a beat longer; the near-repeat framing acts like a stutter-cut for comedic tension before the punchline word lands."
+    },
+    {
+      "timestamp": 7.067,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back to the wife's close-up exactly on the punchline swap word 'mortgage' (subverting the expected 'grandma'), landing the joke on a clean, held reaction shot."
+    },
+    {
+      "timestamp": 9.733,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to the husband's droopy-eyed, defeated 'low battery' reaction face immediately after the punchline, giving the audience his silent response as the visual payoff and title card appears over it."
+    },
+    {
+      "timestamp": 10.6,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a black CTA/end card ('New Episode Daily') to close the loop and prompt follow/return viewing right after the joke lands."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 9.733,
+      "end": 10.6,
+      "description": "Husband's droopy, exhausted 'low battery' face reacting silently to his wife's mortgage/grandma quip, serving as the visual punchline payoff rather than advancing plot."
+    }
+  ],
+  "pacing_notes": "Shots start long and expository (a 5.9s wide two-shot establishing the funeral scene and the wife's escalating threats), then compress sharply into a rapid-fire cluster of sub-second cuts (0.83s, 0.2s, 0.13s) as the joke setup accelerates toward the punchline word. The shot lengthens again to 2.7s to let the punchline line ('mortgage') land and register, then holds briefly (0.87s) on the husband's silent reaction shot, before settling into a longer final static end card (2.1s) for the CTA. The extreme micro-cuts right before the punchline create a comedic 'stutter' rhythm that snaps into relief once the joke resolves."
+}

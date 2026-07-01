@@ -1,0 +1,304 @@
+{
+  "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+  "duration_sec": 12.990708,
+  "story": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "duration_sec": 12.990708,
+    "hook": {
+      "start": 0.0,
+      "end": 1.753,
+      "description": "Cold open, already mid-embrace: a stop-motion couple (long-nosed, felt-textured, in a dim night-lit kitchen) stand nose-to-nose holding hands. The woman opens with a warm, sincere-sounding line, 'You know what I like about us?' -- framed visually like the start of a genuine romantic moment.",
+      "why_it_works": "The tight two-shot, soft affectionate posture, and sincere vocal delivery bait the viewer into expecting a sweet compliment, which is the exact misdirection the punchline needs. No title or text overlay competes for attention yet -- only the 'Episode 9' mark top-left signals this is part of an ongoing series."
+    },
+    "setup": {
+      "start": 1.753,
+      "end": 2.693,
+      "description": "The man replies with a single flat, expectant word, 'What?' -- a one-beat pause that hands the floor back to the woman and lets the anticipation of a compliment build for a second before the turn."
+    },
+    "conflict": {
+      "start": 2.693,
+      "end": 3.594,
+      "description": "A brief held silence/beat with no new dialogue (both keep their soft, loving expressions locked on each other) -- the tension of 'what is she about to say' is the entire conflict; there is no external obstacle or argument, just the gap between the sincere setup and the incoming subversion."
+    },
+    "punchline": {
+      "start": 3.594,
+      "end": 7.778,
+      "description": "The woman delivers the line 'We both lowered our standards... at the exact same time,' reframing what looked like a loving compliment into a joke about mutual settling. The characters' expressions (heavy-lidded, wry, unmoved) stay almost identical throughout, so the comedic reveal is carried entirely by the dialogue turn rather than any new visual action, which is the joke's core structural trick."
+    },
+    "ending": {
+      "start": 7.778,
+      "end": 12.990708,
+      "description": "The couple holds the same embrace/pose for several more seconds after the line lands (scene continues static through 11.33s with no further dialogue, letting the line breathe), then the video cuts to a black title card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a yellow 'NEW EPISODE DAILY' ribbon graphic.",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE \u2014 CREATED BY NIN. \u2014 NEW EPISODE DAILY (plus 'Episode 9' overlay visible in the top-left corner during the live-action portion of the scene)"
+    },
+    "beat_map": [
+      {
+        "start": 0.0,
+        "end": 1.753,
+        "beat_type": "hook",
+        "description": "Woman asks 'You know what I like about us?' while the couple holds a tender, nose-to-nose embrace in the kitchen -- sets up a sincere-compliment expectation."
+      },
+      {
+        "start": 1.753,
+        "end": 2.693,
+        "beat_type": "setup",
+        "description": "Man responds 'What?', a one-word prompt that hands the conversational turn back and holds the anticipation."
+      },
+      {
+        "start": 2.693,
+        "end": 3.594,
+        "beat_type": "conflict",
+        "description": "Silent beat before the reveal; the couple's held gaze and static pose is the only tension driver, standing in for a conventional conflict."
+      },
+      {
+        "start": 3.594,
+        "end": 7.778,
+        "beat_type": "punchline",
+        "description": "Woman delivers 'We both lowered our standards... at the exact same time,' subverting the loving setup into a joke about mutual settling, expressions staying flat/unbothered."
+      },
+      {
+        "start": 7.778,
+        "end": 11.333333,
+        "beat_type": "ending",
+        "description": "Scene holds on the same static embrace with no new dialogue, letting the punchline land and breathe before the cut."
+      },
+      {
+        "start": 11.333333,
+        "end": 12.990708,
+        "beat_type": "ending",
+        "description": "Cut to black title card: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and a 'NEW EPISODE DAILY' ribbon graphic -- series branding close."
+      }
+    ],
+    "narrative_notes": "This is an extremely compressed (~13s) two-line joke, not a full multi-beat sketch: the 'conflict' beat is essentially fused with the setup pause (no external obstacle exists, only the gap between an expected compliment and the actual insult-as-affection line), and the visual staging never changes -- both characters hold the identical loving embrace and mild expression from hook through punchline, meaning the entire comedic turn is delivered purely through the dialogue's reveal ('lowered our standards... at the same time') rather than any blocking, framing, or performance change. The ending is a hard cut from the live scene straight to a static branded title card with no character-driven capper or reaction shot, which also serves as the CTA (series name + 'new episode daily')."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "total_lines": 3,
+    "avg_words_per_line": 6,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.632,
+        "end": 1.753,
+        "text": "You know what I like about us?",
+        "word_count": 7,
+        "pause_before_sec": 0.63,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.433,
+        "end": 2.693,
+        "text": "What?",
+        "word_count": 1,
+        "pause_before_sec": 0.68,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3.594,
+        "end": 7.778,
+        "text": "We both lowered our standards... at the exact same time.",
+        "word_count": 10,
+        "pause_before_sec": 0.9,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "All three lines are attributed to SPEAKER_00 in the transcript (a self-answered question-and-punchline structure rather than a true back-and-forth exchange), so there are no cross-speaker interruptions in this clip. The 'What?' line functions as a beat-echo rather than a second voice. The punchline line contains an internal ellipsis in the transcript text ('...at the exact same time'), and silence_pauses.json confirms a genuine mid-line pause from 5.20219s to 6.31625s (1.11s) that falls inside this line's 3.594-7.778s span, right after 'standards' and before the payoff clause \u2014 this is the clip's only intra-line (not just between-line) silence.",
+    "speech_rhythm_notes": "Rhythm builds from short exchanges to one long punchline delivery: line 1 (7 words, 1.12s duration) sets up, line 2 is a 1-word beat ('What?', 0.26s duration) after a 0.68s pause, then line 3 is the longest line (10 words, 4.18s duration) and contains the clip's single longest pause (1.11s, at 5.20-6.32s) embedded mid-line at the ellipsis, creating a comedic hang before the final four-word payoff 'at the exact same time.' Pauses before lines shorten then lengthen (0.63s, 0.68s, 0.9s), giving a slight accelerating-then-holding cadence into the punchline."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.632,
+        "end": 2.693,
+        "mechanism": "escalation",
+        "description": "The husband opens with a classic romantic setup line, 'You know what I like about us?', swaying his wife in a slow embrace, and she feeds the line back with a flat, one-word 'What?' instead of an eager or curious tone.",
+        "why_it_lands": "The wife's reply is a single clipped word ('What?', 0.26s) with a heavy-lidded, deadpan stop-motion expression rather than the warm anticipation the romantic framing (close embrace, tender hand-hold, night-time kitchen) sets up, immediately signaling this is a bit, not real sentiment."
+      },
+      {
+        "start": 2.693,
+        "end": 3.594,
+        "mechanism": "awkward_silence",
+        "description": "A near-1-second pause (0.977s, per silence_pauses.json) sits between the wife's 'What?' and the husband's answer, functioning as a comedic held-breath before the punchline.",
+        "why_it_lands": "At this video's tiny scale (under 13 seconds total), a full second of silence is a large fraction of the runtime, and paired with the couple's static, half-lidded stares into each other's eyes (see keyframe scene-1.jpg), it reads as a mock-tender beat before undercutting itself."
+      },
+      {
+        "start": 3.594,
+        "end": 7.778,
+        "mechanism": "irony",
+        "description": "The punchline reframes an apparent romantic compliment as a joint act of resignation: 'We both lowered our standards... at the exact same time,' delivered in the same flat, deadpan register as the setup.",
+        "why_it_lands": "The mid-line pause (implied by the ellipsis and the 0.532s gap at 7.7-8.2s right after) lets 'lowered our standards' sit before the qualifier 'at the exact same time' lands as the actual joke, reframing a would-be compliment into mutual self-deprecation without either character's expression ever changing from its default weary deadpan (visible in every keyframe)."
+      },
+      {
+        "start": 3.594,
+        "end": 7.778,
+        "mechanism": "recognition",
+        "description": "The line taps into a widely shared, unglamorous truth about long-term relationships settling into compromise, dressed up as a sweet 'what I love about us' moment.",
+        "why_it_lands": "The visual staging undercuts the romance itself: the 'intimate slow dance' happens in a cluttered kitchen at night surrounded by takeout containers and dirty dishes (scene-0.jpg), so the setting itself has already primed the audience to expect the punchline before the line even lands, making the joke recognizable rather than surprising."
+      },
+      {
+        "start": 0.0,
+        "end": 12.9,
+        "mechanism": "deadpan",
+        "description": "Both characters maintain the same droopy-eyed, downturned-mouth expression across the entire runtime, whether delivering the setup, the flat reply, or the punchline.",
+        "why_it_lands": "The complete lack of expression change (confirmed across scene-0, scene-1, periodic-6, and periodic-9 keyframes, which are nearly identical in facial staging) forces all the comedic work onto the dialogue and timing, making the eventual gap in tone between the sentimental words and unbothered faces the whole source of humor."
+      }
+    ],
+    "overall_comedic_style_notes": "This is a single-joke, single-scene micro-sketch (12.9s total) built entirely on a setup-pause-punchline dialogue structure between two static, deadpan stop-motion characters embracing in a domestic setting. The humor is verbal and relational rather than physical or visual: no props, action, or scene changes drive the joke, only line delivery, a mid-sentence pause, and a mismatch between the romantic staging (slow dance, night kitchen, tender hand-hold) and the anti-romantic content of the line ('we both lowered our standards'). The 'Episode 9' and 'Low Battery People' branding in the keyframes suggest this is a recurring micro-format relying on audiences already knowing the deadpan-couple premise, so the joke can be delivered with zero contextual setup beyond the opening question."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "characters": [
+      {
+        "name_or_role": "Wife (SPEAKER_00, brown sweater, hair bun)",
+        "personality_traits": [
+          "Initiates the conversation and drives the joke ('You know what I like about us?') \u2014 the more talkative, proactive partner",
+          "Deadpan/dry rather than sentimental \u2014 delivers a backhanded 'compliment' about lowering standards with the same soft, affectionate tone as a genuine one",
+          "Comfortable and unselfconscious in the relationship \u2014 leans into her partner, initiates physical closeness"
+        ],
+        "emotional_range": [
+          "Warm/tender (holding partner close, soft half-smile) sliding into wry, self-satisfied amusement as she delivers the punchline"
+        ],
+        "expressions": [
+          "0:00 half-lidded, content eyes gazing up at partner while speaking the opening line",
+          "0:02 (\"What?\") \u2014 mouth open, listening/prompting expression, eyebrows still relaxed",
+          "0:04-0:07 (\"We both lowered our standards... at the exact same time\") \u2014 small closed-mouth smirk forms, eyes stay half-lidded/knowing, no surprise or hurt in her face, signaling she means it as a wry joke rather than an insult"
+        ],
+        "gestures": [
+          "Both hands clasped around partner's hand/lapel throughout, holding a slow-dance frame",
+          "Head tilted upward toward the taller partner the entire scene (she is shorter)",
+          "Minimal body movement \u2014 the joke is carried almost entirely by micro-expression and dialogue timing rather than gesture"
+        ],
+        "interactions_notes": "She is physically the one embracing/holding onto him (arms around his side/hand), and she is the one who opens and closes the exchange, giving her slight conversational control. She keeps steady eye contact upward at his face throughout; he only briefly meets her eyes on 'What?' and otherwise looks slightly away/downward, suggesting she's more emotionally present in the moment while he's more resigned or bemused. The couple's body language (slow dance embrace, matching sweater/dark-formal wardrobe, standing still in a modest kitchen) reads as a long-settled, comfortable marriage rather than early romance \u2014 the joke plays off that familiarity."
+      },
+      {
+        "name_or_role": "Husband (unnamed, black coat/tie, round glasses)",
+        "personality_traits": [
+          "More reserved and reactive than his partner \u2014 asks the short prompting question ('What?') rather than initiating",
+          "Deadpan comic foil \u2014 his default resting face (downturned mouth, heavy-lidded eyes) reads as mildly tired/unbothered even while slow dancing, which is what sells the low-key delivery of the joke",
+          "Passive/receptive in the scene \u2014 he listens and reacts rather than acting"
+        ],
+        "emotional_range": [
+          "Mild, muted affect throughout \u2014 a low simmer of weary contentment; no strong emotional swing, which is the comedic engine (he doesn't visibly react to being 'insulted')"
+        ],
+        "expressions": [
+          "0:00 neutral, faint frown-line mouth, eyes at half-mast looking slightly down/away as she speaks",
+          "0:02 (\"What?\") \u2014 eyebrows lift very slightly, eyes flick toward her, the only moment of real engagement/curiosity in the scene",
+          "0:04-0:07 during the punchline \u2014 expression barely changes; mouth stays in its natural downward curve, eyes drift back to half-lidded/resigned, showing no offense or surprise at being told his 'standards were lowered'"
+        ],
+        "gestures": [
+          "Hands clasped with hers in dance hold for the entire scene, otherwise static",
+          "No independent gesture \u2014 stillness itself is the gag, reinforcing that this is a low-key, low-energy ('low battery') couple moment"
+        ],
+        "interactions_notes": "He lets her lead both the embrace and the conversation, responding only with a one-word prompt ('What?') and no verbal punchline of his own \u2014 his reaction is entirely facial/withheld. Eye contact is asymmetric: she looks at him steadily, he glances at her briefly then drifts his gaze away, which reads as comfortable non-neediness rather than disinterest, consistent with the 'adult love' framing of the episode title. The power dynamic is low-stakes and mutual \u2014 neither character postures for dominance; the humor comes from both partners being equally low-energy ('low battery') and equally at peace with it."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 6.6,
+        "shot_type": "medium",
+        "camera_movement": "static",
+        "composition_notes": "Locked-off wide-ish medium two-shot of the couple centered in the kitchen, both figures full-torso-up and vertically centered between the window above and floor below, giving generous headroom. Camera does not move at all through the whole scene despite three different title-card overlays (episode number top-left, 'ADULT LOVE' lower-third, dialogue caption) being swapped over it. Kitchen set is symmetrical-ish around the window behind them, with takeout containers and clutter framing left and right edges to fill negative space rather than being cropped out."
+      },
+      {
+        "start": 6.6,
+        "end": 11.333333,
+        "shot_type": "close-up",
+        "camera_movement": "zoom_in",
+        "composition_notes": "Slow push in from the same static medium framing into a tight close-up on the two faces, cropping out the lower bodies and most of the countertop clutter that was visible in scene 0. The push settles with both faces occupying the upper two-thirds of frame, woman on the left third, man on the right two-thirds, noses nearly touching at the vertical centerline. Window and city lights behind them go soft/out of focus as the lens tightens, isolating the characters' exaggerated eye-rolls from the background."
+      },
+      {
+        "start": 11.333333,
+        "end": 12.9,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Hard cut to a full-black end-card with centered serif title text ('LOW BATTERY PEOPLE' / 'CREATED BY NIN.') and a small ribbon graphic reading 'NEW EPISODE DAILY' anchored below center. No camera or subject in frame at all; pure graphic slate."
+      }
+    ],
+    "framing_patterns_notes": "The whole clip is built from a single static two-shot that only moves once: a slow punch-in during the punchline delivery (dialogue captions 'at/same/what' land right as the zoom tightens), taking the couple from a wide establishing framing down to a close-up on their reaction faces before cutting to the black outro card. Title/caption text is consistently stacked in the same zones across the video (episode tag top-left, episode title lower-third or centered, spoken-line captions bottom-center) rather than the camera repositioning to accommodate them."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "technique": "3D stop-motion-style puppet animation (Laika/'Marcel the Shell'-adjacent aesthetic) \u2014 visible felted/fabric surface texture on skin and clothing, fingerprint-like micro-bumps on the faces, and a fixed-armature puppet build (long conical noses, paddle hands, rigid stovepipe legs) all read as either genuine stop-motion or a high-fidelity 3D render deliberately built to mimic it. Body posture barely shifts across the whole sampled range (periodic-0 through periodic-8 are nearly identical holding poses), consistent with a stop-motion practice of minimizing rig moves per shot to control frame-to-frame cost, though the smoothness of the slow camera push-in (see below) suggests CG compositing/camera rather than a physically moved stop-motion rig.",
+    "facial_animation_notes": "Faces are almost entirely static through periodic-0 to periodic-8 (same sleepy half-lidded eyes, same downturned mouth on the man, same open-mouthed talking pose on the woman) even though the dialogue track is clearly changing word-to-word ('like' / 'What?' / 'lowered' / 'standards' / 'at' / 'same'), indicating mouth movement is either subtle/limited to a small jaw-open shape or not resolved at 1fps sampling. The one large facial change in the sampled frames is a hard pose-to-pose snap between periodic-8/9 and periodic-10/11: both characters' eyes jump from narrow, hooded, sarcastic slits to huge fully-round white eyes with tiny pinprick pupils for the punchline reaction \u2014 a single discrete extreme with no visible in-between (no gradual eyelid-raise frame captured), reading as a snapped '2-pose' reaction rather than eased animation.",
+    "eye_and_blink_notes": "No blinks are visible in any of the 13 periodic frames \u2014 both characters hold heavy-lidded, half-closed 'unimpressed' eyes for the first ~9 sampled frames. Eyes only change state once, at the joke reveal, snapping wide open (visible white sclera, tiny black dot pupils) and staying wide through the rest of the sampled range into the end card \u2014 this looks like a scripted single expression change tied to the punchline beat, not idle blinking.",
+    "head_movement_notes": "Heads stay in essentially fixed relative position and angle toward each other across all sampled frames (woman's head tilted up/right toward the man, man's head tilted slightly down toward her) \u2014 no visible nodding, turning, or tilting drift frame to frame. The framing itself changes (see frame_rate_feel/idle notes) via a camera push rather than the puppets' heads moving.",
+    "gesture_notes": "The couple's hand-hold/embrace pose (man's hands clasped at chest height, woman's hand on his shoulder/chest) is identical in every sampled frame from periodic-0 through periodic-11 \u2014 no visible finger articulation, hand-raising, or gesture changes at all across the ~11 seconds covered by the periodic samples. This reads as a single locked hand-prop/pose held for the entire scene rather than animated gesture beats.",
+    "idle_motion_notes": "Background elements (takeout boxes, dish rack, sink, window city-lights) are pixel-static across all frames with no secondary jitter, no cloth sway on the sweater, and no hair movement on the woman's bun \u2014 consistent with a locked-off set and either very sparse per-frame perturbation (common in cost-conscious stop-motion) or a largely static CG render. The only 'motion' evident in the periodic sampling is the slow reframing from a wider waist-up/floor-visible shot (periodic-0) to a tight chest-up close-up (periodic-8 onward), implying a slow continuous push-in rather than any character idle animation.",
+    "frame_rate_feel": "Source is 30fps per metadata.json, but nothing in the sampled frames suggests full-rate character animation \u2014 poses are held identical across many consecutive ~1-second-apart samples and change only once via a hard snap (the eye pose), suggesting the character performance itself is animated on a low frame rate (holds of a second or more, i.e. something like 'on 2s' or sparser) even if the camera push and any un-sampled subtle mouth motion run smoother. Net feel: deliberately choppy/held character acting punctuated by one abrupt pose change, layered under a smooth-feeling camera move.",
+    "overall_animation_style_notes": "Visual formula for this beat: a static-feeling stop-motion-styled two-shot of a couple embracing in a kitchen, deadpan/unimpressed puppet expressions held for most of the line, then one exaggerated wide-eyed 'shocked/judgmental' snap-take on the punchline word, all under a slow push-in and yellow serif title-card bookending (title card at open, black 'LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY' card at close). The restraint (near-zero micro-motion, one big pose swap) reads as a deliberate comedic device \u2014 withholding animation until the joke lands \u2014 rather than a technical limitation, though genuine stop-motion vs. stop-motion-styled CG could not be confirmed with certainty from the sampled frames alone."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "cut_count": 2,
+    "avg_shot_length_sec": 4.33,
+    "cuts": [
+      {
+        "timestamp": 6.6,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the wide two-shot of the couple slow-dancing into a closer push-in on their faces right as the wife delivers the setup/punchline ('We both lowered our standards... at the exact same time'), tightening the frame for the joke's landing."
+      },
+      {
+        "timestamp": 11.333333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the close two-shot straight to the black end card/title screen immediately after the punchline lands, giving the joke no time to breathe before branding the episode and prompting the next-episode call-to-action."
+      }
+    ],
+    "reaction_shots": [
+      {
+        "start": 6.6,
+        "end": 11.333333,
+        "description": "Closer push-in on both spouses' faces (smug/knowing smirk on the wife, deadpan resigned expression on the husband) as the line about both lowering their standards simultaneously is delivered and lands as the punchline."
+      }
+    ],
+    "pacing_notes": "Only two cuts across a 13-second video, so the piece is built from long, held shots rather than fast cutting. The opening shot (6.6s) sets up the couple's slow dance and the joke's setup line, the second shot (4.7s) pushes closer for the punchline delivery and holds on their reactions, and the final shot (1.6s) is a quick black title/outro card. Pacing therefore slows into the punchline (holding on reactions) rather than speeding up, then snaps quickly to the CTA card at the very end."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "voice_delivery_notes": "Only one speaker tag (SPEAKER_00) appears in the transcript across all three lines, which likely reflects a diarization limitation rather than a true single-voice scene -- the line structure ('You know what I like about us?' / 'What?' / punchline) reads as a two-character back-and-forth. Inferred from phrasing: the opening line is delivered as a warm, conversational lead-in; 'What?' is a short, flat prompting reply (1 word, sub-second span); the closing line is paced with a mid-sentence trail-off ('We both lowered our standards...') before landing on the deadpan punchline 'at the exact same time,' suggesting a deliberate comedic timing beat rather than one continuous breath.",
+    "pitch_energy_notes": "Not directly observable from audio; inferred from text and timing only. The trailing ellipsis before 'at the exact same time' implies a deliberate downward pacing or pitch drop into a deadpan punchline delivery, a common flat-affect comedic pattern. No other pitch/energy cues (e.g., shouting, laughter, escalation) are indicated by transcript punctuation or wording.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No music cues, captions, or on-screen indicators are present in transcript.json or silence_pauses.json; presence of background music cannot be confirmed from available data."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "silence_pauses.json lists six pauses. The longest is 1.114s (5.202s-6.316s), which falls inside the final line's span (3.594s-7.778s, 'We both lowered our standards... at the exact same time') -- i.e. a held beat inserted mid-line, right around the ellipsis point, functioning as the setup-to-punchline gap before 'at the exact same time' lands. The second-longest is 0.978s (2.642s-3.620s), sitting directly after 'What?' ends (2.693s) and before the final line begins (3.594s), a clean question-to-setup breath. A third notable pause of 0.884s occurs at 12.024s-12.908s, well after the transcribed dialogue ends (7.778s), consistent with a held reaction/beat shot before the clip cuts to black."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+    "backgrounds": "Single continuous set for the entire episode: a stylized stop-motion apartment kitchen at night, shot from one fixed camera angle (a slight low/waist-height angle on the two characters standing center-frame). The kitchen has upper and lower taupe/beige cabinetry, tan tile backsplash, a checkerboard (cream and grey) tile floor, a window over the sink looking out onto a dark city skyline with lit windows (establishes night-time, apartment/high-rise setting), and an oven/stove-dishwasher-fridge run of appliances on the right side. A wooden dining table with an upholstered chair is visible at the far left edge of frame. The only other 'location' is a plain black title-card background used for the intro/outro text (episode number, series title, 'Adult Love' episode title, 'created by Nin.' credit, and 'NEW EPISODE DAILY' badge) \u2014 this is graphic overlay, not a physical set.",
+    "props": [
+      "Chinese takeout containers (white paperboard boxes with red pagoda logo) on the counter",
+      "A takeout food container/plate with what looks like a burger and fries",
+      "Dish rack with plates and a blue sponge/scrubber",
+      "Paper towel roll on the counter",
+      "Hand soap / dish soap pump bottle by the window",
+      "Small potted plant on the windowsill",
+      "Stainless steel kettle on the stovetop",
+      "Bowl of fruit (bananas, apples) on the counter",
+      "Knife block near the stove",
+      "Magnets and a note on the refrigerator door",
+      "A pair of grey slippers left on the floor near the cabinets/table",
+      "Wedding/engagement ring visible on the man's hand as the couple holds hands"
+    ],
+    "lighting_notes": "Warm, soft interior kitchen lighting (practical-looking, slightly amber) contrasts with the cool deep-blue night visible through the window, giving clear separation between the intimate lit interior and the cold exterior. Lighting is even and flattering on the character faces with gentle shadow falloff typical of stop-motion/miniature set lighting (soft key light, mild rim light from the window side). No dramatic lighting changes occur during the scene \u2014 it stays consistent throughout, reinforcing the calm, late-night domestic mood.",
+    "color_palette": [
+      "warm beige/taupe (cabinetry and walls)",
+      "muted cream and grey checkerboard (floor)",
+      "deep navy blue (night sky through window)",
+      "warm skin-tone peach/tan (character faces and hands)",
+      "black and white (man's suit, shirt, tie)",
+      "warm brown (woman's sweater)",
+      "mustard yellow accent (title card text and 'NEW EPISODE DAILY' badge)",
+      "red accent (takeout box logo)"
+    ],
+    "visual_complexity_notes": "The set is a single, moderately detailed but realistic-feeling miniature kitchen \u2014 more 'lived-in dense' than minimal, with lots of small background clutter (takeout boxes, fruit bowl, dish rack, soap bottle, slippers) that reads as deliberate scene-setting for a believable apartment rather than randomly busy. Despite the detailed environment, the camera holds a single static composition on the two characters throughout almost the entire runtime, so visual complexity in the background does not compete with focus on the characters' faces and dialogue \u2014 the dense, homey clutter reinforces an 'ordinary domestic evening' tone while the unchanging frame keeps attention on the couple's expressions and conversation."
+  }
+}

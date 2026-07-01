@@ -1,0 +1,57 @@
+{
+  "video_slug": "lowbattterypeople-1779410442-3902116317138371767-619150485",
+  "characters": [
+    {
+      "name_or_role": "Bald man in suit (left, glasses on forehead)",
+      "personality_traits": [
+        "Speaks the punchlines and reacts most visibly, positioning him as the more animated/talkative half of the duo",
+        "Dryly cynical about modern life (delivers the 'social media ruined us' thesis)",
+        "Habitually distracted — never looks up from his phone even while making a sweeping social observation",
+        "Performative rather than genuinely engaged: his half-smile/laugh at his own line ('now it has to match a song') reads as self-satisfied rather than truly amused"
+      ],
+      "emotional_range": [
+        "flat, deadpan boredom",
+        "mild smugness",
+        "brief self-amused smirk",
+        "returns to blank disengagement"
+      ],
+      "expressions": [
+        "0:00 flat, half-lidded, mouth in a neutral downturned line while stating 'I think social media ruined us'",
+        "0:02 same low-affect gaze, eyes barely lift from phone screen for 'Yeah'",
+        "0:05-0:07 mouth opens into a slight grin/smirk with visible upper teeth as he adds the punchline about the song, eyebrows lift slightly — the only real animation of his face in the clip",
+        "glasses pushed up on his forehead the entire time rather than worn normally, giving a permanently 'not really looking at anything' quality"
+      ],
+      "gestures": [
+        "seated, legs crossed at the ankle, entire body angled slightly toward phone rather than toward his companion",
+        "both hands cupped around phone at chest height throughout, thumbs occasionally moving as if scrolling/typing",
+        "briefly tilts the phone toward the woman around 'song' as if to show her something, without turning his head to check whether she's looking",
+        "no hand gestures accompany his speech — all delivery is vocal/facial only, hands stay locked on the phone"
+      ],
+      "interactions_notes": "He does almost all the talking; she supplies only a single-word confirmation ('Yeah'). He never turns his head or makes eye contact with her — the 'conversation' happens while both stare at their own screens, which is itself the sight gag underscoring the dialogue's point about disconnection. He holds the conversational initiative (sets up the premise, delivers the punchline) while she is relegated to a passive listener/reactor, giving him the higher status/dominant role in the exchange despite neither character ever acknowging the other physically."
+    },
+    {
+      "name_or_role": "Woman with bun (right, brown sweater)",
+      "personality_traits": [
+        "Passive/reactive rather than initiating — only contributes one word of dialogue ('Yeah') despite being on-screen for the whole scene",
+        "Visibly weary/unimpressed, functioning as the deadpan straight-woman to the man's commentary",
+        "Absorbed in her phone to the same degree as her companion, reinforcing that her disengagement is the joke, not a personality quirk unique to her"
+      ],
+      "emotional_range": [
+        "tired resignation",
+        "faint, wordless agreement",
+        "unbroken low-energy attention on her phone"
+      ],
+      "expressions": [
+        "0:00-0:02 heavy-lidded eyes, slightly downturned mouth, staring at her phone — mirrors the man's flat affect",
+        "0:02 minimal upward flicker of eyebrows on 'Yeah' — the only micro-reaction she gives to his statement",
+        "0:03-0:07 expression barely changes through 'we can't even be sad normally anymore' and the song line: mouth stays in a small downturned 'o'/frown shape, eyes remain fixed on the screen, no reaction shot to his punchline at all"
+      ],
+      "gestures": [
+        "seated upright, knees together, hands holding phone close to her torso the entire scene",
+        "no head turn toward the man at any point in the sequence — posture stays forward-facing at her own phone",
+         "minimal body movement overall; stillness itself is the gag, contrasting with the 'sad' topic being discussed"
+      ],
+      "interactions_notes": "She sits directly beside the man on a shared bench but there is zero physical acknowledgment between them — no glance, no lean-in, no shared reaction to the punchline. Her only line is a one-word affirmation delivered without eye contact, making her the passive/lower-status half of the pair; the joke depends on this asymmetry (he performs the observation, she is present but functionally checked out, ironically proving his point about people being unable to emotionally connect)."
+    }
+  ]
+}

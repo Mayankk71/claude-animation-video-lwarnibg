@@ -1,0 +1,24 @@
+{
+  "video_slug": "lowbattterypeople-1779540938-3903394479008523268-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.68,
+  "cuts": [
+    {
+      "timestamp": 4.233333,
+      "transition_type": "other",
+      "reason": "Slow, continuous push-in from the wide two-shot to a tighter framing on the husband is registered as a scene-boundary here because the crop/composition changes enough to be detected, but it is really one unbroken shot creeping toward his face as he starts justifying why they killed the cactus -- building toward the punchline rather than cutting on it."
+    },
+    {
+      "timestamp": 11.6,
+      "transition_type": "hard_cut",
+      "reason": "Cuts away from the couple immediately after the punchline line 'also has opinions' lands, dropping into the title card so the joke's last word isn't stepped on and the show's branding appears right on the laugh beat."
+    },
+    {
+      "timestamp": 12.733333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the in-scene title card (overlaid on the couple) to a clean black end card with the same title and the 'new episode daily' stamp, shifting from story beat to series branding/CTA."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "There are no true reaction cutaways in this reel -- it plays out as one continuous static two-shot (0-11.6s) that slowly pushes in on the husband while he delivers the whole joke ('We killed a cactus... also has opinions'), so pacing during the joke itself is carried by dialogue timing and the creeping zoom rather than cutting. The only hard cuts come after the punchline: a quick cut to the title card (11.6s) that holds just over a second, then a cut to the black end card with the 'new episode daily' CTA (12.7s) that holds for the final 2s. So the shot rhythm is inverted from a typical multi-cut comedy edit: it stays long and unbroken through the setup and punchline, then clips into two short branding shots back-to-back at the very end."
+}

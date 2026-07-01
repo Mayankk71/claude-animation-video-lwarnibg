@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779410442-3902116317138371767-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.211,
+      "end": 1.733,
+      "mechanism": "irony",
+      "description": "Character opens with 'I think social media ruined us' while both figures sit in an ICU waiting room actively scrolling their phones instead of looking at each other or reacting to their surroundings.",
+      "why_it_lands": "The keyframe at scene-0 shows both characters already phone-in-hand under the literal 'ICU' sign before the line even finishes, so the visual proof of the accusation is on screen simultaneously with the accusation itself, rather than being revealed after."
+    },
+    {
+      "start": 2.033,
+      "end": 2.353,
+      "mechanism": "deadpan",
+      "description": "The one-word reply 'Yeah' delivered with zero inflection or eye contact, both characters still staring down at their screens.",
+      "why_it_lands": "The flat single-syllable agreement, paired with the sagging, half-lidded eyes visible in scene-1, undercuts any expectation of a real conversational beat — it reads as autopilot agreement rather than engagement, which is the joke's point about disconnection."
+    },
+    {
+      "start": 2.37369,
+      "end": 3.06806,
+      "mechanism": "awkward_silence",
+      "description": "A 0.69s pause sits between the throwaway 'Yeah' and the next, weightier line ('We can't even be sad normally anymore'), during which neither character looks up from their phones.",
+      "why_it_lands": "The pause is long enough (nearly 700ms) in a 13-second short to register as a dead beat rather than a natural breath, letting the visual gag of two motionless, phone-lit faces do the work before the next line lands."
+    },
+    {
+      "start": 3.054,
+      "end": 4.855,
+      "mechanism": "recognition",
+      "description": "The line 'We can't even be sad normally anymore' names a specific, widely-felt modern habit (needing external validation/aesthetics for genuine emotion) rather than a generic complaint about phones.",
+      "why_it_lands": "Delivered inside an ICU waiting room set (visible signage, vending machine, background extras also on phones per scene-0's blurred figures), the specificity of the setting makes the line land as an observation about a real behavior pattern the audience recognizes in themselves, not just a rant about technology."
+    },
+    {
+      "start": 5.576,
+      "end": 6.857,
+      "mechanism": "surprise",
+      "description": "The punchline 'Now it has to match a song' arrives as a hard left turn from the heavy setup about sadness and social media into a hyper-specific, absurdly petty detail about needing a soundtrack.",
+      "why_it_lens": "placeholder"
+    }
+  ],
+  "overall_comedic_style_notes": "The humor here is built entirely on deadpan delivery and dramatic irony rather than any physical gag: two puppet characters with sagging, tired eyes sit in a somber hospital setting (ICU doors, vending machine, other phone-absorbed extras in the background) and deliver an escalating, downbeat observation about how social media has hollowed out genuine emotion, ending on the specific, relatable punchline about needing a song to match your sadness. The comedic engine is the contrast between the heavy setting/subject matter and the flat, low-energy line readings, plus a hyper-specific final detail (matching a song) that turns a broad complaint into something concretely recognizable. Pacing relies on held pauses (0.6-0.85s) between lines rather than punch-ins or cuts, letting the still, glazed expressions carry the beat."
+}

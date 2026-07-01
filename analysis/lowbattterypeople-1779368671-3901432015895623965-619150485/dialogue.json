@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1779368671-3901432015895623965-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 7.75,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.351,
+      "end": 3.433,
+      "text": "If you die first, I'm gonna be so mad at you.",
+      "word_count": 11,
+      "pause_before_sec": 0.315312,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.254,
+      "end": 5.475,
+      "text": "That's not how grief works.",
+      "word_count": 5,
+      "pause_before_sec": 0.955937,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.675,
+      "end": 6.315,
+      "text": "I'm warning you.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.896,
+      "end": 9.898,
+      "text": "Don't you dare leave me alone with the Margage and your mother.",
+      "word_count": 12,
+      "pause_before_sec": 0.617938,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single speaker (SPEAKER_00) delivers all four lines as an escalating one-sided monologue/threat rather than a back-and-forth exchange; no second speaker appears in the transcript despite the emotional back-and-forth tone of the content. Each line is a discrete, complete thought (no interruptions, no overlapping starts) with a clean pause separating it from the next, giving the clip a beat-by-beat delivery structure: setup threat, deadpan rebuttal, second warning, punchline threat.",
+  "speech_rhythm_notes": "The longest gap in dialogue (0.955937s, between 3.433 and 4.254) sits right before the shortest deadpan line 'That's not how grief works.' (5 words), acting as a comedic beat/reaction pause. Line 3 ('I'm warning you.', 3 words) is the shortest line in the clip and has no measurable matched pause before it (only 0.2s raw gap, below the detected silence threshold), giving it a rapid-fire, clipped delivery right after the deadpan line. The final line is the longest (12 words) and follows the second-longest pause (0.617938s), functioning as the escalating punchline after a beat of hesitation. There is also an unmatched large silence window (10.4669-12.7799, 2.313s) after the transcript ends, suggesting a long hold/reaction shot outside of spoken dialogue at the end of the clip."
+}

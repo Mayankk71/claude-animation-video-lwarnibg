@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+  "duration_sec": 12.990708,
+  "hook": {
+    "start": 0.0,
+    "end": 1.753,
+    "description": "Cold open, already mid-embrace: a stop-motion couple (long-nosed, felt-textured, in a dim night-lit kitchen) stand nose-to-nose holding hands. The woman opens with a warm, sincere-sounding line, 'You know what I like about us?' -- framed visually like the start of a genuine romantic moment.",
+    "why_it_works": "The tight two-shot, soft affectionate posture, and sincere vocal delivery bait the viewer into expecting a sweet compliment, which is the exact misdirection the punchline needs. No title or text overlay competes for attention yet -- only the 'Episode 9' mark top-left signals this is part of an ongoing series."
+  },
+  "setup": {
+    "start": 1.753,
+    "end": 2.693,
+    "description": "The man replies with a single flat, expectant word, 'What?' -- a one-beat pause that hands the floor back to the woman and lets the anticipation of a compliment build for a second before the turn."
+  },
+  "conflict": {
+    "start": 2.693,
+    "end": 3.594,
+    "description": "A brief held silence/beat with no new dialogue (both keep their soft, loving expressions locked on each other) -- the tension of 'what is she about to say' is the entire conflict; there is no external obstacle or argument, just the gap between the sincere setup and the incoming subversion."
+  },
+  "punchline": {
+    "start": 3.594,
+    "end": 7.778,
+    "description": "The woman delivers the line 'We both lowered our standards... at the exact same time,' reframing what looked like a loving compliment into a joke about mutual settling. The characters' expressions (heavy-lidded, wry, unmoved) stay almost identical throughout, so the comedic reveal is carried entirely by the dialogue turn rather than any new visual action, which is the joke's core structural trick."
+  },
+  "ending": {
+    "start": 7.778,
+    "end": 12.990708,
+    "description": "The couple holds the same embrace/pose for several more seconds after the line lands (scene continues static through 11.33s with no further dialogue, letting the line breathe), then the video cuts to a black title card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a yellow 'NEW EPISODE DAILY' ribbon graphic.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE — CREATED BY NIN. — NEW EPISODE DAILY (plus 'Episode 9' overlay visible in the top-left corner during the live-action portion of the scene)"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.753, "beat_type": "hook", "description": "Woman asks 'You know what I like about us?' while the couple holds a tender, nose-to-nose embrace in the kitchen -- sets up a sincere-compliment expectation."},
+    {"start": 1.753, "end": 2.693, "beat_type": "setup", "description": "Man responds 'What?', a one-word prompt that hands the conversational turn back and holds the anticipation."},
+    {"start": 2.693, "end": 3.594, "beat_type": "conflict", "description": "Silent beat before the reveal; the couple's held gaze and static pose is the only tension driver, standing in for a conventional conflict."},
+    {"start": 3.594, "end": 7.778, "beat_type": "punchline", "description": "Woman delivers 'We both lowered our standards... at the exact same time,' subverting the loving setup into a joke about mutual settling, expressions staying flat/unbothered."},
+    {"start": 7.778, "end": 11.333333, "beat_type": "ending", "description": "Scene holds on the same static embrace with no new dialogue, letting the punchline land and breathe before the cut."},
+    {"start": 11.333333, "end": 12.990708, "beat_type": "ending", "description": "Cut to black title card: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and a 'NEW EPISODE DAILY' ribbon graphic -- series branding close."}
+  ],
+  "narrative_notes": "This is an extremely compressed (~13s) two-line joke, not a full multi-beat sketch: the 'conflict' beat is essentially fused with the setup pause (no external obstacle exists, only the gap between an expected compliment and the actual insult-as-affection line), and the visual staging never changes -- both characters hold the identical loving embrace and mild expression from hook through punchline, meaning the entire comedic turn is delivered purely through the dialogue's reveal ('lowered our standards... at the same time') rather than any blocking, framing, or performance change. The ending is a hard cut from the live scene straight to a static branded title card with no character-driven capper or reaction shot, which also serves as the CTA (series name + 'new episode daily')."
+}

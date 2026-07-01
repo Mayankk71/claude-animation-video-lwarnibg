@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779368671-3901432015895623965-619150485",
+  "duration_sec": 12.862708,
+  "hook": {
+    "start": 0.351,
+    "end": 3.433,
+    "description": "Cold open, no preamble: two droopy-eyed felt stop-motion puppets (a couple) stand at a graveside funeral, framed through out-of-focus white flowers. The husband deadpans to his wife, 'If you die first, I'm gonna be so mad at you' -- an absurdly petty, self-centered line delivered in a somber funeral setting.",
+    "why_it_works": "The line lands in the first 3 seconds and instantly subverts the expected emotional register of a funeral (grief/solemnity) with childish possessiveness, which is the show's whole comedic engine. The visual (melancholy long-nosed puppets, funeral flowers, muted cemetery colors) primes a sad mood that the dialogue immediately undercuts, creating instant tonal whiplash that hooks attention before viewers can scroll."
+  },
+  "setup": {
+    "start": 4.254,
+    "end": 5.475,
+    "description": "The wife pushes back with a flat, logical rebuttal: 'That's not how grief works,' reinforcing that his statement was absurd and establishing the bickering-couple dynamic as the scene's premise."
+  },
+  "conflict": {
+    "start": 5.675,
+    "end": 9.898,
+    "description": "He escalates instead of conceding: 'I'm warning you. Don't you dare leave me alone with the [Mor]gage and your mother.' The camera pushes into an extreme close-up on his face/nose during 'I'm warning you,' then a shallow-focus reaction shot of her unimpressed glare as he rambles through 'don't...and your mother,' building tension via the mismatch between his grave warning tone and the mundane, petty stakes (bills and mother-in-law) he's actually afraid of.",
+    "note": "The word intended as 'mortgage' is transcribed/mis-heard as 'Margage' in the transcript, but visually/contextually it reads as a mispronounced or garbled 'mortgage' -- the true punch word."
+  },
+  "punchline": {
+    "start": 9.733,
+    "end": 10.6,
+    "description": "The reveal/punch is the word itself landing in close-up on the wife's unimpressed face: the on-screen caption isolates 'MORTGAGE.' as its own beat, exposing that his real fear about being widowed isn't loneliness or grief but being stuck with the mortgage and her mother -- the bathetic core of the joke.",
+    "note": "the punchline is fused with the tail end of the conflict line rather than a separate new statement; it's the last word of his run-on sentence, isolated by the edit/caption timing."
+  },
+  "ending": {
+    "start": 10.6,
+    "end": 12.862708,
+    "description": "Hard cut from the cemetery scene to a black title card: an extreme close-up of the husband puppet's droopy face fades under the show branding, followed by the logo card.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (yellow tape banner)"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 3.433, "beat_type": "hook", "description": "Wide funeral shot through flowers; husband tells wife 'If you die first, I'm gonna be so mad at you.'"},
+    {"start": 3.433, "end": 5.675, "beat_type": "setup", "description": "Wife replies 'That's not how grief works,' establishing the couple's deadpan bickering dynamic."},
+    {"start": 5.675, "end": 9.733, "beat_type": "conflict", "description": "Husband escalates with 'I'm warning you... don't you dare leave me alone with the [mor]gage and your mother,' shown in extreme close-up cuts between his face and her glare."},
+    {"start": 9.733, "end": 10.6, "beat_type": "punchline", "description": "Caption isolates 'MORTGAGE.' on her unimpressed close-up face, revealing his true petty fear."},
+    {"start": 10.6, "end": 12.862708, "beat_type": "ending", "description": "Cut to black title/logo card: 'LOW BATTERY PEOPLE, CREATED BY NIN., NEW EPISODE DAILY.'"}
+  ],
+  "narrative_notes": "This 12.86s episode is far shorter than a typical 20-25s reel, so the arc is extremely compressed: hook and setup each land in under 2 seconds via a single line of dialogue apiece, and the punchline is not a distinct new beat but the final word ('mortgage') of the conflict line, isolated by the caption/edit timing rather than by a scene cut -- effectively conflict and punchline are fused into one continuous line with the punch riding on the last word. There is no resolution/reaction beat between punchline and ending; the video cuts directly from the punchline word to the branded title card, meaning the 'ending' beat here is pure outro branding rather than a narrative wrap-up of the joke."
+}

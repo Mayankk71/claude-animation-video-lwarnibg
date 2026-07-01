@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779458902-3902705005849334582-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.131,
+      "end": 2.474,
+      "mechanism": "irony",
+      "description": "Wife tells husband 'Be nice tonight,' he replies 'I'm always nice' with the same slack, half-lidded, exhausted 'low battery' expression the whole cast wears — a claim of niceness delivered with zero warmth in the face.",
+      "why_it_lands": "The character's droopy eyes and flat mouth (visible on scene-1's keyframe, captioned 'nice') never change register between the request and the reassurance, so the mismatch between the line 'I'm always nice' and the visibly checked-out expression is the whole gag — the puppet's face is doing the opposite of what the dialogue claims."
+    },
+    {
+      "start": 3.115,
+      "end": 6.139,
+      "mechanism": "recognition",
+      "description": "Wife accuses him: 'You told his last girlfriend her energy was a lot' — an instantly familiar, needlessly savage backhanded thing a blunt relative or partner says at a party.",
+      "why_it_lands": "It's a hyper-specific, quotable put-down ('her energy was a lot') rather than a generic insult, which is what makes it feel like a real thing an in-law actually said at a real party rather than a written joke — the specificity is the recognition hook."
+    },
+    {
+      "start": 6.4,
+      "end": 7.621,
+      "mechanism": "deadpan",
+      "description": "Husband's unbothered reply 'I did her a favor' — no defensiveness, no guilt, delivered as flat fact by the same low-lidded face from before (scene-3/4 keyframes).",
+      "why_it_lands": "The 0.34s pause right after this line (7.65-7.99s in silence_pauses.json) lets the flat delivery sit uncontested for a beat before he doubles down, so the audience gets a moment to register 'he actually believes that' before the escalation confirms it."
+    },
+    {
+      "start": 8.482,
+      "end": 9.384,
+      "mechanism": "escalation",
+      "description": "He tops his own justification with 'She didn't even thank me' — turning an admitted insult into a grievance about the victim's ingratitude.",
+      "why_it_lands": "Each line raises the stakes of his self-righteousness (nice -> favor -> she owes ME thanks) without his expression ever shifting from the same droopy 'low battery' stare, so the escalation is purely verbal against a totally static face, which is the visual joke this whole series is built on."
+    },
+    {
+      "start": 10.0,
+      "end": 11.924,
+      "mechanism": "callback",
+      "description": "Cut to black card 'LOW BATTERY PEOPLE' / 'Episode 11: Party Couples' right after the punchline, with the 1.52s trailing pause (10.32-11.84s) letting the last line breathe before the title card lands.",
+      "why_it_lands": "The show's title only makes full sense once you've seen the characters' perpetually drained, half-asleep expressions deliver combative dialogue with zero energy shift — the card at the end reframes the preceding 10 seconds as an example of the premise rather than a one-off scene."
+    }
+  ],
+  "overall_comedic_style_notes": "The entire beat rests on a single sustained contrast: stop-motion felt puppets with heavy-lidded, sleepy 'low battery' faces (long droopy noses, half-closed eyes, slack mouths visible in every keyframe) deliver increasingly petty, socially loaded dialogue without any matching facial or vocal escalation. The humor is almost entirely in the mismatch between visual affect (exhausted, checked-out) and verbal content (accusation, justification, grievance) — short, clipped lines (3-10 words each) with brief natural pauses between exchanges (0.2-0.34s) mimic real bickering-couple rhythm rather than sitcom timing, and the punchline is less a joke than a recognizable, cringe-relatable moment of a partner who cannot admit fault."
+}

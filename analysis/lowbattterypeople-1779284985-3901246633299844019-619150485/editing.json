@@ -1,0 +1,25 @@
+{
+  "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 4.33,
+  "cuts": [
+    {
+      "timestamp": 6.6,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot of the couple slow-dancing into a closer push-in on their faces right as the wife delivers the setup/punchline ('We both lowered our standards... at the exact same time'), tightening the frame for the joke's landing."
+    },
+    {
+      "timestamp": 11.333333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the close two-shot straight to the black end card/title screen immediately after the punchline lands, giving the joke no time to breathe before branding the episode and prompting the next-episode call-to-action."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 6.6,
+      "end": 11.333333,
+      "description": "Closer push-in on both spouses' faces (smug/knowing smirk on the wife, deadpan resigned expression on the husband) as the line about both lowering their standards simultaneously is delivered and lands as the punchline."
+    }
+  ],
+  "pacing_notes": "Only two cuts across a 13-second video, so the piece is built from long, held shots rather than fast cutting. The opening shot (6.6s) sets up the couple's slow dance and the joke's setup line, the second shot (4.7s) pushes closer for the punchline delivery and holds on their reactions, and the final shot (1.6s) is a quick black title/outro card. Pacing therefore slows into the punchline (holding on reactions) rather than speeding up, then snaps quickly to the CTA card at the very end."
+}

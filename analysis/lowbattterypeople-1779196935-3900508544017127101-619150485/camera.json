@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779196935-3900508544017127101-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 3.766667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot in the kitchen; woman stands left-of-center at the sink, man's back and shoulder occupy the right foreground seated at the table facing away from camera toward her. Camera sits at adult eye-level, slightly below her head, giving her extra headroom. Fridge and stove fill the background so the whole set stays legible, nothing cropped tight. The title card ('LOW BATTERY PEOPLE / CREATED BY NIN.') is overlaid centered on this same static frame for the opening seconds. No camera movement across the shot, only puppet micro-animation (blinking, hand shifting the towel) changes between periodic frames."
+    },
+    {
+      "start": 3.766667,
+      "end": 9.4,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a locked-off close-up of the man, now facing camera, seated with a shallow-focus living room (couch, blurred plant, staircase) behind him. He is framed just right of center with generous headroom above his hair, phone held low near the bottom third. Foreground props (ketchup bottle, salt shaker, banana) sit soft-focused in the bottom-left corner, adding depth without pulling focus. Framing is identical across every periodic sample in this scene, no push-in, pan, or drift."
+    },
+    {
+      "start": 9.4,
+      "end": 12.5,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Same wide kitchen two-shot composition as the opening shot, held as a freeze/repeat frame while the title card ('LOW BATTERY PEOPLE / CREATED BY NIN.') is redisplayed centered over it as an outro card, bookending the piece with the exact same framing it opened on."
+    },
+    {
+      "start": 12.5,
+      "end": 13.366667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black card with only centered title/credit text ('LOW BATTERY PEOPLE' in yellow, 'CREATED BY NIN.' in white beneath it), no set or character visible, a pure graphic end card."
+    }
+  ],
+  "framing_patterns_notes": "Both character shots in this short are completely static, locked-off tripod framings with zero pans, tilts, or zooms; all comedic timing is carried by dialogue and puppet micro-animation rather than camera movement. The piece uses only two distinct setups for its entire content (a wide kitchen two-shot and a closer single on the man) and reuses the wide kitchen framing again at the end as a hold-frame backdrop for the title/credit card before resolving to a plain black title card. Foreground props (fruit bowl, ketchup, salt shaker) are consistently placed soft-focused in a bottom corner to add depth without competing with whichever character is in focus."
+}

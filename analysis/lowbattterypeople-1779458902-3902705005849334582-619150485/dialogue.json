@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1779458902-3902705005849334582-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 5.2,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.131,
+      "end": 1.132,
+      "text": "Be nice tonight.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1.433,
+      "end": 2.474,
+      "text": "I'm always nice.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.115,
+      "end": 6.139,
+      "text": "You told his last girlfriend her energy was a lot.",
+      "word_count": 10,
+      "pause_before_sec": 0.20175,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 6.72,
+      "end": 7.621,
+      "text": "I did her a favor.",
+      "word_count": 5,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 8.482,
+      "end": 9.384,
+      "text": "She didn't even thank me.",
+      "word_count": 5,
+      "pause_before_sec": 0.339938,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Same-speaker back-to-back rebuttal (SPEAKER_01 lines 1-2, 'Be nice tonight.' / 'I'm always nice.') with only a 0.3s gap and no matched silence window, reading as a quick self-correcting aside rather than a real pause. SPEAKER_00 then delivers the sole rebuke line (10 words, the clip's longest line) after the only pause matched to an inter-line gap (0.20175s). SPEAKER_01 closes with two short unbroken retorts (5 words each), the second preceded by the clip's largest inter-line pause (0.339938s), giving a defensive-comeback rhythm: deny, then justify after a beat.",
+  "speech_rhythm_notes": "The 10-word accusation line ('You told his last girlfriend...') is the longest line in the clip and is also the only line preceded by a matched pause under half a second (0.20175s), suggesting a small beat before the accusation lands. The final punchline-style line ('She didn't even thank me.', 5 words) follows the largest matched inter-line pause in the clip (0.339938s), giving it the most breathing room of any line and framing it as the capping joke. A fourth, much longer silence window (1.51981s, 10.3215-11.8413s) occurs entirely after the last transcript line ends (9.384s), so it falls outside dialogue as a trailing hold/reaction beat rather than a mid-conversation pause. A separate short silence window (5.39513-5.58263s, 0.1875s) occurs inside SPEAKER_00's own line span (3.115-6.139s) rather than between lines, indicating an internal micro-pause within that single line rather than a conversational gap."
+}

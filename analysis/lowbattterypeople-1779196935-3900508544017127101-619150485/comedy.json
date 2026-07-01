@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779196935-3900508544017127101-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.706,
+      "end": 2.11,
+      "mechanism": "recognition",
+      "description": "Wife asks 'Do you even listen to me?' and the husband, eyes glued to his phone and not even glancing up, snaps back an instant, reflexive 'Yes' after only a 0.14s gap.",
+      "why_it_lands": "The near-zero-latency 'Yes' (start 1.829 lands barely 0.14s after her question ends at 1.689) reads as pure autopilot rather than a real answer, which is exactly the reflex every phone-distracted-partner viewer recognizes in themselves or a partner."
+    },
+    {
+      "start": 2.992,
+      "end": 5.859,
+      "mechanism": "awkward_silence",
+      "description": "She follows up with the trap question 'What did I just say?' and the husband gives no verbal answer at all — the transcript shows nothing from him until 'Something went wrong' almost two full seconds later, with a marked 1.2s silence_pauses gap (4.577-5.779) sitting right in the middle of his non-answer.",
+      "why_it_lands": "The silence_pauses.json shows back-to-back gaps of 0.732s and then 1.2s right after the trap question — an unusually long stall for a 13-second short — letting his blank, half-lidded expression (visible on the scene-1 keyframe, mouth open, eyes still down at the phone) do the confessing before any words do."
+    },
+    {
+      "start": 5.859,
+      "end": 9.93,
+      "mechanism": "deadpan",
+      "description": "Instead of apologizing or scrambling for an answer, he delivers 'Something went wrong. And there's a strong chance it's my fault' in the flat, clinical phrasing of an error-log message or tech-support ticket, still slumped over his phone with the same droopy, half-asleep eyes he's had the whole scene.",
+      "why_it_lands": "The specific word choice 'strong chance' rather than 'I'm sorry' or 'I forgot' reframes a marriage-fight confession as a diagnostic report, and his facial expression never changes from the same low-lidded, mouth-slightly-open stare established in scene-0 — the deadpan delivery is the joke, not the words."
+    },
+    {
+      "start": 0.0,
+      "end": 9.93,
+      "mechanism": "recognition",
+      "description": "The overall scenario — a partner physically present but mentally checked out on a phone, caught by a pop quiz question, and unable to even perform basic care — is staged as a single uninterrupted wide shot/reverse shot in a mundane kitchen with dishes still in the sink.",
+      "why_it_lands": "There's no punchline twist or reversal; the humor comes purely from how precisely the phone-zombie posture (head down, phone held low and close per periodic-2 and periodic-7 keyframes) matches a real, widely-shared domestic annoyance, which is why the short is titled 'Low Battery People' — he's being framed as a person running on empty attention, not malice."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-scene, dialogue-driven bit (title card 'Low Battery People' bookends a ~10s exchange) that relies on timing gaps rather than visual gags: a too-fast reflexive answer followed by an unusually long stall (per silence_pauses.json, two consecutive pauses of ~0.73s and 1.2s) exposes the lie in real time. The joke's engine is the mismatch between confession-worthy content ('there's a strong chance it's my fault') and a flat, tech-diagnostic line reading, delivered without any change in the character's sleepy, half-lidded expression established from frame one. No cutaways, no music stingers noted in the assets — the comedy is carried entirely by pacing of speech versus silence and a static deadpan face."
+}

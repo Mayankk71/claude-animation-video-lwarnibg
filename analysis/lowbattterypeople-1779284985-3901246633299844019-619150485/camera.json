@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide-ish medium two-shot of the couple centered in the kitchen, both figures full-torso-up and vertically centered between the window above and floor below, giving generous headroom. Camera does not move at all through the whole scene despite three different title-card overlays (episode number top-left, 'ADULT LOVE' lower-third, dialogue caption) being swapped over it. Kitchen set is symmetrical-ish around the window behind them, with takeout containers and clutter framing left and right edges to fill negative space rather than being cropped out."
+    },
+    {
+      "start": 6.6,
+      "end": 11.333333,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Slow push in from the same static medium framing into a tight close-up on the two faces, cropping out the lower bodies and most of the countertop clutter that was visible in scene 0. The push settles with both faces occupying the upper two-thirds of frame, woman on the left third, man on the right two-thirds, noses nearly touching at the vertical centerline. Window and city lights behind them go soft/out of focus as the lens tightens, isolating the characters' exaggerated eye-rolls from the background."
+    },
+    {
+      "start": 11.333333,
+      "end": 12.9,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a full-black end-card with centered serif title text ('LOW BATTERY PEOPLE' / 'CREATED BY NIN.') and a small ribbon graphic reading 'NEW EPISODE DAILY' anchored below center. No camera or subject in frame at all; pure graphic slate."
+    }
+  ],
+  "framing_patterns_notes": "The whole clip is built from a single static two-shot that only moves once: a slow punch-in during the punchline delivery (dialogue captions 'at/same/what' land right as the zoom tightens), taking the couple from a wide establishing framing down to a close-up on their reaction faces before cutting to the black outro card. Title/caption text is consistently stacked in the same zones across the video (episode tag top-left, episode title lower-third or centered, spoken-line captions bottom-center) rather than the camera repositioning to accommodate them."
+}

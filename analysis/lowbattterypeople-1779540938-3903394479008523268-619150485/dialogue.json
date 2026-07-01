@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1779540938-3903394479008523268-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 9.75,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.375,
+      "end": 1.757,
+      "text": "When do you think we'll be ready for kids?",
+      "word_count": 9,
+      "pause_before_sec": 0.378125,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.818,
+      "end": 4.38,
+      "text": "We killed a cactus last month.",
+      "word_count": 6,
+      "pause_before_sec": 0.569937,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.381,
+      "end": 7.263,
+      "text": "It needed water once a week and we forgot.",
+      "word_count": 9,
+      "pause_before_sec": 0.40925,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.843,
+      "end": 11.508,
+      "text": "We are not ready for something that needs water every day and also has opinions.",
+      "word_count": 15,
+      "pause_before_sec": 0.324937,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single speaker (SPEAKER_00) delivers all four lines as a continuous monologue rather than a back-and-forth exchange; each line is a setup or escalation building on the prior one (question -> confession -> explanation -> punchline conclusion), with no overlapping starts or interruptions detected — every line begins strictly after the previous line's end plus a measurable pause.",
+  "speech_rhythm_notes": "Each of the four lines is preceded by a distinct silence-window pause (0.38s, 0.57s, 0.41s, 0.32s respectively) rather than a guessed gap, giving the clip a consistent beat-then-line rhythm. The longest pause (0.57s) falls between the opening question and the cactus confession, giving that reveal the most breathing room. The final line is the longest (15 words, 3.67s duration) and delivers the joke's turn ('also has opinions') after the shortest of the four pre-line pauses (0.32s), producing a quick, tacked-on punchline feel rather than a dramatic beat before the laugh line."
+}

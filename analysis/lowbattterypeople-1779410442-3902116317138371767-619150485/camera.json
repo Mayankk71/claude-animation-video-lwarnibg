@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779410442-3902116317138371767-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.566667,
+      "shot_type": "wide",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Single static camera position, dead-center symmetrical two-shot of the man and woman on the ICU waiting-room bench; full environment visible (ICU doors, vending machine, background extras on phones on both edges of frame). Subjects framed small within the wide hospital corridor, heads well below top of frame, full seated bodies and legs visible. Slow push-in already begins here, this is the widest point of the shot."
+    },
+    {
+      "start": 2.566667,
+      "end": 6.933333,
+      "shot_type": "medium",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Continuous slow push-in from the wide open; by the end of this scene the two subjects fill the frame from mid-torso up, background extras and vending machine are cropped to the far right edge only. Man and woman remain centered, symmetrical two-shot with roughly equal headroom on both, phones held low in frame so faces stay uncluttered for dialogue captions."
+    },
+    {
+      "start": 6.933333,
+      "end": 9.233333,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Push-in continues to a tight two-shot cutting off the background almost entirely; man's head is cropped by the left frame edge (only his face and shoulder remain), woman remains fully centered with headroom trimmed close to the top of frame. Framing isolates the two reaction faces for the punchline exchange, no environment context left."
+    },
+    {
+      "start": 9.233333,
+      "end": 11.4,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Hard push-in to an extreme close-up on the woman's face, now dominating the frame off-center to the right of a rule-of-thirds line; the man's glasses/nose are cropped at the far left edge. Background is fully thrown out of focus. Title card ('LOW BATTERY PEOPLE / Created by Nin.') overlays center frame on top of her face, holding the exact end-position of the push-in as a freeze for the outro card."
+    },
+    {
+      "start": 11.4,
+      "end": 12.866667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full cut to a black card, no camera/subject present; centered title and 'Created by Nin.' credit with a 'NEW EPISODE DAILY' tape-graphic banner beneath, used as the closing branding slate."
+    }
+  ],
+  "framing_patterns_notes": "The entire clip is one continuous, uninterrupted slow zoom-in (no cuts between scenes 0-3) that moves from a wide symmetrical establishing two-shot down to an extreme close-up on the woman's face by the final beat, mirroring the escalating awkwardness of the dialogue. The two seated characters are kept dead-center/symmetrical for almost the whole push-in, only breaking symmetry at the very end when the man is cropped out of frame to leave the woman alone for the punchline/title reveal. The camera never pans or cuts away to the background extras despite them being visible early on, they simply fall out of frame as the zoom progresses. The video ends on the same static black title-card graphic style used for the mid-video episode-title overlay, reused as the outro slate."
+}

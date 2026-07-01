@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 6,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.632,
+      "end": 1.753,
+      "text": "You know what I like about us?",
+      "word_count": 7,
+      "pause_before_sec": 0.63,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.433,
+      "end": 2.693,
+      "text": "What?",
+      "word_count": 1,
+      "pause_before_sec": 0.68,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.594,
+      "end": 7.778,
+      "text": "We both lowered our standards... at the exact same time.",
+      "word_count": 10,
+      "pause_before_sec": 0.9,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All three lines are attributed to SPEAKER_00 in the transcript (a self-answered question-and-punchline structure rather than a true back-and-forth exchange), so there are no cross-speaker interruptions in this clip. The 'What?' line functions as a beat-echo rather than a second voice. The punchline line contains an internal ellipsis in the transcript text ('...at the exact same time'), and silence_pauses.json confirms a genuine mid-line pause from 5.20219s to 6.31625s (1.11s) that falls inside this line's 3.594-7.778s span, right after 'standards' and before the payoff clause — this is the clip's only intra-line (not just between-line) silence.",
+  "speech_rhythm_notes": "Rhythm builds from short exchanges to one long punchline delivery: line 1 (7 words, 1.12s duration) sets up, line 2 is a 1-word beat ('What?', 0.26s duration) after a 0.68s pause, then line 3 is the longest line (10 words, 4.18s duration) and contains the clip's single longest pause (1.11s, at 5.20-6.32s) embedded mid-line at the ellipsis, creating a comedic hang before the final four-word payoff 'at the exact same time.' Pauses before lines shorten then lengthen (0.63s, 0.68s, 0.9s), giving a slight accelerating-then-holding cadence into the punchline."
+}

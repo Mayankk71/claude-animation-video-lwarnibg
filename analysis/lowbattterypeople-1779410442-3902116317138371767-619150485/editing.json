@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1779410442-3902116317138371767-619150485",
+  "cut_count": 4,
+  "avg_shot_length_sec": 2.57,
+  "cuts": [
+    {
+      "timestamp": 2.566667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot establishing the ICU waiting room to a tighter framing on both characters right as the deadpan 'Yeah.' lands, pushing in for the start of the real point of the joke."
+    },
+    {
+      "timestamp": 6.933333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a closer, phone-in-frame composition right as the woman delivers 'Now it has to match a song,' emphasizing the punchline visually by tightening on the phones/reactions at the exact moment the joke lands."
+    },
+    {
+      "timestamp": 9.233333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to an extreme close-up on the woman's deadpan face during the post-punchline silence, holding on her blank reaction so the joke can breathe before the button."
+    },
+    {
+      "timestamp": 11.4,
+      "transition_type": "cross_dissolve",
+      "reason": "Dissolves from the character's close-up reaction into the title/logo end-card, softening the transition out of the scene into the branded outro rather than cutting hard, since the joke has already resolved."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 6.933333,
+      "end": 9.233333,
+      "description": "Close-up on both characters' deadpan, unbothered faces glancing at phones right after the 'match a song' line, milking the joke's flat reaction."
+    },
+    {
+      "start": 9.233333,
+      "end": 11.4,
+      "description": "Extended close-up on the woman's blank, half-lidded stare as the button/silence beat plays out before the outro."
+    }
+  ],
+  "pacing_notes": "Shots start near average length (~2.6s) for the setup line, stretch to the longest shot of the video (~4.4s) to let 'we can't even be sad normally anymore' and the setup breathe, then compress to ~2.3s and ~2.2s as the punchline ('match a song') and its deadpan reaction land back to back, before settling into a final ~1.5s dissolve out to the logo card. The rhythm is slow-build into a quick one-two punch (punchline cut + reaction cut) followed by a soft dissolve exit, typical of a short setup/punch/hold/out structure."
+}

@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1779458902-3902705005849334582-619150485",
+  "characters": [
+    {
+      "name_or_role": "Husband / partner in glasses (SPEAKER_00)",
+      "personality_traits": [
+        "Anxious pre-emptive peacekeeper - opens the scene with a warning ('Be nice tonight') before anything has gone wrong",
+        "Passive and resigned rather than confrontational - reacts to his partner's confession with slack-jawed dismay instead of arguing back",
+        "Socially conflict-avoidant, clearly dreads his partner's bluntness in front of other guests"
+      ],
+      "emotional_range": [
+        "low-grade dread/wariness at the open (0:00)",
+        "flat, heavy-lidded resignation while sipping his drink (0:03-0:06)",
+        "open-mouthed, wordless disbelief/horror as she reveals what she actually said (0:06-0:09)"
+      ],
+      "expressions": [
+        "droopy, half-closed eyes and a downturned neutral mouth from his first line 'Be nice tonight' (0:00)",
+        "eyebrows raised slightly, mouth slack as he delivers the accusation 'You told his last girlfriend...' (0:03)",
+        "jaw drops fully open, eyes still tired/hooded - a silent, deflated 'oh no' take as she doubles down (0:06-0:09), no dialogue but held on-screen reacting"
+      ],
+      "gestures": [
+        "holds a whiskey/rocks glass close to his chest the entire scene, never sets it down",
+        "stands rigidly upright behind the kitchen island, body barely moving - all reaction is facial",
+        "no hand gestures accompany his lines; stillness itself reads as suppressed anxiety"
+      ],
+      "interactions_notes": "He initiates the exchange looking directly at her, establishing him as the one setting the social ground rules; once she answers, he does not look away, maintaining a fixed stare that ends in a dropped-jaw reaction shot with no comeback line, ceding the rest of the scene to her. Power dynamic: he sets expectations, she ignores them completely and escalates, leaving him mute and reactive - the classic straight-man role."
+    },
+    {
+      "name_or_role": "Wife / partner with hair bun (SPEAKER_01)",
+      "personality_traits": [
+        "Blithely unapologetic - insists 'I'm always nice' immediately after being warned, showing zero self-awareness",
+        "Petty and score-keeping - reframes an obviously cruel remark ('her energy was a lot') as a selfless favor",
+        "Indignant that her rudeness wasn't appreciated ('She didn't even thank me'), revealing she genuinely believes she was in the right",
+        "Deadpan delivery masking casual cruelty - the humor comes from her calm, matter-of-fact tone about something clearly mean"
+      ],
+      "emotional_range": [
+        "calm self-assurance at 'I'm always nice' (0:01)",
+        "unbothered, almost proud satisfaction recounting 'I did her a favor' (0:06)",
+        "genuine, petty indignation on 'She didn't even thank me' (0:08) - the emotional peak, played as real grievance rather than a joke to her"
+      ],
+      "expressions": [
+        "heavy-lidded, sly half-smile as she answers 'I'm always nice' (0:01-0:02), suggesting she knows exactly what she's about to reveal",
+        "mouth opens into a small 'o' of remembered pride as she recalls the comment (0:06)",
+        "eyebrows knit slightly, mouth downturned in genuine offense by 0:08's 'She didn't even thank me'"
+      ],
+      "gestures": [
+        "wine glass held at chest height throughout, small sip motions punctuating her lines rather than emphatic hand gestures",
+        "head tilts back slightly and eyes roll upward/sideways toward her partner when delivering the 'favor' line - a classic self-satisfied gesture",
+        "stands angled toward her partner the whole time, engaged and unbothered by his growing alarm"
+      ],
+      "interactions_notes": "She never breaks eye contact or physical closeness with her partner despite his mounting horror, treating the conversation as normal small talk; her casual body language (sipping wine, faint smirk) contrasts sharply with his frozen, wide-mouthed reaction, and that mismatch is the joke. She holds conversational control for the entire scene - he asks/warns, she answers and escalates, and he never regains the floor."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779540938-3903394479008523268-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.375,
+      "end": 1.757,
+      "mechanism": "recognition",
+      "description": "Wife casually drops 'When do you think we'll be ready for kids?' while both characters sit slumped, heavy-lidded, expressionless, surrounded by takeout boxes and an unfolded laundry pile on the couch.",
+      "why_it_lands": "The mismatch between the weightiness of the question and the couple's visibly depleted, half-asleep body language (droopy eyes, sunken posture established in the very first frame) signals the joke's premise before a single punchline word is spoken — the audience recognizes 'these two have nothing left to give' immediately."
+    },
+    {
+      "start": 2.818,
+      "end": 4.38,
+      "mechanism": "surprise",
+      "description": "Husband's flat, deadpan answer to the kids question is a non sequitur: 'We killed a cactus last month.'",
+      "why_it_lands": "The reply doesn't address the question at all on its surface, creating a small gap the viewer has to bridge themselves — the incongruity of citing a plant death as relationship evidence is what triggers the laugh, landing right after the 0.57s pause at 1.86-2.43s that lets the setup breathe."
+    },
+    {
+      "start": 5.381,
+      "end": 7.263,
+      "mechanism": "escalation",
+      "description": "The couple builds the case against themselves: 'It needed water once a week and we forgot,' specifying just how minimal the cactus's needs were and how badly they still failed it.",
+      "why_it_lands": "Escalating the specificity (once a week, not even daily) makes their incompetence funnier with each added detail — a task that low-effort should be foolproof, which makes the failure feel more damning and more relatable."
+    },
+    {
+      "start": 7.843,
+      "end": 11.508,
+      "mechanism": "recognition",
+      "description": "Punchline lands on the comparison payoff: 'We are not ready for something that needs water every day and also has opinions,' delivered in the same flat, tired tone as the rest, eyes still half-closed, glancing sideways at the on-screen cactus prop that visually anchors the joke.",
+      "why_it_lands": "This is the relatable gut-punch beat: any adult who has felt too exhausted by low-stakes adult life (unfolded laundry, takeout containers, zero energy) to consider a bigger responsibility will recognize the logic instantly — the joke works because the math ('cactus is easy, we still failed, therefore a kid is impossible') is airtight within the show's premise, and the deadpan delivery (no vocal emphasis, same tired inflection as the setup) sells it as a mundane, obvious conclusion rather than a bit."
+    },
+    {
+      "start": 0.0,
+      "end": 11.6,
+      "mechanism": "deadpan",
+      "description": "Both characters maintain near-identical slack, heavy-lidded expressions and static, low-energy posture throughout the entire exchange, never reacting with surprise or animation to their own admissions.",
+      "why_it_lands": "The consistent flatness across the whole scene (same drooping eyelids and slouched shoulders visible in every keyframe from scene-0 through scene-2) is what makes the escalating admissions of failure feel darkly funny instead of sad — the characters treat a fairly bleak self-assessment with total emotional neutrality, which is the show's stated premise ('Low Battery People')."
+    }
+  ],
+  "overall_comedic_style_notes": "The humor here is built entirely on a single visual/verbal conceit established by the show's title and character design: adults so depleted ('low battery') that ordinary domestic upkeep (watering a cactus, folding laundry) has become insurmountable, played completely deadpan against a heavy, existential question (readiness for parenthood). There's no punchline delivered with vocal punch or a button edit — the comedic engine is the audience doing the math themselves (low-maintenance plant died -> higher-maintenance child is impossible) while the characters' exhausted affect never breaks, which is what makes the short land as a relatable millennial/adult-burnout gag rather than a slapstick joke. The static single-scene setup (one continuous shot, no cuts within the joke) keeps all comedic weight on the dialogue and micro-pauses rather than editing tricks."
+}

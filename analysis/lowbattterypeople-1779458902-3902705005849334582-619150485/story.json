@@ -1,0 +1,76 @@
+{
+  "video_slug": "lowbattterypeople-1779458902-3902705005849334582-619150485",
+  "duration_sec": 11.924042,
+  "hook": {
+    "start": 0.0,
+    "end": 2.474,
+    "description": "Cold open on two low-poly felt/stop-motion party guests (a man in a black suit with round glasses, a woman in a brown turtleneck with pearl earrings) mid-conversation in a kitchen, wine glasses in hand, other guests visible blurred in foreground. 'PARTY COUPLES' + 'EPISODE 11' title text is overlaid on screen. The man mutters 'Be nice tonight,' and the woman deadpans back 'I'm always nice' with a flat, unbothered stare, instantly signaling she is not, in fact, nice.",
+    "why_it_works": "The instant mismatch between her deadpan 'I'm always nice' delivery and her clearly judgmental/tired facial expression creates immediate irony within 2.5 seconds, which is the joke engine of the whole clip -- no scene-setting is wasted, the contradiction IS the hook."
+  },
+  "setup": {
+    "start": 2.9,
+    "end": 6.139,
+    "description": "The man's partner (SPEAKER_00, off-screen/close-up) calls out specific past bad behavior: 'You told his last girlfriend her energy was a lot.' This reframes the opening beat by supplying the concrete evidence that undercuts her 'I'm always nice' claim, and reveals the couple is heading into a party where her track record of bluntness is the running concern."
+  },
+  "conflict": {
+    "start": 6.4,
+    "end": 9.384,
+    "description": "She doubles down instead of showing remorse: 'I did her a favor. She didn't even thank me.' The conflict is internal to her character (self-justification vs. objectively rude behavior) and plays out through her unbothered, sipping-wine delivery while the accusation hangs in the air -- she treats an insult as a kindness."
+  },
+  "punchline": {
+    "start": 8.482,
+    "end": 9.384,
+    "description": "'She didn't even thank me' lands as the punchline: the absurd escalation from 'I did her a favor' to expecting gratitude for an insult, delivered completely deadpan while drinking wine, confirms she has zero self-awareness -- this is the joke's peak and final spoken line of the scene."
+  },
+  "ending": {
+    "start": 10.0,
+    "end": 11.924042,
+    "description": "Cut from the kitchen scene straight to a black card with the show's branded outro: no additional dialogue or character beat, just the series logo treatment.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / 'NEW EPISODE DAILY' tape-graphic badge"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 2.474,
+      "beat_type": "hook",
+      "description": "Title card 'PARTY COUPLES / EPISODE 11' over kitchen party scene; man says 'Be nice tonight,' woman replies 'I'm always nice' with a deadpan, unconvinced expression."
+    },
+    {
+      "start": 2.474,
+      "end": 2.9,
+      "beat_type": "setup",
+      "description": "Brief pause/reaction beat as the camera holds on the couple before the accusation lands (transition micro-scenes at 1.83-2.9s per scene boundaries, covering the cut/reframe)."
+    },
+    {
+      "start": 2.9,
+      "end": 6.139,
+      "beat_type": "setup",
+      "description": "SPEAKER_00 confronts her: 'You told his last girlfriend her energy was a lot,' establishing the specific past offense that contradicts her self-image as nice."
+    },
+    {
+      "start": 6.4,
+      "end": 7.621,
+      "beat_type": "conflict",
+      "description": "She justifies herself, unrepentant: 'I did her a favor,' reframing an insult as generosity."
+    },
+    {
+      "start": 8.482,
+      "end": 9.384,
+      "beat_type": "punchline",
+      "description": "'She didn't even thank me' -- the absurd escalation of expecting gratitude for an insult, delivered flatly while sipping wine, is the comedic peak."
+    },
+    {
+      "start": 9.384,
+      "end": 10.0,
+      "beat_type": "punchline",
+      "description": "Silent beat holding on her unbothered expression as the joke settles before the scene cuts away."
+    },
+    {
+      "start": 10.0,
+      "end": 11.924042,
+      "beat_type": "ending",
+      "description": "Cut to black branding card: 'LOW BATTERY PEOPLE, Created by Nin.' with 'New Episode Daily' badge -- no additional dialogue."
+    }
+  ],
+  "narrative_notes": "At under 12 seconds this is one of the shortest/most compressed structures in the set: hook and setup are nearly fused (the deadpan 'I'm always nice' line doubles as both the opening hook and the first half of the setup, since it is immediately undercut by the accusation 2.4s later). There is no distinct 'resolution' after the punchline -- the scene cuts directly from the punchline line to the show's static outro card, so the ending beat is pure branding/series signage rather than a narrative wrap-up or character button. The conflict is purely verbal/character-based (self-justification vs. accusation), with no physical action or escalation beyond dialogue."
+}

@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1779368671-3901432015895623965-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.351,
+      "end": 3.433,
+      "mechanism": "irony",
+      "description": "She opens with 'If you die first, I'm gonna be so mad at you' while the two of them are visibly standing at a funeral in a cemetery.",
+      "why_it_lands": "The line is delivered completely flat and serious by a scowling, heavy-browed felt puppet whose face never breaks character, so the mismatch between the petty, childish threat and the somber graveyard setting (headstones and flowers in frame) does all the work in the first three seconds."
+    },
+    {
+      "start": 4.254,
+      "end": 5.475,
+      "mechanism": "deadpan",
+      "description": "The man responds to her death threat with the flat, clinical correction 'That's not how grief works,' without any change in his droopy, half-lidded expression.",
+      "why_it_lands": "His face is built with permanently sagging eyelids and a downturned mouth, so his straight-faced, textbook-accurate rebuttal to an absurd threat reads as pure deadpan rather than concern -- he's fact-checking her instead of reacting to being threatened."
+    },
+    {
+      "start": 5.675,
+      "end": 6.315,
+      "mechanism": "escalation",
+      "description": "She refuses to back down from the correction and doubles down with a curt 'I'm warning you,' ignoring his logic entirely.",
+      "why_it_lands": "The line is only 3 words and clipped, spoken over a quick head snap toward camera (scene-1 keyframe shows her wide, fixed stare), showing she's escalating the threat rather than engaging with his point -- the argument is getting more irrational, not less."
+    },
+    {
+      "start": 6.278,
+      "end": 6.896,
+      "mechanism": "awkward_silence",
+      "description": "A 0.62s hold on her intense stare directly into the lens right before she reveals the real reason behind the threat.",
+      "why_it_lands": "The pause sits right after 'warning you' and right before the punchline setup 'don't you dare leave me alone with,' functioning as a held-glare beat that primes the audience for a reveal bigger than what's already been said."
+    },
+    {
+      "start": 6.896,
+      "end": 9.898,
+      "mechanism": "surprise",
+      "description": "The real motive for her threat is revealed to be mundane and petty: being stuck alone with 'the mortgage and your mother,' not grief or loneliness.",
+      "why_it_lands": "The transcript shows the sentence structure sets up an emotional reason ('leave me alone with...') and then subverts it with two deeply unromantic nouns -- financial debt and a mother-in-law -- landing on the word 'mortgage' held on her disgusted, mouth-agape close-up (scene-4 keyframe)."
+    },
+    {
+      "start": 8.736,
+      "end": 9.276,
+      "mechanism": "callback",
+      "description": "The 0.54s pause right before 'mortgage' isolates it as its own beat, distinct from 'your mother,' turning one line into a two-part punchline structure.",
+      "why_it_lands": "By splitting the pause between the setup ('alone with') and the twin payoffs, the edit forces the mortgage reveal to land as its own micro-joke stacked on top of the mother-in-law joke, rather than blending into one continuous sentence."
+    },
+    {
+      "start": 10.6,
+      "end": 12.7,
+      "mechanism": "recognition",
+      "description": "The scene cuts to the show's title card ('Low Battery People') immediately after the punchline, using a long 2.3s trailing pause before it.",
+      "why_it_lands": "The title lands right after the mortgage/mother-in-law punchline with no additional dialogue, letting the audience's own laugh or wince fill the silence -- a common relatable-domestic-bickering premise that needs no further explanation to register."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole joke is built on a single visual/tonal contrast sustained without a single camera cut during the dialogue: a funeral (universally solemn) paired with a partner's deadpan, unblinking delivery of an escalating, increasingly petty threat. The comedy relies entirely on vocal/text pacing rather than physical gags -- short, clipped sentences (3-12 words each) separated by sub-second pauses that function like a stand-up's timing beats, culminating in a two-item punchline (mother, then mortgage) that swaps an expected emotional stake for mundane domestic ones. The static wide two-shot into a slow push toward her face for the punchline is the only 'camera' move, letting the felt puppets' fixed, sculpted expressions (his permanently tired eyes, her permanently scowling brow) carry the joke without any animated expression change."
+}

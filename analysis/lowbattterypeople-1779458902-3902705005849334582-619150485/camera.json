@@ -1,0 +1,49 @@
+{
+  "video_slug": "lowbattterypeople-1779458902-3902705005849334582-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 1.833333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot across a kitchen island; husband (glasses, black suit) and wife (brown sweater) stand centered side by side behind the counter, both cropped at the waist by the counter edge. Two out-of-focus party guests fill the extreme foreground left and right, framing the couple in a natural vignette. Title card 'PARTY COUPLES' is centered over the actors' torsos in large yellow serif type; 'EPISODE 11' sits small in the top-right corner, staying clear of the character's heads."
+    },
+    {
+      "start": 1.833333,
+      "end": 1.933333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Single-frame cutaway held for only ~0.1s: same kitchen background, wife now right-of-center in medium shot, foreground filled by an out-of-focus dark silhouette (a guest's shoulder/head) blocking roughly a third of the left frame. Functions as a near-subliminal punctuation cut rather than a readable shot."
+    },
+    {
+      "start": 1.933333,
+      "end": 2.9,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Returns to the identical wide two-shot composition as the opening (same lock-off, same foreground blur figures), now without the title card, letting the audience re-read the same framing clean before dialogue starts. Symmetrical placement of husband/wife on either side of frame center."
+    },
+    {
+      "start": 2.9,
+      "end": 6.4,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "camera_movement_note": "very slight creeping push-in across the shot",
+      "composition_notes": "Husband pushed to left-of-center in medium shot, tightly cropped at the shoulders with heavy headroom removed (his face nearly touches the top of frame, exaggerating his long nose); wife is a soft-focus profile sliver on the right edge sipping wine, acting as a reaction anchor rather than a subject. A second background guest and blurred foreground figure remain in the far left corner. Over the course of the scene the framing tightens marginally (his face fills slightly more of the frame by the end), consistent with a slow creep-in rather than a hard zoom."
+    },
+    {
+      "start": 6.4,
+      "end": 10.0,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a tight close-up reverse shot on the wife's face, off-center to the right third, eyes and pearl earrings prominent; the husband's blurred nose/glasses intrude from the extreme foreground left edge, and a third character stands soft-focus in the deep background right. Headroom is tight, cropping just above her hair bun, emphasizing her deadpan reaction to the punchline."
+    },
+    {
+      "start": 10.0,
+      "end": 11.8,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Plain black card, no camera/scene at all: show title 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' centered upper-middle, with a small yellow tape-graphic 'NEW EPISODE DAILY' badge centered below — pure graphic/text end-card layout, not a photographed shot."
+    }
+  ],
+  "framing_patterns_notes": "The joke is built on a wide-to-close reverse-shot pattern: the video opens and re-establishes on a static wide two-shot of the couple, holds on a medium/tightening shot of the husband delivering the setup line, then cuts hard to an extreme-tight close-up of the wife's deadpan face for the punchline/reaction — close-up is reserved exclusively for the reaction beat, never the setup. Foreground is consistently cluttered with out-of-focus bystanders (other party guests) framing every shot, reinforcing the 'crowded party' setting without ever pulling focus. Headroom is intentionally tight/cropped on both leads throughout, exaggerating their elongated nose/face character design. Camera itself never pans, tilts, or racks zoom mid-shot — all movement is via hard cuts between static setups, with only a very subtle creeping push-in on the longest shot."
+}

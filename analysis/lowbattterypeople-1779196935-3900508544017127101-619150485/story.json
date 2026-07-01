@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1779196935-3900508544017127101-619150485",
+  "duration_sec": 13.481375,
+  "hook": {
+    "start": 0.0,
+    "end": 2.11,
+    "description": "Cold open in a kitchen: the wife, mid-chore drying a bowl, turns to her husband (seated at the table, eyes fixed on his phone) and snaps 'Do you even listen to me?' He answers 'Yes' instantly and flatly, still not looking up from the phone.",
+    "why_it_works": "Opens on a universally recognizable domestic friction point (partner ignoring you for their phone) with a direct accusatory line of dialogue in the first second, plus the instant, too-quick 'Yes' signals to the viewer he's lying before any punchline lands -- creating immediate curiosity about how he'll get caught."
+  },
+  "setup": {
+    "start": 2.11,
+    "end": 3.834,
+    "description": "The wife presses further, testing him with 'What did I just say?' -- the classic trap question that raises the stakes and sets up the reveal of whether he was actually listening."
+  },
+  "conflict": {
+    "start": 3.834,
+    "end": 5.859,
+    "description": "A held beat of silence: the camera cuts in tight on the husband's face (glasses, phone still in hand), his expression blank and stalling, visibly scrambling for an answer with no dialogue at all -- the awkward pause is the conflict, dramatizing that he has nothing."
+  },
+  "punchline": {
+    "start": 5.859,
+    "end": 9.93,
+    "description": "He finally answers with a vague, non-committal guess: 'Something went wrong. And there's a strong chance it's my fault.' It is a generic, deflecting non-answer that could apply to literally anything -- confirming he wasn't listening at all, and using self-deprecating vagueness as a coping mechanism instead of admitting it."
+  },
+  "ending": {
+    "start": 9.93,
+    "end": 13.481375,
+    "description": "No further dialogue or reaction shot from the wife is shown; the scene holds on the kitchen frame and then cuts to a plain black card, both stamped with the show's title treatment.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN."
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 2.11,
+      "beat_type": "hook",
+      "description": "Wife asks 'Do you even listen to me?'; husband, eyes on phone, replies 'Yes' without looking up."
+    },
+    {
+      "start": 2.11,
+      "end": 3.834,
+      "beat_type": "setup",
+      "description": "Wife issues the trap question: 'What did I just say?'"
+    },
+    {
+      "start": 3.834,
+      "end": 5.859,
+      "beat_type": "conflict",
+      "description": "Silent, tight close-up on the husband's frozen, stalling expression while he searches for a plausible answer."
+    },
+    {
+      "start": 5.859,
+      "end": 9.93,
+      "beat_type": "punchline",
+      "description": "Husband deflects with a vague non-answer: 'Something went wrong. And there's a strong chance it's my fault,' exposing that he wasn't listening at all."
+    },
+    {
+      "start": 9.93,
+      "end": 13.481375,
+      "beat_type": "ending",
+      "description": "No further reaction is shown; the frame holds and then cuts to a black card, both bearing the 'LOW BATTERY PEOPLE / CREATED BY NIN.' title overlay -- functioning as the sign-off/branding rather than a scripted story beat."
+    }
+  ],
+  "narrative_notes": "This is an extremely compressed 13.5s reel (shorter than the typical 20-25s target), so several beats are fused rather than distinct: the setup is essentially a single follow-up line riding directly off the hook's dialogue exchange, and the conflict is carried entirely by a wordless pause/held expression (no scene cut occurs at this exact moment per scene_boundaries.json -- it is a performance beat within scene 1, not a hard cut). There is no true 'ending' beat in the narrative sense (no final reaction shot, tag line, or button from either character) -- the video ends the joke on the punchline itself and the remaining ~3.5 seconds is title-card branding ('LOW BATTERY PEOPLE / CREATED BY NIN.') layered first over a held live-action-style frame and then over a black card, which the scene_boundaries.json also registers as its own scenes (2 and 3). Treat this branding segment as the functional ending/CTA slot for consistency with the schema, but note it contains no new story content."
+}

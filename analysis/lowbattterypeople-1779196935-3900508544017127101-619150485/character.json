@@ -1,0 +1,51 @@
+{
+  "video_slug": "lowbattterypeople-1779196935-3900508544017127101-619150485",
+  "characters": [
+    {
+      "name_or_role": "wife",
+      "personality_traits": [
+        "exasperated but composed — she keeps drying the same bowl instead of raising her voice",
+        "long-suffering; her flat, deadpan delivery of 'Do you even listen to me?' and 'What did I just say?' suggests this is a recurring complaint, not a one-off blowup",
+        "quietly self-aware/resigned rather than combative — she doesn't escalate physically, just stands and stares"
+      ],
+      "emotional_range": [
+        "mild irritation (opening line) to flat disbelief to weary resignation",
+        "never reaches anger or raised volume in the visible/audible range — emotion stays contained in the face"
+      ],
+      "expressions": [
+        "0:01 heavy-lidded, unimpressed stare while drying a bowl, mouth slightly open mid-question",
+        "0:02-0:03 brow slightly raised in disbelief after his 'Yes' ('What did I just say?')",
+        "throughout: sleepy/half-lidded eyes and a downturned mouth — a static, tired 'here we go again' look that barely shifts across the scene"
+      ],
+      "gestures": [
+        "stands at the sink continuously drying the same bowl with a dish towel, never sets it down",
+        "body angled toward the husband but weight staying planted at the counter — she doesn't approach him",
+        "hands stay busy with the towel/bowl even while confronting him, suggesting the confrontation is almost routine, done while multitasking"
+      ],
+      "interactions_notes": "She initiates and holds the conversational floor, asking two pointed questions in a row, but she never crosses the room to him — the kitchen island/table gap stays between them the whole scene, visually reinforcing distance despite the exchange. She looks directly at him throughout; he does not return sustained eye contact, which telegraphs the power imbalance (she wants engagement, he is elsewhere)."
+    },
+    {
+      "name_or_role": "husband",
+      "personality_traits": [
+        "distracted/checked-out — answers 'Yes' reflexively without listening, confirmed when he can't repeat what was said",
+        "avoidant rather than defensive — he doesn't argue back, he deflects into self-narration on his phone ('something went wrong... and there's a strong chance it's my fault')",
+        "self-deprecating in a dry, matter-of-fact way — he seems to already know he's at fault and states it almost clinically, without alarm"
+      ],
+      "emotional_range": [
+        "blank/glazed attention while scrolling to a flicker of concern/confusion as he registers something is wrong, settling into flat, resigned acknowledgment of blame"
+      ],
+      "expressions": [
+        "0:00-0:02 eyes down at phone, half-lidded, mouth closed — not reacting to her at all",
+        "0:02 reflexive 'Yes' delivered with eyes still on the screen, no eye contact",
+        "0:03 (cut to close-up) eyebrows lift slightly, mouth opens ('wrong') as he notices a problem on the phone",
+        "0:06-0:09 mouth hangs open, brow furrowed in mild worry while saying 'and there's a strong chance it's my fault' — concern reads as muted, almost bored self-criticism rather than panic"
+      ],
+      "gestures": [
+        "seated the entire time, phone held in both hands close to his chest/table level",
+        "thumb/finger tapping the phone screen continuously, attention never leaves the device",
+        "posture is hunched forward over the phone, elbows on the table — closed-off body language even while being addressed"
+      ],
+      "interactions_notes": "He never looks up at her; all his reactions are triggered by the phone, not by her words, which is the visual joke underpinning the scene — he is physically present but conversationally absent. His only real emotional beat happens in isolation (the close-up cutaway), away from her, reinforcing that his attention economy is split between two separate 'conversations' (with his wife and with his phone) and the phone wins."
+    }
+  ]
+}

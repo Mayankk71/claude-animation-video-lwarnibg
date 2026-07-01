@@ -1,0 +1,35 @@
+{
+  "video_slug": "lowbattterypeople-1779196935-3900508544017127101-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.34,
+  "cuts": [
+    {
+      "timestamp": 3.766667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot of the wife catching her husband not listening ('What did I just say?') straight to a tight close-up on the husband scrolling his phone, isolating him for his deadpan internal-monologue confession ('Something went wrong... and there's a strong chance it's my fault') so the joke lands on his face alone."
+    },
+    {
+      "timestamp": 9.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back from the husband's close-up confession to the kitchen wide shot of the wife's unimpressed reaction, closing the loop on the setup/punchline pair and letting her blank stare land the joke."
+    },
+    {
+      "timestamp": 12.5,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wife's kitchen shot into the black end-card/logo screen, marking the button/outro beat right after the final joke resolves."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 0.0,
+      "end": 3.766667,
+      "description": "Wife's unimpressed, hollow-eyed reaction shot as she asks 'Do you even listen to me?' and 'What did I just say?' while the husband distractedly answers 'Yes' without looking up from his phone."
+    },
+    {
+      "start": 9.4,
+      "end": 12.5,
+      "description": "Wife's deadpan, tired reaction shot (silent stare) after overhearing the husband's phone-voice confession that he wasn't listening and it's probably his fault."
+    }
+  ],
+  "pacing_notes": "The whole piece is only two real shots bookended by title/logo cards: a ~3.8s kitchen wide shot for the setup question, then a long ~5.6s locked-off close-up on the husband's face that carries the entire punchline monologue via subtitle-paced dialogue (short word-by-word beats with brief pauses, e.g. 'wrong,' ... 'and' ... 'there's' ... 'it's'), before cutting back to a ~3.1s reaction shot of the wife and settling into the end card. Unlike faster-cut comedic reels, this one relies on holding two shots for several seconds each and using internal pauses/silence within the dialogue (visible in silence_pauses.json) rather than rapid cutting to build the joke, only cutting when the point-of-view needs to shift from her accusation to his private confession and back."
+}

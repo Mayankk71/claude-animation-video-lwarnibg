@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779284985-3901246633299844019-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.632,
+      "end": 2.693,
+      "mechanism": "escalation",
+      "description": "The husband opens with a classic romantic setup line, 'You know what I like about us?', swaying his wife in a slow embrace, and she feeds the line back with a flat, one-word 'What?' instead of an eager or curious tone.",
+      "why_it_lands": "The wife's reply is a single clipped word ('What?', 0.26s) with a heavy-lidded, deadpan stop-motion expression rather than the warm anticipation the romantic framing (close embrace, tender hand-hold, night-time kitchen) sets up, immediately signaling this is a bit, not real sentiment."
+    },
+    {
+      "start": 2.693,
+      "end": 3.594,
+      "mechanism": "awkward_silence",
+      "description": "A near-1-second pause (0.977s, per silence_pauses.json) sits between the wife's 'What?' and the husband's answer, functioning as a comedic held-breath before the punchline.",
+      "why_it_lands": "At this video's tiny scale (under 13 seconds total), a full second of silence is a large fraction of the runtime, and paired with the couple's static, half-lidded stares into each other's eyes (see keyframe scene-1.jpg), it reads as a mock-tender beat before undercutting itself."
+    },
+    {
+      "start": 3.594,
+      "end": 7.778,
+      "mechanism": "irony",
+      "description": "The punchline reframes an apparent romantic compliment as a joint act of resignation: 'We both lowered our standards... at the exact same time,' delivered in the same flat, deadpan register as the setup.",
+      "why_it_lands": "The mid-line pause (implied by the ellipsis and the 0.532s gap at 7.7-8.2s right after) lets 'lowered our standards' sit before the qualifier 'at the exact same time' lands as the actual joke, reframing a would-be compliment into mutual self-deprecation without either character's expression ever changing from its default weary deadpan (visible in every keyframe)."
+    },
+    {
+      "start": 3.594,
+      "end": 7.778,
+      "mechanism": "recognition",
+      "description": "The line taps into a widely shared, unglamorous truth about long-term relationships settling into compromise, dressed up as a sweet 'what I love about us' moment.",
+      "why_it_lands": "The visual staging undercuts the romance itself: the 'intimate slow dance' happens in a cluttered kitchen at night surrounded by takeout containers and dirty dishes (scene-0.jpg), so the setting itself has already primed the audience to expect the punchline before the line even lands, making the joke recognizable rather than surprising."
+    },
+    {
+      "start": 0.0,
+      "end": 12.9,
+      "mechanism": "deadpan",
+      "description": "Both characters maintain the same droopy-eyed, downturned-mouth expression across the entire runtime, whether delivering the setup, the flat reply, or the punchline.",
+      "why_it_lands": "The complete lack of expression change (confirmed across scene-0, scene-1, periodic-6, and periodic-9 keyframes, which are nearly identical in facial staging) forces all the comedic work onto the dialogue and timing, making the eventual gap in tone between the sentimental words and unbothered faces the whole source of humor."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-joke, single-scene micro-sketch (12.9s total) built entirely on a setup-pause-punchline dialogue structure between two static, deadpan stop-motion characters embracing in a domestic setting. The humor is verbal and relational rather than physical or visual: no props, action, or scene changes drive the joke, only line delivery, a mid-sentence pause, and a mismatch between the romantic staging (slow dance, night kitchen, tender hand-hold) and the anti-romantic content of the line ('we both lowered our standards'). The 'Episode 9' and 'Low Battery People' branding in the keyframes suggest this is a recurring micro-format relying on audiences already knowing the deadpan-couple premise, so the joke can be delivered with zero contextual setup beyond the opening question."
+}

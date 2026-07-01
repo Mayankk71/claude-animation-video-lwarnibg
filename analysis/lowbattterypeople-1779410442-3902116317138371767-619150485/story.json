@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779410442-3902116317138371767-619150485",
+  "duration_sec": 13.012042,
+  "hook": {
+    "start": 0.0,
+    "end": 2.353,
+    "description": "Cold open on two stop-motion figures (a suited man and a woman in a brown sweater) sitting deadpan side-by-side on ICU waiting-room chairs, both scrolling phones, while the man delivers the flat opener 'I think social media ruined us,' answered by a single unemotional 'Yeah.' The absurd mismatch between the somber ICU signage/setting and the two characters' bored, phone-absorbed body language is visible immediately in frame.",
+    "why_it_works": "The line is a broad, relatable generalization delivered totally deadpan against a visually loaded backdrop (ICU doors, a nurse, a vending machine) that the dialogue never acknowledges, creating instant incongruity that promises a punchline about that mismatch within seconds."
+  },
+  "setup": {
+    "start": 3.054,
+    "end": 4.855,
+    "description": "The woman continues the thought with 'We can't even be sad normally anymore,' still staring at her phone, escalating the generalization from social media in the abstract to their own inability to feel/process emotion without it.",
+    "start_note": "Setup and hook are back-to-back beats of the same two-line escalating bit rather than distinct scenes."
+  },
+  "conflict": {
+    "start": 5.576,
+    "end": 6.857,
+    "description": "The man punches back with the twist premise: 'Now it has to match a song' -- while holding up his phone screen (visible in scene-2 keyframe showing a social post/photo) as if to illustrate the point, revealing the specific absurdity being mocked: performative grief set to a soundtrack for social media rather than the setting (ICU) implying real grief."
+  },
+  "punchline": {
+    "start": 5.576,
+    "end": 6.857,
+    "description": "The punchline is fused with the conflict line itself -- 'Now it has to match a song' is both the escalation and the joke's payoff, landing on the word 'song' with the man's crooked, knowing half-smile and raised phone as the visual punctuation, given they are apparently at an ICU (implying someone they know may be dying) yet reducing grief to needing the right soundtrack."
+  },
+  "ending": {
+    "start": 7.804,
+    "end": 13.012042,
+    "description": "Dialogue ends around 6.9s; the remaining ~6s holds on the characters' static, unimpressed expressions in silence (per the long pause 6.96-7.80s and 8.99-10.04s and 10.98-12.91s in silence_pauses.json) before the scene fades into the show's branded outro card.",
+    "cta_or_text_overlay": "Title card reads 'LOW BATTERY PEOPLE / CREATED BY NIN.' over a close-up of the woman's face, then cuts to a black screen with the same title plus a yellow tape-style badge reading 'NEW EPISODE DAILY' as the series CTA."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.353, "beat_type": "hook", "description": "Two deadpan characters on ICU waiting-room chairs, phones in hand; man says 'I think social media ruined us,' woman replies 'Yeah.'"},
+    {"start": 2.353, "end": 3.054, "beat_type": "setup", "description": "Brief silent beat (pause 2.37-3.07s) as the woman keeps scrolling before continuing the thought."},
+    {"start": 3.054, "end": 4.855, "beat_type": "setup", "description": "Woman: 'We can't even be sad normally anymore,' escalating the premise while still staring at her phone."},
+    {"start": 4.855, "end": 5.576, "beat_type": "conflict", "description": "Silent beat (pause 4.90-5.55s) before the man's rebuttal/punchline line, building anticipation."},
+    {"start": 5.576, "end": 6.857, "beat_type": "punchline", "description": "Man: 'Now it has to match a song,' holding up his phone screen showing a social post -- the joke's payoff on performative grief-for-content."},
+    {"start": 6.857, "end": 13.012042, "beat_type": "ending", "description": "Dialogue stops; characters hold blank stares in silence over several seconds, then the frame transitions to the 'LOW BATTERY PEOPLE / CREATED BY NIN.' title card and finally a black 'NEW EPISODE DAILY' branding card to close out the episode."}
+  ],
+  "narrative_notes": "This is an extremely compressed 4-line, ~13-second gag rather than a full 20-25s reel: hook and setup are really one continuous escalating deadpan exchange, and conflict and punchline are fully fused into the single line 'Now it has to match a song' delivered with the phone-reveal gesture -- there is no separate twist beat after it. The comedic engine is entirely dialogue/expression-driven (flat delivery, judgmental sideways glances, ICU setting never explained or referenced) with almost no plot movement; roughly half the total runtime (6.9s-13s) is silent held reaction shots plus branded outro cards, not story content, which is typical of this show's format (recognizable recurring 'Low Battery People' series with daily-episode branding)."
+}
