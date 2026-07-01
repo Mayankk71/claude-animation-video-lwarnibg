@@ -1,0 +1,346 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "duration_sec": 13.524042,
+  "story": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "duration_sec": 13.524042,
+    "hook": {
+      "start": 0.191,
+      "end": 1.594,
+      "description": "Cold open, no title card first: a stop-motion wife (folding laundry, tired eyes) and husband (suit, glasses, guilty deadpan) sit side by side on a couch. She asks 'What's wrong?' and he flatly replies 'Nothing.' The big 'NOTHING' text overlay stamps across the frame the instant he says it, along with an 'Episode 16' series label in the corner.",
+      "why_it_works": "Opens mid-conversation with zero context, so the viewer is dropped straight into marital tension already in progress. The deadpan 'Nothing' plus oversized on-screen text creates instant dramatic irony -- we can already tell it's not nothing -- which baits viewers to keep watching to find out what he's hiding."
+    },
+    "setup": {
+      "start": 2.255,
+      "end": 6.624,
+      "description": "Wife escalates in one breath: 'His nothing has three floors, a full staff, and a file with my name on it.' The line reframes 'nothing' as something absurdly large and ominous (a building, staff, a file on her), establishing the joke's premise -- his 'nothing' is clearly a huge, suspicious secret -- while both characters keep still, deadpan expressions on the couch."
+    },
+    "conflict": {
+      "start": 7.165,
+      "end": 9.5,
+      "description": "She presses him directly: 'Tell me what's wrong, because what I'm imagining is always worse than what you're hiding,' voicing the classic tension between her spiraling imagination and his silence. This is the emotional crux of the skit -- her anxious need for disclosure versus his refusal to explain."
+    },
+    "punchline": {
+      "start": 9.5,
+      "end": 11.8,
+      "description": "As she finishes 'than what you're hiding,' the husband's face shifts into a faint, self-satisfied smirk (visible in the closing seconds of scene 2) rather than any reassurance or denial -- his silent smugness is the punchline, implying her worst fears are justified and he knows it, delivered purely through the stop-motion facial animation with no additional dialogue."
+    },
+    "ending": {
+      "start": 11.8,
+      "end": 13.524042,
+      "description": "Cut to a black end card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a torn-paper 'NEW EPISODE DAILY' badge stamped below it, closing out the episode.",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE -- Created by Nin. / NEW EPISODE DAILY badge"
+    },
+    "beat_map": [
+      {
+        "start": 0.0,
+        "end": 1.594,
+        "beat_type": "hook",
+        "description": "Wife asks 'What's wrong?'; husband deadpans 'Nothing' as bold 'NOTHING' text overlay and 'Episode 16' label stamp the frame."
+      },
+      {
+        "start": 1.594,
+        "end": 2.255,
+        "beat_type": "hook",
+        "description": "Beat of silence/held expressions bridging the deadpan answer into her rebuttal."
+      },
+      {
+        "start": 2.255,
+        "end": 6.624,
+        "beat_type": "setup",
+        "description": "Wife lists absurd escalating evidence that his 'nothing' is actually something huge and suspicious: 'three floors, a full staff, and a file with my name on it.'"
+      },
+      {
+        "start": 6.624,
+        "end": 7.165,
+        "beat_type": "setup",
+        "description": "Brief pause before she presses further."
+      },
+      {
+        "start": 7.165,
+        "end": 9.5,
+        "beat_type": "conflict",
+        "description": "She begs him to just tell her what's wrong, revealing her anxious imagination is 'always worse' than the truth -- the core tension of the scene."
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "beat_type": "punchline",
+        "description": "No verbal reply; husband's expression settles into a smug, knowing smirk, silently confirming he is indeed hiding something -- the joke lands on his face, not a line."
+      },
+      {
+        "start": 11.8,
+        "end": 13.524042,
+        "beat_type": "ending",
+        "description": "Black end card: 'LOW BATTERY PEOPLE, Created by Nin.' with 'NEW EPISODE DAILY' badge."
+      }
+    ],
+    "narrative_notes": "At only ~13.5s of actual scene content (plus a ~1.7s end card), this reel compresses hook and setup almost into a single breath: the 'Nothing'/big-text beat IS the hook, and it flows directly into the wife's one uninterrupted escalating monologue that serves as both setup and conflict, split here only because the transcript contains a clear turn (evidence-listing vs. direct plea). There is no spoken punchline line -- the punchline is entirely visual/silent, carried by the husband's smirk in the final seconds of dialogue (no corresponding transcript segment exists for it, confirmed via keyframes periodic-10/11 showing his growing smile as she finishes speaking). The couple's dialogue is presented as a serialized sitcom snippet ('Episode 16'), and the true franchise hook is arguably the recurring format itself (deadpan spouse hiding something) rather than a self-contained twist unique to this clip."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "total_lines": 4,
+    "avg_words_per_line": 8.5,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.191,
+        "end": 0.692,
+        "text": "What's wrong?",
+        "word_count": 2,
+        "pause_before_sec": 0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.253,
+        "end": 1.594,
+        "text": "Nothing.",
+        "word_count": 1,
+        "pause_before_sec": 0.512938,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.255,
+        "end": 6.624,
+        "text": "His nothing has three floors, a full staff, and a file with my name on it.",
+        "word_count": 16,
+        "pause_before_sec": 0.679438,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 7.165,
+        "end": 11.473,
+        "text": "Tell me what's wrong, because what I'm imagining is always worse than what you're hiding.",
+        "word_count": 15,
+        "pause_before_sec": 0.576187,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "Only one diarized speaker label (SPEAKER_00) is present across all 4 lines despite the exchange reading as a two-person call-and-response ('What's wrong?' / 'Nothing.' / rebuttal / re-ask) -- diarization likely failed to separate the two voices, so speaker attribution here should not be trusted as ground truth even though it is reproduced as given in transcript.json. Structurally the dialogue is a tight 4-beat volley: short question, short deflection, an escalating punchline rebuttal, then a restated, more vulnerable version of the opening question -- a call-back structure that bookends the clip with 'wrong' (lines 1 and 4) while the middle two lines carry the comedic/emotional payload.",
+    "speech_rhythm_notes": "Word count balloons sharply from the clipped 2-word and 1-word opening exchange (lines 1-2) to two long 15-16 word lines (3-4), producing a staccato-then-runaway pacing shape. The largest inter-line pause in the clip (0.679s, before line 3) directly precedes the longest and most information-dense line ('three floors, a full staff, and a file with my name on it'), functioning as a comedic beat/setup pause before the punchline lands. Within line 3 there are two brief internal micro-pauses (0.25s each, at ~4.0s and ~5.0s) that fall mid-sentence at the clause breaks ('three floors, / a full staff, / and a file'), giving the punchline a listing cadence. Within line 4 there are two more internal pauses (0.50s at ~8.0s and 0.23s at ~9.6s), slowing the closing line down as it shifts from accusation back to vulnerability. The single longest pause in the whole clip (1.439s, from 11.98-13.42s) occurs after the final line ends rather than before any spoken line, functioning as a trailing hang/reaction beat rather than a mid-dialogue interruption point."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.191,
+        "end": 1.594,
+        "mechanism": "deadpan",
+        "description": "Wife asks 'What's wrong?' and husband flatly answers 'Nothing' with his mouth barely moving and his default droopy, half-lidded 'low battery' expression never shifting.",
+        "why_it_lands": "The scene-0 keyframe shows both characters wearing the same sagging eyelids and flat mouth line before either line is even spoken, so the deadpan delivery of 'Nothing' just confirms a face that was already lying \u2014 the mismatch between exhausted expression and denial is set up visually before the dialogue starts."
+      },
+      {
+        "start": 1.594,
+        "end": 2.255,
+        "mechanism": "awkward_silence",
+        "description": "A 0.68s gap (the longest pause yet, per silence_pauses.json: 1.609-2.289s) sits between his dismissive 'Nothing' and her rebuttal, letting the flat denial hang in the room.",
+        "why_it_lands": "At this point in a 13-second short, a 0.68s dead pocket is proportionally huge \u2014 nearly 5% of the whole runtime spent just sitting in the unconvincing silence after 'Nothing,' which primes the audience to expect she won't let it go."
+      },
+      {
+        "start": 2.255,
+        "end": 6.624,
+        "mechanism": "escalation",
+        "description": "She rebuts 'Nothing' with a rapid three-part list that keeps scaling up in absurd specificity: 'three floors, a full staff, and a file with my name on it' \u2014 turning an abstract feeling into a literal corporate bureaucracy.",
+        "why_it_lands": "Each item in the list is more institutionally bizarre than the last (floors -> staff -> a literal file with her name on it), and it's delivered in one unbroken 4.4-second breath with no pause between clauses, so the joke's engine is the list itself accelerating past the size of an actual withheld feeling."
+      },
+      {
+        "start": 6.933,
+        "end": 11.473,
+        "mechanism": "recognition",
+        "description": "She pivots from the exaggerated bit to the plain, universal relationship truth: 'what I'm imagining is always worse than what you're hiding,' a real dynamic of anxious-partner mind-reading.",
+        "why_it_lands": "The line lands specifically because it follows the absurd 'three floors' image \u2014 the tonal drop from cartoon hyperbole to a flatly true statement about anxiety is what makes viewers in relationships wince/nod, especially since her raised eyebrows and open mouth in periodic-11 show she means it sincerely, not as another exaggeration."
+      },
+      {
+        "start": 6.575,
+        "end": 8.472,
+        "mechanism": "irony",
+        "description": "Throughout her entire escalating, mildly panicked monologue, the husband's face keeps its same faint closed-mouth smile and sleepy eyes seen in scene-2/periodic-9 \u2014 he looks amused or unbothered while being accused of hiding something serious.",
+        "why_it_lands": "His static half-smile directly contradicts the stakes of what she's describing (a hidden 'file with her name on it'), and the camera keeps cutting back to his unchanged face during her build-up, making his calm the visual punchline underneath her verbal one."
+      },
+      {
+        "start": 11.8,
+        "end": 13.433,
+        "mechanism": "awkward_silence",
+        "description": "The video ends on the longest pause in the whole piece (1.44s, per silence_pauses.json) immediately after her closing line, with no reply from him before the card cuts to the title screen.",
+        "why_it_lands": "Cutting to black on unresolved silence rather than a punchline reply denies the audience closure exactly where a sitcom would normally insert a comeback, which is what makes the final beat read as a relatable sting rather than a wrapped-up joke."
+      }
+    ],
+    "overall_comedic_style_notes": "The whole 13.4-second piece runs on a single mismatch: two characters built with the same sagging, half-lidded 'low battery' character design (the series' visual gimmick, per keyframes/scene-0.jpg and periodic-9.jpg) so that a serious emotional confrontation is staged on faces that already look permanently unbothered. The comedy comes almost entirely from the gap between her rapidly escalating verbal image (a bureaucratic 'nothing' with floors and staff) and his motionless deadpan reaction, then the piece pivots in its last two lines from that exaggerated bit into a plain, quotable relationship truth, landing as a relatable gut-punch rather than a joke with a button. There is no reaction shot or reply after the final line \u2014 the cut to black on the 1.44s trailing pause is the series' signature way of ending on discomfort instead of resolution."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "characters": [
+      {
+        "name_or_role": "wife (woman on the couch, folding laundry)",
+        "personality_traits": [
+          "suspicious / interrogating \u2014 opens with a direct challenge ('What's wrong?') and refuses to accept the brush-off",
+          "articulate and sharp-tongued \u2014 escalates from a simple question to an elaborate, specific accusation ('three floors, a full staff, and a file with my name on it')",
+          "emotionally guarded but seething underneath \u2014 keeps her hands busy folding a small white garment throughout rather than confronting him physically",
+          "self-aware about her own anxiety \u2014 explicitly names her imagination as the source of her distress ('what I'm imagining is always worse than what you're hiding')"
+        ],
+        "emotional_range": [
+          "flat/weary suspicion at the open",
+          "clipped irritation on hearing the one-word denial",
+          "rising, barely-contained accusatory frustration through the 'three floors' line",
+          "pleading exasperation by the final line, eyes closing briefly as if steadying herself"
+        ],
+        "expressions": [
+          "neutral, heavy-lidded, faintly tired eyes at 0:00 while asking 'What's wrong?'",
+          "eyes narrow further, mouth flattens at 0:01 on hearing 'Nothing'",
+          "brows draw in, mouth opens mid-sentence (visible at 'his', 'file', 'is') during the accusatory buildup 0:02-0:07",
+          "eyes fully close for a beat on 'always' (~0:09) as if exhaling in frustration",
+          "eyes reopen, mouth ajar again on 'you're' as she finishes the plea"
+        ],
+        "gestures": [
+          "holds a small folded white garment (baby clothes) in her lap the entire scene, hands never stop moving over it \u2014 a nervous/displacement gesture",
+          "stays facing forward toward camera rather than turning to look at him, only her eyes cut sideways",
+          "no large body movement \u2014 stillness contrasts with the intensity of her words"
+        ],
+        "interactions_notes": "The two sit side by side on a couch, both facing forward/out toward camera rather than toward each other, which flattens direct eye contact almost entirely \u2014 she only glances toward him with her eyes, never fully turning her head. This staging visually reinforces the emotional distance between them despite physical proximity. She holds conversational control: she asks, he deflects with a single word, and she is the one who drives the scene forward with the longer, more emotionally revealing speech, indicating she is the more anxious/invested party while he is withholding. The power dynamic reads as her seeking honesty and him stonewalling."
+      },
+      {
+        "name_or_role": "husband (man in suit and tie, seated beside her)",
+        "personality_traits": [
+          "evasive/secretive \u2014 answers a real question with the flattest possible denial ('Nothing')",
+          "outwardly composed and pleasant \u2014 maintains a faint, closed-mouth smile through nearly the entire scene even while being confronted, suggesting practiced deflection or guilt masked as calm",
+          "passive in the scene \u2014 takes no action, offers no rebuttal to her escalating accusation on screen; the joke is built entirely around his unbothered demeanor"
+        ],
+        "emotional_range": [
+          "mild, unreadable calm at the open",
+          "a slight downturn/flattening of the mouth at the exact moment of his line 'Nothing', suggesting a flicker of discomfort under the surface",
+          "returns to a faint, closed-mouth smile for the remainder of the scene as she builds her case against him"
+        ],
+        "expressions": [
+          "faint closed-mouth smile, eyes slightly downcast/hooded at 0:00",
+          "brief flattening of mouth at 0:01 delivering 'Nothing'",
+          "smile returns and holds steady from roughly 0:03 through the end of her speech, largely unchanged even as her accusations grow more specific",
+          "eyebrows stay level throughout \u2014 no visible surprise, defensiveness, or guilt registers on his face"
+        ],
+        "gestures": [
+          "hands not visible/kept out of frame or resting low, arms mostly still",
+          "sits upright, squared to the camera, glasses catching the light \u2014 a formal, buttoned-up posture (suit and tie) that contrasts with her casual sweater and domestic laundry-folding",
+          "makes no gesture toward her at all during her extended accusation \u2014 total stillness"
+        ],
+        "interactions_notes": "He never turns to face her directly; like her, he stares forward, which combined with his unchanging faint smile makes him seem detached from the confrontation even as it intensifies beside him. His single-word answer ('Nothing') versus her multi-clause accusatory monologue creates a stark imbalance in verbal engagement \u2014 she is doing all the emotional labor of the conversation while he offers minimal, closed-off responses. The formal suit vs. her cozy sweater, and his office/city skyline visible behind him vs. her domestic props (lamp, family photos, folded laundry) on her side of the frame, visually code him as belonging to an outside 'work' world she is shut out of \u2014 literally dramatized by her line about his 'nothing' having three floors and a staff."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 4.1,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Locked-off two-shot of the couple seated side by side on the sofa; wife on left holding folded laundry, husband on right in suit and glasses. Both figures sit roughly at lower-third height with generous headroom above, leaving the top third of frame for the practical lamp, framed photos, and lit-up night skyline through the window behind them. Symmetrical, evenly lit composition with no camera movement, letting the flat, deadpan line delivery ('What's wrong?' / 'Nothing.') play out in a static tableau."
+      },
+      {
+        "start": 4.1,
+        "end": 6.933333,
+        "shot_type": "close-up",
+        "camera_movement": "zoom_in",
+        "composition_notes": "Cuts in tight on the wife's face in near-profile, pushing progressively closer across the shot (periodic frames show her filling more of the frame as the line goes on). She is placed left-of-center per rule of thirds, with her nose/profile leading into negative space on the right where the husband would be, though he is now cropped out entirely. Background (lamp, side table, framed photo, sofa arm) falls into soft focus, isolating her exasperated expression as she delivers the punchline line about 'three floors, a full staff, and a file with my name on it.'"
+      },
+      {
+        "start": 6.933333,
+        "end": 11.8,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Returns to the same locked-off two-shot framing as the opening (identical composition, same headroom and background elements), reinforcing a matched 'return to master shot' pattern. Husband's small smug smile becomes visible now that the shot is wide enough to include his full face and posture; wife's eyes narrow toward him mid-frame-left. No camera movement; the cut itself (not motion) is doing the work of returning attention to the two-shot dynamic."
+      },
+      {
+        "start": 11.8,
+        "end": 13.433333,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Black title card, not a live camera shot: centered serif title 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' with a small tilted yellow 'NEW EPISODE DAILY' tag graphic below, all centered in the lower-middle of frame against pure black. No movement, no set elements."
+      }
+    ],
+    "framing_patterns_notes": "The shot grammar is a simple three-beat pattern repeated within this single video: static wide two-shot (setup) -> hard cut to a push-in close-up on one character's face for the punchline/reveal line -> hard cut back to the identical static wide two-shot to land the reaction/tag line. The wide two-shot framing is pixel-for-pixel consistent between scene 0 and scene 2 (same couch position, same lamp and window backdrop, same headroom), suggesting a fixed 'master shot' the edit always returns to rather than any reframing or re-composition. The only camera movement in the whole piece is the slow push-in during the close-up beat, which is reserved specifically for the line that delivers the joke's escalation ('three floors, a full staff, and a file with my name on it'), tying movement directly to the comedic peak rather than being present elsewhere."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "technique": "3D CG animation with a stop-motion/claymation *pastiche* look (felted-wool skin and sweater texture, painted-clay eyes, exaggeratedly long noses like a Laika-style puppet) rather than true physical stop-motion. Evidence against literal puppet photography: the push-in from the wide two-shot (periodic-4) to the tight low-angle close-up on the woman (periodic-5/6) happens with a perfectly smooth, continuously interpolated camera move and no re-lit/re-shot discontinuity in the felt-fiber texture or grain, which is very hard to achieve with a real armature rig and practical lighting; eyelid and mouth shapes also interpolate smoothly frame to frame rather than jumping between discrete sculpted mouth-replacement pieces. Flagging genuine uncertainty: the fiber/felt shading is convincing enough that a practical-puppet origin composited/stabilized in post cannot be fully ruled out from stills alone.",
+    "facial_animation_notes": "Both characters hold near-static, deadpan expressions through most of the sampled frames, with dialogue conveyed mainly through small mouth-shape changes (periodic-2 closed neutral mouth to periodic-3/4 open 'ah' shape on the woman) rather than full visemes; the man's mouth stays a flat closed frown line across nearly all frames while only his eyes and brows animate, giving a purposely inexpressive 'low battery' comic affect. The woman's face shows more range: brow/eye narrowing and mouth-opening between periodic-0 through periodic-4, then a completely different, warmer open-eyed/faint-smile look in periodic-9 through periodic-11, suggesting a distinct animated beat (a reaction or 'imagining' cutaway per the on-screen caption) rather than continuous holds.",
+    "eye_and_blink_notes": "A clear full blink cycle is visible on the man across periodic-8 (eyes open, pupils visible) to periodic-9/10 (eyelids fully closed, no pupils, lids rendered as smooth closed almost-white shapes) and back open by periodic-11 - this reads as a smoothly tweened blink rather than a sudden replacement-eyelid snap, supporting rigged/interpolated animation. The woman's eyes are heavy-lidded and half-closed as a default resting expression (periodic-0 through periodic-4), then open noticeably wider with raised upper lids in periodic-9/10/11, marking an emotional shift. Pupils are small solid dots that shift position slightly (e.g., periodic-6 vs periodic-7) to redirect gaze between characters and camera.",
+    "head_movement_notes": "Head movement is subtle and naturalistic rather than stepped: the woman's head tilts and rotates a few degrees between periodic-6 and periodic-7 (looking further off-camera-left as dialogue continues), and the close-up (periodic-5/6) shows a slight downward/forward lean of her head consistent with a listening posture. No visible frame-hold jitter or micro-vibration typical of a physically handled puppet is evident in these stills; the head-to-shoulder silhouette stays clean and steady across adjacent frames within the same shot.",
+    "gesture_notes": "The woman's hands remain engaged in a repeated idle-business gesture: folding/holding a small white baby garment or towel in her lap, with finger positions shifting slightly frame to frame (compare periodic-1's more bunched fabric grip to periodic-8's flatter, more spread fold), implying a slow continuous folding animation used as a background action during dialogue. The man's arms/hands are out of frame in every sampled shot; his only visible motion is facial/head, reinforcing the deliberate contrast between her active fidgeting and his stony stillness.",
+    "idle_motion_notes": "Between speaking beats, both puppets settle into long static holds - the man in particular keeps an almost identical head angle, closed-frown mouth, and hand-off-frame pose across periodic-0, periodic-3, periodic-4, periodic-7, and periodic-8, changing only eye direction/openness - consistent with animating on twos or holding a pose for multiple caption words at a time. Background elements (lit lamp, window city lights, framed photos, mug) are static across all frames, so all perceived motion is confined to the two puppets.",
+    "frame_rate_feel": "Source is a smooth 30fps file (per metadata.json), but the character performance itself feels animated on a slower cadence layered underneath: individual poses (e.g., the man's blink, the woman's mouth shape) persist across multiple consecutive periodic samples with only incremental change, giving a held-pose/'animated on doubles or slower' feel typical of stylized stop-motion-look pieces, even though the camera moves (the push-in to the close-up) are rendered perfectly fluid with no stepping or strobing - a mix that reads as smooth 3D camera work over deliberately economical/held character animation.",
+    "overall_animation_style_notes": "Visual signature is a 'felted puppet' CG look: fuzzy fiber-shaded skin and sweater material, exaggerated long conical noses, small dot pupils on flat white sclera, and a warm sitcom-living-room set (lamp, curtains, framed photos, night-lit city skyline through the window) that reads as a deliberately old-fashioned, cozy '60s-70s throwback aesthetic. Large bold serif/script title-card typography ('LOW BATTERY PEOPLE', 'Episode 16') and giant bold word call-outs ('NOTHING') dropped over the live-action-style captions (word-by-word karaoke captions like 'his', 'has', 'a', 'and', 'tell', 'because', 'imagining', 'always', 'you're') are composited directly over the animated footage, indicating a fast-turnaround short-form production pipeline where a limited-motion rigged CG puppet performance is dressed up with stop-motion-style texturing and heavy post-production text/caption graphics for social distribution."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "cut_count": 3,
+    "avg_shot_length_sec": 3.38,
+    "cuts": [
+      {
+        "timestamp": 4.1,
+        "transition_type": "jump_cut",
+        "reason": "Cuts from the wide two-shot into a tight close-up on the wife's face right as she delivers the exaggerated punchline about his 'nothing' having three floors and a full staff, isolating her deadpan delivery for comedic emphasis."
+      },
+      {
+        "timestamp": 6.933333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts back out to the wide two-shot as the husband's line begins ('Tell me what's wrong...'), re-establishing both characters together so his reaction and dialogue play against her in-frame."
+      },
+      {
+        "timestamp": 11.8,
+        "transition_type": "hard_cut",
+        "reason": "Hard cut from the live scene straight to the black title/CTA card ('Low Battery People... New Episode Daily') immediately after the husband's closing line, ending the joke on its final word and pivoting to the series branding/CTA."
+      }
+    ],
+    "reaction_shots": [
+      {
+        "start": 4.1,
+        "end": 6.933333,
+        "description": "Close-up on the wife's weary, deadpan face as she delivers the punchline about her husband's secretive 'nothing,' functioning as the comedic reaction/payoff shot rather than advancing plot."
+      }
+    ],
+    "pacing_notes": "The video uses only 3 cuts across ~13.5s, with shots ranging from a 1.6s outro card up to a 4.9s wide dialogue shot, averaging about 3.4s per shot. Pacing is deliberately slow and deadpan for a two-hander dialogue joke: it opens on a ~4.1s wide two-shot for the setup ('What's wrong?' / 'Nothing.'), punches into a ~2.8s close-up for the punchline line, returns to a longer ~4.9s wide shot to let the husband's rebuttal land and the joke breathe, then ends abruptly on a short ~1.6s black title/CTA card. There is no rapid-cut acceleration toward the punchline here; instead pacing relies on held shots and a single close-up insert for emphasis before an abrupt cut to the branding card."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "voice_delivery_notes": "Transcript implies a clipped, deadpan back-and-forth: a short question ('What's wrong?'), a flat one-word denial ('Nothing.'), then two much longer, escalating lines that read as a building monologue. The jump from 1-2 word lines to 15-16 word lines suggests a delivery shift from terse/guarded to rapid, exasperated venting \u2014 inferred from phrasing and line-length only, not heard directly. The line 'His nothing has three floors, a full staff, and a file with my name on it' is structured as a punchline (list building to an escalating final beat), implying a wry, sarcastic emphasis on 'file with my name on it.' The closing line ('what I'm imagining is always worse than what you're hiding') reads as a sincere, slightly pleading capper rather than another joke, implying a softer tone shift at the end.",
+    "pitch_energy_notes": "No audio was heard directly; energy is inferred from transcript pacing and pause data. The single-word 'Nothing.' preceded and followed by pauses of ~0.5-0.7s suggests a flat, low-energy, guarded delivery. The long clause-heavy lines starting at 2.255s and 7.165s (16 and 15 words respectively, delivered with only brief internal micro-pauses around 0.25s) imply faster, higher-energy speech relative to the opening exchange, consistent with a comedic escalation in tone. No pitch data is available; any pitch claim beyond this pacing-based inference cannot be made.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No music cues are evident in the transcript or silence data; no on-screen text or caption indicating a music track was found, so presence is not claimed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "Per silence_pauses.json, the longest pause in the clip is 1.439s (11.981s-13.420s), landing right after the final line ends ('...worse than what you're hiding'), functioning as a hold for the audience to sit with the punchline/closing beat before the clip ends. The next-longest pauses are 0.679s (1.609s-2.289s), right before the 'His nothing has three floors...' escalation line, and 0.576s (6.576s-7.152s), just before the closing 'Tell me what's wrong...' line \u2014 both suggesting brief beats used to set up each of the two long comedic/emotional lines. A shorter 0.513s pause (0.706s-1.219s) sits between 'What's wrong?' and 'Nothing.', giving the one-word denial a beat of its own. The remaining pauses (0.21-0.26s) are minor breaths between clauses within the longer lines and don't appear to carry deliberate comedic weight."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+    "backgrounds": "A single set used for the entire episode: a cozy stop-motion apartment living room at night. Two felt/clay-textured puppet characters sit side by side on a brown couch facing forward (talk-show-style, facing camera rather than each other). Behind them is a floor-to-ceiling window showing a blurred nighttime city skyline with lit windows in high-rise buildings, flanked by sheer curtains. To the left is a side table with a lamp, and a beige door/wall with small framed photos. The rest of the room recedes into a soft-focus background suggesting a dining area and additional furniture. The only non-living-room shots are plain black title/end cards with text (intro card and 'Episode 16' / 'NOTHING' caption overlays).",
+    "props": [
+      "Brown fabric couch with a plaid (tan/brown check) throw pillow",
+      "Wooden side table",
+      "Traditional lamp with a warm-lit bell-shaped fabric shade",
+      "Small framed photographs on the side table and on the wall",
+      "A dark mug and a white ceramic mug on the side table",
+      "An old boxy television set (retro CRT-style) visible in the background",
+      "A copper/bronze vase-shaped decorative object on a further table",
+      "Sheer window curtains",
+      "City skyline visible through the window (lit apartment/office windows)",
+      "A folded white baby onesie/garment the woman holds and folds in her lap throughout the scene",
+      "Woman's pearl stud earrings and a ring",
+      "Man's round black-framed glasses and dark suit with tie"
+    ],
+    "lighting_notes": "Warm, soft interior lighting dominated by the practical lamp on the side table, contrasted with cool blue-toned light from the night skyline through the window behind the characters. This warm-foreground/cool-background split gives the shot depth and a moody, intimate sitcom-living-room feel. Lighting stays constant across the whole episode (single continuous scene, no time-of-day change).",
+    "color_palette": [
+      "warm caramel/brown (couch, woman's sweater, wood furniture)",
+      "cool navy/blue-gray (night sky and city skyline background)",
+      "warm amber/yellow (lamp glow, title card text)",
+      "black (man's suit, title card background)",
+      "cream/beige (walls, curtains, door)",
+      "flesh tone with visible felted texture (character skin)"
+    ],
+    "visual_complexity_notes": "The set is a single, moderately detailed but static living-room backdrop with soft background blur (shallow depth of field) that keeps almost all visual complexity out of focus except the two characters in the foreground. This is a deliberate choice typical of the format: one recurring set reused across episodes, characters seated in fixed talk-show-style blocking, minimal camera/set variation, so all comedic and expressive weight falls on the puppets' exaggerated faces and line delivery rather than on environment or scene changes."
+  }
+}

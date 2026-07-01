@@ -1,0 +1,58 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "characters": [
+    {
+      "name_or_role": "wife (woman on the couch, folding laundry)",
+      "personality_traits": [
+        "suspicious / interrogating — opens with a direct challenge ('What's wrong?') and refuses to accept the brush-off",
+        "articulate and sharp-tongued — escalates from a simple question to an elaborate, specific accusation ('three floors, a full staff, and a file with my name on it')",
+        "emotionally guarded but seething underneath — keeps her hands busy folding a small white garment throughout rather than confronting him physically",
+        "self-aware about her own anxiety — explicitly names her imagination as the source of her distress ('what I'm imagining is always worse than what you're hiding')"
+      ],
+      "emotional_range": [
+        "flat/weary suspicion at the open",
+        "clipped irritation on hearing the one-word denial",
+        "rising, barely-contained accusatory frustration through the 'three floors' line",
+        "pleading exasperation by the final line, eyes closing briefly as if steadying herself"
+      ],
+      "expressions": [
+        "neutral, heavy-lidded, faintly tired eyes at 0:00 while asking 'What's wrong?'",
+        "eyes narrow further, mouth flattens at 0:01 on hearing 'Nothing'",
+        "brows draw in, mouth opens mid-sentence (visible at 'his', 'file', 'is') during the accusatory buildup 0:02-0:07",
+        "eyes fully close for a beat on 'always' (~0:09) as if exhaling in frustration",
+        "eyes reopen, mouth ajar again on 'you're' as she finishes the plea"
+      ],
+      "gestures": [
+        "holds a small folded white garment (baby clothes) in her lap the entire scene, hands never stop moving over it — a nervous/displacement gesture",
+        "stays facing forward toward camera rather than turning to look at him, only her eyes cut sideways",
+        "no large body movement — stillness contrasts with the intensity of her words"
+      ],
+      "interactions_notes": "The two sit side by side on a couch, both facing forward/out toward camera rather than toward each other, which flattens direct eye contact almost entirely — she only glances toward him with her eyes, never fully turning her head. This staging visually reinforces the emotional distance between them despite physical proximity. She holds conversational control: she asks, he deflects with a single word, and she is the one who drives the scene forward with the longer, more emotionally revealing speech, indicating she is the more anxious/invested party while he is withholding. The power dynamic reads as her seeking honesty and him stonewalling."
+    },
+    {
+      "name_or_role": "husband (man in suit and tie, seated beside her)",
+      "personality_traits": [
+        "evasive/secretive — answers a real question with the flattest possible denial ('Nothing')",
+        "outwardly composed and pleasant — maintains a faint, closed-mouth smile through nearly the entire scene even while being confronted, suggesting practiced deflection or guilt masked as calm",
+        "passive in the scene — takes no action, offers no rebuttal to her escalating accusation on screen; the joke is built entirely around his unbothered demeanor"
+      ],
+      "emotional_range": [
+        "mild, unreadable calm at the open",
+        "a slight downturn/flattening of the mouth at the exact moment of his line 'Nothing', suggesting a flicker of discomfort under the surface",
+        "returns to a faint, closed-mouth smile for the remainder of the scene as she builds her case against him"
+      ],
+      "expressions": [
+        "faint closed-mouth smile, eyes slightly downcast/hooded at 0:00",
+        "brief flattening of mouth at 0:01 delivering 'Nothing'",
+        "smile returns and holds steady from roughly 0:03 through the end of her speech, largely unchanged even as her accusations grow more specific",
+        "eyebrows stay level throughout — no visible surprise, defensiveness, or guilt registers on his face"
+      ],
+      "gestures": [
+        "hands not visible/kept out of frame or resting low, arms mostly still",
+        "sits upright, squared to the camera, glasses catching the light — a formal, buttoned-up posture (suit and tie) that contrasts with her casual sweater and domestic laundry-folding",
+        "makes no gesture toward her at all during her extended accusation — total stillness"
+      ],
+      "interactions_notes": "He never turns to face her directly; like her, he stares forward, which combined with his unchanging faint smile makes him seem detached from the confrontation even as it intensifies beside him. His single-word answer ('Nothing') versus her multi-clause accusatory monologue creates a stark imbalance in verbal engagement — she is doing all the emotional labor of the conversation while he offers minimal, closed-off responses. The formal suit vs. her cozy sweater, and his office/city skyline visible behind him vs. her domestic props (lamp, family photos, folded laundry) on her side of the frame, visually code him as belonging to an outside 'work' world she is shut out of — literally dramatized by her line about his 'nothing' having three floors and a staff."
+    }
+  ]
+}

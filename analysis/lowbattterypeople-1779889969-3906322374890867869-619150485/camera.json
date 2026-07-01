@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779889969-3906322374890867869-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off two-shot of the couple seated side by side on the sofa; wife on left holding folded laundry, husband on right in suit and glasses. Both figures sit roughly at lower-third height with generous headroom above, leaving the top third of frame for the practical lamp, framed photos, and lit-up night skyline through the window behind them. Symmetrical, evenly lit composition with no camera movement, letting the flat, deadpan line delivery ('What's wrong?' / 'Nothing.') play out in a static tableau."
+    },
+    {
+      "start": 4.1,
+      "end": 6.933333,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Cuts in tight on the wife's face in near-profile, pushing progressively closer across the shot (periodic frames show her filling more of the frame as the line goes on). She is placed left-of-center per rule of thirds, with her nose/profile leading into negative space on the right where the husband would be, though he is now cropped out entirely. Background (lamp, side table, framed photo, sofa arm) falls into soft focus, isolating her exasperated expression as she delivers the punchline line about 'three floors, a full staff, and a file with my name on it.'"
+    },
+    {
+      "start": 6.933333,
+      "end": 11.8,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Returns to the same locked-off two-shot framing as the opening (identical composition, same headroom and background elements), reinforcing a matched 'return to master shot' pattern. Husband's small smug smile becomes visible now that the shot is wide enough to include his full face and posture; wife's eyes narrow toward him mid-frame-left. No camera movement; the cut itself (not motion) is doing the work of returning attention to the two-shot dynamic."
+    },
+    {
+      "start": 11.8,
+      "end": 13.433333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Black title card, not a live camera shot: centered serif title 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' with a small tilted yellow 'NEW EPISODE DAILY' tag graphic below, all centered in the lower-middle of frame against pure black. No movement, no set elements."
+    }
+  ],
+  "framing_patterns_notes": "The shot grammar is a simple three-beat pattern repeated within this single video: static wide two-shot (setup) -> hard cut to a push-in close-up on one character's face for the punchline/reveal line -> hard cut back to the identical static wide two-shot to land the reaction/tag line. The wide two-shot framing is pixel-for-pixel consistent between scene 0 and scene 2 (same couch position, same lamp and window backdrop, same headroom), suggesting a fixed 'master shot' the edit always returns to rather than any reframing or re-composition. The only camera movement in the whole piece is the slow push-in during the close-up beat, which is reserved specifically for the line that delivers the joke's escalation ('three floors, a full staff, and a file with my name on it'), tying movement directly to the comedic peak rather than being present elsewhere."
+}
