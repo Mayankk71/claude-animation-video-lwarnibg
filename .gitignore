@@ -1,0 +1,14 @@
+# Source videos and derived media — large, regenerable, and third-party content that shouldn't be committed
+raw/*
+!raw/.gitkeep
+processed/*
+!processed/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
