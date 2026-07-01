@@ -1,0 +1,369 @@
+{
+  "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+  "duration_sec": 16.148042,
+  "story": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "duration_sec": 16.148042,
+    "hook": {
+      "start": 0.0,
+      "end": 3.3,
+      "description": "Cold open directly into the scene, no preamble: stop-motion husband (long-nosed, round glasses, black suit) already slumped on the couch watching a soccer match while his wife 'Jane' walks in from the front door carrying a stack of folded laundry and a bag of chips. An 'Episode 13 / MEN IN LOVE' title card is burned over the shot, signaling this is an ongoing sitcom-style series rather than a one-off clip.",
+      "why_it_works": "Opens mid-domestic-routine with zero setup dialogue, relying entirely on a familiar 'checked-out husband glued to the TV' visual to orient viewers in under a second; the episode/series title card doubles as a pattern-interrupt for scroll-stopping and signals series branding immediately."
+    },
+    "setup": {
+      "start": 3.3,
+      "end": 7.233,
+      "description": "Jane crosses in front of the couch with the laundry and chips while the husband stares blankly at the soccer game on TV; an on-screen 'Jane' name-tag caption appears, establishing her as a character. The domestic normalcy (chores vs. TV) is established with no dialogue yet from either character.",
+      "why_it_works": null
+    },
+    "conflict": {
+      "start": 7.233,
+      "end": 11.233,
+      "description": "The husband suddenly lunges/dives off the couch and Jane ends up collapsed flat on the floor amid scattered chip bags and cans, looking dazed. He calls out 'Jane!' and 'Hey, hey, are you okay?' while leaning directly over her -- appearing to be a caring, concerned husband checking on his collapsed wife.",
+      "why_it_works": null
+    },
+    "punchline": {
+      "start": 11.233,
+      "end": 14.8,
+      "description": "The camera reveals he was never actually looking at Jane -- his eyes are locked past her on the TV, where his team scores. He erupts with 'GOAALLL!!!', still physically straddling/pinning his collapsed wife on the floor, using her prone body as an incidental prop while he celebrates the goal. The 'concerned husband' framing from the conflict beat is recontextualized as pure obliviousness.",
+      "why_it_works": null
+    },
+    "ending": {
+      "start": 14.8,
+      "end": 16.148,
+      "description": "He glances back down at Jane and flatly repeats 'Are you okay?' -- clearly an afterthought -- as the show's actual title card 'LOW BATTERY PEOPLE / Created by NIN.' fades in over the frozen tableau, followed by a black card reading 'LOW BATTERY PEOPLE / Created by NIN.' with a 'NEW EPISODE DAILY' badge.",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE -- Created by NIN. / NEW EPISODE DAILY badge"
+    },
+    "beat_map": [
+      {
+        "start": 0.0,
+        "end": 3.3,
+        "beat_type": "hook",
+        "description": "Cold open on husband zoned out watching soccer as Jane enters with laundry and chips; 'Episode 13 / MEN IN LOVE' title overlay."
+      },
+      {
+        "start": 3.3,
+        "end": 7.233,
+        "beat_type": "setup",
+        "description": "Jane crosses past the couch carrying chores items; 'Jane' name caption appears; husband remains fixated on the TV, establishing the domestic-neglect dynamic."
+      },
+      {
+        "start": 7.233,
+        "end": 8.733,
+        "beat_type": "conflict",
+        "description": "Sudden lunge: husband ends up on the floor with Jane, who is now sprawled among scattered chips and cans; he shouts 'Jane!' as if something just went wrong."
+      },
+      {
+        "start": 8.733,
+        "end": 11.233,
+        "beat_type": "conflict",
+        "description": "He leans over her repeating 'Hey, hey, are you okay?' -- reads as tender concern for his collapsed wife."
+      },
+      {
+        "start": 11.233,
+        "end": 14.8,
+        "beat_type": "punchline",
+        "description": "Reveal: his gaze was never on Jane but on the TV behind her; a goal is scored and he screams 'GOAALLL!!!' while still on top of her, exposing the 'concern' as accidental proximity to the remote/TV, not care for her."
+      },
+      {
+        "start": 14.8,
+        "end": 16.148,
+        "beat_type": "ending",
+        "description": "Deadpan afterthought 'Are you okay?' over the frozen tableau as the series title card 'LOW BATTERY PEOPLE / Created by NIN.' and end card with 'NEW EPISODE DAILY' badge appear."
+      }
+    ],
+    "narrative_notes": "This is an ongoing stop-motion sitcom series ('Episode 13: Men in Love') rather than a standalone one-off, so the hook is unusually front-loaded with series branding (episode title card) instead of a pure attention-grab image -- the visual gag itself (husband ignoring collapsed wife for a soccer goal) is the actual hook payload once the title clears. Setup and conflict are compressed almost to the point of fusing: the transition from 'wife walks in with chores' to 'husband physically on top of collapsed wife' happens in under 2 seconds with no transitional beat, so conflict is really two half-beats (the collapse itself, then the false-concern line) rather than one continuous unit. The punchline is a misdirection-reveal gag: dialogue that reads as caring ('are you okay?') is recontextualized by the character's eyeline and the 'GOAALLL!!!' outburst as complete obliviousness -- the joke is entirely visual/timing-based, not verbal, since the line 'are you okay' is repeated almost verbatim in both the conflict and ending beats with opposite meaning each time. The video is extremely dialogue-sparse (only 3 short transcript lines across 16 seconds); most of the comedic information is carried by keyframe staging (eyeline, body position, on-screen scoreboard) rather than speech."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "total_lines": 3,
+    "avg_words_per_line": 3,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.055,
+        "end": 2.756,
+        "text": "Jane!",
+        "word_count": 1,
+        "pause_before_sec": 0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3.117,
+        "end": 4.459,
+        "text": "Hey, hey, are you okay?",
+        "word_count": 5,
+        "pause_before_sec": 0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 12.133,
+        "end": 12.914,
+        "text": "Are you okay?",
+        "word_count": 3,
+        "pause_before_sec": 0,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "Single-speaker monologue (SPEAKER_00 only) across all 3 lines; there is no second voice in the transcript, so no true back-and-forth dialogue and no interruptions are possible. The gap between line 2 (ends 4.459) and line 3 (starts 12.133) is 7.674s of dead air with no dialogue at all, far longer than any gap between lines 1 and 2 (0.361s). None of the silence_pauses.json windows land in the gap before line 1 (closest pause ends 1.915s, line 1 starts 2.055s), before line 2 (no window overlaps 2.756-3.117), or before line 3 (no window overlaps 4.459-12.133) \u2014 the one long pause window recorded (12.9195-16.0653, 3.146s) begins after line 3 has already started (12.133), placing it within/after the third line rather than before it, so pause_before_sec is 0 for all three lines per the matching rule.",
+    "speech_rhythm_notes": "Line 1 is a single-word vocative ('Jane!') fired off in under a second (0.7s), immediately chained into line 2's urgent double-'hey' question with only a 0.361s breath between them, producing a rapid two-beat opening burst. Then dialogue goes silent for 7.674s (over 8x longer than the opening beat's total span) before the near-identical 3-word line 3 ('Are you okay?') repeats the question from line 2, echoing it after the clip's longest stretch of silence \u2014 a call/no-response/repeated-call pattern rather than a punchline structure."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.0,
+        "end": 3.3,
+        "mechanism": "surprise",
+        "description": "Wife walks in through the front door, arms full of folded laundry and a bag of chips, and sees her husband sprawled motionless face-down on the living-room floor in front of the TV.",
+        "why_it_lands": "The scene is staged like a genuine emergency tableau (crumpled body on the floor, spilled cans and wrappers around him, TV still glowing) with no music cue to signal 'this is a joke,' so the opening beat plays completely straight and sets up the misdirection that the reveal depends on."
+      },
+      {
+        "start": 2.055,
+        "end": 4.459,
+        "mechanism": "recognition",
+        "description": "She drops everything, sprints over, and calls out 'Jane! Hey, hey, are you okay?' in genuine panic while shaking him.",
+        "why_it_lands": "The frantic, breathless double 'hey, hey' delivery is a specific, recognizable real-life panic reaction to finding a loved one collapsed, which is what makes the audience briefly believe he's actually hurt before the punchline reframes it."
+      },
+      {
+        "start": 4.459,
+        "end": 8.733333,
+        "mechanism": "surprise",
+        "description": "The 'unconscious' husband suddenly snaps upright over her, eyes bulging behind his glasses, and screams 'GOAALLL!!!' at the top of his lungs \u2014 he wasn't hurt, he was lying prone in ecstatic celebration of a soccer goal.",
+        "why_it_lands": "The abrupt jump from limp stillness to a full-volume scream directly into her face, timed right on the beat after her worried question, subverts the medical-emergency setup the cold open deliberately built."
+      },
+      {
+        "start": 8.733333,
+        "end": 11.233333,
+        "mechanism": "deadpan",
+        "description": "Immediately after the outburst he collapses right back down into the exact same limp, drained position, as if the celebration cost him his last ounce of energy \u2014 the 'low battery' sight gag the show is named for.",
+        "why_it_lands": "The instant crash from peak excitement back to total inertness, shown in a static wide shot with no cut, treats an emotional overload like a device running out of charge, which is the show's whole visual conceit stated wordlessly."
+      },
+      {
+        "start": 11.233333,
+        "end": 14.8,
+        "mechanism": "irony",
+        "description": "After a roughly 3.1-second silence (the longest pause in the clip, per the silence log) lying motionless together on the floor, he mutters a flat, delayed 'hey... are you okay?' back to her.",
+        "why_it_lands": "He asks the exact question she asked him moments earlier, completely inverting who the caretaker is in the scene \u2014 he caused the scare and drained himself doing it, yet he's the one checking in, and the long 3.15s pause beforehand (the single biggest silence gap in the whole clip) makes the deadpan delivery land as genuinely spent rather than sarcastic."
+      },
+      {
+        "start": 0.0,
+        "end": 14.8,
+        "mechanism": "recognition",
+        "description": "The overall bit \u2014 mistaking a partner's over-the-top reaction to something trivial (a game) for a real crisis \u2014 mirrors a very common domestic experience of sports-watching households.",
+        "why_it_lands": "Small concrete details sell the ordinariness of the setup: the chip bag and folded laundry she's carrying, the spilled soda cans and snack wrappers already on the rug, and the muted TV crowd noise \u2014 these are mundane, specific props that ground the exaggerated punchline in a recognizably real living room."
+      }
+    ],
+    "overall_comedic_style_notes": "The whole 15-second bit is a single-joke structure built entirely on staging and reveal rather than dialogue: it opens on a faux medical-emergency tableau shot with concerned, urgent camera framing, lets a genuine-sounding panicked line ('Jane! Hey, hey, are you okay?') play completely straight for several seconds, then detonates the reveal with a single loud exclamation ('GOAALLL!!!') before crashing back to silence. The title card mid-scene ('LOW BATTERY PEOPLE') literally names the mechanism \u2014 characters who go from zero to full emotional intensity and instantly back to zero, like a device with no charge regulation. The punchline-after-the-punchline (his delayed, deadpan echo of her own question) is what elevates it from a single jump-scare gag to a character beat, using the longest silence in the track (3.15s) to sell exhaustion rather than comic timing for its own sake."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "characters": [
+      {
+        "name_or_role": "husband (long-nosed man in black suit/tie)",
+        "personality_traits": [
+          "Oblivious/self-absorbed \u2014 stays glued to the TV soccer match through the whole cold open, feet up on the coffee table, ignoring his wife entering the room",
+          "Impulsive and reflex-driven \u2014 his body reacts to the goal on screen (lunging, shouting) before his mind registers what is actually happening around him",
+          "Belatedly caring \u2014 once he processes that his wife is unresponsive, he snaps into concern, repeating her name and 'are you okay?'",
+          "Comedically dense \u2014 the gap between his celebratory reaction and the seriousness of his wife's collapse is played for deadpan absurdist comedy"
+        ],
+        "emotional_range": [
+          "bored/half-checked-out contentment (slouched on couch, snacking, half-watching TV)",
+          "sudden ecstatic excitement (the goal)",
+          "manic triumphant joy (mid-celebration, sprawled on the floor)",
+          "confusion/dawning alarm (realizing his wife is on the ground beneath him)",
+          "worried concern (calling her name)"
+        ],
+        "expressions": [
+          "0:00 \u2014 slack, half-lidded eyes staring at TV, mouth open slightly, indifferent to Jane entering with laundry",
+          "0:03-0:05 \u2014 eyes bulge behind round glasses, mouth drops open as the goal happens on screen",
+          "0:05-0:08 \u2014 wide manic grin, head thrown back, eyes rolled/bulging in ecstatic celebration while shouting 'GOAAALLL!!!'",
+          "0:09 \u2014 eyebrows knit, eyes widen with sudden worry, mouth agape as he looks down and registers Jane is not moving ('hey... you... okay?')",
+          "final beat \u2014 brows raised, look of embarrassed/apologetic concern directly to camera/Jane"
+        ],
+        "gestures": [
+          "reclines on couch with legs stretched onto ottoman/rug, arm draped loosely \u2014 body language of a man settled in and checked out",
+          "lurches forward off the couch and drops to his knees on the floor at the moment of the goal",
+          "throws both arms/hands down onto the rug on either side of Jane's body mid-celebration, effectively pinning/straddling her without noticing",
+          "one hand pats/presses on her shoulder or torso as he shouts, still oriented toward the TV rather than her",
+          "head snaps down toward her face, hand moves toward her cheek/shoulder in the 'hey, are you okay' beat"
+        ],
+        "interactions_notes": "He never makes eye contact with Jane until after his celebration \u2014 his attention triangulates entirely on the television, and she enters his physical space (or he ends up on top of her) as a side effect of his goal celebration rather than an intentional acknowledgment of her. The power dynamic in the scene is that his enthusiasm/priorities (the match) physically and narratively steamroll her workload (laundry, chores) until the joke pivots and he is forced to confront her sudden collapse right in front of him."
+      },
+      {
+        "name_or_role": "Jane (wife, dark bun hairstyle, brown top and dark skirt)",
+        "personality_traits": [
+          "Weary and put-upon \u2014 enters mid-chore, arms full of folded laundry and a snack bag, suggesting she's the one managing the household while he watches TV",
+          "Wry/unimpressed \u2014 her raised eyebrow and sidelong glance at him convey silent judgment rather than confrontation",
+          "Physically depleted by the end of the clip \u2014 collapses to the floor, becoming completely limp and unresponsive, consistent with the video's 'low battery' framing (running on empty from unacknowledged effort)"
+        ],
+        "emotional_range": [
+          "mild, resigned exasperation (entering the room, glancing at him)",
+          "flat neutrality/exhaustion while walking past him",
+          "complete shutdown \u2014 eyes rolled back/unfocused, mouth slack, motionless once on the ground"
+        ],
+        "expressions": [
+          "0:00 \u2014 one eyebrow cocked, eyes narrowed slightly toward her husband as she walks past him with the laundry \u2014 a look of tired tolerance",
+          "mid-scene \u2014 face goes slack, eyes half-open and unfocused, as she ends up collapsed on the rug amid scattered snacks/laundry",
+          "0:09-0:13 \u2014 eyes glassy, unmoving, mouth open in an inert, expressionless slump while he shouts over her and then asks if she's okay"
+        ],
+        "gestures": [
+          "walks briskly through the front door balancing a stack of folded blankets/towels topped with a chip bag against her chest",
+          "no acknowledgment of the husband as she crosses behind/beside the couch",
+          "collapses supine on the rug, arms splayed, legs limp, surrounded by dropped snacks and soda cans \u2014 full-body stillness contrasts with his frantic motion on top of her"
+        ],
+        "interactions_notes": "Jane and her husband never actually converse before her collapse \u2014 she does the household labor silently while he is fixated on the screen, and their only direct physical contact comes when he inadvertently ends up sprawled over her during his goal celebration. The dynamic is asymmetric: her actions (chores) go unnoticed until her body literally shuts down, at which point he finally directs attention and words ('Jane!', 'are you okay?') toward her \u2014 the joke's structure implies her burnout was building unnoticed the whole time he was absorbed in the game."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 3.3,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Locked-off wide of the full living room set (door, sofa, TV, fireplace all in frame). Jane enters frame-left through the open door carrying folded laundry and a chip bag; the seated man is placed right-of-center on the couch, TV glowing on the far right edge of frame. Deep set with foreground rug, midground furniture, and background shelf/fireplace all in focus, giving the gag room to play out geographically before the cut."
+      },
+      {
+        "start": 3.3,
+        "end": 7.233333,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Hard cut to a low-angle wide shot from near floor level; man is now crouched over Jane, who has collapsed flat on the rug (laundry and cans scattered around her, revealing she has 'powered off'). TV and its soccer match stay visible in the right third of frame throughout, so the goal celebration on-screen reads as an ironic counterpoint to the human collapse in the foreground. Man's face and raised hand occupy the upper-left third; Jane's face is pushed into the lower-right corner, both cropped at the waist/knees by the frame bottom."
+      },
+      {
+        "start": 7.233333,
+        "end": 8.733333,
+        "shot_type": "over_shoulder",
+        "camera_movement": "static",
+        "composition_notes": "Over-the-shoulder shot from behind the man's head/glasses (dark silhouette fills the left third), looking past him at the TV, which is pushed to screen-right and given the most detail (jersey numbers, scoreboard graphic readable). Remote control sits in the extreme foreground on the media console, reinforcing the 'he's fixated on the game, not his partner' idea entirely through what's left in frame."
+      },
+      {
+        "start": 8.733333,
+        "end": 11.233333,
+        "shot_type": "close-up",
+        "camera_movement": "static",
+        "composition_notes": "Direct-on, symmetrical close-up of the man's face and upper torso, centered in frame with even headroom, background lamps softly blurred on either side for balance. No camera drift across the shot's periodic samples -- all motion is in the puppet's eyes/mouth (rapid blinking, mouth opening as if starting to speak), isolating the reaction beat with zero environmental distraction."
+      },
+      {
+        "start": 11.233333,
+        "end": 14.8,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Returns to the same low, floor-level wide composition as the earlier collapse shot (man over Jane, TV visible right third) -- title card text ('LOW BATTERY PEOPLE', 'CREATED BY NIN.', spoken line 'okay?') is overlaid centered across the lower-middle of frame without the framing itself changing, so the punch-line beat and the branding land on the identical held image."
+      },
+      {
+        "start": 14.8,
+        "end": 16.033333333333335,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Full black end card, all text (title, creator credit, 'NEW EPISODE DAILY' tape graphic) centered in the middle third of frame with generous negative space above and below -- a pure graphic/typographic beat, no live-action or puppet framing at all."
+      }
+    ],
+    "framing_patterns_notes": "The episode leans on a single repeated wide composition (low, floor-level, TV visible in the right third) bookending the joke -- it's used both for the initial collapse reveal and again for the punchline/title-card beat, so the 'formula' here is: establish wide -> cut to the sight gag wide -> punch in to an over-the-shoulder on the distraction object (TV) -> punch further into a static frontal close-up for the reaction -> cut back out to the same wide for the tag line and title card. Every shot in the episode is a static locked-off frame with no pans, tilts, or zooms; all comedic timing is carried by hard cuts between fixed compositions rather than camera movement, and the TV screen is kept visible or implied in nearly every shot as the recurring visual anchor for the 'low battery' gag."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "technique": "3D CGI rendered to mimic a felt/fabric stop-motion puppet aesthetic (visible cloth-fiber texture on skin, articulated foam-core-style long nose, sculpted eyebrows) rather than literal frame-by-frame stop-motion. Character rig moves with continuous, sub-pixel interpolation between keyframes (no true frame-holds or single-frame strobing), which points to CG puppet-rig animation on a stop-motion-styled character model, not physical clay/felt photography. Uncertain whether it is rendered on 2s/3s holds versus true 24/30fps -- the periodic frames sampled show smooth, non-stepped transitions, arguing against literal stop-motion frame-holds.",
+    "facial_animation_notes": "The husband's face (long wedge-shaped nose, round black-frame glasses) holds a single wide-open-mouth 'gasp' shape across multiple consecutive periodic frames (periodic-9, 10, 11) while only the eyes and brow shift -- mouth geometry does not appear to lip-sync to the dialogue ('you', 'GOAALLL!!!', 'okay?') in these frames, suggesting held mouth poses punctuated by eye/brow acting rather than full phoneme-driven lip sync. Eyebrows are a separate sculpted piece that raises/furrows independently of the eyes for the shocked expression.",
+    "eye_and_blink_notes": "Eyes are large, white-sclera, black-pupil pieces that visibly slide within the socket between frames (periodic-9 shows pupils angled left/down, periodic-10-11 shows them shifted more toward center) -- a classic puppet 'floating eyeball' look with no eyelid blink observed in any sampled frame; the eyes stay wide open throughout the shocked/reaction beat, reinforcing a startled expression rather than natural blinking.",
+    "head_movement_notes": "Head tilts and cranes on the neck joint independently of the torso -- in periodic-4 through periodic-7 the head is thrown back at a steep angle (chin up, nose pointed at ceiling) while the torso remains braced over the fallen wife, then partially relaxes forward by periodic-9. The neck/head pivot reads as a single articulated joint rotating smoothly rather than in discrete stepped increments.",
+    "gesture_notes": "The husband's hand is planted on the wife's torso/chest across the collapse sequence (periodic-4 through periodic-7) with almost no repositioning -- a held static gesture rather than continuously animated hand acting. The wife's arms and legs are strewn limply on the floor with fingers slightly curled, consistent with a 'ragdoll' rigged pose rather than per-frame hand-sculpted adjustments.",
+    "idle_motion_notes": "Background elements carry the ambient motion load: the TV plays a looping soccer match with a moving ball and players (visible score/graphic changes from 0-0 to 3-3 across frames), and lamps hold steady practical-light glow -- the human characters themselves show almost no idle secondary motion (no breathing sway, no cloth settle) during the held reaction poses, so 'idle' motion here is offloaded to the screen-within-screen rather than the puppets.",
+    "frame_rate_feel": "Source is 30fps per metadata.json. The sampled periodic frames show fluid, non-stepped interpolation of eye position and head angle rather than the choppy on-2s/on-3s stutter typical of true stop-motion -- motion feels smooth and video-game-cutscene-like for a beat (periodic-4 to periodic-7 look like a near-duplicate multi-frame hold on the same gasp pose), suggesting a deliberate 'held reaction beat' edited into an otherwise continuously-animated 30fps render rather than a genuine low-frame-rate capture.",
+    "overall_animation_style_notes": "Visual identity is a felt-textured stop-motion-look CG sitcom parody (long conical noses, round glasses, boxy torsos, articulated foam-like limbs) staged in a single warmly-lit, cluttered living-room set with practical lamps and a looping TV broadcast for ambient background action. Comedic staging relies on held poses and static compositions (the husband looming over the collapsed wife) rather than kinetic full-body animation, with character acting concentrated in eyes/brows/mouth rather than full-body performance, and episodic branding (title card, 'Episode 13', 'Created by Nin.', 'New Episode Daily' outro) bookending the sketch."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "cut_count": 5,
+    "avg_shot_length_sec": 2.67,
+    "cuts": [
+      {
+        "timestamp": 3.3,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the wide two-shot (wife walking in with laundry/chips, husband slumped on the couch mid-goal-celebration) straight to both characters collapsed on the floor, hard-cutting past the actual fall to land on the sight gag of him sprawled on top of her body."
+      },
+      {
+        "timestamp": 7.233333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts away from the collapsed pair right after 'Hey, hey, are you okay?' to a close-up insert of the soccer match on TV, a beat of misdirection that lets the joke (he's more distracted by the game) breathe before returning to him."
+      },
+      {
+        "timestamp": 8.733333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the TV insert to a tight close-up on the husband's shocked, frozen face -- a reaction shot that isolates his dawning realization/panic beat in silence before he speaks again."
+      },
+      {
+        "timestamp": 11.233333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts back out to the wide floor shot as he repeats 'Are you okay?', re-establishing the full sight gag (him straddling her collapsed body next to the TV) right as the title card 'LOW BATTERY PEOPLE' stamps over the scene, tying the visual punchline to the show's branding."
+      },
+      {
+        "timestamp": 14.8,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the live-action scene to a black CTA card ('Low Battery People / Created by Nin. / New Episode Daily'), the standard end-slate cut used to close on a branding beat rather than lingering on the joke."
+      }
+    ],
+    "reaction_shots": [
+      {
+        "start": 8.733333,
+        "end": 11.233333,
+        "description": "Tight close-up on the husband's face, eyes wide and mouth agape in silent shock/confusion -- a pure reaction shot with no plot action, milking his delayed realization that something is wrong with his wife."
+      }
+    ],
+    "pacing_notes": "Shots stay in a fairly tight 1.5-4s band throughout rather than accelerating sharply: the opening wide shot (3.3s) and the collapse shot (3.9s) establish the gag at a relaxed pace, then a quick 1.5s TV insert and a 2.5s silent reaction close-up tighten the rhythm through the joke's beat, before the wide shot returns for the punchline line ('Are you okay?') and lingers for 3.6s while the title card lands. The video then cuts to a single short 1.2s black end card for the CTA, ending on a flat branding beat rather than a fast final cut."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "voice_delivery_notes": "Dialogue is extremely sparse (only three short lines across the whole clip: 'Jane!', 'Hey, hey, are you okay?', 'Are you okay?'). The repeated, near-identical 'Are you okay?' line delivered twice suggests an escalating, more urgent/concerned repetition on the second ask (inferred from repetition-as-emphasis, not directly observed). The exclamation on 'Jane!' implies a sharp, attention-grabbing opening call. Both are inferences from punctuation and phrasing since the audio itself cannot be heard.",
+    "pitch_energy_notes": "No direct pitch/energy measurements are available from transcript or silence data alone. Based on the punctuation (exclamation point on 'Jane!', repeated question 'Are you okay?') it is reasonable to infer a higher-energy, urgent/concerned vocal tone at the start and again after the long pause, but this is inferred rather than directly observed \u2014 no keyframe or waveform evidence was reviewed to confirm actual pitch or loudness.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No on-screen text, captions, or other evidence in the transcript/silence data indicates background music, so presence cannot be confirmed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "Silence data shows a cluster of short pauses in the first ~2 seconds (0.0-0.77s, 0.79-1.14s, 1.15-1.91s), consistent with a beat before dialogue begins at 2.055s. A brief 0.2s pause follows the first line block around 4.4-4.6s. The longest silence in the clip is a 3.15s pause from 12.92s to 16.07s, occurring immediately after the final 'Are you okay?' line (which ends at 12.914s) \u2014 this is by far the most significant hold in the clip and likely functions as a suspended, unanswered beat (e.g., for a reveal or punchline) following the repeated question."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+    "backgrounds": "Single interior set used for the entire episode: a cozy, dimly-lit suburban living room. Key zones within the one set include an open front entry door on the left leading to a hallway, a beige upholstered sofa with a gray throw blanket and cream pillow, a wooden TV console with a flatscreen playing a soccer match, a stone/brick fireplace surround, a wooden coffee table with a snack plate, a wooden sideboard/credenza with books and a radio, and a floating wooden shelf above with decorative bottles and knickknacks. Walls are painted warm taupe/beige, decorated with small framed pictures and two glowing wall sconces plus two table lamps, giving the space a warm, lived-in, slightly retro sitcom-den feel. There is no location change or cutaway shot across the episode.",
+    "props": [
+      "Wall-mounted flatscreen TV showing a soccer/football match with scoreboard graphic",
+      "TV remote control on the console",
+      "Wooden TV console/media unit",
+      "Beige sofa with gray knit throw blanket and cream pillow",
+      "Wooden coffee table",
+      "Plate of chips/snacks on the coffee table",
+      "Mug/cup on the coffee table",
+      "Stack of folded laundry (towels/clothes) carried by the woman",
+      "Bag of chips (snack bag) held on top of the laundry stack",
+      "Stone-tiled fireplace surround",
+      "Wooden sideboard with a vintage radio, books, and small potted plant on top",
+      "Floating wood shelf with decorative glass/ceramic bottles, a small soccer-ball-patterned object, and books",
+      "Two table lamps with white shades",
+      "Wall sconce lights",
+      "Small framed photos/artwork on the walls",
+      "Blue/teal area rug under the coffee table and sofa",
+      "Open front door with visible hallway/closet beyond it",
+      "Man's round black-framed glasses (character prop)",
+      "Man's wedding ring (visible in close-up)",
+      "Woman's earrings and hair worn in a bun"
+    ],
+    "lighting_notes": "Warm, low-key, evening interior lighting dominated by practical sources (table lamps, wall sconces) that create soft golden pools of light against darker taupe walls; overall exposure is moderately dim/cozy rather than bright and flat. The TV screen provides a cooler, brighter blue-green rim light/reflection on nearby surfaces and the man's face in close-ups, contrasting with the warm lamp light elsewhere. Close-up character shots use shallow depth of field with the background lamps softly blurred (bokeh), keeping focus on facial expression.",
+    "color_palette": [
+      "warm beige/taupe (walls, sofa)",
+      "dark charcoal/black (man's suit, glasses, TV frame)",
+      "muted wood brown (furniture, doors, shelving)",
+      "dusty blue-gray (throw blanket, area rug)",
+      "soft yellow/amber (lamp glow, title card text)",
+      "single teal/turquoise accent (glass bottle on shelf, TV pitch glow)",
+      "flesh/peach tone (character skin)"
+    ],
+    "visual_complexity_notes": "The set is a single, moderately detailed but consistent living room rather than a bare minimal backdrop \u2014 it has layered set dressing (lamps, shelf knickknacks, rug, framed art) that reads as a believable lived-in home. However, the coverage strategy is simple and deliberate: wide establishing shots of the room are used sparingly, while most of the runtime is close, shallow-focus shots on the characters' exaggerated faces, which flattens the background into soft bokeh. This keeps visual complexity low moment-to-moment and directs attention to comedic facial expressions and reactions rather than the environment, even though the underlying set itself is fairly detailed."
+  }
+}

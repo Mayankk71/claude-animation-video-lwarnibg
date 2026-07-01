@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779714386-3904849473746350158-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.233333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off frontal two-shot across the diner booth table; man (dark suit, round glasses, long nose) placed left-of-center, woman (brown sweater, hair bun) right-of-center, both roughly symmetric around the bread basket at frame center. Waist-up framing with headroom above both heads; foreground table props (drinks, menus, basket, condiments) fill the bottom third and anchor the shot in a real restaurant booth. Background diner lighting/exit sign is soft-focus, keeping full attention on the two static faces."
+    },
+    {
+      "start": 4.233333,
+      "end": 10.9,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Same camera axis as the opening shot but with a slow, continuous push-in over the full scene: starts on the medium two-shot and creeps closer until it settles on a close-up of the two faces, cropping the man's phone hand and the woman's lower torso out of frame. The tightening frame isolates their reactions (his phone check, her mounting alarm) as the dialogue reveals the 'circled' detail; the man stays slightly left-of-frame and off-focus/turned away while the woman's shocked profile becomes the visual focus on the right."
+    },
+    {
+      "start": 10.9,
+      "end": 14.8,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut back out to the exact same locked-off wide two-shot framing as the opening (same booth, same symmetric placement, table props back in frame). The pull-back-to-wide on the punchline line reads as a deliberate reset after the push-in, giving the joke ('EXTREMELY') room to land with both full reactions visible rather than a tight face."
+    },
+    {
+      "start": 14.8,
+      "end": 16.366666666666667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Black title/end-card graphic (no live-action or animated framing) with centered yellow series title, white 'created by' credit, and a small ripped-tape 'NEW EPISODE DAILY' badge below — pure graphic layout, not a camera composition."
+    }
+  ],
+  "framing_patterns_notes": "The whole scene is shot from a single fixed camera axis/eyeline on the diner booth — there is no cutting to alternate angles or coverage; all variation comes from one slow push-in and a cut back to the original wide. The zoom-in is used specifically to intensify the moment the joke's setup detail is delivered (the 'circled' plan discovery), then the frame snaps back to wide exactly on the punchline beat, so camera distance is doing the comedic timing work: wide-to-tight-to-wide functions like a held breath before the laugh line. Composition throughout keeps the man screen-left and the woman screen-right with props (basket, drinks) marking a near-symmetrical midline, reinforcing them as a matched 'couple' pair."
+}

@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1779714386-3904849473746350158-619150485",
+  "duration_sec": 16.468042,
+  "hook": {
+    "start": 0.231,
+    "end": 1.432,
+    "description": "Static two-shot of a stop-motion couple (long-nosed, deadpan-faced felt characters) at a restaurant booth. Woman (SPEAKER_00) opens flatly: 'I think I'm pretty easygoing,' establishing an ironic self-assessment with zero emotional inflection.",
+    "why_it_works": "Deadpan self-praise as the very first line is a contradiction bait: the flat delivery and the characters' droopy, unimpressed expressions immediately signal to the viewer that the opposite is about to be proven, creating instant curiosity about the story that will disprove it."
+  },
+  "setup": {
+    "start": 1.932,
+    "end": 11.396,
+    "description": "She recounts, in the same monotone, that her partner sent her a pin for the restaurant along with a screenshot of the menu with his order circled and the text 'no pressure' (on-screen caption 'SENT' appears at ~0-4s scene cut, 'AND' around 4.2-10.9s scene as she continues). She punctuates the story with a flat 'Yeah.' at 11.16s, treating the absurdly controlling behavior as unremarkable."
+  },
+  "conflict": {
+    "start": 1.932,
+    "end": 11.396,
+    "description": "The 'conflict' is fully fused with the setup: the tension is the mismatch between her claimed easygoingness and the passive-aggressive, controlling detail she describes (pre-planned pin, circled order, 'no pressure' text that clearly implies pressure). There is no separate escalation beat or visual confrontation — the incongruity is carried entirely by her narration and deadpan delivery while the man silently checks his phone beside her."
+  },
+  "punchline": {
+    "start": 12.476,
+    "end": 13.897,
+    "description": "The man, still deadpan and not looking up, delivers the flat rebuttal: 'You're extremely easygoing,' with visible sarcasm underlined by his co-star's stunned, mouth-open reaction shot (scene-2 keyframe). The one-line ironic contradiction is the joke."
+  },
+  "ending": {
+    "start": 14.8,
+    "end": 16.468042,
+    "description": "Hard cut from the restaurant scene to a black title card.",
+    "cta_or_text_overlay": "Text overlay reads 'LOW BATTERY PEOPLE' (large yellow serif), 'CREATED BY NIN.' (white), and a yellow ticket-style badge reading 'NEW EPISODE DAILY' — branding the clip as part of a recurring deadpan-couple series and cueing viewers to follow for daily episodes."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.432, "beat_type": "hook", "description": "Woman states flatly 'I think I'm pretty easygoing' over a static two-shot at the restaurant booth."},
+    {"start": 1.432, "end": 11.396, "beat_type": "setup", "description": "She narrates the incident (partner's pin drop, circled menu screenshot, 'no pressure' text) that will disprove her claim; captions 'SENT' and 'AND' track her speech; she caps it with a flat 'Yeah.'"},
+    {"start": 11.396, "end": 12.476, "beat_type": "conflict", "description": "Brief silent beat/pause between her account and his reply, letting the irony of the story land before the rebuttal."},
+    {"start": 12.476, "end": 13.897, "beat_type": "punchline", "description": "Man delivers the deadpan contradiction 'You're extremely easygoing' while the woman reacts with a stunned open-mouthed expression."},
+    {"start": 13.897, "end": 14.8, "beat_type": "punchline", "description": "Beat held on the reaction shot after the line lands, no further dialogue, letting the joke breathe before the cut."},
+    {"start": 14.8, "end": 16.468042, "beat_type": "ending", "description": "Cut to black title card: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', 'NEW EPISODE DAILY' badge."}
+  ],
+  "narrative_notes": "This 16.5s reel compresses the arc into essentially two spoken beats: a deadpan claim (hook) followed immediately by a deadpan disproof (setup+conflict fused, since the incident narration IS the conflict, with no separate escalation) and a one-line ironic punchline. There is no visual action or scene change during the story itself — the entire joke is carried by static framing, flat vocal delivery, and the mismatch between words and the characters' droopy, unimpressed expressions; the only edit is the hard cut to the branded end card. Conflict is not a distinct dramatized beat but is embedded inside the setup dialogue itself, and is called out as fused here rather than forced into its own timestamp range."
+}

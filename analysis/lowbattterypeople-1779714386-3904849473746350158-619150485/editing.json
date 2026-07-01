@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1779714386-3904849473746350158-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 4.09,
+  "cuts": [
+    {
+      "timestamp": 4.233333,
+      "transition_type": "jump_cut",
+      "reason": "Reframes from the wide two-shot of both characters to a tighter push-in as the wife's deadpan reaction sets in right after 'I think I'm pretty easygoing,' letting her skeptical expression register before the punch line details arrive."
+    },
+    {
+      "timestamp": 10.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out to the wide two-shot exactly as she reacts with the flat, disbelieving 'Yeah' after hearing the pin-drop/circled-menu story, resetting the frame for the sarcastic tag line."
+    },
+    {
+      "timestamp": 14.8,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the restaurant scene straight to the black title/outro card immediately after the punchline 'You're extremely easygoing,' ending the joke on the line with no lingering reaction time."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 4.233333,
+      "end": 10.9,
+      "description": "Tighter framing on the wife's slack-jawed, skeptical face as she listens to the husband recount the overly-specific 'no pressure' text, her expression doing the comedic work while he stays absorbed in his phone."
+    }
+  ],
+  "pacing_notes": "The joke plays out almost entirely in one sustained two-shot/reaction pairing rather than rapid cutting: a 4.2s setup shot, a long 6.7s reaction-heavy shot carrying the bulk of the story beat, then a shorter 3.9s shot for the sarcastic punchline delivery, before an abrupt 1.6s hard cut to the black title card ends the video immediately on the laugh line. Pacing is driven more by held reactions and dialogue timing than by cut frequency, with the only acceleration being the final snap-cut to the outro card denying any lingering reaction time."
+}

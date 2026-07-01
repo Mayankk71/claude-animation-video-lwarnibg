@@ -1,0 +1,43 @@
+{
+  "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+  "duration_sec": 16.148042,
+  "hook": {
+    "start": 0.0,
+    "end": 3.3,
+    "description": "Cold open directly into the scene, no preamble: stop-motion husband (long-nosed, round glasses, black suit) already slumped on the couch watching a soccer match while his wife 'Jane' walks in from the front door carrying a stack of folded laundry and a bag of chips. An 'Episode 13 / MEN IN LOVE' title card is burned over the shot, signaling this is an ongoing sitcom-style series rather than a one-off clip.",
+    "why_it_works": "Opens mid-domestic-routine with zero setup dialogue, relying entirely on a familiar 'checked-out husband glued to the TV' visual to orient viewers in under a second; the episode/series title card doubles as a pattern-interrupt for scroll-stopping and signals series branding immediately."
+  },
+  "setup": {
+    "start": 3.3,
+    "end": 7.233,
+    "description": "Jane crosses in front of the couch with the laundry and chips while the husband stares blankly at the soccer game on TV; an on-screen 'Jane' name-tag caption appears, establishing her as a character. The domestic normalcy (chores vs. TV) is established with no dialogue yet from either character.",
+    "why_it_works": null
+  },
+  "conflict": {
+    "start": 7.233,
+    "end": 11.233,
+    "description": "The husband suddenly lunges/dives off the couch and Jane ends up collapsed flat on the floor amid scattered chip bags and cans, looking dazed. He calls out 'Jane!' and 'Hey, hey, are you okay?' while leaning directly over her -- appearing to be a caring, concerned husband checking on his collapsed wife.",
+    "why_it_works": null
+  },
+  "punchline": {
+    "start": 11.233,
+    "end": 14.8,
+    "description": "The camera reveals he was never actually looking at Jane -- his eyes are locked past her on the TV, where his team scores. He erupts with 'GOAALLL!!!', still physically straddling/pinning his collapsed wife on the floor, using her prone body as an incidental prop while he celebrates the goal. The 'concerned husband' framing from the conflict beat is recontextualized as pure obliviousness.",
+    "why_it_works": null
+  },
+  "ending": {
+    "start": 14.8,
+    "end": 16.148,
+    "description": "He glances back down at Jane and flatly repeats 'Are you okay?' -- clearly an afterthought -- as the show's actual title card 'LOW BATTERY PEOPLE / Created by NIN.' fades in over the frozen tableau, followed by a black card reading 'LOW BATTERY PEOPLE / Created by NIN.' with a 'NEW EPISODE DAILY' badge.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE -- Created by NIN. / NEW EPISODE DAILY badge"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 3.3, "beat_type": "hook", "description": "Cold open on husband zoned out watching soccer as Jane enters with laundry and chips; 'Episode 13 / MEN IN LOVE' title overlay."},
+    {"start": 3.3, "end": 7.233, "beat_type": "setup", "description": "Jane crosses past the couch carrying chores items; 'Jane' name caption appears; husband remains fixated on the TV, establishing the domestic-neglect dynamic."},
+    {"start": 7.233, "end": 8.733, "beat_type": "conflict", "description": "Sudden lunge: husband ends up on the floor with Jane, who is now sprawled among scattered chips and cans; he shouts 'Jane!' as if something just went wrong."},
+    {"start": 8.733, "end": 11.233, "beat_type": "conflict", "description": "He leans over her repeating 'Hey, hey, are you okay?' -- reads as tender concern for his collapsed wife."},
+    {"start": 11.233, "end": 14.8, "beat_type": "punchline", "description": "Reveal: his gaze was never on Jane but on the TV behind her; a goal is scored and he screams 'GOAALLL!!!' while still on top of her, exposing the 'concern' as accidental proximity to the remote/TV, not care for her."},
+    {"start": 14.8, "end": 16.148, "beat_type": "ending", "description": "Deadpan afterthought 'Are you okay?' over the frozen tableau as the series title card 'LOW BATTERY PEOPLE / Created by NIN.' and end card with 'NEW EPISODE DAILY' badge appear."}
+  ],
+  "narrative_notes": "This is an ongoing stop-motion sitcom series ('Episode 13: Men in Love') rather than a standalone one-off, so the hook is unusually front-loaded with series branding (episode title card) instead of a pure attention-grab image -- the visual gag itself (husband ignoring collapsed wife for a soccer goal) is the actual hook payload once the title clears. Setup and conflict are compressed almost to the point of fusing: the transition from 'wife walks in with chores' to 'husband physically on top of collapsed wife' happens in under 2 seconds with no transitional beat, so conflict is really two half-beats (the collapse itself, then the false-concern line) rather than one continuous unit. The punchline is a misdirection-reveal gag: dialogue that reads as caring ('are you okay?') is recontextualized by the character's eyeline and the 'GOAALLL!!!' outburst as complete obliviousness -- the joke is entirely visual/timing-based, not verbal, since the line 'are you okay' is repeated almost verbatim in both the conflict and ending beats with opposite meaning each time. The video is extremely dialogue-sparse (only 3 short transcript lines across 16 seconds); most of the comedic information is carried by keyframe staging (eyeline, body position, on-screen scoreboard) rather than speech."
+}

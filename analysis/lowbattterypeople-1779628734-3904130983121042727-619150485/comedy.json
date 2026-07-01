@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "mechanism": "surprise",
+      "description": "Wife walks in through the front door, arms full of folded laundry and a bag of chips, and sees her husband sprawled motionless face-down on the living-room floor in front of the TV.",
+      "why_it_lands": "The scene is staged like a genuine emergency tableau (crumpled body on the floor, spilled cans and wrappers around him, TV still glowing) with no music cue to signal 'this is a joke,' so the opening beat plays completely straight and sets up the misdirection that the reveal depends on."
+    },
+    {
+      "start": 2.055,
+      "end": 4.459,
+      "mechanism": "recognition",
+      "description": "She drops everything, sprints over, and calls out 'Jane! Hey, hey, are you okay?' in genuine panic while shaking him.",
+      "why_it_lands": "The frantic, breathless double 'hey, hey' delivery is a specific, recognizable real-life panic reaction to finding a loved one collapsed, which is what makes the audience briefly believe he's actually hurt before the punchline reframes it."
+    },
+    {
+      "start": 4.459,
+      "end": 8.733333,
+      "mechanism": "surprise",
+      "description": "The 'unconscious' husband suddenly snaps upright over her, eyes bulging behind his glasses, and screams 'GOAALLL!!!' at the top of his lungs — he wasn't hurt, he was lying prone in ecstatic celebration of a soccer goal.",
+      "why_it_lands": "The abrupt jump from limp stillness to a full-volume scream directly into her face, timed right on the beat after her worried question, subverts the medical-emergency setup the cold open deliberately built."
+    },
+    {
+      "start": 8.733333,
+      "end": 11.233333,
+      "mechanism": "deadpan",
+      "description": "Immediately after the outburst he collapses right back down into the exact same limp, drained position, as if the celebration cost him his last ounce of energy — the 'low battery' sight gag the show is named for.",
+      "why_it_lands": "The instant crash from peak excitement back to total inertness, shown in a static wide shot with no cut, treats an emotional overload like a device running out of charge, which is the show's whole visual conceit stated wordlessly."
+    },
+    {
+      "start": 11.233333,
+      "end": 14.8,
+      "mechanism": "irony",
+      "description": "After a roughly 3.1-second silence (the longest pause in the clip, per the silence log) lying motionless together on the floor, he mutters a flat, delayed 'hey... are you okay?' back to her.",
+      "why_it_lands": "He asks the exact question she asked him moments earlier, completely inverting who the caretaker is in the scene — he caused the scare and drained himself doing it, yet he's the one checking in, and the long 3.15s pause beforehand (the single biggest silence gap in the whole clip) makes the deadpan delivery land as genuinely spent rather than sarcastic."
+    },
+    {
+      "start": 0.0,
+      "end": 14.8,
+      "mechanism": "recognition",
+      "description": "The overall bit — mistaking a partner's over-the-top reaction to something trivial (a game) for a real crisis — mirrors a very common domestic experience of sports-watching households.",
+      "why_it_lands": "Small concrete details sell the ordinariness of the setup: the chip bag and folded laundry she's carrying, the spilled soda cans and snack wrappers already on the rug, and the muted TV crowd noise — these are mundane, specific props that ground the exaggerated punchline in a recognizably real living room."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole 15-second bit is a single-joke structure built entirely on staging and reveal rather than dialogue: it opens on a faux medical-emergency tableau shot with concerned, urgent camera framing, lets a genuine-sounding panicked line ('Jane! Hey, hey, are you okay?') play completely straight for several seconds, then detonates the reveal with a single loud exclamation ('GOAALLL!!!') before crashing back to silence. The title card mid-scene ('LOW BATTERY PEOPLE') literally names the mechanism — characters who go from zero to full emotional intensity and instantly back to zero, like a device with no charge regulation. The punchline-after-the-punchline (his delayed, deadpan echo of her own question) is what elevates it from a single jump-scare gag to a character beat, using the longest silence in the track (3.15s) to sell exhaustion rather than comic timing for its own sake."
+}

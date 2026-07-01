@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1779714386-3904849473746350158-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.231,
+      "end": 1.432,
+      "mechanism": "irony",
+      "description": "Woman opens with a flat, self-assured claim, 'I think I'm pretty easygoing,' delivered straight to camera with a placid, half-lidded expression while her date sits beside her already thumbing his phone.",
+      "why_it_lands": "The line is stated as fact with zero hesitation or self-doubt in her vocal delivery, but the framing immediately puts her next to a partner mid-texting-tantrum, so the audience is set up to disbelieve her before she's even finished the sentence."
+    },
+    {
+      "start": 1.932,
+      "end": 10.455,
+      "mechanism": "escalation",
+      "description": "The single sentence describing the boyfriend's behavior stacks absurd specifics one after another without pause: a pin for the restaurant, then a screenshot of the menu, then his order circled on it, then the passive-aggressive 'no pressure' text — each clause one-upping the last in controlling detail.",
+      "why_it_lands": "It's delivered as one unbroken 25-word run-on (1.9s-10.4s) in the same bored monotone as the opening line, so the absurdity escalates through accumulation of detail rather than through any change in her tone, which is the joke: she narrates a red-flag checklist like a grocery list."
+    },
+    {
+      "start": 1.932,
+      "end": 10.9,
+      "mechanism": "deadpan",
+      "description": "Both characters keep placid, slightly bored facial expressions throughout the litany — her eyes stay half-lidded and unbothered, and he continues silently texting on his phone in the background of scene 1, oblivious to being narrated about.",
+      "why_it_lands": "Neither the man's cell-phone-lit face nor the woman's droopy eyelids register any emotional reaction to what is objectively a controlling, anxiety-inducing text exchange, and that flat affect against the content of the words is the entire visual gag of scene-1's keyframe."
+    },
+    {
+      "start": 11.156,
+      "end": 11.396,
+      "mechanism": "awkward_silence",
+      "description": "A single clipped 'Yeah' closes out the story, followed by a 1.1-second pause (11.395-12.499) before the scene cuts back to the two-shot for the tag line, with her mouth caught agape mid-thought in the periodic-9 frame.",
+      "why_it_lands": "The pause is long enough (over a full second, longer than any other gap in the piece except the closer) that it functions as a beat for the listener/audience to sit with the mismatch between 'easygoing' and the story just told, before the other voice delivers the verdict."
+    },
+    {
+      "start": 12.476,
+      "end": 13.897,
+      "mechanism": "irony",
+      "description": "The tag line 'You're extremely easygoing' is delivered in the exact same flat, unbothered register as her own opening self-assessment, directly inverting her claim by simply repeating the word 'easygoing' back with 'extremely' inserted as the twist of the knife.",
+      "why_it_lands": "The callback repeats her own adjective verbatim rather than mocking it with a new word, which is what makes the sarcasm land as understatement rather than an insult — it uses her own vocabulary as the punchline against her, the classic setup/topper structure compressed into one word swap."
+    },
+    {
+      "start": 12.476,
+      "end": 16.364,
+      "mechanism": "callback",
+      "description": "The word 'easygoing' bookends the entire piece, first as her sincere self-description at 0.231s and then as the sarcastic closing verdict at 12.476s, with a long 1.86-second held silence (14.509-16.364) after the line before the title card appears.",
+      "why_it_lands": "The extended final pause (the longest in the whole piece) gives no rebuttal or reaction shot to soften the line, letting the callback's irony sit unresolved on the woman's frozen slightly-open-mouthed expression as the last image before the logo, which is what makes it read as a punchline rather than a passing comment."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a minimalist single-scene, single-joke reel built entirely on vocal deadpan and word-callback rather than visual slapstick or cutting: nearly the whole runtime (1.9s-10.9s) is one long static two-shot with almost no camera movement, so all the comedic work is done by contrasting the flat, low-energy line readings against increasingly absurd content (circled menu orders, 'no pressure' texts), then paying it off by echoing the victim's own self-description back at her with a single intensifying word ('extremely') added. The pacing leans on unusually long pauses (0.7-1.9s) both mid-story and especially before the cut to black, using silence rather than a reaction shot to let the irony land."
+}

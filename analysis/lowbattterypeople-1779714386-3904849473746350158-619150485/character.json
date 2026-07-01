@@ -1,0 +1,51 @@
+{
+  "video_slug": "lowbattterypeople-1779714386-3904849473746350158-619150485",
+  "characters": [
+    {
+      "name_or_role": "narrating woman (girlfriend, brown sweater, bun)",
+      "personality_traits": [
+        "self-styled as easygoing while visibly annoyed — the gap between her claim and her face is the joke",
+        "dry, deadpan narrator who states facts about her partner's behavior without much editorializing, letting the absurdity speak for itself",
+        "quietly exasperated rather than confrontational — she reacts with drooping, unimpressed eyes rather than raising her voice"
+      ],
+      "emotional_range": [
+        "flat, heavy-lidded neutrality (baseline resting expression) → mild dismay as she describes the pin/screenshot/circled order → open-mouthed disbelief at 'no pressure' → back to flat, deadpan resignation on the closing line 'You're extremely easygoing'"
+      ],
+      "expressions": [
+        "0:00 half-lidded, sleepy/unimpressed eyes while saying 'I think I'm pretty easygoing'",
+        "0:02-0:05 eyebrows lift slightly, mouth opens (agape) as she recounts the pin and screenshot — building incredulity",
+        "0:06-0:08 mouth stays parted, eyes widen slightly on 'circled' and 'no pressure' — peak disbelief/deadpan-shock",
+        "0:11 eyes narrow back down to droopy/unimpressed, small smirk-like set of the mouth as she delivers 'yeah'",
+        "0:12-0:13 heavy eyelids return, faint closed-mouth almost-smile at the sarcastic final line, landing back on flat resignation"
+      ],
+      "gestures": [
+        "hands not visible/used for emphasis — she keeps her posture upright and mostly still, arms out of frame",
+        "sits fully forward-facing toward camera the entire scene, body static except for head tilts",
+        "slight head dip/forward lean when saying 'circled' and 'no pressure', as if physically underlining the absurdity",
+        "settles back into stillness for the closing line, no gesture, just the deflated expression"
+      ],
+      "interactions_notes": "She is the storyteller; the man beside her is the silent, oblivious subject of her story. She never turns fully to look at him except a couple of passing glances — most of her attention (and the 'camera confession') is directed outward, as if talking to an unseen friend/audience, with him seated passively to her left. He does not react to her narration at all, reinforcing the joke that he is the 'low battery' one who doesn't even register her sarcasm. The power dynamic is entirely narrative: she holds the framing and the punchline, he is inert set-dressing."
+    },
+    {
+      "name_or_role": "boyfriend (long nose, glasses, dark suit/hoodie, phone in hand)",
+      "personality_traits": [
+        "oblivious/checked-out — physically present but mentally absent, embodying the 'low battery' premise of the series",
+        "controlling in a passive-aggressive, over-planned way (sends a pin with a screenshot of the menu and circled order, then hedges with 'no pressure') without seeming to notice this is contradictory or overbearing",
+        "placid and unbothered on the surface — never shows stress, urgency, or self-awareness even as he's being described as the opposite of easygoing"
+      ],
+      "emotional_range": [
+        "mild, static contentment throughout — a faint closed-mouth smile that barely shifts from the start of the clip to the end, showing no emotional arc despite being the subject of the story"
+      ],
+      "expressions": [
+        "0:00-0:13 consistent faint smile with heavy-lidded, slightly unfocused eyes behind round glasses — largely unchanged across the whole scene",
+        "no visible reaction to his partner's exasperated retelling of his own texts; expression stays placid even on 'extremely easygoing'"
+      ],
+      "gestures": [
+        "holds a smartphone the entire scene, thumbs periodically moving/tapping as if still texting or scrolling mid-conversation",
+        "body angled slightly away from his partner, attention down at the phone rather than toward her or the camera",
+        "otherwise motionless — no hand gestures, no shifting in the booth seat, sips his iced tea glass is visible but untouched in every frame shown"
+      ],
+      "interactions_notes": "He never makes eye contact with the woman narrating the scene; his focus stays locked on his phone throughout, which is itself the visual punchline underscoring her sarcastic dialogue. He is spatially close (shoulder to shoulder in the same booth) but conversationally and emotionally distant — a literal illustration of 'low battery' disengagement while his partner performs all the emotional/verbal labor of the scene."
+    }
+  ]
+}

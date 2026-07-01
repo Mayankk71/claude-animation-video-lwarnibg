@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide of the full living room set (door, sofa, TV, fireplace all in frame). Jane enters frame-left through the open door carrying folded laundry and a chip bag; the seated man is placed right-of-center on the couch, TV glowing on the far right edge of frame. Deep set with foreground rug, midground furniture, and background shelf/fireplace all in focus, giving the gag room to play out geographically before the cut."
+    },
+    {
+      "start": 3.3,
+      "end": 7.233333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a low-angle wide shot from near floor level; man is now crouched over Jane, who has collapsed flat on the rug (laundry and cans scattered around her, revealing she has 'powered off'). TV and its soccer match stay visible in the right third of frame throughout, so the goal celebration on-screen reads as an ironic counterpoint to the human collapse in the foreground. Man's face and raised hand occupy the upper-left third; Jane's face is pushed into the lower-right corner, both cropped at the waist/knees by the frame bottom."
+    },
+    {
+      "start": 7.233333,
+      "end": 8.733333,
+      "shot_type": "over_shoulder",
+      "camera_movement": "static",
+      "composition_notes": "Over-the-shoulder shot from behind the man's head/glasses (dark silhouette fills the left third), looking past him at the TV, which is pushed to screen-right and given the most detail (jersey numbers, scoreboard graphic readable). Remote control sits in the extreme foreground on the media console, reinforcing the 'he's fixated on the game, not his partner' idea entirely through what's left in frame."
+    },
+    {
+      "start": 8.733333,
+      "end": 11.233333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Direct-on, symmetrical close-up of the man's face and upper torso, centered in frame with even headroom, background lamps softly blurred on either side for balance. No camera drift across the shot's periodic samples -- all motion is in the puppet's eyes/mouth (rapid blinking, mouth opening as if starting to speak), isolating the reaction beat with zero environmental distraction."
+    },
+    {
+      "start": 11.233333,
+      "end": 14.8,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Returns to the same low, floor-level wide composition as the earlier collapse shot (man over Jane, TV visible right third) -- title card text ('LOW BATTERY PEOPLE', 'CREATED BY NIN.', spoken line 'okay?') is overlaid centered across the lower-middle of frame without the framing itself changing, so the punch-line beat and the branding land on the identical held image."
+    },
+    {
+      "start": 14.8,
+      "end": 16.033333333333335,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black end card, all text (title, creator credit, 'NEW EPISODE DAILY' tape graphic) centered in the middle third of frame with generous negative space above and below -- a pure graphic/typographic beat, no live-action or puppet framing at all."
+    }
+  ],
+  "framing_patterns_notes": "The episode leans on a single repeated wide composition (low, floor-level, TV visible in the right third) bookending the joke -- it's used both for the initial collapse reveal and again for the punchline/title-card beat, so the 'formula' here is: establish wide -> cut to the sight gag wide -> punch in to an over-the-shoulder on the distraction object (TV) -> punch further into a static frontal close-up for the reaction -> cut back out to the same wide for the tag line and title card. Every shot in the episode is a static locked-off frame with no pans, tilts, or zooms; all comedic timing is carried by hard cuts between fixed compositions rather than camera movement, and the TV screen is kept visible or implied in nearly every shot as the recurring visual anchor for the 'low battery' gag."
+}

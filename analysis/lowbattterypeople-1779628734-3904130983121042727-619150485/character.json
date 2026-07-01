@@ -1,0 +1,60 @@
+{
+  "video_slug": "lowbattterypeople-1779628734-3904130983121042727-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (long-nosed man in black suit/tie)",
+      "personality_traits": [
+        "Oblivious/self-absorbed — stays glued to the TV soccer match through the whole cold open, feet up on the coffee table, ignoring his wife entering the room",
+        "Impulsive and reflex-driven — his body reacts to the goal on screen (lunging, shouting) before his mind registers what is actually happening around him",
+        "Belatedly caring — once he processes that his wife is unresponsive, he snaps into concern, repeating her name and 'are you okay?'",
+        "Comedically dense — the gap between his celebratory reaction and the seriousness of his wife's collapse is played for deadpan absurdist comedy"
+      ],
+      "emotional_range": [
+        "bored/half-checked-out contentment (slouched on couch, snacking, half-watching TV)",
+        "sudden ecstatic excitement (the goal)",
+        "manic triumphant joy (mid-celebration, sprawled on the floor)",
+        "confusion/dawning alarm (realizing his wife is on the ground beneath him)",
+        "worried concern (calling her name)"
+      ],
+      "expressions": [
+        "0:00 — slack, half-lidded eyes staring at TV, mouth open slightly, indifferent to Jane entering with laundry",
+        "0:03-0:05 — eyes bulge behind round glasses, mouth drops open as the goal happens on screen",
+        "0:05-0:08 — wide manic grin, head thrown back, eyes rolled/bulging in ecstatic celebration while shouting 'GOAAALLL!!!'",
+        "0:09 — eyebrows knit, eyes widen with sudden worry, mouth agape as he looks down and registers Jane is not moving ('hey... you... okay?')",
+        "final beat — brows raised, look of embarrassed/apologetic concern directly to camera/Jane"
+      ],
+      "gestures": [
+        "reclines on couch with legs stretched onto ottoman/rug, arm draped loosely — body language of a man settled in and checked out",
+        "lurches forward off the couch and drops to his knees on the floor at the moment of the goal",
+        "throws both arms/hands down onto the rug on either side of Jane's body mid-celebration, effectively pinning/straddling her without noticing",
+        "one hand pats/presses on her shoulder or torso as he shouts, still oriented toward the TV rather than her",
+        "head snaps down toward her face, hand moves toward her cheek/shoulder in the 'hey, are you okay' beat"
+      ],
+      "interactions_notes": "He never makes eye contact with Jane until after his celebration — his attention triangulates entirely on the television, and she enters his physical space (or he ends up on top of her) as a side effect of his goal celebration rather than an intentional acknowledgment of her. The power dynamic in the scene is that his enthusiasm/priorities (the match) physically and narratively steamroll her workload (laundry, chores) until the joke pivots and he is forced to confront her sudden collapse right in front of him."
+    },
+    {
+      "name_or_role": "Jane (wife, dark bun hairstyle, brown top and dark skirt)",
+      "personality_traits": [
+        "Weary and put-upon — enters mid-chore, arms full of folded laundry and a snack bag, suggesting she's the one managing the household while he watches TV",
+        "Wry/unimpressed — her raised eyebrow and sidelong glance at him convey silent judgment rather than confrontation",
+        "Physically depleted by the end of the clip — collapses to the floor, becoming completely limp and unresponsive, consistent with the video's 'low battery' framing (running on empty from unacknowledged effort)"
+      ],
+      "emotional_range": [
+        "mild, resigned exasperation (entering the room, glancing at him)",
+        "flat neutrality/exhaustion while walking past him",
+        "complete shutdown — eyes rolled back/unfocused, mouth slack, motionless once on the ground"
+      ],
+      "expressions": [
+        "0:00 — one eyebrow cocked, eyes narrowed slightly toward her husband as she walks past him with the laundry — a look of tired tolerance",
+        "mid-scene — face goes slack, eyes half-open and unfocused, as she ends up collapsed on the rug amid scattered snacks/laundry",
+        "0:09-0:13 — eyes glassy, unmoving, mouth open in an inert, expressionless slump while he shouts over her and then asks if she's okay"
+      ],
+      "gestures": [
+        "walks briskly through the front door balancing a stack of folded blankets/towels topped with a chip bag against her chest",
+        "no acknowledgment of the husband as she crosses behind/beside the couch",
+        "collapses supine on the rug, arms splayed, legs limp, surrounded by dropped snacks and soda cans — full-body stillness contrasts with his frantic motion on top of her"
+      ],
+      "interactions_notes": "Jane and her husband never actually converse before her collapse — she does the household labor silently while he is fixated on the screen, and their only direct physical contact comes when he inadvertently ends up sprawled over her during his goal celebration. The dynamic is asymmetric: her actions (chores) go unnoticed until her body literally shuts down, at which point he finally directs attention and words ('Jane!', 'are you okay?') toward her — the joke's structure implies her burnout was building unnoticed the whole time he was absorbed in the game."
+    }
+  ]
+}
