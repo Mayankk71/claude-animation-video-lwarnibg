@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779025945-3899074417384611536-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Direct top-down (bird's-eye) shot looking straight down on the bed; husband and wife are placed symmetrically left/right of frame center, each on their own pillow, blanket filling the bottom third. Title card ('Episode 5 / New Way of Flirting') is overlaid centered over the bed, subtitle burned in at bottom-center. Nightstand lamps bookend the frame in the top corners, tissue box and clock read as small background props at the edges."
+    },
+    {
+      "start": 2.4,
+      "end": 7.233333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Same locked-off top-down bed shot continues with no reframing while dialogue plays out (subtitles 'with' / 'anymore' burned in bottom-center). Husband stays static with arms crossed on the left; only the wife's phone-lit face and hands animate on the right, so the static wide shot lets the phone glow become the sole visual point of interest against the dark navy/charcoal palette."
+    },
+    {
+      "start": 7.233333,
+      "end": 10.0,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a low, canted close-up on the husband's profile, shot from roughly his wife's-side pillow height so his long nose/glasses dominate the left of frame and his exasperated eyes catch the phone's blue glow. Wife's out-of-focus face and the phone screen occupy the right edge, cropped so only her jaw/mouth and the device are visible — reframes the scene from an observational overhead gag shot to an intimate reaction shot for the punchline ('2am.' / 'Grow...')."
+    },
+    {
+      "start": 10.0,
+      "end": 10.9,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Cuts back to the top-down bed framing (husband alone, wife's phone glow visible at frame-right edge) for a beat, then transitions straight into the static black end-card with centered yellow 'LOW BATTERY PEOPLE' logo and white 'CREATED BY NIN.' credit line beneath it."
+    }
+  ],
+  "framing_patterns_notes": "The whole short alternates between exactly two camera setups: a static top-down bird's-eye two-shot used for all the scene-setting/dialogue-delivery beats, and a single static low-angle close-up reserved for the husband's reaction/punchline near the end. There is no camera movement (no pans, tilts, or zooms) anywhere in the piece -- all shot changes are hard cuts between fixed setups, and the subtitle text is always burned in bottom-center regardless of shot type."
+}

@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1778851839-3897614028780131225-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.511,
+      "end": 2.353,
+      "mechanism": "other",
+      "description": "setup_hook",
+      "why_it_lands": "The vague, ominous opener 'You know what's dark?' is delivered flat while both characters just keep trudging through the parking garage with grocery bags, so the mundane visual (errand-running, tired posture) contradicts the loaded word 'dark' and creates a mini mystery about what kind of 'dark' is coming — existential or literal."
+    },
+    {
+      "start": 2.093,
+      "end": 2.353,
+      "mechanism": "awkward_silence",
+      "description": "",
+      "why_it_lands": "Her one-word reply 'What?' is followed by a pause of roughly 1.3 seconds (per silence_pauses.json, the gap runs from 2.369 to ~3.675 before his line starts) with no accompanying action beat, just two figures walking in a gray garage — the dead air primes the audience to expect something bigger than what's actually coming."
+    },
+    {
+      "start": 3.675,
+      "end": 8.52,
+      "mechanism": "escalation",
+      "description": "",
+      "why_it_lands": "The line builds in three clauses ('One day we'll both die' -> 'and you'll still never admit' -> 'you were wrong in that parking lot argument'), starting at maximum cosmic stakes (mortality) and ending on something absurdly petty and specific, so each clause raises the register only to have the final clause collapse it."
+    },
+    {
+      "start": 3.675,
+      "end": 8.52,
+      "mechanism": "irony",
+      "description": "",
+      "why_it_lands": "He frames a petty, unresolved marital grudge as the 'dark' thought worth sharing instead of anything about death itself, and the setting doubles down on this — the line about a 'parking lot argument' is spoken while the couple is literally walking through a parking garage, subtly matching the words to the world they're standing in."
+    },
+    {
+      "start": 8.4,
+      "end": 12.3,
+      "mechanism": "deadpan",
+      "description": "",
+      "why_it_lands": "After delivering the line, his face locks into a frozen, wide-eyed, open-mouthed stare (visible in scene-2.jpg and periodic-9/10.jpg) that holds through the elevator doors closing on him in scene-3 — his expression never resolves into a smile or reaction, so the joke's discomfort is left hanging on his face rather than punctuated for the audience."
+    },
+    {
+      "start": 11.1,
+      "end": 12.31,
+      "mechanism": "awkward_silence",
+      "description": "",
+      "why_it_lands": "The final pause is the longest in the whole short at 1.2 seconds (11.105 to 12.311 in silence_pauses.json), landing right as the elevator doors close on his still-blank face, so the short ends on unresolved tension instead of a reaction shot from the wife, denying the audience closure."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-joke, single-take short built entirely around a classic 'setup/pause/pivot' structure compressed into 12 seconds: an ominous rhetorical question, a one-word feed line, and a punchline that redirects cosmic dread into mundane relationship resentment. The entire comedic weight rests on the escalation from 'we'll both die' to a specific, unresolved parking lot argument, and on the husband's static, saucer-eyed expression that never breaks throughout the exchange or the final pause -- the humor is entirely verbal/timing-driven rather than visually kinetic, with the plain gray parking garage setting reinforcing the punchline's specific detail rather than contrasting it."
+}

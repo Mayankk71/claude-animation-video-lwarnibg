@@ -1,0 +1,65 @@
+{
+  "video_slug": "lowbattterypeople-1778938816-3898343508574313591-619150485",
+  "duration_sec": 11.134708,
+  "hook": {
+    "start": 0.0,
+    "end": 2.893,
+    "description": "Cold open on a stop-motion woman with a large nose and bun, reclined in a pedicure spa chair, phone in hand, feet soaking. She delivers the opening line in a flat, deadpan tone: 'Sometimes I look at happy couples online and smile.' A stony-faced man in a suit sits beside her holding a cucumber water glass, staring blankly ahead.",
+    "why_it_works": "Opens mid-thought with a relatable, wholesome-sounding statement ('happy couples online and smile') delivered in a deadpan monotone that immediately signals irony is coming; the mismatched pampering-spa setting plus her unimpressed expression creates instant curiosity about the twist."
+  },
+  "setup": {
+    "start": 0.0,
+    "end": 2.893,
+    "description": "Fused with the hook: the single opening line IS the setup, establishing the character's seemingly sincere, cheerful observation about happy couples online while the visual (bored expression, monotone delivery) undercuts the sincerity before the reveal even lands."
+  },
+  "conflict": {
+    "start": 2.893,
+    "end": 4.734,
+    "description": "A brief pause/silence (no dialogue) while she keeps scrolling her phone, holding the audience in suspense between the setup line and the reveal -- the expectation of genuine wholesomeness hangs unresolved."
+  },
+  "punchline": {
+    "start": 4.734,
+    "end": 7.476,
+    "description": "She delivers the twist, still deadpan: 'Then I remember someone had to take that video 14 times.' The joke reframes the 'happy couple' content as staged and laborious rather than spontaneous, subverting the sincere setup with cynical, relatable realism.",
+    "cta_or_text_overlay": ""
+  },
+  "ending": {
+    "start": 7.476,
+    "end": 11.134708,
+    "description": "No further dialogue; the man beside her reacts with a single unimpressed grunt/interjection ('Aww.') around 9s as the camera holds on his deadpan, unbothered face, milking the awkward silence for a beat before the video cuts to a black title card.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / Created by Nin."
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 2.893,
+      "beat_type": "hook",
+      "description": "Deadpan opening line establishing the sincere-sounding observation: 'Sometimes I look at happy couples online and smile,' delivered by the woman in the spa chair scrolling her phone."
+    },
+    {
+      "start": 2.893,
+      "end": 4.734,
+      "beat_type": "conflict",
+      "description": "Silent beat -- no dialogue, just held reaction shots (her scrolling, the man sipping cucumber water) creating a short pause before the twist."
+    },
+    {
+      "start": 4.734,
+      "end": 7.476,
+      "beat_type": "punchline",
+      "description": "Punchline line lands: 'Then I remember someone had to take that video 14 times,' subverting the wholesome setup with a cynical, relatable truth about staged social-media content."
+    },
+    {
+      "start": 7.476,
+      "end": 10.0,
+      "beat_type": "ending",
+      "description": "The man's single deadpan interjection ('Aww.') plays as a reaction beat, camera holds on his unimpressed face for comedic deflation."
+    },
+    {
+      "start": 10.0,
+      "end": 11.134708,
+      "beat_type": "ending",
+      "description": "Cut to black title card reading 'LOW BATTERY PEOPLE / Created by Nin.' closing out the reel."
+    }
+  ],
+  "narrative_notes": "This 11-second reel is far shorter than a typical 20-25s format and compresses the arc into essentially two spoken lines plus one reaction word. The setup is fully fused with the hook (the first line does double duty), and there is no true 'conflict' escalation in the dramatic sense -- what's labeled conflict here is just a brief silent pause/suspension between setup and reveal, not an obstacle or escalating tension. The punchline is a single-sentence subversion (staged content vs. perceived spontaneity) rather than a visual gag. The ending is stretched across the man's deadpan 'Aww.' reaction and the branded title card, which functions as the only text overlay/CTA in the video (channel branding, not a call to action)."
+}

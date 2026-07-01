@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1779110644-3899783885185627077-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.091,
+      "end": 2.556,
+      "mechanism": "recognition",
+      "description": "Husband stands stiffly framed in the doorway, phone in hand, asking 'Jane, how much longer?' in a flat, weary tone.",
+      "why_it_lands": "The static full-body pose (arms pinned at sides, unmoving stance filling the doorway) plus the low, resigned line reading instantly signals the universal 'waiting on my partner' scenario before any punchline arrives, so the audience recognizes the premise in under 3 seconds."
+    },
+    {
+      "start": 2.857,
+      "end": 3.959,
+      "mechanism": "deadpan",
+      "description": "Jane responds 'I said I was getting ready' without turning around, still mid-makeup, in a flat matter-of-fact tone.",
+      "why_it_lands": "She never breaks focus from the mirror or changes her vocal pitch, treating an obviously overdue answer as fully sufficient — the mismatch between her calm delivery and the situation's tension is the joke."
+    },
+    {
+      "start": 2.556,
+      "end": 2.857,
+      "mechanism": "awkward_silence",
+      "description": "A brief beat (~0.3s gap, following the longer 1.2s pause right after the opening line) sits between the husband's question and Jane's clipped comeback.",
+      "why_it_lands": "The pause is just long enough to register as a delayed, unbothered response rather than a natural conversational rhythm, reinforcing that Jane isn't rushing for anyone."
+    },
+    {
+      "start": 4.781,
+      "end": 6.264,
+      "mechanism": "escalation",
+      "description": "Husband ups the stakes with a specific, damning timestamp: 'That was 45 minutes ago,' delivered in the same flat register as his first line, with an on-screen '45' graphic overlay reinforcing the number.",
+      "why_it_lands": "Adding the hard number (45 minutes, visually stamped on screen) turns a vague complaint into an inarguable fact, escalating the stakes purely through specificity rather than volume or emotion — his expression and posture stay identically deadpan, which sharpens the contrast."
+    },
+    {
+      "start": 6.685,
+      "end": 9.571,
+      "mechanism": "irony",
+      "description": "Jane fires back 'Do you want pretty or punctual? Pick a struggle,' turning the accusation into a false-choice ultimatum, then the film freezes on the husband's blank, half-lidded stare as 'STRUGGLE.' appears as an on-screen caption.",
+      "why_it_lands": "Jane reframes lateness as a virtue via a rigged binary (pretty vs. punctual) that has an obvious right answer for the husband, so his only option is to lose — the joke lands because he can't win an argument that's been logically cornered, and his frozen deadpan expression (unchanged from the opening frame) plus the caption punch-in delivers the mic-drop beat with zero further reaction needed."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole piece runs on a single-scene, two-shot volley (matching wide shot at the doorway, husband always centered/symmetrical and static) where the comedy is entirely verbal escalation carried by trope recognition (partner running late) rather than slapstick or visual gags — the husband's exaggerated long-nosed, heavy-lidded, unmoving puppet design does the deadpan work for the whole runtime, while Jane's unbroken back-turned posture at the mirror signals she's already won before she even delivers the line. The on-screen text ('45', 'STRUGGLE.') acts as a punchline underline/caption gag layered over the dialogue rather than a separate joke, and the piece ends cold on the freeze-frame reaction shot instead of a reply, using the husband's silence as the final beat."
+}

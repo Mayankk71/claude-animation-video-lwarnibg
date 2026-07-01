@@ -1,0 +1,44 @@
+{
+  "video_slug": "lowbattterypeople-1779110644-3899783885185627077-619150485",
+  "duration_sec": 12.158708,
+  "hook": {
+    "start": 0.0,
+    "end": 2.556,
+    "description": "Cold open, no title card first: stop-motion husband (long-nosed, bespectacled, in a black suit, checking his phone) stands impatiently in a hallway/doorway and asks his wife 'Jane, how much longer?' while she is mid-makeup routine at her vanity in the bedroom beyond.",
+    "why_it_works": "Drops straight into a mid-argument line of dialogue with no preamble, instantly signaling a relatable domestic-couple scenario (partner waiting on partner) within the first 2.5 seconds, which is what stops the scroll."
+  },
+  "setup": {
+    "start": 2.857,
+    "end": 6.264,
+    "description": "Jane replies defensively 'I said I was getting ready,' and the husband immediately counters with the specific, exaggerated callout 'That was 45 minutes ago,' establishing the classic 'getting ready takes forever' bit and the husband's growing impatience (reinforced visually by him repeatedly glancing at his phone)."
+  },
+  "conflict": {
+    "start": 6.685,
+    "end": 8.388,
+    "description": "Jane pushes back with a rhetorical trap: 'Do you want pretty or punctual?' turning the confrontation around on him and forcing an impossible choice, visually punctuated by an on-screen text overlay of 'PUNCTUAL?' as she says the line."
+  },
+  "punchline": {
+    "start": 8.829,
+    "end": 9.571,
+    "description": "Jane delivers the flat, deadpan mic-drop line 'Pick a struggle,' closing the exchange with a dismissive, unbothered tone that undercuts the husband's frustration entirely."
+  },
+  "ending": {
+    "start": 9.571,
+    "end": 12.158708,
+    "description": "No further dialogue or action after the punchline; the scene holds briefly on the characters before cutting to a black title card.",
+    "cta_or_text_overlay": "Text card reads 'LOW BATTERY PEOPLE' with subtitle 'CREATED BY NIN.' — a branding/attribution end card rather than a narrative resolution or explicit call-to-action."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.556, "beat_type": "hook", "description": "Husband, phone in hand, asks 'Jane, how much longer?' from the hallway doorway while Jane does her makeup in the room beyond."},
+    {"start": 2.556, "end": 2.857, "beat_type": "setup", "description": "Brief silent beat/pause between lines (no dialogue in transcript); husband continues waiting."},
+    {"start": 2.857, "end": 3.959, "beat_type": "setup", "description": "Jane: 'I said I was getting ready' — defensive first response."},
+    {"start": 3.959, "end": 4.781, "beat_type": "setup", "description": "Silent reaction beat before husband's rebuttal."},
+    {"start": 4.781, "end": 6.264, "beat_type": "setup", "description": "Husband: 'That was 45 minutes ago' — calls out the exaggerated wait time, raising the stakes of the bit."},
+    {"start": 6.264, "end": 6.685, "beat_type": "conflict", "description": "Short pause before Jane's counter-question."},
+    {"start": 6.685, "end": 8.388, "beat_type": "conflict", "description": "Jane: 'Do you want pretty or punctual?' with on-screen text 'PUNCTUAL?' overlay, reframing the argument as an impossible choice."},
+    {"start": 8.388, "end": 8.829, "beat_type": "punchline", "description": "Brief pause before the final line, letting the rhetorical question land."},
+    {"start": 8.829, "end": 9.571, "beat_type": "punchline", "description": "Jane: 'Pick a struggle' delivered deadpan — the closing joke/mic-drop line."},
+    {"start": 9.571, "end": 12.158708, "beat_type": "ending", "description": "Scene holds briefly with no further dialogue, then cuts to a black end card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.'"}
+  ],
+  "narrative_notes": "At only ~12 seconds this reel compresses the arc into essentially two exchanges: setup and conflict are fused into a single rapid-fire back-and-forth (husband's complaint -> Jane's excuse -> husband's rebuttal -> Jane's rhetorical counter), with no distinct rising-action scene of its own — the transcript shows only 5 lines total across 3 scene cuts, so each beat boundary above is inferred from dialogue content and pacing rather than a hard scene change (scene_boundaries.json only marks 3 scenes: the live-action dialogue scene 0-8.6s, a brief reaction/phone-check shot 8.6-11s, and the black title card 11-12s). There is no separate 'ending' resolution beat in the narrative sense — the punchline ('Pick a struggle') IS the ending of the conflict, and the literal ending segment is purely a branding/title card with no additional story content or CTA beyond the creator credit."
+}

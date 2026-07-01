@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1778851839-3897614028780131225-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.08,
+  "cuts": [
+    {
+      "timestamp": 2.933333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide walking shot to the elevator two-shot right as the woman's setup line ('You know what's dark?') lands, resetting the frame for the deadpan 'What?' reply and holding on both characters for the joke's delivery."
+    },
+    {
+      "timestamp": 8.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the static two-shot to a tight push-in on the husband's face immediately after the punchline ('...never admit you were wrong in that parking lot argument'), isolating his reaction for the beat of silence that follows."
+    },
+    {
+      "timestamp": 11.233333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the husband's blank stunned reaction straight to the black title card, ending the scene on his non-response and letting the joke land without a verbal capper."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 8.4,
+      "end": 11.233333,
+      "description": "Close-up push-in on the husband's face, eyes wide and mouth slightly open, stunned/silent after his wife's dark 'you'll never admit you were wrong' line — the shot exists purely to sell his reaction, not to advance plot."
+    }
+  ],
+  "pacing_notes": "The scene opens with two unhurried, similarly long shots (~2.9s and ~5.5s) that carry the setup and the full punchline line via dialogue, giving the joke room to breathe. Once the line lands, pacing tightens sharply into a ~2.8s silent reaction close-up on the husband's face, using the cut itself (not more dialogue) to mark the punchline. The video then closes on a short ~1.1s title card, a quick button that doesn't linger. Overall the rhythm is slow-build-then-snap: long conversational shots leading into an abrupt reaction cut, mirroring the joke's structure of a mundane setup ('what's dark?') flipping into a bleak specific punchline."
+}

@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1778938816-3898343508574313591-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 2.78,
+  "cuts": [
+    {
+      "timestamp": 4.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot establishing the salon setup to a tighter framing right as the line pivots to the 'someone had to take that video 14 times' punchline, pushing focus onto the couple as the joke lands."
+    },
+    {
+      "timestamp": 7.533333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts in tight to a close-up of the man's deadpan face immediately after the punchline is delivered, isolating his unimpressed reaction as the visual payoff of the joke."
+    },
+    {
+      "timestamp": 10.0,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut from the held reaction shot to the black title card, ending the sketch abruptly right after the silent comedic beat finishes playing out."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 7.533333,
+      "end": 10.0,
+      "description": "Close-up push-in on the bespectacled man holding his cucumber water, giving a long deadpan, unimpressed stare that serves as the silent punctuation to the punchline."
+    }
+  ],
+  "pacing_notes": "Shots shrink steadily across the sketch: the opening wide two-shot runs 4.4s to set up the scenario, the mid shot tightens to about 3.1s to deliver the punchline, then the camera holds on a 2.5s silent reaction close-up to let the joke land, before a quick 1.0s title card closes it out. The overall rhythm is a slow contraction from setup to punchline to a lingering deadpan beat, mirroring the dry, deadpan comedic tone rather than a rapid-fire cut pattern."
+}

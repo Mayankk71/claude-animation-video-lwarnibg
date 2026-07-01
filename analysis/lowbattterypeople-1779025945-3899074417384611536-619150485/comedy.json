@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1779025945-3899074417384611536-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 1.817,
+      "mechanism": "recognition",
+      "description": "Wife's opening complaint 'You never flirt with me anymore' is delivered while she is scrolling her phone in bed, not looking at her husband, and he's already lying there stone-faced with arms crossed over the blanket like he's been braced for this conversation before it started.",
+      "why_it_lands": "The scene-0 keyframe shows the husband's arms already crossed defensively and his mouth in a flat frown before he has said a single word, telegraphing a long-running domestic grievance in one static pose rather than through dialogue."
+    },
+    {
+      "start": 1.817,
+      "end": 3.121,
+      "mechanism": "awkward_silence",
+      "description": "A 1.25s gap (per silence_pauses, 1.846-3.098) sits between the accusation and his rebuttal, during which nothing happens except the two of them lying motionless side by side.",
+      "why_it_lands": "In a clip this short (under 11 seconds total), devoting over a second to dead air is a disproportionately large chunk of runtime, which makes the silence itself read as the husband stalling to come up with a defense rather than just an edit gap."
+    },
+    {
+      "start": 3.121,
+      "end": 5.368,
+      "mechanism": "irony",
+      "description": "The husband's defense — 'I literally forwarded you a meme at 2 AM' — is delivered as proof of romantic effort, when forwarding a meme at 2am is the opposite of a grand gesture.",
+      "why_it_lands": "The word 'literally' is doing the comedic work here: it's the phrasing people use when they think they've made an airtight point, which clashes with how flimsy the actual evidence (a forwarded meme) is — the keyframe shows his glasses-and-long-nose face pressed close to hers with a proud, matter-of-fact expression as he says it."
+    },
+    {
+      "start": 5.368,
+      "end": 6.431,
+      "mechanism": "escalation",
+      "description": "Another pause (1.0s, per silence_pauses 5.403-6.410) follows the meme line before she delivers her verdict, letting his 'defense' hang in the air unanswered just long enough to be judged.",
+      "why_it_lands": "The pause is shorter than the first one, giving the exchange a rhythm of tightening beats — first a long silence while he thinks, then a shorter one while she processes how bad his answer was — which mimics the accelerating rhythm of a real argument."
+    },
+    {
+      "start": 6.431,
+      "end": 6.893,
+      "mechanism": "deadpan",
+      "description": "Her closing line, 'Grow up,' is only two words and is delivered flat, without her even fully turning to look at him, immediately followed by both of them lying still in the dark.",
+      "why_it_lands": "The scene-2 keyframe shows the husband afterward with a slack, resigned frown and half-lidded eyes, staring at the ceiling rather than reacting defensively — the lack of a comeback is what sells the line as a conversation-ending mic-drop rather than an escalating fight."
+    },
+    {
+      "start": 6.893,
+      "end": 10.9,
+      "mechanism": "awkward_silence",
+      "description": "The final beat is over 3.5 seconds of near-total silence (two consecutive pauses of 2.27s and 1.36s) on a static overhead shot of the couple lying in bed not speaking, before the black title card cuts in.",
+      "why_it_lands": "Ending the sketch on unresolved silence rather than a punchline delivers the 'gut-punch' relatability the account is named for (Low Battery People) — the couple isn't fighting, they're just both quietly checked out, which the extended dead air communicates better than another line of dialogue would."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a two-line, sub-11-second micro-sketch built almost entirely on comedic timing rather than joke density: two lines of dialogue are separated by pauses (1.25s, 1.0s, then a closing 2.27s+1.36s silence) that are each longer than the lines themselves, and the humor comes from a deadpan mismatch between what counts as 'trying' (a forwarded meme at 2am) and what's actually being asked for (real affection). The static overhead bed shot and motionless puppet posing (arms crossed, half-lidded eyes) do the emotional work that a reaction shot or score sting would normally carry, fitting the 'Low Battery People' branding of low-energy, checked-out relationship exhaustion rather than punchy sitcom conflict."
+}

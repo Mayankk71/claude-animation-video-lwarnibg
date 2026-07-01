@@ -1,0 +1,19 @@
+{
+  "video_slug": "lowbattterypeople-1779110644-3899783885185627077-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 4.01,
+  "cuts": [
+    {
+      "timestamp": 8.6,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the locked-off doorway shot straight to a black end card right after the wife's punchline 'Pick a struggle,' giving the joke a beat to land before the branding hits."
+    },
+    {
+      "timestamp": 10.966667,
+      "transition_type": "other",
+      "reason": "Internal boundary within the held end-card graphic (same 'Low Battery People / Created by Nin.' card persists) - likely a fade/hold split rather than a content change, functioning as a brief extra beat before the video ends."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The entire joke is delivered in one unbroken 8.6s static shot framed through a doorway, with no coverage cuts at all - the comedic engine is entirely the dialogue rhythm and the characters' own head/body animation (husband's impatient head-tilt, wife's deadpan turn on 'pick a struggle') rather than editing. Pacing is achieved through line delivery and pauses, not cutting. After the punchline, a single hard cut to a static black title/credit card (roughly 3.4s total, split into two near-identical scene segments) closes out the video with a held beat rather than another edit, so the piece reads as almost cut-free: one long comedic take followed by one long branding hold."
+}

@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1779025945-3899074417384611536-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 2.73,
+  "cuts": [
+    {
+      "timestamp": 2.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide symmetrical top-down two-shot of the couple in bed to a tighter close-up on the wife as she delivers her rebuttal ('I literally forwarded you a meme at 2 AM'), pushing in for the joke's setup."
+    },
+    {
+      "timestamp": 7.233333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a close-up on the husband's deadpan, disappointed face right as he delivers the punchline 'Grow up,' isolating his reaction for maximum comedic emphasis."
+    },
+    {
+      "timestamp": 10.0,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the husband's held reaction shot to the black title/credit card ('LOW BATTERY PEOPLE - CREATED BY NIN.'), closing out the skit immediately after the punchline lands."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 7.233333,
+      "end": 10.0,
+      "description": "Close-up on the husband's flat, unimpressed face as he delivers 'Grow up' — a held reaction shot that is the emotional/comedic payoff rather than new plot action."
+    }
+  ],
+  "pacing_notes": "Opens with a longer establishing wide shot (2.4s) to set up the couple's dynamic, then shots tighten as the exchange escalates: a 4.8s close-up carries the bulk of the wife's dialogue, followed by a shorter 2.8s reaction close-up on the husband for the punchline. The final title-card shot is brief (0.9s), landing right after the punchline with no lingering beat, so the joke ends on a clipped, deadpan note rather than a drawn-out CTA."
+}

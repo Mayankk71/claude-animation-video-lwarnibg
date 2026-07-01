@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1779110644-3899783885185627077-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 4.8,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.091,
+      "end": 2.556,
+      "text": "Jane, how much longer?",
+      "word_count": 4,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2.857,
+      "end": 3.959,
+      "text": "I said I was getting ready.",
+      "word_count": 6,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.781,
+      "end": 6.264,
+      "text": "That was 45 minutes ago.",
+      "word_count": 5,
+      "pause_before_sec": 0.339938,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 6.685,
+      "end": 8.388,
+      "text": "Do you want pretty or punctual?",
+      "word_count": 6,
+      "pause_before_sec": 0.368563,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 8.829,
+      "end": 9.571,
+      "text": "Pick a struggle.",
+      "word_count": 3,
+      "pause_before_sec": 0.433438,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Clean two-hander with strict turn-taking (no overlapping starts): SPEAKER_00 opens with a question, SPEAKER_01 deflects, SPEAKER_00 presses with a specific callout ('45 minutes ago'), SPEAKER_01 fires back a rhetorical question, then adds a second, unprompted button line ('Pick a struggle') with the same speaker keeping the floor for back-to-back lines — the only same-speaker consecutive turn in the clip, functioning as a tag/punchline appended after the comeback rather than a new exchange.",
+  "speech_rhythm_notes": "Every line after the first is preceded by a near-identical short pause (~0.34-0.43s) sitting right in the gap between lines, giving the dialogue a steady, clipped comic rhythm rather than variable pacing. The final line 'Pick a struggle' is the shortest line in the clip (3 words) and lands after the single largest of these inter-line pauses (0.433s, the pause immediately preceding it), marking it as the punchline delivered on a beat rather than rushed into. The opening line has no measurable pause before it since it starts the clip; the heaviest silence in the raw pause data (1.2s, 0.622-1.824s) occurs mid-way through the first line's speech rather than between lines, likely a diarization/VAD artifact rather than a true conversational beat."
+}

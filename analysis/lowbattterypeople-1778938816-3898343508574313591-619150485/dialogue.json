@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1778938816-3898343508574313591-619150485",
+  "total_lines": 2,
+  "avg_words_per_line": 10,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.231,
+      "end": 2.893,
+      "text": "Sometimes I look at happy couples online and smile.",
+      "word_count": 9,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.734,
+      "end": 7.476,
+      "text": "Then I remember someone had to take that video 14 times.",
+      "word_count": 11,
+      "pause_before_sec": 1.3,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single-speaker monologue with only two lines (no second speaker present in the transcript, so no interruptions occur). The structure is a classic setup/punchline pair: line 1 states the sincere-sounding observation, line 2 delivers the cynical reveal. The gap between the two lines (2.893s to 4.734s, 1.841s total) is filled by two consecutive silence_pauses windows (0.5365s and 0.762875s, combined ~1.3s), meaning the pause is a genuine held beat rather than an artifact of transcription gaps.",
+  "speech_rhythm_notes": "The punchline line (\"Then I remember someone had to take that video 14 times\", 11 words) is delivered after the longest pause between lines in the clip (~1.3s combined silence spanning two adjacent pause windows), a classic comedic-timing beat before the reveal. After the punchline ends (7.476s), the remaining silence_pauses entries (8.07-8.31s, 8.63-9.66s at 1.03s, and 10.18-11.03s at 0.85s) fall after all dialogue and total roughly 2.1s of trailing silence, consistent with a hold-on-the-joke outro rather than a mid-dialogue pause."
+}

@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1779110644-3899783885185627077-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 8.6,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide shot framed through a dark hallway doorway, creating a natural vignette/frame-within-a-frame around the bright bedroom. Husband (long-nosed, black suit) stands in the foreground third at left, closer to camera and larger in frame; wife stands further back at center-right applying makeup at a vanity, facing away from camera toward a mirror off-screen. The doorway's dark side walls occupy roughly the left and right quarters of the frame, pushing all the action into a narrow vertical center strip. Headroom is generous above both characters. Dialogue is delivered entirely as burned-in caption text low in frame, not lip-synced close-ups. Held for the entire ~8.6s scene with no reframing, pan, or zoom — only the puppets' own gestures (head turns, phone-checking, makeup brush) create movement within the static frame."
+    },
+    {
+      "start": 8.6,
+      "end": 10.966667,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut from the wide two-shot to a symmetrical, dead-center frontal close-up of the husband's face and upper torso, phone held low in frame. Perfectly centered composition (not rule-of-thirds) emphasizes his deadpan, drooping expression and oversized nose/glasses. Background is a shallow-focus dim hallway with a door numbered '3', reinforcing the same apartment-hallway setting. Static, no camera movement; only his eyes/mouth animate."
+    },
+    {
+      "start": 10.966667,
+      "end": 12.033333333333333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black title card, not a photographed shot: centered yellow serif title 'LOW BATTERY PEOPLE' with smaller white 'CREATED BY NIN.' subtitle beneath, both horizontally centered in the lower-middle of frame against pure black. No camera movement (static graphic)."
+    }
+  ],
+  "framing_patterns_notes": "The episode relies on exactly two camera setups: a static wide two-shot that holds for the entire scene (no push-ins, pans, or coverage cuts during the dialogue exchange) and a single static frontal close-up used only for the final punchline beat, cut to abruptly rather than zoomed into. Both shots use doorways/hallway framing devices (the bedroom doorway in shot 1, the apartment door number '3' in shot 2) to keep the domestic setting legible. Dialogue throughout is conveyed via burned-in captions rather than dialogue-driven reframing, so all comedic timing comes from cut placement and character animation, not camera movement — the camera itself never moves in this reel."
+}

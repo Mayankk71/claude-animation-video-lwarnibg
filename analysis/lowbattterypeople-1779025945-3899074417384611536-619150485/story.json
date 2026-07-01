@@ -1,0 +1,42 @@
+{
+  "video_slug": "lowbattterypeople-1779025945-3899074417384611536-619150485",
+  "duration_sec": 11.006708,
+  "hook": {
+    "start": 0.0,
+    "end": 1.817,
+    "description": "Cold open on an overhead shot of a stop-motion couple in bed at night, phone-lit; the wife immediately states the accusation, 'You never flirt with me anymore,' with no preamble.",
+    "why_it_works": "Opens mid-argument with a relatable, universal grievance and zero setup dialogue, so the viewer is oriented in under 2 seconds and primed to want the husband's defense."
+  },
+  "setup": {
+    "start": 1.817,
+    "end": 5.368,
+    "description": "The husband (deadpan, stone-faced, arms crossed over the blanket) offers his defense: 'I literally forwarded you a meme at 2 AM,' shown via a close-up on his unimpressed, half-lidded expression while the wife keeps scrolling her phone.",
+    "why_it_works": null
+  },
+  "conflict": {
+    "start": 5.368,
+    "end": 6.431,
+    "description": "Implied beat rather than spoken dialogue: the silent pause after his 'meme at 2 AM' line, held on his frozen expression, lets the absurdity/inadequacy of his 'romantic gesture' land before she shuts it down.",
+    "why_it_works": null
+  },
+  "punchline": {
+    "start": 6.431,
+    "end": 6.893,
+    "description": "The wife delivers the dismissive one-line punchline, 'Grow up,' rejecting the meme-as-romance defense outright.",
+    "why_it_works": null
+  },
+  "ending": {
+    "start": 6.893,
+    "end": 11.006708,
+    "description": "No further dialogue; the camera holds on the husband's static, defeated deadpan face (top-down close-up) for several seconds as the beat settles, then the title card 'LOW BATTERY PEOPLE / Created by NIN.' fades in directly over his frozen expression to close the reel.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.817, "beat_type": "hook", "description": "Wife, lit by phone glow in bed, states the accusation: 'You never flirt with me anymore.'"},
+    {"start": 1.817, "end": 5.368, "beat_type": "setup", "description": "Husband's deadpan close-up as he defends himself: 'I literally forwarded you a meme at 2 AM.'"},
+    {"start": 5.368, "end": 6.431, "beat_type": "conflict", "description": "Held silent pause on husband's frozen expression after his weak defense, letting the tension/absurdity sit before her comeback."},
+    {"start": 6.431, "end": 6.893, "beat_type": "punchline", "description": "Wife's flat rejection: 'Grow up.'"},
+    {"start": 6.893, "end": 11.006708, "beat_type": "ending", "description": "Extended hold on the husband's blank, defeated face; title card 'LOW BATTERY PEOPLE / Created by NIN.' fades in over his face to close the reel."}
+  ],
+  "narrative_notes": "This is an extremely compressed 11-second reel (shorter than the typical 20-25s target), so the arc is fused: there is no separate visual 'setup' scene establishing normal life before the conflict -- the hook and setup are essentially the same held shot/exchange, with the wife's opening accusation doubling as both hook and inciting conflict statement. The 'conflict' beat here is not a new plot development but a beat of silence/held reaction on the husband's face between his line and her comeback -- there is no escalation, just a two-line volley (accusation -> weak defense -> dismissal). The punchline is a single dry line ('Grow up') rather than a visual gag or reveal. The ending is unusually long relative to total runtime (about 4 of 11 seconds, over a third of the video) because it holds on the husband's static face while the title card fades in, functioning as both the emotional 'beat' (his defeat) and the branding/credits moment simultaneously."
+}

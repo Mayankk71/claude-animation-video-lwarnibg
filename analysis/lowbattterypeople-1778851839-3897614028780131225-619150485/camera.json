@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1778851839-3897614028780131225-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.933333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Static wide two-shot in an empty underground parking garage; both characters centered slightly left-of-center walking toward camera-right, full bodies in frame with generous headroom under the low ceiling pipes. Symmetrical rows of columns recede on both sides, reinforcing a deep, empty, sterile space. Episode title card ('PARKING LOT', 'Episode 3') is overlaid as text, not a physical camera move."
+    },
+    {
+      "start": 2.933333,
+      "end": 8.4,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium shot framed through the silver elevator door track, which acts as a hard vertical crop on both sides of the frame like a secondary letterbox. The doors physically slide closed (going nearly black) and reopen within this single held camera position, so the doors' motion -- not the camera -- creates the only movement; the couple stands frozen in the exact same blocking (husband screen-left/background depth, wife screen-right/foreground) for the entire exchange, reinforcing the joke that time is passing without them moving."
+    },
+    {
+      "start": 8.4,
+      "end": 11.233333,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to an extreme close-up isolating only the husband's head and upper shoulders, centered and framed dead-on with his overlarge nose and glasses as the focal point; the wife is cropped out almost entirely except for a sliver of her shoulder/hair at the far right edge, visually sidelining her for the reaction beat. Background garage columns are thrown well out of focus, isolating the face against negative space."
+    },
+    {
+      "start": 11.233333,
+      "end": 12.3,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full-black end-card frame with centered gold serif title ('LOW BATTERY PEOPLE') and smaller white credit line ('CREATED BY NIN.') stacked beneath it; no scene geometry, pure static graphic card."
+    }
+  ],
+  "framing_patterns_notes": "The scene consistently escalates from an open, static wide two-shot establishing the location to a static medium shot with an in-frame architectural crop (the elevator doors), then punches in to an extreme close-up on a single character's face for the payoff line -- each stage narrows the frame and isolates the characters further without ever using camera pans, tilts, or zooms; all movement in the video is blocking/prop movement (walking, doors sliding) rather than actual camera motion, and every shot is centrally composed and locked-off."
+}

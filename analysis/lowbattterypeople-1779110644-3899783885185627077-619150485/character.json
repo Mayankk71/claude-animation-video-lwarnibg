@@ -1,0 +1,50 @@
+{
+  "video_slug": "lowbattterypeople-1779110644-3899783885185627077-619150485",
+  "characters": [
+    {
+      "name_or_role": "Man in the hallway (impatient partner)",
+      "personality_traits": [
+        "impatient and clock-watching, checks his phone repeatedly rather than entering the room",
+        "passive-aggressive rather than confrontational — voices frustration but keeps his distance in the doorway/hall",
+        "deadpan, low-energy delivery even when annoyed, never raises his voice or changes posture much",
+        "resigned/defeated by the end, absorbing her comeback without rebuttal"
+      ],
+      "emotional_range": [
+        "flat irritation (opening line 'Jane, how much longer?') to mild disbelief/exasperation (0:04, citing '45 minutes ago') to muted, deflated acceptance (0:09, after 'pick a struggle')"
+      ],
+      "expressions": [
+        "neutral, half-lidded eyes and a slight frown at 0:00 while first calling out to Jane",
+        "brows tighten and mouth opens into an incredulous grimace at 0:04-0:06 while stating '45 minutes ago'",
+        "returns to the same flat, half-lidded, slightly frowning default expression by 0:09, staring straight ahead in a static close-up as she delivers the final line"
+      ],
+      "gestures": [
+        "stands in the hallway/doorway threshold rather than entering the bedroom, one hand on hip",
+        "holds and repeatedly glances down at his phone (checking the time) throughout, most visibly around 0:04-0:06 when citing '45 minutes'",
+        "body stays almost entirely rigid/still in the final close-up shot — only the mouth and eyes move as he listens to her reply"
+      ],
+      "interactions_notes": "He initiates the exchange and holds nominal authority (asking, then correcting her with a fact/timestamp), but he never closes the physical distance — he remains framed in the hallway doorway looking in at her, and the camera cuts to a tight, static close-up on his face for the punchline, denying him any reaction shot of comeback. This staging visually cedes the power dynamic to her: he complains, she gets the last word, and the scene ends on his silent, unmoving face absorbing it."
+    },
+    {
+      "name_or_role": "Jane (partner getting ready)",
+      "personality_traits": [
+        "unbothered by his impatience, calmly continues her task rather than rushing",
+        "quick-witted and sharp — turns his complaint back on him with a rhetorical question and a blunt closing line",
+        "self-possessed/confident, treats the makeup routine as non-negotiable"
+      ],
+      "emotional_range": [
+        "mild annoyance at being nagged ('I said I was getting ready', delivered without turning around) to smug, knowing composure as she turns to face him and delivers the punchline"
+      ],
+      "expressions": [
+        "faces away from him and toward her vanity mirror at the start, expression unseen but posture relaxed and unhurried",
+        "at ~0:07-0:09 she turns her head/torso partway toward him, eyes half-lidded with a faint, confident smirk while asking 'pretty or punctual?' and 'pick a struggle'",
+        "holds a steady, satisfied half-smile through her final line, unlike his stiff neutrality"
+      ],
+      "gestures": [
+        "stands at a small vanity table cluttered with makeup/brushes, working a makeup brush up to her face in small repeated strokes throughout",
+        "does not stop her makeup application even while speaking — multitasking gesture reinforces her unhurried attitude",
+        "pivots her upper body toward him only for the rebuttal lines, a small but deliberate turn that visually signals she is now taking control of the exchange"
+      ],
+      "interactions_notes": "Jane keeps her back to him for most of the scene, physically prioritizing her task over eye contact, which itself is a power move — she does not need to face him to hold her ground. She only turns to meet his gaze when she goes on the offensive with her rhyming rhetorical question, and the scene's final beat and last word both belong to her, establishing her as the one who 'wins' the exchange despite being the one running late."
+    }
+  ]
+}

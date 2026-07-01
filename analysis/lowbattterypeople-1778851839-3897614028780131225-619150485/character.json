@@ -1,0 +1,53 @@
+{
+  "video_slug": "lowbattterypeople-1778851839-3897614028780131225-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (tall bespectacled man, SPEAKER_00)",
+      "personality_traits": [
+        "Deadpan provocateur — opens with a leading, ominous-sounding question ('You know what's dark?') purely to set up a petty punchline",
+        "Passive-aggressive and unresolved about an old grievance, using cosmic/mortal stakes ('one day we'll both die') to relitigate a trivial parking-lot argument",
+        "Performs casual nonchalance despite the barbed content of his line — delivers it while just walking, unbothered"
+      ],
+      "emotional_range": [
+        "flat/neutral conversational calm at the start",
+        "mock-somber gravity as he baits the 'dark' question",
+        "wide-eyed, close-mouthed smugness/tension as he delivers the jab about her never admitting she was wrong"
+      ],
+      "expressions": [
+        "0:00 neutral, slightly upturned mouth walking beside her (scene-0)",
+        "0:02 close-up, eyes wide and fixed forward, mouth slightly open mid-sentence, eyebrows raised in mock seriousness (scene-2 / periodic-8-9)",
+        "elevator doors closing on his still-neutral, faintly smiling face as the joke lands (periodic-6/7)"
+      ],
+      "gestures": [
+        "carries three grocery bags in one hand throughout, exaggeratedly long stick-thin arm swinging as he walks",
+        "head tilted slightly toward his wife when speaking, otherwise looking straight ahead",
+        "no hand gestures accompany the dialogue — stillness/rigidity emphasizes the deadpan delivery"
+      ],
+      "interactions_notes": "He initiates and controls the exchange (asks the leading question, then delivers the entire punchline uninterrupted), giving him the conversational upper hand/power position. He does not make sustained eye contact with her while delivering the line — he looks ahead or slightly down, which reads as passive-aggressive rather than confrontational. Physically he walks a half-step ahead or level with her, taller and visually dominant in frame."
+    },
+    {
+      "name_or_role": "wife (woman with hair bun, brown sweater)",
+      "personality_traits": [
+        "Straight-man/feed character — responds with minimal, genuine curiosity ('What?') that unwittingly invites the jab",
+        "Reads as composed and a little world-weary (heavy-lidded eyes, downturned default expression) rather than actively combative",
+        "Implied stubbornness (per the joke's premise) though she never gets a line to defend herself — her silence after the punchline is the joke's payoff"
+      ],
+      "emotional_range": [
+        "mild pleasant curiosity when asking 'What?'",
+        "neutral/blank as she listens to the full accusation",
+        "unreadable, half-lidded stillness in the elevator as the doors close — no visible reaction shown on screen, letting the joke land on omission"
+      ],
+      "expressions": [
+        "0:02 slight smile, eyebrows raised, asking 'What?' with genuine interest (periodic-2)",
+        "0:04-0:08 progressively flatter, heavy-lidded stare as the husband's line unfolds (periodic-6/7/9)",
+        "mouth slightly open, motionless by 'argument' (periodic-9) — no smile, no visible rebuttal, ambiguous/frozen reaction as elevator closes"
+      ],
+      "gestures": [
+        "carries two grocery bags, one in each hand, arms hanging naturally",
+        "walks with a slight forward lean/tired posture, heels clicking",
+        "no reactive gesture (no hand to face, no head shake) even as she's accused of never admitting fault — stillness is played for deadpan comic effect"
+      ],
+      "interactions_notes": "She is reactive rather than driving the scene — her only line is the one-word prompt that hands her husband the floor. There is no direct eye contact between them during his monologue; both face forward toward the elevator/camera, a staging choice that turns the insult into something delivered 'at' her rather than 'to' her face, heightening the passive-aggressive, marriage-autopilot tone."
+    }
+  ]
+}

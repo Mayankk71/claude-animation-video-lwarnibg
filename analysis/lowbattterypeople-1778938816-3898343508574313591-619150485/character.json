@@ -1,0 +1,78 @@
+{
+  "video_slug": "lowbattterypeople-1778938816-3898343508574313591-619150485",
+  "characters": [
+    {
+      "name_or_role": "Narrator (voiceover, SPEAKER_00)",
+      "personality_traits": [
+        "Wry and deadpan — delivers a cynical observation ('someone had to take that video 14 times') in a calm, matter-of-fact tone rather than an exaggerated comic one",
+        "Self-aware/confessional — opens with 'Sometimes I look at happy couples online and smile,' framing herself as a relatable, slightly jaded social-media observer",
+        "Economical with words — only two short sentences carry the entire 20-25s piece, relying on the visual gag (the couple's dead-eyed, joyless expressions) to land the joke rather than verbal punchlines"
+      ],
+      "emotional_range": [
+        "Wistful/pleasant at 0:00 ('smile') to knowing/cynical by 0:05 ('someone had to take that video 14 times')"
+      ],
+      "expressions": [
+        "Not visually depicted on screen — voice only, so vocal delivery is even and unhurried throughout, with a slight dry lift on '14 times' implied by the punchline placement"
+      ],
+      "gestures": [
+        "N/A — narrator is heard, not seen"
+      ],
+      "interactions_notes": "The narrator functions as an omniscient commentator over the scene; she never addresses the couple directly, and the couple gives no reaction to her line — the irony is purely for the viewer, created by contrasting her words about 'smiling happy couples' with the couple's visibly miserable faces on screen."
+    },
+    {
+      "name_or_role": "Woman in brown sweater (spa client, phone in hand)",
+      "personality_traits": [
+        "Checked-out and joyless despite being in a pampering setting (pedicure spa chair) — she is scrolling her phone rather than engaging with her surroundings or her partner",
+        "Physically tense/uncomfortable — heavy-lidded, downturned eyes and a slightly open, slack mouth throughout suggest boredom or low-grade misery rather than relaxation",
+        "Passive — she never turns to speak to the man beside her or reacts to him; her attention stays locked on the phone screen"
+      ],
+      "emotional_range": [
+        "Flat/bored (default resting expression, half-lidded eyes) → mildly startled/open-mouthed exclaiming reaction to something on her phone mid-video → returns to flat, distant expression by the end"
+      ],
+      "expressions": [
+        "Neutral droopy-eyed stare at phone (throughout) → mouth drops open as if mildly surprised/exasperated by something she reads on screen (~mid-clip, coincides with 'remember'/'14' captions) → settles back to a tired, half-lidded gaze",
+        "Eyebrows raised in a low, tired arch the entire time — never a full smile despite the narration referencing smiling at 'happy couples'"
+      ],
+      "gestures": [
+        "Holds phone with both hands at chest height, thumbs near the screen, in a fixed scrolling posture that barely changes across the sequence",
+        "Feet soaking in a bubbling pedicure basin, legs still — no fidgeting, reinforcing a checked-out, disengaged body language"
+      ],
+      "interactions_notes": "Never makes eye contact with the man beside her; both sit in parallel, side-by-side spa chairs but exist in separate bubbles — she's absorbed in her phone, he stares blankly ahead. There is no verbal or physical exchange between them at all, which is the visual joke underscoring the narrator's line about the effort behind a 'happy couple' photo."
+    },
+    {
+      "name_or_role": "Man in black suit (spa client, cucumber water)",
+      "personality_traits": [
+        "Stiff and formal even in a relaxation setting — remains fully suited with a tie on while soaking his feet, suggesting an inability to unwind or a performative kind of 'self-care'",
+        "Detached/resigned — his half-lidded eyes and neutral downturned mouth read as tired or checked-out rather than content, mirroring his partner's disengagement",
+        "Quietly long-suffering — holds his cucumber water almost like a prop, sipping/posing rather than genuinely enjoying it"
+      ],
+      "emotional_range": [
+        "Consistently low-energy and weary from start to finish — no strong emotional swing, just a subtle flicker of the eyes toward his partner mid-clip before returning to a fixed, glassy-eyed stare"
+      ],
+      "expressions": [
+        "Round thick glasses magnify heavy-lidded, tired eyes; neutral/slightly frowning mouth throughout → brief sideways glance toward the woman around mid-clip → reverts to staring straight ahead, expressionless"
+      ],
+      "gestures": [
+        "Holds a glass of cucumber water motionless at chest level for nearly the entire shot — no drinking, just holding, reinforcing a posed/performative stillness",
+        "Feet soaking in the basin identically to his partner, one arm resting on the chair's armrest, otherwise almost no body movement across the whole sequence"
+      ],
+      "interactions_notes": "Sits in the same static two-shot as the woman, close in physical proximity but with no touching, talking, or eye contact between them — the couple's total lack of interaction with each other visually delivers the narrator's punchline about the manufactured nature of 'happy couple' content."
+    },
+    {
+      "name_or_role": "Background woman at wash basin (minor/incidental character)",
+      "personality_traits": [
+        "Background filler figure establishing the salon/spa setting — no dialogue or narrative role"
+      ],
+      "emotional_range": [
+        "Not distinguishable — kept out of focus in the background throughout"
+      ],
+      "expressions": [
+        "Blurred/out of focus for the entire video; no discernible expression changes"
+      ],
+      "gestures": [
+        "Appears seated at a wash basin in the blurred background, static throughout"
+      ],
+      "interactions_notes": "Has no interaction with the two foreground characters or the narrator; purely set dressing that reinforces the salon/spa environment."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1778851839-3897614028780131225-619150485",
+  "duration_sec": 12.393375,
+  "hook": {
+    "start": 0.0,
+    "end": 2.933333,
+    "description": "Two stop-motion claymation figures (a tall thin man in a suit and glasses, a woman in a brown sweater) walk side by side through an empty, dimly-lit parking garage, both carrying plastic grocery bags. The wife says 'You know what's dark?' and the husband replies 'What?' The mundane visual (a couple walking to their car) is undercut by the ominous word 'dark', creating immediate curiosity about what she means.",
+    "why_it_works": "Opens mid-conversation with a loaded, ambiguous question ('You know what's dark?') over a visually unremarkable scene, which creates a curiosity gap in under 2 seconds — viewers expect a literal answer (the garage) but the phrasing hints at something else, baiting them to keep watching for the reveal."
+  },
+  "setup": {
+    "start": 2.933333,
+    "end": 3.675,
+    "description": "Brief beat as the pair continue walking in silence toward a waiting elevator, the husband's expectant/blank expression held on screen just before his wife delivers her answer. This is a very short bridge beat rather than a full scene."
+  },
+  "conflict": {
+    "start": 3.675,
+    "end": 8.4,
+    "description": "The wife answers her own question, deadpan: 'One day we'll both die, and you'll still never admit you were wrong in that parking lot argument.' The couple has now stopped in front of the elevator doors, framed head-on, as she delivers this. The 'darkness' she meant is existential/relational, not literal — revealing an old, unresolved marital grudge disguised as a philosophical musing."
+  },
+  "punchline": {
+    "start": 8.4,
+    "end": 11.233333,
+    "description": "Hard cut to a tight close-up on the husband's face — eyebrows raised, eyes wide and startled, mouth agape in a stunned, silent grimace. No new dialogue; the punchline is entirely the held reaction shot, letting the absurd specificity of 'that parking lot argument' and his caught-off-guard silence land the joke."
+  },
+  "ending": {
+    "start": 11.233333,
+    "end": 12.393375,
+    "description": "The husband's stunned close-up freeze-frames as the video ends on the joke with no resolution or reply shown.",
+    "cta_or_text_overlay": "Title card overlay fades in over the frozen final shot: 'LOW BATTERY PEOPLE' (yellow serif) / 'CREATED BY NIN.' (white serif) — a branding/credit card, not a CTA."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.933333, "beat_type": "hook", "description": "Wife asks 'You know what's dark?' while the couple walks through an empty parking garage carrying groceries; husband replies 'What?'"},
+    {"start": 2.933333, "end": 3.675, "beat_type": "setup", "description": "Silent beat as they approach the elevator, husband waiting for her answer."},
+    {"start": 3.675, "end": 8.4, "beat_type": "conflict", "description": "Wife delivers the real line, stopped at the elevator doors: 'One day we'll both die, and you'll still never admit you were wrong in that parking lot argument' — reframing 'dark' as an unresolved relationship grudge."
+    },
+    {"start": 8.4, "end": 11.233333, "beat_type": "punchline", "description": "Cut to a tight close-up on the husband's face, frozen in wide-eyed, open-mouthed shock — the silent reaction is the joke's payoff."},
+    {"start": 11.233333, "end": 12.393375, "beat_type": "ending", "description": "Freeze-frame on husband's stunned face with 'LOW BATTERY PEOPLE / CREATED BY NIN.' title card overlaid as the video ends."}
+  ],
+  "narrative_notes": "At 12.4s this reel is roughly half the length of a typical 20-25s reel, so the arc is heavily compressed: setup is reduced to a near-instant one-beat pause (0.7s) between the hook question and its answer, and there is no separate 'ending' action beyond a freeze-frame plus branding card — the punchline and ending are effectively fused, with the ending beat being purely the held final frame plus text overlay rather than any new story action. The entire piece is a single two-line misdirection joke (literal 'dark' vs emotional 'dark') followed by a wordless reaction shot; there is no dialogue in the punchline or ending beats, only visual performance and the scene-boundary hard cut into a much tighter close-up framing."
+}

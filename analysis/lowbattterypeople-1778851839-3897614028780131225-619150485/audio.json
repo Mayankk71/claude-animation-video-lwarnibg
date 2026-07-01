@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1778851839-3897614028780131225-619150485",
+  "voice_delivery_notes": "Inferred from transcript phrasing only (no direct audio access). Three-beat exchange: a flat, deadpan setup line ('You know what's dark?'), a clipped one-word reply ('What?'), then a long deadpan punchline delivered in a single unbroken breath ('One day we'll both die, and you'll still never admit you were wrong in that parking lot argument.'). The structure reads as classic dry, monotone stand-up-style delivery — setup/hook, feed line, then an escalating run-on punchline with no comedic uplift in wording, implying a flat affect held all the way to the end rather than a vocal 'punch' on the last words.",
+  "pitch_energy_notes": "Inferred, not directly observed. The short 1-word 'What?' segment (0.26s) suggests a quick, low-effort feed line, likely low energy/flat pitch consistent with deadpan delivery. The punchline segment is long (4.8s for 18 words) which implies a steady, unhurried pace rather than a rising, excited pitch — consistent with dry/deadpan comedic timing rather than an energetic delivery.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music cues are evidenced in the transcript or silence data; no keyframe or on-screen text evidence was available to confirm background music, so presence is not claimed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "Per silence_pauses.json, several short pauses (~0.2-0.6s) occur early in the clip around the setup/feed exchange (e.g. 0.33-0.54s, 1.27-1.48s, 1.49-2.06s, 2.37-2.80s), consistent with natural conversational beats between 'You know what's dark?' and 'What?'. The longest silence in the clip is 1.21s, spanning 11.10s-12.31s, which falls right after the punchline line ends (punchline text runs to 8.52s, with smaller pauses at 8.53-8.77s, 9.20-9.43s, and 9.63-9.80s trailing it) — this final ~1.2s hold is the clip's most prominent silence and functions as the post-punchline beat for the joke to land."
+}

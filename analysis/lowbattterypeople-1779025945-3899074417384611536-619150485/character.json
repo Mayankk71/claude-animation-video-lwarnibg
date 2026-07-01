@@ -1,0 +1,52 @@
+{
+  "video_slug": "lowbattterypeople-1779025945-3899074417384611536-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (silent partner, wooden/carved figure)",
+      "personality_traits": [
+        "passive and withdrawn — never speaks a single line despite being directly addressed",
+        "quietly wounded/resigned rather than argumentative; absorbs the accusation without rebuttal",
+        "physically closed-off, signaling emotional guardedness"
+      ],
+      "emotional_range": [
+        "flat resignation (default state, held through entire scene)",
+        "mild hurt/melancholy implied by downturned mouth carving"
+      ],
+      "expressions": [
+        "static downturned frown carved into a wood-grain face, unchanging from scene-0 through the closing title card",
+        "half-lidded, sidelong stare directed at the wife's lit phone screen rather than at her face"
+      ],
+      "gestures": [
+        "arms crossed tightly over the blanket at chest level, held the entire time (0:00-0:07)",
+        "no head turn toward his wife even while being spoken to — gaze stays fixed toward the phone glow",
+        "no hand or body movement at all across the sequence — total physical stillness contrasts with his wife's active gesturing"
+      ],
+      "interactions_notes": "He is positioned upstage-left in the two-shot, literally rendered as a stiff, carved wooden figure (visual metaphor for being 'wooden'/unresponsive as a partner), while she is a soft, textured, animated figure — an intentional material contrast reinforcing the joke that he is emotionally 'checked out.' He never reciprocates eye contact; his crossed arms form a closed posture that mirrors his silence. He is the butt of the joke but never rebuts it, giving his wife total conversational control."
+    },
+    {
+      "name_or_role": "wife (phone-scrolling partner)",
+      "personality_traits": [
+        "sarcastic and passive-aggressive — opens with a pointed accusation ('You never flirt with me anymore')",
+        "self-justifying and dismissive, treating a 2AM meme forward as adequate romantic effort",
+        "deflects blame back onto her husband ('Grow up') rather than engaging with the criticism she implies",
+        "distracted/divided attention — delivers an emotionally loaded line while still scrolling her phone"
+      ],
+      "emotional_range": [
+        "mock-wounded/accusatory at the open (0:00)",
+        "defensive self-satisfaction while citing the meme (0:03-0:05)",
+        "curt dismissiveness/annoyance on the closing 'Grow up.' (0:06)"
+      ],
+      "expressions": [
+        "eyes wide, brows slightly raised in accusation at 0:00 ('You never flirt with me anymore')",
+        "small self-satisfied smirk/parted lips while recalling the meme at 0:03",
+        "flat, unimpressed half-lidded look delivering 'Grow up' at 0:06, mouth barely moving"
+      ],
+      "gestures": [
+        "holds phone up close to her face throughout, thumb tapping/scrolling continuously — the phone never leaves her hands",
+        "head propped on pillow, angled toward the phone rather than her husband, only occasional sideways glance toward him",
+        "no hand gesture toward her husband at all — all physical engagement is with the device, not the person she is addressing"
+      ],
+      "interactions_notes": "She drives the entire exchange verbally while her body language (phone-fixated, minimal eye contact) contradicts her own complaint about lack of intimacy — the visual irony being that she is the one failing to engage. She holds the conversational power (all three lines are hers) while he remains mute and immobile; the dynamic is one-sided, with her jabbing and him simply absorbing it, reinforcing the sketch's punchline about mismatched, phone-mediated 'modern flirting.'"
+    }
+  ]
+}

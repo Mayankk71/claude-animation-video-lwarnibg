@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1778938816-3898343508574313591-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off symmetrical two-shot of the couple in matching salon pedicure chairs, dead center-framed with equal headroom on both. A third character (the wife, glimpsed via mirror reflection) sits blurred in the left background, establishing the salon as a shared/public space. Bottom of frame cuts off at the foot-soak bowls; subtitle burned in at lower-center between the two chairs so it doesn't overlap either face."
+    },
+    {
+      "start": 4.4,
+      "end": 7.533333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cut in tighter on the same static camera position/angle as scene 1 — no pan or dolly, just a harder lens/crop. Woman is placed left-of-center per rule-of-thirds and fully legible; the man's face is pushed hard against the right frame edge and partially cropped, turning him into a reactive foreground silhouette rather than a full subject. Background salon-chair woman still visible bottom-left for spatial continuity."
+    },
+    {
+      "start": 7.533333,
+      "end": 10.0,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a dead-center close-up isolating the husband's face and glass of cucumber water, cropping the wife out of frame entirely for the punchline reaction. Symmetrical framing with generous headroom above his slicked hair, deep-focus salon row blurred behind him. His deadpan/unimpressed expression is the sole focal point."
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Black title/credit card ('LOW BATTERY PEOPLE / Created by Nin.') centered on screen — no live-action camera framing, pure typographic end card."
+    }
+  ],
+  "framing_patterns_notes": "The sequence tightens shot by shot rather than cutting between angles: wide symmetrical two-shot -> tighter two-shot crop (same static camera position) -> isolated close-up on the reacting character, a punch-in progression that ends on the deadpan face for the joke's payoff. Every live-action shot is completely static (no pans, tilts, or zooms detected across periodic frames within a scene) — comedic timing is carried entirely by cuts and dialogue, not camera motion. Compositions are consistently center-weighted and symmetrical, with characters' faces kept in the vertical middle of frame and subtitles placed low so they never cross a face."
+}

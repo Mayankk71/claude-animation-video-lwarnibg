@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1778938816-3898343508574313591-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.231,
+      "end": 2.893,
+      "mechanism": "recognition",
+      "description": "Setup line delivered in warm, sincere deadpan VO: 'Sometimes I look at happy couples online and smile' over a shot of a bored-looking woman scrolling her phone in a nail-salon pedicure chair.",
+      "why_it_lands": "The mismatch between the wistful, genuine wording of the line and the visually unbothered, half-lidded expression on the felt/clay woman's face (eyes drooping, mouth slightly open, clearly numb from routine pampering) primes the audience to expect a wholesome sentiment about social media envy before the rug gets pulled."
+    },
+    {
+      "start": 2.937,
+      "end": 4.754,
+      "mechanism": "awkward_silence",
+      "description": "A near 1.8-second combined pause (0.537s + 0.763s gaps) sits between the setup and the punchline, with the camera holding on the woman's unimpressed, glassy stare while she keeps thumbing her phone.",
+      "why_it_lands": "The pause is unusually long for an 11-second reel (over 15% of total runtime spent in silence here), forcing the viewer to sit with the deadpan stare and start guessing the twist — classic comic timing where the hold itself becomes the joke's runway rather than dead air."
+    },
+    {
+      "start": 4.734,
+      "end": 7.476,
+      "mechanism": "irony",
+      "description": "Punchline: 'Then I remember someone had to take that video 14 times' — cutting to the stiff, joyless husband/partner in the next salon chair holding a cucumber-water glass with a flat, exhausted deadpan expression (heavy brow, downturned mouth, eyes at half-mast).",
+      "why_it_lands": "The specific, oddly precise number '14 times' (not 'a few times') sells the exasperation of real relationship content-creation, and it directly inverts the wholesome premise of the first line — the very same image that reads as spontaneous happiness online is revealed to be manufactured labor, visualized by the man's deadened stare rather than any effort or joy."
+    },
+    {
+      "start": 6.889,
+      "end": 7.533,
+      "mechanism": "deadpan",
+      "description": "Final beat holds on the man's static, half-lidded, slightly frowning face in close-up as the VO finishes, with no reaction shot, laugh, or button — just his blank tolerance of the cucumber-water spa treatment.",
+      "why_it_lands": "The complete lack of a reaction (no eye-roll, no sigh visible, just stillness) mirrors the exhaustion described in the line itself — the joke resolves by showing rather than telling the fatigue, letting the character's frozen expression do double duty as both the visual gag and the emotional truth of the line."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-joke, two-line micro-sketch: a wholesome setup line paired with a mundane, slightly bored visual (woman texting in a pedicure chair) sets up an expectation of genuine social-media envy, which the punchline deflates by revealing the mechanics behind 'candid' happy-couple content. The comedy relies almost entirely on the gap between stated sentiment and character body language (drooping, half-lidded 'seen it all' eyes on both characters throughout) rather than any physical gag or escalation — it's a one-beat relatable observation about performative social media happiness, structured like a classic setup/misdirect/reveal joke but delivered with total facial stillness (deadpan) from both clay characters, letting the ~1.8s pause between lines do the comedic heavy lifting before the ironic twist lands."
+}

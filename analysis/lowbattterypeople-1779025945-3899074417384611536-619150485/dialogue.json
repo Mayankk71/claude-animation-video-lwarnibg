@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1779025945-3899074417384611536-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 5.67,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.272,
+      "end": 1.817,
+      "text": "You never flirt with me anymore.",
+      "word_count": 6,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.121,
+      "end": 5.368,
+      "text": "I literally forwarded you a meme at 2 AM.",
+      "word_count": 9,
+      "pause_before_sec": 1.25,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.431,
+      "end": 6.893,
+      "text": "Grow up.",
+      "word_count": 2,
+      "pause_before_sec": 1.01,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Only one diarized speaker (SPEAKER_00) appears in the transcript across all 3 lines, so there are no cross-speaker interruptions; this reads as a single-character monologue/complaint delivered in three beats rather than a back-and-forth exchange. Each line is separated by a real, matched silence gap (not a jump cut) — the transcript's inter-line gaps of 1.30s and 1.06s line up closely with detected pauses of 1.25s and 1.01s respectively, indicating the pauses are deliberate reaction beats within the dialogue, not just scene boundaries. Two additional silence windows (2.27s at 6.825-9.097s and 1.36s at 9.540-10.903s) occur entirely after the final line ends, marking a trailing reaction/hold shot rather than a pause before speech.",
+  "speech_rhythm_notes": "The punchline 'Grow up.' is only 2 words -- the shortest line by far (vs. 6 and 9 words for the setup lines) -- and is delivered after a full 1.01s pause, immediately following the longest spoken line (9 words), creating a rapid rise-then-snap rhythm: buildup line, defensive justification line, then a clipped 2-word dismissal. The first pause (1.25s, before line 2) is longer than the second (1.01s, before the punchline), suggesting the gap before the justification line is used to let the accusation land, while the shorter beat before the punchline keeps the cutting remark snappy rather than dragged out."
+}
