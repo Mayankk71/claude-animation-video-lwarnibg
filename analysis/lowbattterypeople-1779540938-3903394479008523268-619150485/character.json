@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1779540938-3903394479008523268-619150485",
+  "characters": [
+    {
+      "name_or_role": "Woman (long-nosed wife, brown turtleneck, hair in a messy bun) — SPEAKER_00",
+      "personality_traits": [
+        "Deadpan and dry — delivers an escalating, faintly absurd argument ('we killed a cactus') in a flat, unbothered tone rather than an anxious one",
+        "The rational/pragmatic one in the pair — she is the one doing the talking and the reasoning, effectively 'building the case' against having kids",
+        "Self-aware/mildly self-deprecating about the couple's incompetence (framing their own failures as evidence)",
+        "Low-energy, sedentary — stays in nearly the same slouched position the entire scene while eating takeout, suggesting comfort/resignation over urgency"
+      ],
+      "emotional_range": [
+        "Mild wistful curiosity (opening question about kids)",
+        "Flat matter-of-fact resignation while listing the couple's failures",
+        "Muted, almost bemused defeat by the final line, without ever raising her voice or changing posture"
+      ],
+      "expressions": [
+        "0:00 neutral, half-lidded eyes gazing toward her partner as she asks the question",
+        "0:03-0:07 eyebrows stay level, small closed-mouth almost-smile while stating the cactus/watering facts — no distress, treating disaster as mundane",
+        "0:08-0:11 gaze drifts to a slight middle-distance stare during the final 'has opinions' line, expression unchanged — the joke lands through her lack of reaction, not through her acting it"
+      ],
+      "gestures": [
+        "Hands folded/resting in her lap throughout, barely moving",
+        "Slight head tilt toward the man at the start of the exchange, then returns to facing forward",
+        "No hand gestures accompany her dialogue — stillness is the dominant physical choice"
+      ],
+      "interactions_notes": "She initiates the only spoken dialogue and functions as the scene's 'straight man' feeding the setup and the punchline. She glances toward her partner once at the start (as if genuinely asking him) but does not maintain sustained eye contact during her monologue, instead looking forward at the TV/middle distance, which reads as her thinking out loud rather than needing his input. She holds conversational control the entire time; he never gets to speak, reinforcing a one-sided 'venting to' dynamic rather than a back-and-forth debate."
+    },
+    {
+      "name_or_role": "Man (long-nosed husband, black suit and tie, round glasses) — silent reactor, no dialogue",
+      "personality_traits": [
+        "Purely reactive/non-verbal — never speaks, but is the visual engine of the joke, exaggeratedly reacting to each fact his partner lists",
+        "High-strung relative to his partner — his face and posture do all the emotional work she withholds, creating a deadpan-narrator/hyperactive-reactor contrast",
+        "Formally dressed (suit and tie) at home eating fast food on the couch, suggesting rigidity/properness undercut by the slovenly domestic scene — a visual sight gag about mismatched appearances vs. reality"
+      ],
+      "emotional_range": [
+        "Baseline weary, heavy-lidded exhaustion (matching hers) at rest",
+        "Sudden alarm/incredulity spikes each time a new damning fact is mentioned (killed cactus, forgot to water, 'has opinions')",
+        "Mouth drops into an open, almost horrified 'gah' shape repeatedly, then snaps back to tired neutral between beats"
+      ],
+      "expressions": [
+        "0:00 tired, half-closed eyes, glasses low on nose, neutral/bored while she asks about kids",
+        "0:02-0:03 eyebrows shoot up, mouth opens in shock at 'killed a cactus'",
+        "0:05-0:06 glasses slide further down as his head cranes back and mouth gapes again on 'forgot'",
+        "0:08-0:11 sustained wide-eyed, open-mouthed grimace through 'not ready... has opinions' — his most extreme expression of the scene, held on the final beat as the punchline lands"
+      ],
+      "gestures": [
+        "Sits rigid with hands tucked near his lap/side, minimal movement for most of the scene",
+        "Points a finger toward her/the coffee table sharply on the word 'forgot' — his one deliberate, punctuating gesture",
+        "Head tips back and up repeatedly as his mouth opens, an exaggerated 'recoil' motion used as the visual punchline beat each time"
+      ],
+      "interactions_notes": "He never speaks and rarely looks directly at her — his gaze and head are angled up and away (toward the TV/middle distance) as if reacting to the *information* rather than to her as a person, which makes him feel more like an audience surrogate/reaction shot than a conversational partner. The power dynamic is inverted from typical sitcom framing: she is calm and holds the floor; he is dressed more formally/'seriously' but is emotionally overwhelmed and silent, letting his face and single pointing gesture substitute for a rebuttal he never gives."
+    }
+  ]
+}

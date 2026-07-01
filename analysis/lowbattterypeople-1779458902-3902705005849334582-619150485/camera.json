@@ -26,9 +26,8 @@
       "start": 2.9,
       "end": 6.4,
       "shot_type": "medium",
-      "camera_movement": "static",
-      "camera_movement_note": "very slight creeping push-in across the shot",
-      "composition_notes": "Husband pushed to left-of-center in medium shot, tightly cropped at the shoulders with heavy headroom removed (his face nearly touches the top of frame, exaggerating his long nose); wife is a soft-focus profile sliver on the right edge sipping wine, acting as a reaction anchor rather than a subject. A second background guest and blurred foreground figure remain in the far left corner. Over the course of the scene the framing tightens marginally (his face fills slightly more of the frame by the end), consistent with a slow creep-in rather than a hard zoom."
+      "camera_movement": "zoom_in",
+      "composition_notes": "Husband pushed to left-of-center in medium shot, tightly cropped at the shoulders with heavy headroom removed (his face nearly touches the top of frame, exaggerating his long nose); wife is a soft-focus profile sliver on the right edge sipping wine, acting as a reaction anchor rather than a subject. A second background guest and blurred foreground figure remain in the far left corner. Framing tightens gradually across the shot (his face fills slightly more of the frame by the end) — a slow creeping push-in rather than a hard zoom or cut."
     },
     {
       "start": 6.4,
@@ -42,8 +41,8 @@
       "end": 11.8,
       "shot_type": "other",
       "camera_movement": "static",
-      "composition_notes": "Plain black card, no camera/scene at all: show title 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' centered upper-middle, with a small yellow tape-graphic 'NEW EPISODE DAILY' badge centered below — pure graphic/text end-card layout, not a photographed shot."
+      "composition_notes": "Plain black card, no camera/scene at all: title 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' centered upper-middle, with a small yellow tape-graphic 'NEW EPISODE DAILY' badge centered below — pure graphic/text end-card layout, not a photographed shot."
     }
   ],
-  "framing_patterns_notes": "The joke is built on a wide-to-close reverse-shot pattern: the video opens and re-establishes on a static wide two-shot of the couple, holds on a medium/tightening shot of the husband delivering the setup line, then cuts hard to an extreme-tight close-up of the wife's deadpan face for the punchline/reaction — close-up is reserved exclusively for the reaction beat, never the setup. Foreground is consistently cluttered with out-of-focus bystanders (other party guests) framing every shot, reinforcing the 'crowded party' setting without ever pulling focus. Headroom is intentionally tight/cropped on both leads throughout, exaggerating their elongated nose/face character design. Camera itself never pans, tilts, or racks zoom mid-shot — all movement is via hard cuts between static setups, with only a very subtle creeping push-in on the longest shot."
+  "framing_patterns_notes": "The joke is built on a wide-to-close reverse-shot pattern: the video opens and re-establishes on a static wide two-shot of the couple, holds on a medium shot that slowly creeps in on the husband delivering the setup line, then cuts hard to an extreme-tight close-up of the wife's deadpan face for the punchline/reaction — close-up is reserved exclusively for the reaction beat, never the setup. Foreground is consistently cluttered with out-of-focus bystanders (other party guests) framing every shot, reinforcing the 'crowded party' setting without ever pulling focus. Headroom is intentionally tight/cropped on both leads throughout, exaggerating their elongated nose/face character design. Camera itself never pans or tilts — all shot changes are hard cuts between static setups, with only one shot (the setup-line medium shot) carrying a slow, barely perceptible push-in."
 }

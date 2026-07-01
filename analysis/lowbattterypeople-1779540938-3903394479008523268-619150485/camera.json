@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779540938-3903394479008523268-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.233333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off symmetrical two-shot: woman on the left in the brown armchair, man on the right in the dark armchair, old TV playing a black-and-white wedding scene dead-center in the background between them. Coffee table clutter (takeout boxes, remote, folded laundry, potted cactus) fills the lower third and visually separates the couple. Title card 'LOW BATTERY PEOPLE' and 'Episode 12 / Parenting Eligibility Test' burn in over this same static frame, so the shot holds while text changes."
+    },
+    {
+      "start": 4.233333,
+      "end": 11.6,
+      "shot_type": "medium",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Slow, continuous push-in from the same static two-shot toward a tight close-up centered on the man's face as he speaks his line; by the end of the scene his hooked nose and glasses nearly fill the frame and his head is cropped at the top of frame (no headroom). The woman stays in the left third throughout, shrinking out of relevance as the crop tightens on him, visually demoting her to a reaction prop while he delivers the punchline. Background TV and window de-focus further as the lens pushes in, deepening the falloff."
+    },
+    {
+      "start": 11.6,
+      "end": 12.733333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cuts back out to the same locked medium two-shot used at the open (slightly wider than the zoomed end of the prior shot), both characters restored to frame with deadpan expressions, title text 'LOW BATTERY PEOPLE / Created by Nin.' and a 'NEW EPISODE DAILY' badge stamped over the bottom third for the outro."
+    },
+    {
+      "start": 12.733333,
+      "end": 14.733333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure black card, no live-action or animated frame at all — just centered white/gold title and channel branding text with the episode-badge graphic below it, used as the outro slate."
+    }
+  ],
+  "framing_patterns_notes": "The whole gag rides on a single unbroken push-in: the video opens and closes on the identical static two-shot composition (couch, TV, coffee-table clutter) and the only camera movement in the entire piece is one slow zoom into the man's face timed to land tight on him right as he delivers the joke line, after which it cuts straight back out to the establishing static frame for the outro card. There is no cross-cutting between the two characters and no coverage change on the woman at all — she is only ever seen in the same medium two-shot, reinforcing that the camera's sole job here is to isolate the punchline-teller."
+}

@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1779368671-3901432015895623965-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 5.9,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot of the widow and the tall funeral-suit character standing at the graveside, shot through an out-of-focus white-flower arch in the extreme foreground (top-left and bottom corners). Characters are placed center-right of frame, both facing screen-right toward off-frame gravestones/mourners; headroom is generous above their heads leaving open sky. A blurred mourner is visible at the far right edge, cropped by the frame. The floral foreground never moves or refocuses, confirming a static camera for the full 5.9s despite three dialogue lines playing over it."
+    },
+    {
+      "start": 5.9,
+      "end": 6.733333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a static close-up on the woman's face and upper torso, camera roughly at eye level. She is framed left-of-center with the man's nose/chin entering hard-focus from the right edge of frame, his black coat sliver visible bottom-right — an over-the-shoulder-style crowd without showing his full face. Headroom is tight, cropping just above her hair bun."
+    },
+    {
+      "start": 6.733333,
+      "end": 6.933333,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "other",
+      "composition_notes": "Single-frame whip/rack-focus insert: the man's jaw and nose tip fill the left of frame in soft focus while background elements blur further; a blurred mourner is visible upper right. Functions as a jump-cut flash rather than a held shot, syncing to the word 'DON'T' before snapping back to the previous close-up composition."
+    },
+    {
+      "start": 6.933333,
+      "end": 9.733333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Returns to the identical static close-up framing used at 5.9-6.73s (same eye-line, same crop on the woman's face and shoulders with the man's nose intruding from the right). Held through 'DON'T...MORTGAGE.' with no reframing — the brief insert frame at 6.73-6.93s reads as a stutter/flash cut inside what is otherwise one continuous held composition."
+    },
+    {
+      "start": 9.733333,
+      "end": 10.6,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Static close-up on the man's droopy-eyed face centered in frame with a gold 'LOW BATTERY PEOPLE' title card and 'CREATED BY NIN.' credit overlaid across the lower nose/mouth area; his frown is left fully visible above the text, giving the branding a deadpan reaction-shot backdrop."
+    },
+    {
+      "start": 10.6,
+      "end": 12.7,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black-background end card, no live-action/animated framing — static graphic layout with the show logo centered and a yellow 'NEW EPISODE DAILY' tape banner beneath it, both vertically centered in the lower half of the 9:16 frame."
+    }
+  ],
+  "framing_patterns_notes": "The video relies on exactly two setups for the entire joke: a static wide establishing two-shot (seen through a blurred flower foreground frame) that holds for nearly half the runtime while multiple lines of setup dialogue play over it, then a single hard cut to a tight static close-up on the reacting character (the woman) that is held for the punchline delivery, briefly interrupted by a one-frame rack-focus insert on the other character's face for emphasis on 'DON'T.' There is no camera movement anywhere in the piece (no pans, tilts, zooms, or handheld shake) — all shot changes are hard cuts between static setups, and the framing shift from wide to close-up is itself used as the escalation device leading into the punchline."
+}

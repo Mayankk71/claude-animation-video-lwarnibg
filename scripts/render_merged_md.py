@@ -39,8 +39,8 @@ def render(m: dict) -> str:
     out.append("\n## Dialogue\n\n")
     for l in dialogue.get("lines", []):
         flag = " *(interruption)*" if l.get("interruption") else ""
-        out.append(f"- **[{l['speaker']}]** ({l['start']}s–{l['end']}s, {l['word_count']}w, "
-                    f"pause before {l['pause_before_sec']}s){flag}: \"{l['text']}\"\n")
+        out.append(f"- **[{l.get('speaker')}]** ({l.get('start')}s–{l.get('end')}s, {l.get('word_count')}w, "
+                    f"pause before {l.get('pause_before_sec')}s){flag}: \"{l.get('text')}\"\n")
     if dialogue.get("speech_rhythm_notes"):
         out.append(f"\n{dialogue['speech_rhythm_notes']}\n")
     if dialogue.get("conversational_flow_notes"):
@@ -49,14 +49,14 @@ def render(m: dict) -> str:
     comedy = m["comedy"]
     out.append("\n## Why it lands (comedy)\n\n")
     for b in comedy.get("comedic_beats", []):
-        out.append(f"- **{b['mechanism']}** ({b['start']}s–{b['end']}s): {b['description']} — {b['why_it_lands']}\n")
+        out.append(f"- **{b.get('mechanism')}** ({b.get('start')}s–{b.get('end')}s): {b.get('description')} — {b.get('why_it_lands', b.get('why_it_lens', ''))}\n")
     if comedy.get("overall_comedic_style_notes"):
         out.append(f"\n{comedy['overall_comedic_style_notes']}\n")
 
     character = m["character"]
     out.append("\n## Characters\n\n")
     for c in character.get("characters", []):
-        out.append(f"**{c['name_or_role']}**\n")
+        out.append(f"**{c.get('name_or_role')}**\n")
         for field in ("personality_traits", "emotional_range", "expressions", "gestures"):
             for item in c.get(field, []):
                 out.append(f"- {item}\n")
@@ -67,7 +67,7 @@ def render(m: dict) -> str:
     camera = m["camera"]
     out.append("## Camera\n\n")
     for s in camera.get("shots", []):
-        out.append(f"- {s['start']}s–{s['end']}s: **{s['shot_type']}**, {s['camera_movement']} — {s['composition_notes']}\n")
+        out.append(f"- {s.get('start')}s–{s.get('end')}s: **{s.get('shot_type')}**, {s.get('camera_movement')} — {s.get('composition_notes')}\n")
     if camera.get("framing_patterns_notes"):
         out.append(f"\n{camera['framing_patterns_notes']}\n")
 
@@ -83,9 +83,9 @@ def render(m: dict) -> str:
     out.append(f"\n## Editing\n\n{editing.get('cut_count', 0)} cuts, "
                f"avg shot length {editing.get('avg_shot_length_sec', 0)}s.\n\n")
     for c in editing.get("cuts", []):
-        out.append(f"- {c['timestamp']}s: {c['transition_type']} — {c['reason']}\n")
+        out.append(f"- {c.get('timestamp')}s: {c.get('transition_type')} — {c.get('reason')}\n")
     for r in editing.get("reaction_shots", []):
-        out.append(f"- Reaction shot {r['start']}s–{r['end']}s: {r['description']}\n")
+        out.append(f"- Reaction shot {r.get('start')}s–{r.get('end')}s: {r.get('description')}\n")
     if editing.get("pacing_notes"):
         out.append(f"\n{editing['pacing_notes']}\n")
 
