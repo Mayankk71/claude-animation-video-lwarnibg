@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "duration_sec": 16.318708,
+  "hook": {
+    "start": 0.0,
+    "end": 3.9,
+    "description": "Cold open on an elderly stop-motion couple sitting side by side on a sofa, both looking down and thumbing their phones instead of each other, while the wife states the on-the-nose thesis line: 'We should spend less time on our phones.'",
+    "why_it_works": "Immediate irony: the line about spending less time on phones is spoken while both characters are visibly absorbed in their phones, so the visual contradicts the dialogue in the first 2 seconds -- the joke's premise is legible before the punchline even arrives."
+  },
+  "setup": {
+    "start": 3.9,
+    "end": 6.1,
+    "description": "Silent beat (no dialogue) holding on the couple in profile/close-up, still scrolling, the husband's deadpan flat-mouth expression lingering -- lets the irony of the opening line sink in before the second line begins."
+  },
+  "conflict": {
+    "start": 6.1,
+    "end": 11.733333,
+    "description": "The husband delivers the second line, redefining their relationship in front of us: 'Modern love is basically sending each other reels from opposite ends of the sofa.' The tension is between the stated ideal (spend less time on phones, be present with each other) and the demonstrated reality (they communicate via phone despite sitting inches apart), which the line makes explicit."
+  },
+  "punchline": {
+    "start": 9.5,
+    "end": 11.733333,
+    "description": "The phrase 'opposite ends of the sofa' lands as the punchline -- the couple is shown physically adjacent, phones raised, one screen visibly showing a reels/social feed, confirming the joke literally as it's being said (they aren't opposite ends at all, they're touching, which is the absurd/relatable twist on modern intimacy)."
+  },
+  "ending": {
+    "start": 11.733333,
+    "end": 16.318708,
+    "description": "Both characters hold their deadpan expressions, still on their phones, no further dialogue -- a beat of silence lets the joke breathe -- before a hard cut to a black title card.",
+    "cta_or_text_overlay": "Title card text: 'LOW BATTERY PEOPLE' / 'CREATED BY NIN.'"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 3.9, "beat_type": "hook", "description": "Wife says 'We should spend less time on our phones' while both she and her husband are shown scrolling on their phones side by side on the sofa -- irony established instantly."},
+    {"start": 3.9, "end": 6.1, "beat_type": "setup", "description": "Silent pause on their deadpan faces, still scrolling, no dialogue -- brief connective beat bridging the opening line to the reply."},
+    {"start": 6.1, "end": 9.5, "beat_type": "conflict", "description": "Husband begins his retort: 'Modern love is basically sending each other reels...' -- reframes the couple's phone habit as their actual definition of intimacy, contradicting the wife's stated wish."},
+    {"start": 9.5, "end": 11.733333, "beat_type": "punchline", "description": "Line completes: '...from opposite ends of the sofa,' visually confirmed as they sit shoulder-to-shoulder with phones raised, one screen showing a reels feed -- the joke's twist lands here."},
+    {"start": 11.733333, "end": 16.318708, "beat_type": "ending", "description": "Held deadpan reaction shot with no dialogue, then hard cut to black title card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.'"}
+  ],
+  "narrative_notes": "This is an extremely compressed 16.3s two-line skit -- shorter than the typical 20-25s reel this system usually analyzes. There is no traditional rising 'conflict' with escalating stakes; instead the whole joke rests on a single ironic contradiction stated in two lines of dialogue split across a silent 2.2s pause (3.9-6.1s) with no speech at all. The 'setup' and 'conflict' beats are thin and largely fused with the hook/punchline: the setup beat has no new information, it is a held reaction shot that functions as comedic timing (a beat of silence) rather than plot development, and the conflict beat is really just the first half of the punchline sentence. The punchline is not a separate scene but the back half of the same shot/scene as the conflict (scene_boundaries scene index 2, 6.1-11.73s), split here only by where the sentence's twist word ('opposite') actually resolves the irony. There is no explicit CTA; the only overlay is the post-joke title card naming the short and its creator."
+}

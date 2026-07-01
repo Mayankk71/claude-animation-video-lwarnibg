@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "voice_delivery_notes": "Only two spoken lines in the transcript, both attributed to SPEAKER_00. Line 1 ('We should spend less time on our phones.') is a short, flat declarative statement — likely delivered earnestly or as a setup line (inferred from phrasing, not heard). Line 2 ('Modern love is basically sending each other reels from opposite ends of the sofa.') is the longer punchline/observation line, phrased as a wry, deadpan aside typical of the ironic-observation joke structure implied by the content itself. The ~4s gap between the two lines (2.3s to 6.27s) suggests a deliberate beat or reaction shot is inferred to sit between setup and punchline, though no visual/keyframe data was reviewed here to confirm.",
+  "pitch_energy_notes": "No direct audio was analyzed (pitch/energy inferred only from text and timing, not heard). The first line reads as a neutral/sincere assertion, which would plausibly carry a flatter, more matter-of-fact pitch. The second line, functioning as the punchline, would plausibly carry a slight lift or wry inflection on 'opposite ends of the sofa' for comedic emphasis, but this is inferred from common delivery conventions for this joke structure rather than observed.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music cues, captions, or on-screen indicators are present in transcript.json or silence_pauses.json, so presence of music cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "The longest pause in the clip is 1.50106s (14.7349s-16.2359s), occurring right after the punchline line ends (line 2 ends at 11.153s), suggesting a lingering hold after the joke lands to let it breathe. Before that, a cluster of mid-length pauses (0.91-0.97s) occurs between 11.2s and 14.3s (11.2018-12.1541, 12.8012-13.7698, 13.9533-14.3083), consistent with a reaction/beat sequence following the punchline rather than more speech. The gap between the two spoken lines (2.4135s-6.12025s) is broken into several shorter pauses (0.9, 0.6, 0.33, 0.21, 0.52, 0.51, 0.37s) rather than one long silence, implying intermittent micro-holds or edited beats rather than a single dramatic pause before the punchline setup. The very first pause (0.0-0.320937s) is just a brief pre-roll before the first line begins."
+}

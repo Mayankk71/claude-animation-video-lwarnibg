@@ -1,0 +1,35 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "cut_count": 4,
+  "avg_shot_length_sec": 3.26,
+  "cuts": [
+    {
+      "timestamp": 3.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide establishing two-shot to a closer, slightly re-angled two-shot right as the setup dialogue ('phones.') lands, tightening focus on the couple without changing the joke's content yet."
+    },
+    {
+      "timestamp": 6.1,
+      "transition_type": "jump_cut",
+      "reason": "Cuts in tight on the husband's deadpan face as he starts the key line ('each'), isolating his blank expression so the delivery of the joke's setup reads clearly."
+    },
+    {
+      "timestamp": 11.733333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out to the two-shot on the word 'opposite,' revealing the phone screen and both characters' texting-each-other punchline at the moment it becomes visually clear."
+    },
+    {
+      "timestamp": 14.766667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the punchline reaction beat straight to the black title card, ending the sketch immediately after the joke lands rather than lingering."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 6.1,
+      "end": 11.733333,
+      "description": "Extended close-up on the husband's deadpan, sour-faced expression as he delivers the setup line ('each... sending... opposite'), his flat affect doing the comedic work rather than any action."
+    }
+  ],
+  "pacing_notes": "Shots start mid-length (3.9s, 2.2s) to establish the mundane sitting-on-the-couch scenario, then the pacing intentionally slows into one long ~5.6s held close-up on the husband's face as he delivers the deadpan setup line, letting his expression breathe before the punchline. It then snaps back to a slightly shorter two-shot (~3s) for the reveal/punchline, and closes on a brief 1.4s title card. Rather than accelerating into the punchline, this edit relies on a single extended reaction shot as the comedic anchor, with cuts placed on dialogue beats rather than rapid-fire rhythm."
+}

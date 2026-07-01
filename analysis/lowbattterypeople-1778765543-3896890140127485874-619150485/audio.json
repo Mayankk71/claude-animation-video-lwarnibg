@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1778765543-3896890140127485874-619150485",
+  "voice_delivery_notes": "Only one transcribed line exists: 'Yesterday you sighed aggressively for 20 minutes instead of saying you were hungry.' (5.68s-10.17s). The word 'sighed aggressively' is a deadpan narration/observation of another character's behavior, which (inferred, not directly heard) suggests a flat, matter-of-fact, faintly exasperated tone rather than an animated or shouted delivery -- typical of a narrator/roommate calling out passive-aggressive behavior. No other dialogue is present in the transcript, so the rest of the clip (0-5.68s and 10.17s+) is presumably non-verbal or silent screen time; this is inferred from the absence of transcript segments, not confirmed.",
+  "pitch_energy_notes": "No pitch/energy data is directly observable (audio cannot be heard). Inferred from phrasing only: the line reads as a single flat, declarative sentence with no question marks or exclamation points, implying level pitch and moderate-to-low energy typical of dry, deadpan comedic narration. The long silences bracketing the line (before and after) imply the delivery is isolated and unhurried rather than energetic or rapid-fire.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music is indicated in the transcript or silence data; there is no on-screen text or caption evidence available in the two source files to support a claim of background music, so this is left as not present rather than guessed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "Silence data shows a cluster of short-to-moderate pauses early in the clip (0.42s at the very start, 0.90s at 1.94-2.84s, 1.02s at 3.11-4.14s, 1.07s at 4.36-5.43s) before the only spoken line begins at 5.68s, suggesting a slow, held setup with no dialogue for the first ~5.4 seconds. The longest pause in the whole clip is 3.6s (10.23s-13.83s), occurring immediately after the line ends -- this is the clearest candidate for a comedic beat/reaction hold following the punchline-style observation about sighing instead of saying she was hungry. A final shorter 1.05s pause (14.76s-15.81s) follows, consistent with a closing beat before the clip ends."
+}

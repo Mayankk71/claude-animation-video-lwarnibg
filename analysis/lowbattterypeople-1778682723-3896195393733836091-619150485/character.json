@@ -1,0 +1,53 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "characters": [
+    {
+      "name_or_role": "Wife (SPEAKER_00, long-nosed woman in brown sweater)",
+      "personality_traits": [
+        "Delivers the opening moralizing line ('We should spend less time on our phones') while never actually looking up from her own phone — establishes her as self-unaware/hypocritical",
+        "Passive-aggressive rather than confrontational: her critique of screen time is voiced flatly, not as a real complaint",
+        "Domestic, composed presentation (bun hairstyle, pearl earrings, cozy sweater) suggesting a 'together' household image that contrasts with the disconnection being mocked"
+      ],
+      "emotional_range": [
+        "half-lidded boredom/fatigue (default state, heavy under-eye bags drawn on the felt face)",
+        "brief surprise/alertness (eyebrows and mouth open slightly as she starts to speak at 0:00)",
+        "returns to flat, glazed-over disengagement almost immediately after speaking"
+      ],
+      "expressions": [
+        "0:00 — mouth open, eyebrows slightly raised, mid-sentence delivering the phone line, eyes at half-mast",
+        "0:02-0:06 — eyes drop back to phone screen, mouth closes into a flat neutral line, thousand-yard stare",
+        "throughout — droopy, heavy-lidded eyes fixed downward at her device rather than at her husband, even while 'discussing' the topic"
+      ],
+      "gestures": [
+        "holds phone low, close to chest with both hands, thumbs poised to scroll",
+        "never turns her whole body toward her husband, only a slight head tilt",
+        "static, hunched-forward posture that barely shifts across the whole scene, reinforcing physical inertia matching the phones-not-people theme"
+      ],
+      "interactions_notes": "She initiates the conversation topic but does not make eye contact with her husband while speaking or after; her gaze stays locked on her own screen. She is physically adjacent to him on the sofa but there is no real exchange of glances — power dynamic is one of parallel coexistence rather than direct dialogue, visually reinforcing the joke that they are 'together' in name only."
+    },
+    {
+      "name_or_role": "Husband (SPEAKER_00 continues the joke / second voiced line, long-nosed man in glasses and dark robe/coat)",
+      "personality_traits": [
+        "Delivers the punchline ('Modern love is basically sending each other reels from opposite ends of the sofa') in a flat, deadpan register — the comedic 'straight man' who states the absurd truth without irony in his own voice",
+        "Visually withdrawn/aloof: sunken, bloodshot-looking eyes and slack downturned mouth suggest chronic under-stimulation or ennui rather than active irritation",
+        "Physically the more still and inert of the two — slouched deep into the couch under a blanket-like coat, suggesting comfort with the numbed status quo"
+      ],
+      "emotional_range": [
+        "flat deadpan through the entire scene — no visible spike in emotion even while delivering the episode's thesis line",
+        "faint smirk-adjacent mouth curl (closed, closed-lip near-smile) that reads as resigned amusement rather than joy",
+        "brief tightening around the eyes/teeth showing mid-word ('each') that looks almost pained, immediately released back to neutral"
+      ],
+      "expressions": [
+        "0:06 — half-lidded eyes look slightly up and away from his phone as he begins the punchline",
+        "0:08 — teeth-baring mid-word grimace on 'each', eyebrows knit briefly (close-up shot)",
+        "0:09-0:11 — returns to a soft, closed-mouth near-smirk while still holding phone, gaze drifting rather than settling on his wife"
+      ],
+      "gestures": [
+        "phone held higher and more visibly than his wife's, screen sometimes turned toward camera showing a reels-style feed",
+        "arms tucked close to body, minimal movement — sunk into the oversized dark coat which reads as a physical retreat/cocoon",
+        "head turns slightly toward his wife only once, right as he says 'each', a small nod-like tilt that acts as his only real acknowledgment of her presence"
+      ],
+      "interactions_notes": "He answers his wife's opening statement not with a real response but with a scroll-and-deliver punchline, maintaining the same low engagement she does. The one moment of near eye-contact (his slight head-turn on 'each') is the only physical acknowledgment between them in the whole clip, undercutting the intimacy of the words 'modern love' with visual proof of its absence. Overall dynamic: two people occupying the same frame/sofa without a genuine exchange — the joke's entire visual grammar (parallel poses, synchronized phone-holding, lack of eye contact) is built from their static staging relative to each other rather than any verbal back-and-forth."
+    }
+  ]
+}

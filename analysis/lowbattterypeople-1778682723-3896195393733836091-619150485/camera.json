@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off symmetrical two-shot of the couple centered on the couch, coffee table with remote/batteries in the foreground bottom edge, floor lamp fills the right third as a practical light source. Both characters framed with headroom to spare above their tall hair/heads, giving a slightly bottom-heavy, deadpan sitcom-living-room composition. Subtitle burned in low-center."
+    },
+    {
+      "start": 3.9,
+      "end": 6.1,
+      "shot_type": "medium",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Slow, continuous push-in on the same static two-shot setup, tightening from wide to medium over ~2 seconds. By the end of the push the woman is favored in the left third in near-profile, the man's face pushes past the right edge in three-quarter view; the framing crops out the coffee table entirely and loses the lamp base. 'Digital Detox' title card and episode label overlay in the middle of this push."
+    },
+    {
+      "start": 6.1,
+      "end": 11.733333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a locked-off, dead-center close-up on the husband's face only (woman fully cropped out) for his whole monologue line-by-line delivery. Face fills nearly the full frame height with headroom trimmed tight above the hairline; lamp bokeh glows soft in the right background. Identical framing held across the entire scene with no reframing between periodic samples -- camera does not move at all while he talks, letting the deadpan expression carry the joke."
+    },
+    {
+      "start": 11.733333,
+      "end": 14.766667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cut to a closer two-shot than scene 0/1's wide, both characters in three-quarter/profile angle looking off-frame right, woman still in the left third, man dominant in the right two-thirds with his phone screen (visible thumbnail image) framed low-right in his hands -- the phone content is legible for the first time, planting the payoff prop. Coffee table cropped out; only couch and a shelf/plant sliver visible behind them."
+    },
+    {
+      "start": 14.766667,
+      "end": 16.2,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Black title card, no camera movement -- centered serif title 'LOW BATTERY PEOPLE' with 'CREATED BY NIN.' subtitle beneath, symmetrical and static like a slate/end card."
+    }
+  ],
+  "framing_patterns_notes": "The video alternates between a static wide/medium two-shot 'home base' (scenes 0, 1, 3) and a single locked-off close-up isolating the husband's face for his punchline monologue (scene 2) -- the only shot in the video that isolates one character and the only one with sustained dialogue-driven screen time. The one camera move in the whole piece is a slow push-in during scene 1, used to build toward the cut into that close-up rather than for its own sake. Headroom is consistently generous relative to the characters' elongated heads, and the coffee table/lamp establishing details from scene 0 get progressively cropped out as shots tighten, so the joke payoff (phone screen content in scene 3) is the first time any screen content is actually legible to camera."
+}

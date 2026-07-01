@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "total_lines": 2,
+  "avg_words_per_line": 11,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.347,
+      "end": 2.308,
+      "text": "We should spend less time on our phones.",
+      "word_count": 8,
+      "pause_before_sec": 0.32,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.27,
+      "end": 11.153,
+      "text": "Modern love is basically sending each other reels from opposite ends of the sofa.",
+      "word_count": 14,
+      "pause_before_sec": 3.45,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single speaker delivers two lines with no dialogue exchange or interruption; this is a monologue/voiceover structure rather than back-and-forth conversation, so the 'flow' is entirely internal pacing (setup line, long pause, punchline/reveal line) rather than turn-taking.",
+  "speech_rhythm_notes": "The setup line ('We should spend less time on our phones,' 8 words) is followed by the single longest pause cluster in the clip: silence_pauses.json shows nearly unbroken silence from 2.41s to 6.12s (7 stacked micro-pause windows totaling ~3.45s, versus only a 0.32s lead-in pause before line 1), before the 14-word punchline lands at 6.27s. This mirrors a classic stop-motion-reel beat: short flat setup, an oversized dead-air hold (nearly 3.5s, more than the setup line's own duration), then the longer, wordier punchline that recontextualizes the setup."
+}

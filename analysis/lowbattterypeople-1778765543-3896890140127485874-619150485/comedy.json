@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1778765543-3896890140127485874-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 4.833,
+      "mechanism": "deadpan",
+      "description": "Cold open on the man frozen mid-motion at the stove, hand hovering near the teapot handle, eyes glazed and mouth slack, while the woman types away at the table without acknowledging him.",
+      "why_it_lands": "He's fully posed and lit like he's mid-action (hand out, about to grab the kettle) but is completely motionless and glassy-eyed for the full 4.8s before a word is spoken, immediately signaling 'malfunctioning appliance-person' rather than 'man making tea,' which reframes the whole domestic scene as a broken-device gag before any dialogue explains it."
+    },
+    {
+      "start": 4.833,
+      "end": 10.167,
+      "mechanism": "recognition",
+      "description": "The woman's single deadpan line, delivered without looking up from her plate or laptop: 'Yesterday you sighed aggressively for 20 minutes instead of saying you were hungry.'",
+      "why_it_lands": "The specificity of '20 minutes' of pure sighing (an absurdly exact, oddly long duration for something so trivial) turns an inside-relationship complaint into an instantly recognizable pattern of passive-aggressive avoidance that viewers have lived on either side of, and her flat, tired line reading -- no anger, just weary cataloguing -- sells it as a routine occurrence rather than a one-off fight."
+    },
+    {
+      "start": 10.167,
+      "end": 13.827,
+      "mechanism": "awkward_silence",
+      "description": "A 3.6-second silent hold on the man's frozen, guilty/blank expression at the stove after her line lands, with no rebuttal, defense, or reaction shot cut away.",
+      "why_it_lands": "3.6 seconds is by far the longest pause in the piece (nearly double the runtime's next-longest gap), and the camera refuses to cut away or let him respond, forcing the audience to sit in the same stew of unspoken tension the couple lives in -- the silence itself performs the 'aggressive sighing' the line just described."
+    },
+    {
+      "start": 0.0,
+      "end": 15.8,
+      "mechanism": "irony",
+      "description": "The couple is visually designed and posed like literal 'low battery' androids/appliances (stiff posture, blank stares, mechanical stillness) rather than as an emotionally worn-out married couple, even though the dialogue is purely about human emotional avoidance.",
+      "why_it_lands": "Rendering a mundane, universally human failure to communicate through a sci-fi 'device running out of charge' visual metaphor is an incongruity that recasts a sad relationship dynamic as a mechanical malfunction, letting the joke land as recognition-based comedy instead of pure melancholy."
+    }
+  ],
+  "overall_comedic_style_notes": "The piece is a single-joke miniature built almost entirely on contrast between stillness and content: the visual language (unmoving 'low-battery' posture, blank doll-like eyes, a title card that literally frames the couple as a taxonomy entry -- 'LOW BATTERY PEOPLE') supplies the metaphor, while one flat, unhurried line of dialogue supplies the emotional truth. There is no dialogue exchange or back-and-forth -- the humor is entirely front-loaded into one observational line and then left to sit in a long unscored silence, relying on the audience's own recognition of passive-aggressive avoidance (sighing instead of stating a need) rather than any punchline or reversal. The stove/teapot business is a red herring of normalcy that the frozen pose and title card retroactively reveal as the 'joke prop.'"
+}

@@ -1,0 +1,308 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "duration_sec": 16.318708,
+  "story": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "duration_sec": 16.318708,
+    "hook": {
+      "start": 0.0,
+      "end": 3.9,
+      "description": "Cold open on an elderly stop-motion couple sitting side by side on a sofa, both looking down and thumbing their phones instead of each other, while the wife states the on-the-nose thesis line: 'We should spend less time on our phones.'",
+      "why_it_works": "Immediate irony: the line about spending less time on phones is spoken while both characters are visibly absorbed in their phones, so the visual contradicts the dialogue in the first 2 seconds -- the joke's premise is legible before the punchline even arrives."
+    },
+    "setup": {
+      "start": 3.9,
+      "end": 6.1,
+      "description": "Silent beat (no dialogue) holding on the couple in profile/close-up, still scrolling, the husband's deadpan flat-mouth expression lingering -- lets the irony of the opening line sink in before the second line begins."
+    },
+    "conflict": {
+      "start": 6.1,
+      "end": 11.733333,
+      "description": "The husband delivers the second line, redefining their relationship in front of us: 'Modern love is basically sending each other reels from opposite ends of the sofa.' The tension is between the stated ideal (spend less time on phones, be present with each other) and the demonstrated reality (they communicate via phone despite sitting inches apart), which the line makes explicit."
+    },
+    "punchline": {
+      "start": 9.5,
+      "end": 11.733333,
+      "description": "The phrase 'opposite ends of the sofa' lands as the punchline -- the couple is shown physically adjacent, phones raised, one screen visibly showing a reels/social feed, confirming the joke literally as it's being said (they aren't opposite ends at all, they're touching, which is the absurd/relatable twist on modern intimacy)."
+    },
+    "ending": {
+      "start": 11.733333,
+      "end": 16.318708,
+      "description": "Both characters hold their deadpan expressions, still on their phones, no further dialogue -- a beat of silence lets the joke breathe -- before a hard cut to a black title card.",
+      "cta_or_text_overlay": "Title card text: 'LOW BATTERY PEOPLE' / 'CREATED BY NIN.'"
+    },
+    "beat_map": [
+      {
+        "start": 0.0,
+        "end": 3.9,
+        "beat_type": "hook",
+        "description": "Wife says 'We should spend less time on our phones' while both she and her husband are shown scrolling on their phones side by side on the sofa -- irony established instantly."
+      },
+      {
+        "start": 3.9,
+        "end": 6.1,
+        "beat_type": "setup",
+        "description": "Silent pause on their deadpan faces, still scrolling, no dialogue -- brief connective beat bridging the opening line to the reply."
+      },
+      {
+        "start": 6.1,
+        "end": 9.5,
+        "beat_type": "conflict",
+        "description": "Husband begins his retort: 'Modern love is basically sending each other reels...' -- reframes the couple's phone habit as their actual definition of intimacy, contradicting the wife's stated wish."
+      },
+      {
+        "start": 9.5,
+        "end": 11.733333,
+        "beat_type": "punchline",
+        "description": "Line completes: '...from opposite ends of the sofa,' visually confirmed as they sit shoulder-to-shoulder with phones raised, one screen showing a reels feed -- the joke's twist lands here."
+      },
+      {
+        "start": 11.733333,
+        "end": 16.318708,
+        "beat_type": "ending",
+        "description": "Held deadpan reaction shot with no dialogue, then hard cut to black title card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.'"
+      }
+    ],
+    "narrative_notes": "This is an extremely compressed 16.3s two-line skit -- shorter than the typical 20-25s reel this system usually analyzes. There is no traditional rising 'conflict' with escalating stakes; instead the whole joke rests on a single ironic contradiction stated in two lines of dialogue split across a silent 2.2s pause (3.9-6.1s) with no speech at all. The 'setup' and 'conflict' beats are thin and largely fused with the hook/punchline: the setup beat has no new information, it is a held reaction shot that functions as comedic timing (a beat of silence) rather than plot development, and the conflict beat is really just the first half of the punchline sentence. The punchline is not a separate scene but the back half of the same shot/scene as the conflict (scene_boundaries scene index 2, 6.1-11.73s), split here only by where the sentence's twist word ('opposite') actually resolves the irony. There is no explicit CTA; the only overlay is the post-joke title card naming the short and its creator."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "total_lines": 2,
+    "avg_words_per_line": 11,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.347,
+        "end": 2.308,
+        "text": "We should spend less time on our phones.",
+        "word_count": 8,
+        "pause_before_sec": 0.32,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.27,
+        "end": 11.153,
+        "text": "Modern love is basically sending each other reels from opposite ends of the sofa.",
+        "word_count": 14,
+        "pause_before_sec": 3.45,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "Single speaker delivers two lines with no dialogue exchange or interruption; this is a monologue/voiceover structure rather than back-and-forth conversation, so the 'flow' is entirely internal pacing (setup line, long pause, punchline/reveal line) rather than turn-taking.",
+    "speech_rhythm_notes": "The setup line ('We should spend less time on our phones,' 8 words) is followed by the single longest pause cluster in the clip: silence_pauses.json shows nearly unbroken silence from 2.41s to 6.12s (7 stacked micro-pause windows totaling ~3.45s, versus only a 0.32s lead-in pause before line 1), before the 14-word punchline lands at 6.27s. This mirrors a classic stop-motion-reel beat: short flat setup, an oversized dead-air hold (nearly 3.5s, more than the setup line's own duration), then the longer, wordier punchline that recontextualizes the setup."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.0,
+        "end": 2.308,
+        "mechanism": "irony",
+        "description": "The wife states 'We should spend less time on our phones' while both characters are already sitting side by side, phones lit up in hand, actively scrolling.",
+        "why_it_lands": "The line is delivered as a throwaway aside with zero conviction (flat vocal delivery, no pause for emphasis) while the keyframe shows her thumb already mid-scroll on the phone \u2014 the visual immediately undercuts the stated intention before the sentence even finishes."
+      },
+      {
+        "start": 2.308,
+        "end": 6.27,
+        "mechanism": "deadpan",
+        "description": "A near-4-second gap (multiple stitched pauses totaling ~2.4s of dead air, per silence_pauses spanning 2.41s-6.12s) where neither character reacts, moves, or looks at each other after the 'phones' line \u2014 they just keep thumbing their screens with sagging, half-lidded eyes.",
+        "why_it_lands": "The sculpted faces hold a static, droopy-eyed, mouth-corners-down expression (visible in scene-1/scene-2 keyframes) through the entire silence, so the joke is entirely in the stillness \u2014 there's no punchline reaction shot, which is itself the punchline: total resignation, not surprise."
+      },
+      {
+        "start": 6.27,
+        "end": 11.153,
+        "mechanism": "recognition",
+        "description": "The husband's deadpan explainer line, 'Modern love is basically sending each other reels from opposite ends of the sofa,' names the exact behavior the audience just watched the couple perform for the prior 6 seconds.",
+        "why_it_lands": "It lands as recognition humor because the visual proof (two people, one sofa, two glowing phones, zero eye contact) was already fully shown before the line explains it \u2014 the joke works by confirming a very specific, mundane modern-relationship habit the viewer has almost certainly lived, down to the 'opposite ends of the sofa' physical detail matching the actual blocking in scene-3/scene-4."
+      },
+      {
+        "start": 11.733,
+        "end": 14.766667,
+        "mechanism": "deadpan",
+        "description": "The reveal that the husband is literally sending her a reel appears on his phone screen (visible thumbnail/notification in the scene-3 keyframe) while his face stays utterly flat, eyebrows barely lifted, mouth a static downward line \u2014 no self-aware smirk or wink to camera.",
+        "why_it_lands": "The gag depends on the character never breaking his own deadpan even as he demonstrates the exact cynical point he just made about himself; the felted, low-affect face design (heavy-lidded eyes, thin closed mouth) sells total emotional flatness rather than a comedic 'gotcha' beat."
+      }
+    ],
+    "overall_comedic_style_notes": "This is a single-joke, single-scene micro-sketch built entirely on observational irony rather than escalation or a twist ending: the whole 16-second runtime is spent proving one relatable contradiction (people say they want less screen time while modeling the opposite) through blocking and stillness rather than dialogue density \u2014 only two lines of speech total, separated by a long unscored silence that does the comedic work a punchline usually would. The stop-motion puppets' droopy, unblinking, low-energy faces are the consistent comedic instrument throughout: the humor never comes from an exaggerated take or a surprised reaction, but from characters who look too tired/resigned to react to their own hypocrisy, which is what makes the 'recognition' beat land as a gut-punch of relatability rather than a gag."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "characters": [
+      {
+        "name_or_role": "Wife (SPEAKER_00, long-nosed woman in brown sweater)",
+        "personality_traits": [
+          "Delivers the opening moralizing line ('We should spend less time on our phones') while never actually looking up from her own phone \u2014 establishes her as self-unaware/hypocritical",
+          "Passive-aggressive rather than confrontational: her critique of screen time is voiced flatly, not as a real complaint",
+          "Domestic, composed presentation (bun hairstyle, pearl earrings, cozy sweater) suggesting a 'together' household image that contrasts with the disconnection being mocked"
+        ],
+        "emotional_range": [
+          "half-lidded boredom/fatigue (default state, heavy under-eye bags drawn on the felt face)",
+          "brief surprise/alertness (eyebrows and mouth open slightly as she starts to speak at 0:00)",
+          "returns to flat, glazed-over disengagement almost immediately after speaking"
+        ],
+        "expressions": [
+          "0:00 \u2014 mouth open, eyebrows slightly raised, mid-sentence delivering the phone line, eyes at half-mast",
+          "0:02-0:06 \u2014 eyes drop back to phone screen, mouth closes into a flat neutral line, thousand-yard stare",
+          "throughout \u2014 droopy, heavy-lidded eyes fixed downward at her device rather than at her husband, even while 'discussing' the topic"
+        ],
+        "gestures": [
+          "holds phone low, close to chest with both hands, thumbs poised to scroll",
+          "never turns her whole body toward her husband, only a slight head tilt",
+          "static, hunched-forward posture that barely shifts across the whole scene, reinforcing physical inertia matching the phones-not-people theme"
+        ],
+        "interactions_notes": "She initiates the conversation topic but does not make eye contact with her husband while speaking or after; her gaze stays locked on her own screen. She is physically adjacent to him on the sofa but there is no real exchange of glances \u2014 power dynamic is one of parallel coexistence rather than direct dialogue, visually reinforcing the joke that they are 'together' in name only."
+      },
+      {
+        "name_or_role": "Husband (SPEAKER_00 continues the joke / second voiced line, long-nosed man in glasses and dark robe/coat)",
+        "personality_traits": [
+          "Delivers the punchline ('Modern love is basically sending each other reels from opposite ends of the sofa') in a flat, deadpan register \u2014 the comedic 'straight man' who states the absurd truth without irony in his own voice",
+          "Visually withdrawn/aloof: sunken, bloodshot-looking eyes and slack downturned mouth suggest chronic under-stimulation or ennui rather than active irritation",
+          "Physically the more still and inert of the two \u2014 slouched deep into the couch under a blanket-like coat, suggesting comfort with the numbed status quo"
+        ],
+        "emotional_range": [
+          "flat deadpan through the entire scene \u2014 no visible spike in emotion even while delivering the episode's thesis line",
+          "faint smirk-adjacent mouth curl (closed, closed-lip near-smile) that reads as resigned amusement rather than joy",
+          "brief tightening around the eyes/teeth showing mid-word ('each') that looks almost pained, immediately released back to neutral"
+        ],
+        "expressions": [
+          "0:06 \u2014 half-lidded eyes look slightly up and away from his phone as he begins the punchline",
+          "0:08 \u2014 teeth-baring mid-word grimace on 'each', eyebrows knit briefly (close-up shot)",
+          "0:09-0:11 \u2014 returns to a soft, closed-mouth near-smirk while still holding phone, gaze drifting rather than settling on his wife"
+        ],
+        "gestures": [
+          "phone held higher and more visibly than his wife's, screen sometimes turned toward camera showing a reels-style feed",
+          "arms tucked close to body, minimal movement \u2014 sunk into the oversized dark coat which reads as a physical retreat/cocoon",
+          "head turns slightly toward his wife only once, right as he says 'each', a small nod-like tilt that acts as his only real acknowledgment of her presence"
+        ],
+        "interactions_notes": "He answers his wife's opening statement not with a real response but with a scroll-and-deliver punchline, maintaining the same low engagement she does. The one moment of near eye-contact (his slight head-turn on 'each') is the only physical acknowledgment between them in the whole clip, undercutting the intimacy of the words 'modern love' with visual proof of its absence. Overall dynamic: two people occupying the same frame/sofa without a genuine exchange \u2014 the joke's entire visual grammar (parallel poses, synchronized phone-holding, lack of eye contact) is built from their static staging relative to each other rather than any verbal back-and-forth."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 3.9,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Locked-off symmetrical two-shot of the couple centered on the couch, coffee table with remote/batteries in the foreground bottom edge, floor lamp fills the right third as a practical light source. Both characters framed with headroom to spare above their tall hair/heads, giving a slightly bottom-heavy, deadpan sitcom-living-room composition. Subtitle burned in low-center."
+      },
+      {
+        "start": 3.9,
+        "end": 6.1,
+        "shot_type": "medium",
+        "camera_movement": "zoom_in",
+        "composition_notes": "Slow, continuous push-in on the same static two-shot setup, tightening from wide to medium over ~2 seconds. By the end of the push the woman is favored in the left third in near-profile, the man's face pushes past the right edge in three-quarter view; the framing crops out the coffee table entirely and loses the lamp base. 'Digital Detox' title card and episode label overlay in the middle of this push."
+      },
+      {
+        "start": 6.1,
+        "end": 11.733333,
+        "shot_type": "close-up",
+        "camera_movement": "static",
+        "composition_notes": "Hard cut to a locked-off, dead-center close-up on the husband's face only (woman fully cropped out) for his whole monologue line-by-line delivery. Face fills nearly the full frame height with headroom trimmed tight above the hairline; lamp bokeh glows soft in the right background. Identical framing held across the entire scene with no reframing between periodic samples -- camera does not move at all while he talks, letting the deadpan expression carry the joke."
+      },
+      {
+        "start": 11.733333,
+        "end": 14.766667,
+        "shot_type": "medium",
+        "camera_movement": "static",
+        "composition_notes": "Cut to a closer two-shot than scene 0/1's wide, both characters in three-quarter/profile angle looking off-frame right, woman still in the left third, man dominant in the right two-thirds with his phone screen (visible thumbnail image) framed low-right in his hands -- the phone content is legible for the first time, planting the payoff prop. Coffee table cropped out; only couch and a shelf/plant sliver visible behind them."
+      },
+      {
+        "start": 14.766667,
+        "end": 16.2,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Black title card, no camera movement -- centered serif title 'LOW BATTERY PEOPLE' with 'CREATED BY NIN.' subtitle beneath, symmetrical and static like a slate/end card."
+      }
+    ],
+    "framing_patterns_notes": "The video alternates between a static wide/medium two-shot 'home base' (scenes 0, 1, 3) and a single locked-off close-up isolating the husband's face for his punchline monologue (scene 2) -- the only shot in the video that isolates one character and the only one with sustained dialogue-driven screen time. The one camera move in the whole piece is a slow push-in during scene 1, used to build toward the cut into that close-up rather than for its own sake. Headroom is consistently generous relative to the characters' elongated heads, and the coffee table/lamp establishing details from scene 0 get progressively cropped out as shots tighten, so the joke payoff (phone screen content in scene 3) is the first time any screen content is actually legible to camera."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "technique": "3D CGI rendered with a stop-motion/claymation pastiche shader (visible felt-fiber nap on skin, painted-on eyebrows and mouth-crease lines, hand-tool-textured hair) rather than true physical stop-motion. Evidence against real stop-motion: perfectly symmetrical, identical-looking skin fiber pattern on both characters with no armature seams, fingerprint dents, or seam lines typical of clay/felt puppets; camera has a smooth rack-focus push and shallow depth of field that behaves like a CG render, not a fixed practical rig. Head turns and the push-in from the two-shot (periodic-0-6) to the close-up (periodic-7-11) are continuously interpolated rather than held/stepped, which argues for a rigged 3D puppet animated and rendered at full frame rate rather than shot on 2s/3s stop-motion holds.",
+    "facial_animation_notes": "Mouth shapes are simplified and reused across different phonemes: the close-up captions 'is' / 'sending' / 'each' / 'opposite' (periodic-8 to periodic-10) all show nearly the same narrow, downturned oval mouth with visible upper teeth, indicating a small viseme library rather than full per-phoneme lip sync. Eyebrows are static flat felt strips that do not raise or furrow between frames. A single static frown-crease mark under the husband's nose is baked into the model and does not animate.",
+    "eye_and_blink_notes": "No blink is captured in any of the 17 sampled periodic frames despite them spanning most of the runtime; both characters hold a fixed heavy-lidded, half-closed, sideways/downward gaze (periodic-0 through periodic-7) for many consecutive samples, suggesting either infrequent scripted blinks or blinks timed to fall between the sampling interval. Eye direction does shift slightly (e.g., pupils drift left in periodic-9 vs periodic-10) independent of head rotation, indicating separately animated eye-look controls on the rig.",
+    "head_movement_notes": "In the wide two-shot (periodic-0 through periodic-3) both heads stay essentially locked in place while only the eyes/mouth move. During the push-in (periodic-4 through periodic-7) the husband's head tilts and turns slightly toward camera in a smooth, continuous arc rather than in discrete stepped increments, then holds still through the monologue close-up (periodic-8 to periodic-11). The final push to the two-shot reframe (periodic-12 to periodic-14) again shows fluid head/torso repositioning, not frame-holds.",
+    "gesture_notes": "Hand/finger poses on the phones are static for long stretches (identical clutch grip across periodic-0 through periodic-11), with the one clear gesture beat being the husband lifting his phone up toward the camera to show its screen (periodic-13 to periodic-14, screen content visibly changes between these two frames). No other hand gestures (pointing, waving) appear in the sampled frames.",
+    "idle_motion_notes": "Bodies and props (coffee table, remote, newspaper, batteries) remain fixed in place across nearly all sampled frames; the only idle-state motion visible is the shallow-focus background lamp glow and a slow camera push, giving a deliberately deadpan, low-motion 'stuck to phones' idle pose that reinforces the joke rather than adding secondary/ambient character motion.",
+    "frame_rate_feel": "Source is a smooth 30fps h264 file (metadata.json), and the animation reads as fully smooth/interpolated rather than choppy: head turns and the camera push move continuously frame-to-frame with no visible stepped holds or stutter typical of on-2s stop-motion. The 'jittery clay' look is achieved via the felt-texture shader and lighting grain, not via reduced animation frame rate.",
+    "overall_animation_style_notes": "A deadpan single-location sitcom vignette (couch two-shot into a monologue close-up into a black title/end card) rendered in a warm, softly-lit CG style built to evoke handmade claymation/stop-motion (long noses, round glasses, fuzzy felt skin, muted earth-tone wardrobe) while actually behaving like a conventional smoothly-rigged 3D character short \u2014 deliberate lo-fi texture and pacing choices layered on top of technically clean CG animation."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "cut_count": 4,
+    "avg_shot_length_sec": 3.26,
+    "cuts": [
+      {
+        "timestamp": 3.9,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the wide establishing two-shot to a closer, slightly re-angled two-shot right as the setup dialogue ('phones.') lands, tightening focus on the couple without changing the joke's content yet."
+      },
+      {
+        "timestamp": 6.1,
+        "transition_type": "jump_cut",
+        "reason": "Cuts in tight on the husband's deadpan face as he starts the key line ('each'), isolating his blank expression so the delivery of the joke's setup reads clearly."
+      },
+      {
+        "timestamp": 11.733333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts back out to the two-shot on the word 'opposite,' revealing the phone screen and both characters' texting-each-other punchline at the moment it becomes visually clear."
+      },
+      {
+        "timestamp": 14.766667,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the punchline reaction beat straight to the black title card, ending the sketch immediately after the joke lands rather than lingering."
+      }
+    ],
+    "reaction_shots": [
+      {
+        "start": 6.1,
+        "end": 11.733333,
+        "description": "Extended close-up on the husband's deadpan, sour-faced expression as he delivers the setup line ('each... sending... opposite'), his flat affect doing the comedic work rather than any action."
+      }
+    ],
+    "pacing_notes": "Shots start mid-length (3.9s, 2.2s) to establish the mundane sitting-on-the-couch scenario, then the pacing intentionally slows into one long ~5.6s held close-up on the husband's face as he delivers the deadpan setup line, letting his expression breathe before the punchline. It then snaps back to a slightly shorter two-shot (~3s) for the reveal/punchline, and closes on a brief 1.4s title card. Rather than accelerating into the punchline, this edit relies on a single extended reaction shot as the comedic anchor, with cuts placed on dialogue beats rather than rapid-fire rhythm."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "voice_delivery_notes": "Only two spoken lines in the transcript, both attributed to SPEAKER_00. Line 1 ('We should spend less time on our phones.') is a short, flat declarative statement \u2014 likely delivered earnestly or as a setup line (inferred from phrasing, not heard). Line 2 ('Modern love is basically sending each other reels from opposite ends of the sofa.') is the longer punchline/observation line, phrased as a wry, deadpan aside typical of the ironic-observation joke structure implied by the content itself. The ~4s gap between the two lines (2.3s to 6.27s) suggests a deliberate beat or reaction shot is inferred to sit between setup and punchline, though no visual/keyframe data was reviewed here to confirm.",
+    "pitch_energy_notes": "No direct audio was analyzed (pitch/energy inferred only from text and timing, not heard). The first line reads as a neutral/sincere assertion, which would plausibly carry a flatter, more matter-of-fact pitch. The second line, functioning as the punchline, would plausibly carry a slight lift or wry inflection on 'opposite ends of the sofa' for comedic emphasis, but this is inferred from common delivery conventions for this joke structure rather than observed.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No music cues, captions, or on-screen indicators are present in transcript.json or silence_pauses.json, so presence of music cannot be confirmed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "The longest pause in the clip is 1.50106s (14.7349s-16.2359s), occurring right after the punchline line ends (line 2 ends at 11.153s), suggesting a lingering hold after the joke lands to let it breathe. Before that, a cluster of mid-length pauses (0.91-0.97s) occurs between 11.2s and 14.3s (11.2018-12.1541, 12.8012-13.7698, 13.9533-14.3083), consistent with a reaction/beat sequence following the punchline rather than more speech. The gap between the two spoken lines (2.4135s-6.12025s) is broken into several shorter pauses (0.9, 0.6, 0.33, 0.21, 0.52, 0.51, 0.37s) rather than one long silence, implying intermittent micro-holds or edited beats rather than a single dramatic pause before the punchline setup. The very first pause (0.0-0.320937s) is just a brief pre-roll before the first line begins."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+    "backgrounds": "Single set for the entire episode: a cozy living room where a stop-motion couple sits side by side on a gray upholstered couch. The room reads as a modest, lived-in home interior with a beige/taupe wall, a white paneled door/closet on the left, a wainscoted wall section and a small floating wood shelf with a potted plant on the right, and a curtained window (sheer cream curtains) visible in some wider/side angles. A framed black-and-white picture hangs on the back wall, and a small side table with a framed family photo sits at the edge of frame near the couch. The video opens and closes on plain black title cards (text-only, no set) for the show/episode branding, but the story content itself never leaves this one living-room location, only shifting between wide two-shot and tighter single-character coverage of the same space.",
+    "props": [
+      "Two smartphones (one lighter/silver held by the woman, one black held by the man) that both characters are glued to",
+      "Wooden coffee table in front of the couch",
+      "TV remote control with multicolored buttons on the coffee table",
+      "Folded newspaper/magazine on the coffee table",
+      "Small white plastic object (possibly a phone charger/pill case) and a couple of yellow/red small objects on the coffee table",
+      "Tall tripod floor lamp with fabric drum shade, lit, on the right side of the couch",
+      "Framed family photograph on a small side table next to the couch",
+      "Framed black-and-white artwork/photo on the back wall",
+      "Small potted plant on a floating shelf",
+      "Gray fabric couch with visible tufted/stitched cushions"
+    ],
+    "lighting_notes": "Warm, soft interior lighting dominated by the practical floor lamp glowing on camera right, creating a cozy amber pool of light against cooler gray-beige walls. Overall exposure is fairly dim/moody (evening indoor feel) with soft falloff and shallow depth of field that blurs the background, keeping focus on the characters' faces. The phone screens add a small cool blue glow reflected on the characters' hands/faces, contrasting with the warm lamp light -- a deliberate warm/cool contrast that visually reinforces the phones-versus-real-life theme.",
+    "color_palette": [
+      "warm amber/lamp-light glow",
+      "muted gray (couch, walls, felted character skin tones by contrast)",
+      "warm brown/rust (coffee table, woman's sweater)",
+      "charcoal/near-black (man's coat and tie)",
+      "cream/off-white (curtains, door, trim)",
+      "gold/yellow accent (title card text)",
+      "small cool blue accent (phone screen glow)"
+    ],
+    "visual_complexity_notes": "The set is minimal and tightly controlled: one room, one couch, one coffee table, a handful of clearly chosen props (phone, remote, newspaper, lamp, family photo). Background elements are soft-focus and understated rather than cluttered, which keeps all visual attention on the two felt-textured stop-motion character faces and their phones. This restraint looks deliberate -- it supports a simple, single-joke premise (people ignoring each other for their phones) without needing scene changes, and the shallow-focus, warm-lamp lighting further isolates the characters from an otherwise plain, low-detail backdrop."
+  }
+}

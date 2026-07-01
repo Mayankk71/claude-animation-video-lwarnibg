@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1778765543-3896890140127485874-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.833333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot of the kitchen/dining area. Husband (tall, black cloak/robe body, oversized nose) stands left-of-center at the stove pouring tea; wife sits right, framed against the window at her laptop/breakfast. Camera is eye-level and doesn't move for the full 4.8s. Night skyline visible through the two windows behind them gives a symmetrical dual-window backdrop. Both characters kept in the frame simultaneously with roughly equal headroom; nothing is cropped that matters (both faces and hands fully visible)."
+    },
+    {
+      "start": 4.833333,
+      "end": 11.6,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a static close-up on the wife's face/upper torso, camera locked for the entire ~6.8s take (confirmed across all periodic samples in this range - no drift, pan, or push). She's placed right-of-center, leaving negative space screen-left that is filled by the out-of-focus husband (only his cloak-covered torso and nose visible, cropped at the frame edge) — his cropped presence in the background keeps him 'in the scene' as the reaction target even though the shot is about her. Minimal headroom, chin near the bottom edge with the coffee cup foreground blocking the very bottom of frame. Fridge visible over her other shoulder for spatial continuity with shot 1."
+    },
+    {
+      "start": 11.6,
+      "end": 14.4,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Reverse cut back to a static close-up on the husband at the stove, same focal distance/framing logic as the wife's shot (matching shot-reverse-shot pair), centered in frame with his long nose as the dominant graphic shape pointing screen-left. Kitchen hood and hanging utensils fill the background symmetrically behind him. No movement across the shot; his blocky cloaked body is cropped at the bottom of frame."
+    },
+    {
+      "start": 14.4,
+      "end": 15.8,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "End-card: static title/logo treatment ('LOW BATTERY PEOPLE / CREATED BY NIN.') that fades in over a hold on the husband's close-up before cutting to plain black text card. Centered text, no camera motion, functions as the outro tag rather than a story shot."
+    }
+  ],
+  "framing_patterns_notes": "The whole piece is built on a rigid shot-reverse-shot pattern with zero camera movement anywhere (no pans, tilts, zooms, or handheld drift detected in any periodic sample) - all comedic and emotional weight is carried by static holds and cuts, not camera motion. The establishing wide shot places both characters in one symmetrical frame (kitchen counter left / dining table right, mirrored windows behind), then the scene splits into matching close-ups that alternate speaker focus, with the non-speaking character always partially visible/cropped in the background of the other's shot rather than cutting to a totally clean single. The husband's exaggerated long nose is consistently used as a graphic leading line in every close-up. The final beat re-uses the exact husband close-up framing from the opening wide shot's stove position, bookending the joke visually before the static outro card."
+}

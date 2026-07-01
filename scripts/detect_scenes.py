@@ -36,14 +36,14 @@ def main() -> None:
     scenes = [
         {
             "index": i,
-            "start": start.get_seconds(),
-            "end": end.get_seconds(),
+            "start": start.seconds,
+            "end": end.seconds,
         }
         for i, (start, end) in enumerate(scene_list)
     ]
 
     if not scenes:
-        duration = video.duration.get_seconds() if video.duration else 0.0
+        duration = video.duration.seconds if video.duration else 0.0
         scenes = [{"index": 0, "start": 0.0, "end": duration}]
 
     (out_dir / "scene_boundaries.json").write_text(json.dumps({"slug": slug, "scenes": scenes}, indent=2))

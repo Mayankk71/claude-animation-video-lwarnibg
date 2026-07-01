@@ -1,0 +1,35 @@
+{
+  "video_slug": "lowbattterypeople-1778765543-3896890140127485874-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.98,
+  "cuts": [
+    {
+      "timestamp": 4.833333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide establishing shot of the husband's 'low battery' body drooping at the stove to a tight reaction shot on the wife, right as she begins her line about how long he's been running down -- setting up the joke's premise on her face."
+    },
+    {
+      "timestamp": 11.6,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back to a close-up on the husband's head atop his slumped, powered-down body just after the wife finishes her punchline ('...minutes'), landing on his reaction as the visual payoff of the low-battery gag."
+    },
+    {
+      "timestamp": 14.4,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut to the black title card ('Low Battery People, created by Nin.') immediately after the husband's beat, ending the sketch right on the joke without a fade or lingering resolution."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 4.833333,
+      "end": 11.6,
+      "description": "Sustained close-up on the wife's droopy, unimpressed face as she delivers the setup/punchline dialogue, with the husband's collapsed 'low battery' body soft-focus in the background -- her deadpan expression carries the comedic tone."
+    },
+    {
+      "start": 11.6,
+      "end": 14.4,
+      "description": "Close-up on the husband's head perched atop his slack, powered-down felt body, blinking in a dopey low-battery reaction that pays off the wife's line."
+    }
+  ],
+  "pacing_notes": "The scene opens with the longest shot (~4.8s) to establish the setting and the sight gag of the husband's melted, low-battery posture, then holds even longer (~6.8s) on the wife's static reaction shot to let the punchline dialogue land in a single unbroken take. The pace then quickens with a short (~2.8s) reaction cutaway to the husband's face for the visual payoff, before an abrupt hard cut to a brief (~1.4s) title card ends the video immediately after the joke, with no dissolve or coda."
+}

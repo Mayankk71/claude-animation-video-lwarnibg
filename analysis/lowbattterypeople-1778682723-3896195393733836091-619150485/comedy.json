@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1778682723-3896195393733836091-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 2.308,
+      "mechanism": "irony",
+      "description": "The wife states 'We should spend less time on our phones' while both characters are already sitting side by side, phones lit up in hand, actively scrolling.",
+      "why_it_lands": "The line is delivered as a throwaway aside with zero conviction (flat vocal delivery, no pause for emphasis) while the keyframe shows her thumb already mid-scroll on the phone — the visual immediately undercuts the stated intention before the sentence even finishes."
+    },
+    {
+      "start": 2.308,
+      "end": 6.27,
+      "mechanism": "deadpan",
+      "description": "A near-4-second gap (multiple stitched pauses totaling ~2.4s of dead air, per silence_pauses spanning 2.41s-6.12s) where neither character reacts, moves, or looks at each other after the 'phones' line — they just keep thumbing their screens with sagging, half-lidded eyes.",
+      "why_it_lands": "The sculpted faces hold a static, droopy-eyed, mouth-corners-down expression (visible in scene-1/scene-2 keyframes) through the entire silence, so the joke is entirely in the stillness — there's no punchline reaction shot, which is itself the punchline: total resignation, not surprise."
+    },
+    {
+      "start": 6.27,
+      "end": 11.153,
+      "mechanism": "recognition",
+      "description": "The husband's deadpan explainer line, 'Modern love is basically sending each other reels from opposite ends of the sofa,' names the exact behavior the audience just watched the couple perform for the prior 6 seconds.",
+      "why_it_lands": "It lands as recognition humor because the visual proof (two people, one sofa, two glowing phones, zero eye contact) was already fully shown before the line explains it — the joke works by confirming a very specific, mundane modern-relationship habit the viewer has almost certainly lived, down to the 'opposite ends of the sofa' physical detail matching the actual blocking in scene-3/scene-4."
+    },
+    {
+      "start": 11.733,
+      "end": 14.766667,
+      "mechanism": "deadpan",
+      "description": "The reveal that the husband is literally sending her a reel appears on his phone screen (visible thumbnail/notification in the scene-3 keyframe) while his face stays utterly flat, eyebrows barely lifted, mouth a static downward line — no self-aware smirk or wink to camera.",
+      "why_it_lands": "The gag depends on the character never breaking his own deadpan even as he demonstrates the exact cynical point he just made about himself; the felted, low-affect face design (heavy-lidded eyes, thin closed mouth) sells total emotional flatness rather than a comedic 'gotcha' beat."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-joke, single-scene micro-sketch built entirely on observational irony rather than escalation or a twist ending: the whole 16-second runtime is spent proving one relatable contradiction (people say they want less screen time while modeling the opposite) through blocking and stillness rather than dialogue density — only two lines of speech total, separated by a long unscored silence that does the comedic work a punchline usually would. The stop-motion puppets' droopy, unblinking, low-energy faces are the consistent comedic instrument throughout: the humor never comes from an exaggerated take or a surprised reaction, but from characters who look too tired/resigned to react to their own hypocrisy, which is what makes the 'recognition' beat land as a gut-punch of relatability rather than a gag."
+}

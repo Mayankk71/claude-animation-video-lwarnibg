@@ -65,7 +65,7 @@ def main() -> None:
     align_model, metadata = whisperx.load_align_model(language_code=result["language"], device=device)
     result = whisperx.align(result["segments"], align_model, metadata, audio, device)
 
-    diarize_model = whisperx.diarize.DiarizationPipeline(use_auth_token=hf_token, device=device)
+    diarize_model = whisperx.diarize.DiarizationPipeline(token=hf_token, device=device)
     diarize_segments = diarize_model(audio)
     result = whisperx.assign_word_speakers(diarize_segments, result)
 

@@ -1,0 +1,51 @@
+{
+  "video_slug": "lowbattterypeople-1778765543-3896890140127485874-619150485",
+  "characters": [
+    {
+      "name_or_role": "Husband (man at the stove)",
+      "personality_traits": [
+        "conflict-avoidant / passive-aggressive — the entire joke of the episode (subtitled 'Emotionally Mature') is that he expresses displeasure through sighing rather than speaking, which the episode ironically undercuts",
+        "withdrawn / physically shut off — his body is wrapped almost entirely in a stiff black cloak-like covering with only his head exposed, visually cutting him off from the rest of the room",
+        "silent and non-confrontational for the full runtime — he never speaks on-camera; his only 'dialogue' is the sigh being described secondhand by his wife"
+      ],
+      "emotional_range": [
+        "flat, mildly strained neutrality throughout — no visible emotional escalation even while being called out"
+      ],
+      "expressions": [
+        "0:00 neutral downturned mouth, half-lidded distracted eyes while pouring tea",
+        "0:00-0:04 stays fixated on the kettle/stove, does not turn toward wife",
+        "0:04-0:10 (during wife's line about him sighing) expression remains essentially unchanged — same flat frown, eyes forward — a deliberate non-reaction that IS the joke",
+        "throughout: slightly worried/apologetic eyebrows (inner brows raised) contrasted with a neutral-to-frowning mouth, giving a permanently sheepish look"
+      ],
+      "gestures": [
+        "0:00-0:03 carefully pouring hot water from kettle into teapot with both hands, small precise motions",
+        "0:03-0:10 stands motionless at the stove with hands lowered once pouring finishes, back partially turned to the table",
+        "never turns his head or body toward his wife during her entire speech — stays oriented toward the stove"
+      ],
+      "interactions_notes": "The husband is physically and posturally excluded from the conversation: he remains at the stove with his back partly to his wife while she airs a grievance about him from across the room, and he never turns to face her or respond. This one-directional address (she talks about him, not really to him, and he doesn't engage) is the visual joke underscoring the sarcastic title card 'Emotionally Mature' — he is being discussed/exposed rather than participating. The power dynamic favors the wife as the active speaker/judge of the relationship; he is passive, silent, and diminished, almost like a piece of furniture (reinforced by the cloak that erases his body)."
+    },
+    {
+      "name_or_role": "Wife (woman at the dining table)",
+      "personality_traits": [
+        "blunt and observationally sharp — calls out her husband's passive-aggressive behavior directly and specifically ('sighed aggressively for 20 minutes instead of saying you were hungry')",
+        "weary / exasperated — delivers the line with a flat, deadpan register rather than anger, suggesting this is a recurring, familiar pattern rather than a fresh blowup",
+        "composed and unbothered on the surface — continues sitting upright, hands near her plate/mug, no raised voice implied by her static expression"
+      ],
+      "emotional_range": [
+        "tired resignation shading into flat deadpan delivery — no anger spike, no smile; a steady, unimpressed affect from start to finish"
+      ],
+      "expressions": [
+        "0:00-0:04 (before speaking) half-lidded eyes, slightly pursed downturned mouth, watching her husband sidelong while typing/working at the table",
+        "0:04 mouth opens to begin the line ('Yesterday,') eyebrows stay low and flat — no surprise, no anger",
+        "0:05-0:09 continues speaking through the accusation with the same low, heavy eyelids and neutral-to-frown mouth (no escalation on 'aggressively' or 'hungry')",
+        "0:09-0:10 mouth closes back to a flat, faintly disapproving line as she finishes and holds her gaze"
+      ],
+      "gestures": [
+        "0:00-0:04 seated at the table, one hand near a laptop/tablet or plate, minimal movement, upright posture",
+        "0:04-0:10 stays seated facing forward/toward camera-left, no hand gestures added during the accusation — stillness reinforces the deadpan tone",
+        "does not gesture toward the husband or point/glance fully at him while delivering the line — mostly faces forward"
+      ],
+      "interactions_notes": "The wife functions as the narrator/judge of the domestic dynamic: she states the husband's passive-aggressive behavior aloud, essentially translating his unspoken sigh into words for the audience. She does not raise her voice or gesture emphatically, which comedically undercuts the word 'aggressively' in her own line. Eye contact between the two is minimal/asymmetric — she is aware of him (glancing his way in earlier frames) while he never looks back, reinforcing that she is the one doing the emotional labor of naming the problem while he remains checked out."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1778765543-3896890140127485874-619150485",
+  "duration_sec": 15.913375,
+  "hook": {
+    "start": 0.0,
+    "end": 4.83,
+    "description": "Cold open on a stop-motion man with an exaggeratedly long nose, standing at a stove pouring tea from a glass kettle, wearing a black coat draped so stiffly over his shoulders it reads as a flat rectangular slab. A wry, deadpan title card is burned into frame reading 'Episode 2' (top-left) and 'Emotionally Mature' (large, center), immediately branding this as an ongoing bit/series and telling the viewer what ironic lens to watch the scene through before any dialogue starts.",
+    "why_it_works": "The visual gag (a person rendered as a stiff, boxy, almost robotic silhouette) plus the contradictory episode title ('Emotionally Mature') creates instant dramatic irony in under 5 seconds -- we know before a word is spoken that whatever this character says next will be the opposite of emotionally mature, which primes the joke and makes viewers want to see it confirmed."
+  },
+  "setup": {
+    "start": 4.83,
+    "end": 5.68,
+    "description": "Brief held beat of the man silently pouring/tending the kettle at the stove while the woman sits at the dining table in the background typing on a laptop, establishing the domestic scene and the two characters' physical distance from each other before he speaks."
+  },
+  "conflict": {
+    "start": 5.68,
+    "end": 10.17,
+    "description": "The woman turns and delivers the episode's central accusation, spoken flatly to camera/him: 'Yesterday you sighed aggressively for 20 minutes instead of saying you were hungry.' On-screen captions reveal it was built word-by-word ('Yesterday,' ... '20' ... 'minutes' ... 'hungry.'), and her exhausted, half-lidded expression underscores that this is a recurring pattern, not a one-off. The man remains turned away at the stove, silent and unreactive, visually enacting the same avoidant behavior she's describing.",
+    "punchline_note": "The line itself is the joke: passive-aggressive sighing recast as a communication failure, contradicting the 'Emotionally Mature' title card from the hook."
+  },
+  "punchline": {
+    "start": 10.17,
+    "end": 11.6,
+    "description": "Cut to a close-up reaction shot of the man's blank, startled, felt-textured face -- eyebrows up, mouth slightly open, utterly still -- offering no rebuttal or defense. His silence in response to being called out is the punchline: he's doing the exact non-communicative thing she just accused him of, in real time."
+  },
+  "ending": {
+    "start": 11.6,
+    "end": 15.91,
+    "description": "Quick cut back to a wide shot of the kitchen (man at stove, woman at table) that holds for under a second before the video ends on the show's static branded outro card: 'LOW BATTERY PEOPLE' in yellow serif type over 'CREATED BY NIN.' in white, first laid over the kitchen background and then on a plain black card.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 4.83, "beat_type": "hook", "description": "Cold open at the stove; 'Episode 2 / Emotionally Mature' title card establishes ironic framing before any line is spoken."},
+    {"start": 4.83, "end": 5.68, "beat_type": "setup", "description": "Silent beat: man tends kettle, woman works at laptop in background, physical/emotional distance established."},
+    {"start": 5.68, "end": 10.17, "beat_type": "conflict", "description": "Woman states the accusation in full: 'Yesterday you sighed aggressively for 20 minutes instead of saying you were hungry,' captions build the line word by word; man stays turned away, silent."},
+    {"start": 10.17, "end": 11.6, "beat_type": "punchline", "description": "Close-up on the man's blank, wide-eyed, silent face -- he offers zero response, embodying the exact avoidant behavior just described."},
+    {"start": 11.6, "end": 15.91, "beat_type": "ending", "description": "Brief return to the wide kitchen shot, then the static branded outro card 'LOW BATTERY PEOPLE / CREATED BY NIN.' closes the video."}
+  ],
+  "narrative_notes": "This reel compresses the arc into essentially two spoken beats: the setup/hook are fused into a single sub-5-second cold open where the title card itself (not dialogue) does the setup work, and the conflict and punchline are delivered almost entirely through one uninterrupted line of dialogue plus a single silent reaction shot -- there is no verbal punchline, only a non-verbal one (the man's blank stare). The transcript.json contains only one segment (5.677s-10.167s) capturing the woman's line; the surrounding beats (title text, episode branding, the man's silent reaction, and the outro card) are only visible in the keyframes/on-screen captions, not in transcript.json, and are described here from those visual sources. Scene_boundaries.json shows only 4 scene cuts across 15.9s, consistent with the sparse, mostly-static shot structure (one long take at the stove/table, a close-up cutaway, and the outro card)."
+}
