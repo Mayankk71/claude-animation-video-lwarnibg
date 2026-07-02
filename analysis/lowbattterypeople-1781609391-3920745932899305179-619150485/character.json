@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1781609391-3920745932899305179-619150485",
+  "characters": [
+    {
+      "name_or_role": "Wife (bun hairstyle, brown sweater, holding a book) - stop-motion figure, left side of frame",
+      "personality_traits": [
+        "blunt and deadpan - delivers the accusation \"You snore.\" in a flat two-word sentence with almost no vocal or facial buildup",
+        "quietly stubborn - flatly refuses the demand to delete the recording (\"I can't.\") without raising her voice or changing posture",
+        "secretly sentimental beneath the complaint - the payoff line (\"I play it... it helps me sleep\") reveals she keeps the very thing she is nagging about",
+        "composed / unbothered - keeps her book open on her lap through the entire exchange, never once losing her physical stillness",
+        "quietly judgmental resting face - default expression is a lowered, skeptical half-lidded stare with one eyebrow perpetually cocked"
+      ],
+      "emotional_range": [
+        "bored/unimpressed",
+        "smug or vindicated",
+        "mildly annoyed/defensive",
+        "wistful/affectionate (implied by final reveal, not overt facial change)"
+      ],
+      "expressions": [
+        "0:00 - flat, half-lidded, downward stare, eyebrow raised in a permanent look of mild disapproval",
+        "0:01 (\"You snore.\") - same skeptical look, mouth barely moving, no eye contact with husband",
+        "0:03-0:04 (\"I recorded it.\") - mouth drops open slightly, eyes widen a touch, a flicker of smug vindication",
+        "0:05-0:06 (\"I can't.\") - jaw sets, eyebrow lowers into a sterner, almost defiant look, corners of mouth tighten",
+        "0:08-0:10 - returns to the same flat, forward-facing deadpan stare established at the top of the scene"
+      ],
+      "gestures": [
+        "holds a closed/half-open hardcover book on her lap for the entire scene, thumb resting on the cover",
+        "wedding ring visible on the hand steadying the book, otherwise hands stay still",
+        "torso stays upright and rigid against the pillows; no shifting toward or away from her husband",
+        "no pointing, touching, or reaching gestures toward the husband at any point - all delivery is verbal only"
+      ],
+      "interactions_notes": "She never turns her head toward her husband; both characters face forward as if watching TV, which keeps the marital bicker feeling routine rather than heated. She holds conversational power in the exchange - she initiates the accusation, produces the 'evidence,' and gets the final, unanswered word - while he reacts to her. Her stillness (unmoving book, fixed posture) contrasts with his fidgeting phone use, visually coding her as the calmer, more in-control half of the couple even while lodging the complaint."
+    },
+    {
+      "name_or_role": "Husband (glasses, dark sweater/robe, holding a phone) - stop-motion figure, right side of frame",
+      "personality_traits": [
+        "low-energy / perpetually sleepy demeanor - droopy half-closed eyelids and a slack, slightly open mouth persist through most of the scene",
+        "defensive when confronted - instantly denies the accusation (\"No, I don't.\") and then tries to command the problem away (\"Delete it.\") rather than discuss it",
+        "easily distracted/amused - attention keeps drifting to his phone screen, cracking a small closed-mouth smile at it mid-conversation",
+        "passive/non-confrontational after being refused - does not push back or escalate once his wife says \"I can't\", simply reacts with surprise and lets it drop"
+      ],
+      "emotional_range": [
+        "sleepy/detached",
+        "mildly defensive",
+        "startled/alarmed",
+        "amused"
+      ],
+      "expressions": [
+        "0:00 - droopy, half-lidded sleepy eyes, mouth slightly open, glasses low on his nose",
+        "0:02-0:03 (\"No, I don't.\") - same tired look, brief downward mouth press signaling denial",
+        "0:04-0:05 - a small closed-mouth smile appears as he looks at his phone screen, momentarily disengaged from the argument",
+        "0:06 (\"I can't\" beat) - eyebrows shoot upward, mouth drops open into a startled, wide-eyed 'uh-oh' expression - the one clear break from his sleepy baseline",
+        "0:08-0:10 - eyebrows relax, faint closed-mouth smile returns while still looking at the phone"
+      ],
+      "gestures": [
+        "cradles a phone in both hands for the entire scene, thumb hovering near the screen as if scrolling or replaying audio",
+        "shoulders and posture are slouched noticeably lower into the pillows than his wife's upright posture",
+        "glasses sit low on the bridge of his nose throughout, never adjusted",
+        "at the startled beat (~0:06) his head tilts slightly toward his wife, the only moment either character breaks the forward-facing stare"
+      ],
+      "interactions_notes": "He is reactive rather than proactive in the exchange - his lines are short, defensive replies (denial, then a demand) rather than new information, and his one moment of real engagement (turning his head, wide eyes) comes only when his wife refuses to comply. Physically he mirrors her forward-facing, side-by-side bed posture but with looser, sleepier body language and a phone as a constant hand-prop (versus her book), visually splitting the couple into 'reader vs. scroller' even as they share the same argument. There is no direct eye contact between the two for the whole scene, reinforcing a long-married, low-drama bickering dynamic rather than an open confrontation."
+    }
+  ]
+}

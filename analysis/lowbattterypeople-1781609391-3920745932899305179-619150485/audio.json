@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1781609391-3920745932899305179-619150485",
+  "voice_delivery_notes": "Transcript is a tight two-line-at-a-time accusation/confession exchange (\"You snore.\" / \"No, I don't.\" / \"I recorded it.\" / \"Delete it.\" / \"I can't.\" / \"I play it when you travel.\" / \"It helps me sleep.\"). All lines are short declarative sentences with no exclamation points or question marks in the transcript, which implies (inferred, not heard) a flat, deadpan comedic delivery rather than shouted or highly emotive line reads -- consistent with the clipped, matter-of-fact escalation typical of this reel format. The final line landing after the longest pause in the clip suggests it is delivered as a calm, unsettling punchline rather than a rushed reveal.",
+  "pitch_energy_notes": "No audio was heard directly; energy is inferred from sentence length and phrasing only. Early exchange (\"You snore.\"/\"No, I don't.\") reads as quick, clipped, slightly defensive back-and-forth, implying comparatively higher/tighter pitch and faster pacing. The reveal lines (\"I recorded it.\", \"I can't.\", \"I play it when you travel.\", \"It helps me sleep.\") get progressively more spaced out with longer gaps between them, implying a flattening, lower-energy, deadpan delivery as the confession escalates toward the creepy punchline -- this is an inference from timing/phrasing, not a direct audio observation.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No on-screen text, caption, or keyframe evidence of background music was available in the processed transcript or silence data, so presence of music cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "Per silence_pauses.json, the clip opens with a 1.19s hold (0.0-1.19s) before the first line 'You snore.' is spoken, functioning as a cold-open beat. A 1.28s pause (6.06-7.34s) sits between 'I can't.' and 'I play it when you travel.', giving the reveal room to land. The second-longest pause, 1.34s (8.45-9.78s), falls right before the final line 'It helps me sleep.', setting up the punchline. The single longest silence in the whole clip is the 2.34s hold at the very end (11.98-14.32s), immediately after 'It helps me sleep.', which functions as a lingering beat letting the unsettling punchline sit before the video ends."
+}

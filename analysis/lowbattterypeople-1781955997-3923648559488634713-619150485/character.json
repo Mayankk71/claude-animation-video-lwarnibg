@@ -1,0 +1,56 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (SPEAKER_00)",
+      "personality_traits": [
+        "impatient and blunt, cuts to the chase (\"Just pick something.\")",
+        "low tolerance for indecision, treats dawdling as a personal irritant",
+        "quick to flip from flat deadpan to outsized anger, suggesting a short fuse under a composed exterior",
+        "value-conscious, reacts more strongly to the price than to the food itself"
+      ],
+      "emotional_range": [
+        "tired/unimpressed neutrality",
+        "clipped impatience",
+        "sudden explosive anger/disbelief"
+      ],
+      "expressions": [
+        "0:00-0:03 stiff, heavy-lidded, faintly disapproving stare down at the menu while opening line is delivered",
+        "0:07 flat, mouth-closed, brow slightly lowered while saying \"Just pick something\" - controlled irritation, not yet angry",
+        "0:08-0:10 sharp v-shaped eyebrows, glaring wide eyes, mouth thrown open in a shout as the price ($29) reaction plays in extreme close-up - full anger/outrage"
+      ],
+      "gestures": [
+        "sits rigid and upright behind an open menu held with both hands",
+        "index finger jabs/points down at a specific line in the menu while speaking, an emphatic 'look at this' gesture",
+        "head and torso pulled taut into frame for the angry close-up, no shrinking or softening of posture"
+      ],
+      "interactions_notes": "Faces the woman across a small two-top table but keeps his gaze mostly on the menu rather than on her, underscoring that his frustration is about time/decision-making rather than direct conflict with her. He opens the exchange and delivers the shortest, most direct lines, positioning him as the one trying to move the interaction along; his anger at the end is the payoff/punchline reaction shot, flipping the power dynamic from 'patient nudger' to the more visibly rattled of the two."
+    },
+    {
+      "name_or_role": "wife (SPEAKER_01)",
+      "personality_traits": [
+        "indecisive in the moment but articulate about why once pressed",
+        "dry, dismissive wit - deflates hype with a flat one-liner (\"a mushroom that got famous\")",
+        "frugal/principled about value, unbothered by being called out for stalling",
+        "self-possessed; delivers her final line without defensiveness, more matter-of-fact than embarrassed"
+      ],
+      "emotional_range": [
+        "bored, sighing exasperation",
+        "dry skepticism",
+        "flat, self-assured finality"
+      ],
+      "expressions": [
+        "0:02-0:04 droopy, heavy-lidded eyes and slightly parted mouth reading as a mid-sigh, tired look aimed down at the menu (matches on-screen word 'SIGHING')",
+        "0:04-0:06 narrowed eyes, small downturned frown while stating 'Everything has truffle on it' - dry, unimpressed delivery",
+        "0:07-0:08 raised brows and slightly parted mouth, a beat of hesitation/consideration (on-screen word 'SOMETHING') as she processes being told to just pick",
+        "0:08-0:10 relaxed, half-lidded, faintly smug/settled expression as she lands the punchline about the mushroom being 'famous' - no strain, delivered as an obvious conclusion"
+      ],
+      "gestures": [
+        "holds the menu upright with both hands close to her body, more guarded posture than the man's",
+        "closes the menu and rests both hands flat on top of it once she has landed on her reasoning, a small physical full-stop punctuating her line",
+        "minimal head movement; stays composed and still even as the man's reaction escalates beside her"
+      ],
+      "interactions_notes": "Seated opposite the husband at the same small table, she rarely meets his eyes directly, instead looking at the menu or into middle distance - the couple trades lines in a clean back-and-forth without overlapping speech, typical of a scripted sitcom-style call-and-response. She holds conversational ground calmly against his mounting impatience, and her closing line is what appears to trigger his angry close-up reaction, making her the one who (unintentionally) escalates the scene despite being the calmer, more deadpan of the two."
+    }
+  ]
+}

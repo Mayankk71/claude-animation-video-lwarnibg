@@ -1,0 +1,60 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "cut_count": 6,
+  "avg_shot_length_sec": 1.9,
+  "cuts": [
+    {
+      "timestamp": 2.566667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide dual-shot establishing the restaurant table straight into an extreme close-up on the woman's deadpan face right as the dialogue starts ('You've been sighing at this menu'), punching in for her guilty reaction and revealing the 'MENU' word-caption gag."
+    },
+    {
+      "timestamp": 4.566667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to an extreme close-up on the other character's chin/collar as the line 'Everything has truffle on it' lands, isolating the word with a 'TRUFFLE' caption pop for comedic emphasis."
+    },
+    {
+      "timestamp": 6.733333,
+      "transition_type": "jump_cut",
+      "reason": "Jumps back to the woman's face on 'Just pick something,' a quick punch-in that mirrors the earlier reaction shot and keeps the back-and-forth bickering rhythm tight."
+    },
+    {
+      "timestamp": 7.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to an extreme close-up on the man's furious, wide-eyed face exactly as he objects with '$29,' timing the cut to the anger beat of the objection line."
+    },
+    {
+      "timestamp": 9.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back to the woman's flat, judgmental close-up to deliver the punchline word 'famous,' holding on her unimpressed expression for the joke's landing."
+    },
+    {
+      "timestamp": 11.833333,
+      "transition_type": "other",
+      "reason": "Hard cut to black title/end card revealing the series branding ('Low Battery People, created by Nin, New Episode Daily') as the CTA button after the punchline."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 2.566667,
+      "end": 4.566667,
+      "description": "Close-up on the woman's tired, deadpan face while being called out for sighing over the menu; 'MENU' caption overlay."
+    },
+    {
+      "start": 6.733333,
+      "end": 7.9,
+      "description": "Quick close-up on the woman's unimpressed face reacting to being told to 'just pick something.'"
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "description": "Extreme close-up on the man's angry, flustered face mid-objection about paying $29 for the mushroom."
+    },
+    {
+      "start": 9.9,
+      "end": 11.833333,
+      "description": "Close-up on the woman's flat, sarcastic expression delivering the 'mushroom that got famous' punchline."
+    }
+  ],
+  "pacing_notes": "Opens with a slower ~2.6s wide establishing shot of the couple at the table, then settles into a tight shot-reverse-shot rhythm of ~2s extreme close-ups alternating between the two characters, each synced to a word-caption pop (MENU, TRUFFLE, SOMETHING, $29, FAMOUS). The shortest shot (~1.2s) lands on the terse line 'Just pick something,' tightening pace right before the objection and punchline beats, which each hold slightly longer (~2s and ~1.9s) to let the reactions land. The video then cuts to a distinct final black title/CTA card (~1.4s) for series branding, breaking the visual rhythm to signal the button/outro."
+}

@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "duration_sec": 13.396042,
+  "hook": {
+    "start": 0,
+    "end": 4.621,
+    "description": "Cold open mid-argument at a fancy restaurant: a wide establishing shot of a stiff, deadpan felt stop-motion couple seated over open menus (scene-0), then a quick cut to a close-up of the wife with a 'MENU' text caption as the husband needles her flatly: 'You've been sighing at this menu for five minutes.'",
+    "why_it_works": "There is no preamble or context-setting -- the video opens on an already-escalating, specific accusation, and the deadpan felt-puppet faces instantly signal the show's flat, sitcom-nagging comedic tone within the first two seconds, prompting viewers to stay for her response."
+  },
+  "setup": {
+    "start": 4.621,
+    "end": 7.768,
+    "description": "The wife dismisses the pressure with an excuse -- 'Everything has truffle on it' (TRUFFLE caption over a close-up of the husband's menu, scene-2) -- and the husband curtly pushes back with 'Just pick something' (SOMETHING caption over her close-up, scene-3), establishing the classic dinner-table standoff over indecision."
+  },
+  "conflict": {
+    "start": 7.768,
+    "end": 9.9,
+    "description": "She refuses outright, launching into 'I'm not paying $29...' while the edit cuts to the husband's face twisting into anger with a '$29' caption (scene-4) -- the menu price becomes the flashpoint, escalating the bit from mild irritation to a hard refusal."
+  },
+  "punchline": {
+    "start": 9.9,
+    "end": 11.833,
+    "description": "Her sentence lands on its absurd justification -- '...for a mushroom that got famous' -- delivered completely deadpan in her own close-up with a 'FAMOUS' caption (scene-5), reframing the pricey truffle as nothing more than a mushroom with a viral reputation, which is the joke's punch."
+  },
+  "ending": {
+    "start": 11.833,
+    "end": 13.396042,
+    "description": "Hard cut to black with no further character action or dialogue, closing on the show's branding card.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {"start": 0, "end": 2.566667, "beat_type": "hook", "description": "Silent wide establishing shot of the deadpan couple seated at a restaurant table, both reading menus (scene-0)."},
+    {"start": 2.566667, "end": 4.621, "beat_type": "hook", "description": "Close-up on the wife with 'MENU' caption as the husband's line lands: 'You've been sighing at this menu for five minutes.'"},
+    {"start": 4.621, "end": 6.733333, "beat_type": "setup", "description": "Close-up on the husband's menu with 'TRUFFLE' caption as the wife excuses her indecision: 'Everything has truffle on it.'"},
+    {"start": 6.733333, "end": 7.9, "beat_type": "setup", "description": "Close-up on the wife with 'SOMETHING' caption as the husband pushes back curtly: 'Just pick something.'"},
+    {"start": 7.9, "end": 9.9, "beat_type": "conflict", "description": "Close-up on the husband's angry face with '$29' caption as the wife's refusal begins: 'I'm not paying $29...'."},
+    {"start": 9.9, "end": 11.833333, "beat_type": "punchline", "description": "Deadpan close-up on the wife with 'FAMOUS' caption delivering the punch: '...for a mushroom that got famous.'"},
+    {"start": 11.833333, "end": 13.396042, "beat_type": "ending", "description": "Cut to black title card: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and a 'NEW EPISODE DAILY' badge."}
+  ],
+  "narrative_notes": "This 13.4s reel compresses the arc into a single unbroken argument rather than distinct scenes. Conflict and punchline are technically one continuous sentence from the wife ('I'm not paying $29 for a mushroom that got famous') that the edit splits across two shots (angry husband reaction on '$29', then her own deadpan delivery on 'famous') -- treated here as two beats because the price ($29) is the escalation/conflict and the 'mushroom that got famous' clause is the comedic reveal/punchline, but they are delivered as one grammatically fused line, not separable dialogue exchanges. There is no cooldown or reaction beat after the punchline before the hard cut to the branding card -- the joke's landing and the ending are adjacent with no buffer, which is typical of this series' fast cold-open-to-title-card format."
+}

@@ -1,0 +1,72 @@
+{
+  "video_slug": "lowbattterypeople-1781609391-3920745932899305179-619150485",
+  "total_lines": 7,
+  "avg_words_per_line": 3.14,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.185,
+      "end": 1.746,
+      "text": "You snore.",
+      "word_count": 2,
+      "pause_before_sec": 1.19,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.568,
+      "end": 3.17,
+      "text": "No, I don't.",
+      "word_count": 3,
+      "pause_before_sec": 0.76,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.49,
+      "end": 4.132,
+      "text": "I recorded it.",
+      "word_count": 3,
+      "pause_before_sec": 0.43,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.874,
+      "end": 5.315,
+      "text": "Delete it.",
+      "word_count": 2,
+      "pause_before_sec": 0.59,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.776,
+      "end": 6.177,
+      "text": "I can't.",
+      "word_count": 2,
+      "pause_before_sec": 0.63,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.34,
+      "end": 8.502,
+      "text": "I play it when you travel.",
+      "word_count": 6,
+      "pause_before_sec": 1.28,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 9.725,
+      "end": 10.507,
+      "text": "It helps me sleep.",
+      "word_count": 4,
+      "pause_before_sec": 1.34,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "The clip is a 7-line tit-for-tat confrontation: accusation (\"You snore.\") -> denial (\"No, I don't.\") -> evidence (\"I recorded it.\") -> demand (\"Delete it.\") -> refusal (\"I can't.\") -> reveal of motive (\"I play it when you travel.\") -> punchline confession (\"It helps me sleep.\"). Every line is a complete short sentence (2-6 words) with no overlapping starts, so despite both transcript speaker tags reading SPEAKER_00 (a diarization artifact given the clearly two-party exchange), the exchange reads as clean, non-overlapping volleys rather than talked-over interruption. Each beat gets its own isolated pocket of silence, giving the whole clip a deliberate, single-camera-reaction-shot cadence rather than naturalistic overlapping conversation.",
+  "speech_rhythm_notes": "Pauses tighten through the middle of the exchange (0.43s before \"I recorded it.\", 0.59s before \"Delete it.\", 0.63s before \"I can't.\") as the argument's tempo quickens, then stretch back out for the reveal: 1.28s before \"I play it when you travel.\" and 1.34s (the longest gap between any two lines) before the closing punchline \"It helps me sleep.\" (only 4 words). The clip also opens with a near-1.19s beat of silence before the first line lands, mirroring the punchline's pause length and bookending the joke with its two longest silences."
+}

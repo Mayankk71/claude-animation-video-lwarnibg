@@ -1,0 +1,19 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "backgrounds": "A single set is used for the entire episode: the interior of an upscale, dimly-lit fine-dining restaurant. A round-ish table draped in a white tablecloth sits in the foreground with the two main stop-motion characters seated across from each other. Behind them, a blurred (shallow-depth-of-field) dining room extends back with rows of other seated patrons at similarly white-clothed tables, tall cream dining chairs, wall sconces with warm bulbs, wainscoted/paneled tan walls, and large tiered pendant/chandelier light fixtures hanging from the ceiling. Bookend title cards (intro/outro) are plain black backgrounds with text, not part of the physical set.",
+  "props": [
+    "leather-bound restaurant menu (opened, with visible price/menu text used for gag captions)",
+    "wine glass with red wine",
+    "water glass",
+    "table setting: fork, knife, spoon, folded white napkin",
+    "white tablecloth",
+    "wall sconce candle-style lights",
+    "tiered pendant chandeliers",
+    "cream/beige upholstered dining chairs",
+    "black clothing/jacket textures (felt, stop-motion material) on the male character",
+    "pearl earrings and rings on the female character"
+  ],
+  "lighting_notes": "Warm, low-key restaurant lighting with practical sources (sconces, pendant lamps, small table lamps in the background) creating an amber/orange glow. The foreground subjects are lit slightly brighter and cooler than the warm ambient background, keeping faces and expressions readable. Background patrons and set details are thrown into soft shallow-focus blur, emphasizing a shallow depth of field typical of macro stop-motion cinematography.",
+  "color_palette": ["warm amber/orange", "deep brown", "cream/off-white (tablecloths, chairs)", "black (formalwear, title card background)", "muted skin-tone peach/tan (character felt material)", "golden yellow (title card text/logo accent)", "deep red (wine)"],
+  "visual_complexity_notes": "The set is detailed and atmospheric (a fully dressed restaurant with multiple background tables, chandeliers, and extras) but deliberately shot with shallow focus so only the two foreground characters and their table are sharp. This keeps the visual complexity from distracting -- the dense background reads as texture/ambience while the comedic focus stays entirely on the two exaggerated character faces and their menu-reading routine."
+}

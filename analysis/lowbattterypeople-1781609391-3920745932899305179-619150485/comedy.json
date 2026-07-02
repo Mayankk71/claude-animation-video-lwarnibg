@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1781609391-3920745932899305179-619150485",
+  "comedic_beats": [
+    {
+      "start": 1.185,
+      "end": 3.17,
+      "mechanism": "recognition",
+      "description": "Wife flatly accuses \"You snore,\" husband reflexively denies \"No, I don't\" without looking up from his phone.",
+      "why_it_lands": "Both puppets keep their heavy-lidded, half-asleep default expression through the accusation and the denial - the instant, unexamined \"No, I don't\" is the universal reflex of anyone caught with a flaw, and the flat vocal delivery (no defensiveness, no eye contact) mirrors how real bedtime bickering sounds rote rather than heated."
+    },
+    {
+      "start": 3.49,
+      "end": 4.132,
+      "mechanism": "escalation",
+      "description": "After only a 0.43s beat, wife produces proof: \"I recorded it.\"",
+      "why_it_lands": "The reveal of evidence turns a deniable claim into an unwinnable one in a single flat line with zero triumph in her delivery (still staring at her book, not smiling) - the escalation is purely informational, which makes it land as dry rather than shouty."
+    },
+    {
+      "start": 4.874,
+      "end": 6.177,
+      "mechanism": "surprise",
+      "description": "Husband's demand \"Delete it\" gets the illogical, un-argued reply \"I can't,\" with no reason given.",
+      "why_it_lands": "A simple command invites either compliance or a justified refusal; \"I can't\" (delivered deadpan, same droopy smile on his face in the periodic-9 frame) supplies neither, planting a mystery that the audience expects to be technical (phone broken, file corrupted) rather than emotional."
+    },
+    {
+      "start": 6.177,
+      "end": 8.502,
+      "mechanism": "surprise",
+      "description": "A 1.28s silence (the longest pause in the exchange to that point) precedes the confession \"I play it when you travel.\"",
+      "why_it_lands": "The silence_pauses data shows this is the single largest gap in the dialogue before this point (6.06-7.34), functioning as a held-breath beat that primes the audience for something bigger than a tech excuse; the line itself reframes \"I can't\" from stubbornness into a private ritual, subverting the setup of a petty argument."
+    },
+    {
+      "start": 8.502,
+      "end": 10.507,
+      "mechanism": "other",
+      "description": "gut-punch: after another 1.34s pause, wife adds the quiet coda \"It helps me sleep.\"",
+      "why_it_lands": "This pause (8.45-9.78) is even longer than the one before it, and the line is delivered with the exact same tired, sleepy-eyed expression the couple has worn since frame one - no shift in tone, music, or performance marks the moment as emotional, so the tenderness sneaks past the deadpan comedic register the whole short has trained the viewer to expect, landing as a relatable admission of missing a partner rather than a punchline."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole 'Low Battery People' format runs on a single sustained visual/vocal deadpan: both stop-motion puppets have permanently half-lidded, exhausted eyes and flat downturned mouths that never change expression regardless of whether the line is a petty accusation or a genuine confession of loneliness. The comedy comes from stacking short, clipped exchanges (2-6 word lines) separated by unusually long silences (0.4-2.3s, per silence_pauses.json) that do the emotional lifting the faces refuse to do - the biggest pauses are reserved for the two reveal lines, turning a bedtime-snoring bit into a bittersweet gut-punch about intimacy and absence, all without the performance style ever breaking its tired, low-energy deadpan."
+}

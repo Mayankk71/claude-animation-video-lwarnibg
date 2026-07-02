@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "voice_delivery_notes": "Only the transcript text and timing are available (no direct audio), so delivery is inferred from phrasing and pacing. SPEAKER_00 opens with a flat, observational accusation (\"You've been sighing at this menu for five minutes\"), then a short, clipped imperative (\"Just pick something.\") that reads as mildly exasperated/deadpan rather than shouted, given its brevity (0.7s duration for 3 words). SPEAKER_01's lines are short retorts (\"Everything has truffle on it.\" and the longer punchline \"I'm not paying $29 for a mushroom that got famous.\") that fit a dry, deadpan comedic register typical of this reel's format, escalating to the punchline as the longest and most information-dense line (10 words in 2.85s).",
+  "pitch_energy_notes": "No audio waveform or pitch data is available, so this is inferred purely from sentence type and word count/pacing. The opening line and the punchline are the two longest utterances and likely carry the most vocal energy/emphasis (setup and payoff). \"Just pick something.\" is very short and clipped, suggesting a flatter, terser delivery consistent with mild annoyance. Overall pacing (words per second) is moderate to slow across all four lines, consistent with a deadpan, deliberate comedic rhythm rather than rapid-fire delivery.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music cues, captions, or on-screen indications of a soundtrack are present in the transcript or silence data, so presence of music cannot be confirmed and is left as false rather than guessed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json shows a 1.38581s silence at the very start (0.0-1.38581s), functioning as a cold-open beat before any dialogue begins. A second pause of 1.0375s (1.69619-2.73369s) sits directly before SPEAKER_00's opening line, reinforcing the establishing-beat silence at the top of the clip. Mid-scene pauses are short: 0.3755s (4.48556-4.86106s) between SPEAKER_00 and SPEAKER_01's first exchange, 0.6585s (6.36756-7.02606s) before \"Just pick something.\", and 0.260563s (7.78613-8.04669s) before the punchline setup. The longest silence in the whole clip is 1.68037s (11.6116-13.2919s), occurring immediately after the punchline line ends (10.895s) -- this is the hold right after the punchline, giving the joke room to land before the clip presumably cuts."
+}

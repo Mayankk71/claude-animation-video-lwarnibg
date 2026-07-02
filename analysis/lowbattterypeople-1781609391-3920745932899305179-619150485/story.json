@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1781609391-3920745932899305179-619150485",
+  "duration_sec": 14.420042,
+  "hook": {
+    "start": 0,
+    "end": 1.746,
+    "description": "Cold open, no establishing shot: a stop-motion elderly-styled couple (long-nosed woman reading a book, bald man in glasses on his phone) sit up in bed under a lamp. Wife opens with a flat accusation, 'You snore.'",
+    "why_it_works": "Drops the viewer straight into the middle of a marital spat with zero context, so the blunt, deadpan delivery and the visual gag of two tired, expressionless puppet faces creates instant intrigue about what happens next in under 2 seconds."
+  },
+  "setup": {
+    "start": 1.746,
+    "end": 4.132,
+    "description": "Husband reflexively denies it ('No, I don't.'), and the wife immediately one-ups the denial with a flat reveal, 'I recorded it,' establishing that she has proof and raising the stakes of the argument."
+  },
+  "conflict": {
+    "start": 4.132,
+    "end": 7.34,
+    "description": "Husband demands 'Delete it.' and the wife flatly refuses with 'I can't.' A brief held silence follows as his stunned/confused expression (visible in the periodic keyframes) lets the refusal land before the reveal, building tension over why she can't (or won't) delete the recording."
+  },
+  "punchline": {
+    "start": 7.34,
+    "end": 10.507,
+    "description": "The wife reveals the twist in two beats: 'I play it when you travel' (she deliberately keeps and replays his snoring while he's away) followed by a topper, 'It helps me sleep' -- subverting the expectation that the recording was blackmail leverage and instead revealing an oddly affectionate, absurd habit."
+  },
+  "ending": {
+    "start": 10.507,
+    "end": 14.420042,
+    "description": "No further dialogue; the scene holds on the couple's reactions (husband's crooked smile, wife's tired stare) for a beat before the frame is overlaid, then replaced by a black title card.",
+    "cta_or_text_overlay": "Yellow serif title 'LOW BATTERY PEOPLE', white subtitle 'CREATED BY NIN.', and a yellow ribbon graphic reading 'NEW EPISODE DAILY'; an 'Episode 36' label is also burned into the top-left corner of the live-action frame earlier in the video."
+  },
+  "beat_map": [
+    {"start": 0, "end": 1.746, "beat_type": "hook", "description": "Wife's blunt opening accusation 'You snore.' with no preamble, over static two-shot of the couple in bed."},
+    {"start": 1.746, "end": 4.132, "beat_type": "setup", "description": "Husband denies it ('No, I don't.'); wife reveals she recorded him ('I recorded it.'), establishing the evidence at stake."},
+    {"start": 4.132, "end": 7.34, "beat_type": "conflict", "description": "Husband demands 'Delete it.', wife refuses 'I can't.', followed by a short silent reaction beat that holds the tension before the explanation."},
+    {"start": 7.34, "end": 10.507, "beat_type": "punchline", "description": "Two-part reveal: 'I play it when you travel.' then the topper 'It helps me sleep.', subverting expectations of blackmail into an absurd comfort habit."},
+    {"start": 10.507, "end": 14.420042, "beat_type": "ending", "description": "Silent reaction hold on both characters' faces, then dissolve to the 'LOW BATTERY PEOPLE / Created by Nin. / New Episode Daily' branded title card."}
+  ],
+  "narrative_notes": "This 14.4s reel is shorter than a typical 20-25s reel and compresses the arc into a single static bedroom two-shot with no scene/location change (scene_boundaries.json shows only one real content scene, 0-13.1s, followed by a 1.2s pure title-card scene). There is no traditional 'setup' establishing normalcy before conflict -- the video opens already inside the conflict (hook and setup are fused into the accusation-and-denial exchange). The punchline itself is two-beat (reveal + topper 'It helps me sleep'), which is common in this format to land a second, bigger laugh right before the ending. The ending carries no spoken CTA; the 'CTA' is purely the visual brand card (title, creator credit, 'New Episode Daily' ribbon) fading in over the frozen final expressions, functioning as a series-recognition/follow hook rather than a narrative resolution."
+}

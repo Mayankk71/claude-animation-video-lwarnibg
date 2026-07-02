@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 2.717,
+      "mechanism": "deadpan",
+      "description": "Cold open on the man's face before any line is spoken: droopy eyelids, downturned nose, flat mouth, held in silence.",
+      "why_it_lands": "Two back-to-back pauses (1.39s then 1.04s) eat up the entire opening beat with zero dialogue, so the joke of marital fatigue is told purely through a static, sagging facial rig before a word is said."
+    },
+    {
+      "start": 2.717,
+      "end": 4.621,
+      "mechanism": "recognition",
+      "description": "He calls out her exact, quantified behavior: 'You've been sighing at this menu for five minutes,' delivered flat and factual rather than as an accusation.",
+      "why_it_lands": "Naming a specific, verifiable duration ('five minutes') instead of a vague complaint is the precise shape of real nagging between long-term couples, which is what makes it instantly recognizable rather than generic bickering."
+    },
+    {
+      "start": 4.902,
+      "end": 7.768,
+      "mechanism": "escalation",
+      "description": "The back-and-forth ratchets up in two clipped exchanges: her deadpan excuse 'Everything has truffle on it' (into a 0.66s pause) answered by his terse 'Just pick something,' shown in tight close-up on his lower face ('$29' text pop starts here).",
+      "why_it_lands": "Each line is shorter and flatter than the last (9 words down to 3), and the 0.66s silence before his retort lets his blank stare do the escalating instead of raised volume, keeping the fight petty and grounded."
+    },
+    {
+      "start": 8.049,
+      "end": 10.895,
+      "mechanism": "irony",
+      "description": "The punchline reframes a truffle -- a luxury ingredient people usually covet -- as an outrage: 'I'm not paying $29 for a mushroom that got famous,' delivered in the same flat, aggrieved tone as a real budgeting complaint.",
+      "why_it_lands": "Personifying the truffle as a mushroom with a publicist ('that got famous') is an absurd mismatch against her genuinely indignant, glasses-furrowed close-up expression -- the incongruity between the trivial subject and the seriousness of her delivery is the whole joke."
+    },
+    {
+      "start": 10.895,
+      "end": 13.267,
+      "mechanism": "deadpan",
+      "description": "The scene holds on the woman's unimpressed, half-lidded 'FAMOUS' close-up in total silence before cutting to the title card.",
+      "why_it_lands": "The longest pause in the whole clip (1.68s) sits right after the punchline with no reaction shot or rebuttal, letting the joke land on a flat, unresolved stare rather than a button line -- an anticlimax that mirrors how these arguments actually just trail off."
+    }
+  ],
+  "overall_comedic_style_notes": "The humor here is entirely conversational and expression-driven, not slapstick: two long-nosed, droopy-eyed stop-motion characters bicker over a trivial fine-dining decision, and the comedy comes from treating a minor domestic annoyance (menu indecision, a $29 truffle) with mock-serious, tightly framed close-ups. Big bold on-screen keyword captions (MENU, TRUFFLE, SOMETHING, $29, FAMOUS) punch in on the exact beat of each key word, functioning like a laugh-track substitute for a dialogue-only gag. Comedic timing leans on unusually long held pauses (0.66s-1.68s) and static, unblinking stares rather than quick cuts or physical gags, which is what makes the piece read as relatable-couple humor rather than broad comedy."
+}

@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1781609391-3920745932899305179-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 13.1,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot of the couple sitting up in bed, held for the entire 13s scene with zero reframing across all sampled frames. Both figures are centered but pushed slightly right of frame, with the woman's face landing near the left third and the man's near the right third; headroom is tight, cropping the tops of the headboard's carved silhouette. She holds a book low in frame (bottom-left), he holds a glowing phone low-center-right, so the two light sources (warm lamp glow on the left, cold phone glow on the right) sit in visual opposition. The lamp in the background-left acts as a soft practical key light; the rest of the room falls into shadow, isolating the two heads against the dark headboard. Dialogue/caption text is burned in at bottom-center, never overlapping either character's face."
+    },
+    {
+      "start": 13.1,
+      "end": 14.3,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black title/end-card frame (no camera subject) reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' centered in the upper-middle of frame with a 'NEW EPISODE DAILY' ribbon graphic centered below it; symmetric, static graphic layout with generous negative space above and below the text block."
+    }
+  ],
+  "framing_patterns_notes": "The entire live-action-style scene is shot as one unbroken static medium two-shot with no pans, tilts, or zooms — all movement and comedy comes from the puppets' micro-expressions (eye rolls, mouth twitches) and the phone-light flicker rather than camera work. The frame consistently keeps both characters' eyes in the upper third and their hands/props in the lower third, leaving a clean center-bottom strip free for caption text on every line of dialogue. The episode number ('Episode 36') is burned into the top-left corner of the shot rather than the end card, separate from the title card that closes the video."
+}

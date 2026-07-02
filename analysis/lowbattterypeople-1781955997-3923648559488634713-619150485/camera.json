@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1781955997-3923648559488634713-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.566667,
+      "shot_type": "wide",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Opens on a symmetrical wide shot of the restaurant with the two leads dead-center and small in frame, flanked by mirrored rows of tables/chandeliers and a title card (episode number + one-word verdict) burned over the top third. Camera pushes in steadily over ~2s, tightening from the full dining room down to a medium close-up on the man's face reading the menu; his glasses and nose stay locked on the vertical center line the whole time, headroom shrinking as the push continues. Background diners stay symmetrically arranged left/right and go soft with depth of field as the lens tightens."
+    },
+    {
+      "start": 2.566667,
+      "end": 4.566667,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off close-up on the woman, centered on her nose/eyeline with the wine glass anchoring the lower-left third and her closed menu resting on the table edge. Caption word (\"MENU\") sits at chin height. Background chandelier/sconce and blurred diners stay mirrored behind her, same shallow-DOF treatment as prior shot but no further camera movement."
+    },
+    {
+      "start": 4.566667,
+      "end": 6.733333,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to an extreme close-up insert on the menu itself: his torso and chin fill the top of frame (nose and mouth only, eyes cropped out entirely), hands frame the open menu left and right in near-perfect symmetry, water glass and wine glass just visible at the outer edges. Static, tripod-locked framing used purely to let the on-screen caption words (\"HAS\", \"ON\", \"TRUFFLE\") land as isolated punchline beats."
+    },
+    {
+      "start": 6.733333,
+      "end": 7.9,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Returns to the same locked close-up crop on the woman used in the earlier reverse shot (same eyeline, same wine-glass foreground element), reinforcing a clean shot-reverse-shot pattern rather than introducing a new angle. Brief scene (~1.2s) with no camera movement."
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Cuts to a tight, static close-up on the man, cropped from forehead to mouth so his oversized nose and round glasses dominate the center of frame; caption (\"I'M\" / \"$29\") sits directly over his mouth. Eyebrows lower into an angry V as the beat lands, but the framing itself never moves — all the escalation is in the puppet's expression, not the camera."
+    },
+    {
+      "start": 9.9,
+      "end": 11.833333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Final reaction shot on the woman, a hair wider than her earlier close-ups so her pearl earrings and collar are visible, still centered and static with the same blurred symmetrical restaurant background. Caption \"FAMOUS\" lands at chin height, matching the caption-placement convention used in every prior shot."
+    },
+    {
+      "start": 11.833333,
+      "end": 13.266667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "End card: solid black background, centered serif title \"LOW BATTERY PEOPLE\" / \"CREATED BY NIN.\" with a small yellow \"NEW EPISODE DAILY\" ribbon graphic beneath, all elements horizontally centered. Pure static graphic, no camera motion or set."
+    }
+  ],
+  "framing_patterns_notes": "Strict shot-reverse-shot alternation between two static, centered close-ups (man vs. woman), always with the puppet's nose/eyeline on the frame's vertical center and the blurred restaurant symmetrically arranged behind them — the only camera movement in the whole piece is the single opening push-in from the wide establishing shot into the first close-up. The one exception to the close-up pattern is a static extreme close-up insert on the menu/hands used as a punctuation beat for the joke's key words. Every caption word is burned at the same vertical position (roughly chin/collar height) regardless of shot type, so the text placement, not the camera, is what visually unifies the cuts."
+}
