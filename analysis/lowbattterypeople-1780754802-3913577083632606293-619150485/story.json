@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1780754802-3913577083632606293-619150485",
+  "duration_sec": 13.118708,
+  "hook": {
+    "start": 0,
+    "end": 1.9,
+    "description": "Cold open in a stop-motion kitchen: the wife (long-nosed felt character, brown sweater, drying a plate) says flatly, 'My mom asked when we're having kids,' while the husband (tall felt character, black cardigan, glasses) washes dishes at the sink with his back angled toward her.",
+    "why_it_works": "Drops the viewer mid-conversation on a universally loaded, relatable topic (in-law pressure about kids) with zero preamble, so the premise and stakes are legible in under 2 seconds; the characters' already-tired, deadpan expressions signal the dry comedic tone before any punchline lands."
+  },
+  "setup": {
+    "start": 1.9,
+    "end": 5.0,
+    "description": "Husband asks, 'What did you tell her?' (2.55-3.28s); wife replies, 'That we're still figuring it out.' (3.62-4.96s), establishing that she gave her mother a diplomatic, non-committal answer."
+  },
+  "conflict": {
+    "start": 5.0,
+    "end": 7.2,
+    "description": "Husband contradicts her deadpan: 'We figured it out three years ago.' (5.58-7.10s), exposing that the couple already privately decided (implied: not to have kids, or already settled the matter), which clashes with the vague answer she gave her mother."
+  },
+  "punchline": {
+    "start": 7.2,
+    "end": 9.9,
+    "description": "Wife shuts it down with 'She doesn't need to know that.' (7.72-8.82s), the on-screen subtitle 'DOESN'T' visible over her flat, unbothered expression; the beat holds a couple seconds into the husband's silent, unimpressed stare toward camera before the scene cuts, letting the deadpan delivery land."
+  },
+  "ending": {
+    "start": 9.9,
+    "end": 13.118708,
+    "description": "A brief held shot of the husband's blank, side-eye reaction at the sink (9.9-11.13s) cuts to a black title card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a yellow 'NEW EPISODE DAILY' ribbon graphic (11.13-13.12s), closing the episode and branding the series.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE — CREATED BY NIN. — NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {"start": 0, "end": 1.9, "beat_type": "hook", "description": "Wife states the inciting line, 'My mom asked when we're having kids,' while drying dishes; husband washes dishes beside her."},
+    {"start": 1.9, "end": 5.0, "beat_type": "setup", "description": "Husband asks what she told her mom; wife says she told her they're 'still figuring it out,' establishing the diplomatic cover story."},
+    {"start": 5.0, "end": 7.2, "beat_type": "conflict", "description": "Husband deadpans that they 'figured it out three years ago,' revealing the cover story is false and creating the comedic tension."},
+    {"start": 7.2, "end": 9.9, "beat_type": "punchline", "description": "Wife's flat retort, 'She doesn't need to know that,' delivers the joke; husband's silent, unimpressed stare lingers as the button on the exchange."},
+    {"start": 9.9, "end": 13.118708, "beat_type": "ending", "description": "Final reaction beat gives way to the black title card with series name, creator credit, and 'NEW EPISODE DAILY' CTA ribbon."}
+  ],
+  "narrative_notes": "This 13-second reel compresses the arc into a single unbroken two-hander dialogue exchange rather than distinct visual scenes: hook, setup, and conflict all happen within one continuous kitchen shot via rapid line trading, with no cutaways. The punchline and the start of the ending beat are fused in practice — the joke lands on the wife's line but the comedic 'button' is really the husband's silent deadpan stare that follows, which this file treats as the tail of punchline into the ending's reaction shot. There is no separate resolution scene for the story itself; the 'ending' is purely franchise branding (title card), which is typical for this series format rather than a story beat about the couple."
+}

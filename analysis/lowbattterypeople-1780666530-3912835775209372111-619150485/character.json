@@ -1,0 +1,57 @@
+{
+  "video_slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband",
+      "personality_traits": [
+        "deadpan and self-aware, delivers the joke's punchline in a flat monotone rather than a punchy way",
+        "passive/conflict-avoidant in the table dispute, points and defers instead of arguing back",
+        "wry observational humor - frames a mundane habit (deliberating over an empty restaurant table) as proof of marital bond"
+      ],
+      "emotional_range": [
+        "resigned amusement",
+        "mild exasperation",
+        "flat acceptance"
+      ],
+      "expressions": [
+        "0:00 neutral, faint downturned mouth as he opens with the setup line 'You know how I know we're married?'",
+        "0:02-0:08 unchanged droopy, half-lidded eyes while delivering the punchline about the six-minute table debate, no comedic beat change in his face - the deadpan IS the joke",
+        "0:09 (scene-6/scene-7 close-up) eyebrows knit slightly, mouth a flat downward line, tired/unimpressed look while pointing off to a new table",
+        "0:11 same flat expression as he concedes 'Let's sit there', no visible relief or annoyance, just resignation"
+      ],
+      "gestures": [
+        "stands upright, hands mostly at sides during the opening exchange (scene-0)",
+        "top-down tracking shot shows him leading/following his wife as they physically relocate between tables (scene-1)",
+        "sits at the table leaning back with legs crossed, one arm resting on the tabletop, projecting casual detachment (scene-7/periodic-8)",
+        "raises one hand with an extended index finger to point toward a different table when suggesting where to sit (scene-7, 0:11)"
+      ],
+      "interactions_notes": "He initiates the bit and does most of the talking, but functionally defers to his wife's judgment on the actual seating decision - after she rejects a spot ('No.') he is the one who points to an alternative and gives in ('Let's sit there'), reinforcing the joke that he already knows how this ritual ends. He maintains a physically taller, looser posture than her (exaggerated long torso in a black coat) which visually contrasts with her stiffer, tighter frame."
+    },
+    {
+      "name_or_role": "wife",
+      "personality_traits": [
+        "particular/decisive about small things - visibly scrutinizes each table option",
+        "guarded body language (arms crossed) suggesting she is used to being the one who has to approve the final call",
+        "curt and judgmental in delivery - her only two lines ('How?' and 'No.') are short, clipped rejections/prompts rather than elaboration"
+      ],
+      "emotional_range": [
+        "mild annoyance",
+        "skeptical appraisal",
+        "flat refusal"
+      ],
+      "expressions": [
+        "0:01-0:02 (scene-0) eyebrows raised, mouth open mid-question on 'How?', engaged but slightly impatient",
+        "0:03-0:08 (scene-2/scene-3) eyes narrowed, brow lowered into a scrutinizing squint while surveying the empty restaurant's tables",
+        "0:09-0:10 (scene-6, close-up) eyebrows sharply angled down, eyes half-lidded and locked forward, deadpan stern glare as she says 'No.'",
+        "expression barely shifts across the whole clip - same low-lidded, arched-eyebrow scrutiny throughout, reinforcing that this pickiness is habitual, not situational"
+      ],
+      "gestures": [
+        "arms crossed tightly over her chest for most of the sequence (scene-0, scene-3), a closed, evaluative posture",
+        "walks ahead toward a table she is considering, scanning it before sitting (scene-4)",
+        "sits upright with hands folded/placed flat on the table, more contained posture than her husband's slouch (scene-7/periodic-8)",
+        "delivers 'No.' in close-up with almost no accompanying hand gesture - the rejection is entirely facial/vocal, making it feel final"
+      ],
+      "interactions_notes": "She is the de facto decision-maker in the seating negotiation: her single-word 'No.' overrules whatever table was just proposed, and the husband immediately pivots to point at another option in response. Eye lines are mostly directed at each other or at the restaurant's tables rather than to camera, and the two walk in tandem (never touching) as they relocate, suggesting a well-worn, low-friction routine rather than real conflict - visually confirmed by both characters keeping near-identical flat expressions throughout, as if this back-and-forth is comfortable and expected rather than tense."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "video_slug": "lowbattterypeople-1780754802-3913577083632606293-619150485",
+  "characters": [
+    {
+      "name_or_role": "wife (SPEAKER_01, dish-drying woman)",
+      "personality_traits": [
+        "conflict-avoidant with her own mother, evasive rather than confrontational",
+        "deadpan / low-energy delivery even when discussing an emotionally loaded topic (kids)",
+        "practical and dismissive once caught in the small lie (\"She doesn't need to know that\")",
+        "physically fidgety-passive: keeps drying the same plate instead of reacting bodily"
+      ],
+      "emotional_range": [
+        "flat/tired resignation",
+        "mild sheepishness when reminded of the truth",
+        "brief defensiveness that resolves into shrugging dismissal"
+      ],
+      "expressions": [
+        "0:00 - droopy, half-lidded tired eyes, mouth closed, staring past camera while stating the mom's question",
+        "0:02-0:04 - slight downward glance at the plate, faint frown while admitting 'still figuring it out'",
+        "0:05-0:07 - mouth opens slightly, eyebrows lift a touch in mild surprise as husband calls out the lie",
+        "0:08 - flat, slightly annoyed deadpan look, no smile, as she dismisses the issue"
+      ],
+      "gestures": [
+        "stands leaning against the counter for the entire scene, weight on one hip",
+        "continuously wipes the same white plate with a red towel throughout the whole conversation, never finishing or setting it down",
+        "no hand gestures toward husband; hands stay occupied with the plate as a displacement activity",
+        "does not turn or step toward her husband at any point"
+      ],
+      "interactions_notes": "She and her husband stand at opposite ends of the kitchen counter and never make eye contact for the whole scene; she talks toward the middle distance while drying a plate, he talks with his back partly turned at the sink. The physical distance and lack of eye contact underline the deadpan, low-stakes way they discuss the loaded topic - it plays as a comfortable long-married couple's shorthand rather than real tension. He initiates the follow-up question and supplies the 'gotcha' fact (three years ago), she gets the last, dismissive word, giving her the final beat of the exchange."
+    },
+    {
+      "name_or_role": "husband (SPEAKER_00, sink-washing man)",
+      "personality_traits": [
+        "blunt fact-checker, quick to point out the inconsistency in his wife's story",
+        "unbothered, matter-of-fact about a topic (having kids) that could be sensitive",
+        "domestically engaged but detached - keeps washing dishes and never fully turns to face his wife",
+        "dry, minimal-effort comic delivery"
+      ],
+      "emotional_range": [
+        "curious/inquisitive at the start",
+        "flat, almost bored matter-of-factness when delivering the punchline fact",
+        "no visible anger or hurt despite the topic touching on their relationship status"
+      ],
+      "expressions": [
+        "0:00-0:02 - profile view, back to camera at sink, head slightly tilted toward the wife off-screen, neutral",
+        "0:02-0:03 - glances back over his shoulder toward her, eyebrows lifted, glasses low on his long nose, asking 'What did you tell her?'",
+        "0:05-0:07 - flat, unimpressed mouth-line, eyes half-lidded while stating 'We figured it out three years ago', delivered without a smile or smirk"
+      ],
+      "gestures": [
+        "stands at the sink for the entire scene with his back/side to the camera and to his wife",
+        "hands stay in the sink, continuously scrubbing/washing a dish throughout the whole exchange",
+        "only his head turns toward his wife when he speaks; his body never rotates or steps away from the sink",
+        "wears glasses that sit low on his nose, occasionally adjusted by tilting his head back"
+      ],
+      "interactions_notes": "He remains physically anchored at the sink for the whole scene, chiming in with short deadpan lines while continuing his chore, which reinforces the couple's understated, matter-of-fact rapport. He is the one who introduces the factual contradiction ('We figured it out three years ago'), acting as the scene's straight-man/fact-checker against his wife's evasive answer to her mother, but he does not escalate or press further - the beat ends on her dismissal rather than his reaction."
+    }
+  ]
+}

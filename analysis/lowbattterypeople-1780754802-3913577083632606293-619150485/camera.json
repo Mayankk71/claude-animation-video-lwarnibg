@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780754802-3913577083632606293-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot of the full kitchen set. Rose stands in the left third at the counter holding a plate and towel; Herb stands in the right third at the sink with his head tipped back over a tall dark towel/robe draped on a chair back. The stove and negative space occupy the center third, keeping the two characters visually separated left/right for the whole shot. Both figures are shown full-body with headroom to the overhead light fixture; episode-number title card and the question-text overlay sit centered over this same static frame."
+    },
+    {
+      "start": 3.4,
+      "end": 9.9,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a chest-up medium shot of Rose only, camera pushed in and centered on her face, cropping out Herb and most of the counter. Her raised hands with plate and red towel sit low-center in frame; the dish rack and jars behind her are soft-focus. Framing is identical across all sampled frames in this range (no push-in/pull-out, no reframing) as she delivers her line, confirming a static hold rather than a slow zoom."
+    },
+    {
+      "start": 9.9,
+      "end": 11.133333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Cut to a tight close-up on Herb's face and glasses, shot from a slightly lower angle so his head fills the upper two-thirds of frame; the dark chair-back/robe still visible in the lower-left crops off his body. Window with blurred night-time city lights fills the right side, giving him more negative space on that side than Rose had in her close-up. Static, no camera movement within the shot."
+    },
+    {
+      "start": 11.133333,
+      "end": 13.0,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Series title card: show logo 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' first supered over Herb's close-up, then resolving to plain black background with the logo and a 'NEW EPISODE DAILY' badge centered in the lower half of frame. No live-action camera movement; this is a graphic end-card, not a filmed shot."
+    }
+  ],
+  "framing_patterns_notes": "The scene opens on a static wide two-shot establishing both characters symmetrically on opposite counters, then cuts to solo static medium/close-up shots on whichever character is speaking (Rose first, then Herb) rather than panning or zooming between them -- a hard-cut shot/reverse-shot pattern with no camera movement anywhere in the piece. Every shot in this short is a static lock-off; all motion in the frame comes from character animation and caption text, not the camera. The episode ends on a graphic title/end-card rather than a final character beat."
+}

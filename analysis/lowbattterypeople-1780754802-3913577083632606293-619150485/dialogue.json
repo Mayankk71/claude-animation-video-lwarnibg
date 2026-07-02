@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1780754802-3913577083632606293-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 6.2,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.211,
+      "end": 1.813,
+      "text": "My mom asked when we're having kids.",
+      "word_count": 7,
+      "pause_before_sec": 0.21,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.554,
+      "end": 3.275,
+      "text": "What did you tell her?",
+      "word_count": 5,
+      "pause_before_sec": 0.89,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3.615,
+      "end": 4.957,
+      "text": "That we're still figuring it out.",
+      "word_count": 6,
+      "pause_before_sec": 0.36,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.577,
+      "end": 7.099,
+      "text": "We figured it out three years ago.",
+      "word_count": 7,
+      "pause_before_sec": 0.64,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 7.72,
+      "end": 8.821,
+      "text": "She doesn't need to know that.",
+      "word_count": 6,
+      "pause_before_sec": 0.42,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Five-line, two-speaker call-and-response with no overlapping speech or interruptions; every line waits for the prior line to fully end before starting. SPEAKER_01 opens and closes the exchange (lines 1, 3, 5), SPEAKER_00 supplies the two reactive/challenging lines (2, 4), giving the dialogue a symmetric A-B-A-B-A shape that sets up a question, gets deflected, then gets called out, then gets deflected again.",
+  "speech_rhythm_notes": "Gaps between lines tighten and loosen with the joke structure: the 0.89s pause before line 2 ('What did you tell her?', 5 words) is the longest gap between any two spoken lines, giving SPEAKER_00's set-up question room to land as a beat of suspicion. Line 4 ('We figured it out three years ago.', 7 words), the exchange's zinger, follows the second-longest inter-line pause (0.64s) after line 3's deflection. The closing button line 5 ('She doesn't need to know that.', 6 words) has the shortest lead-in pause of the back half (0.42s), keeping the comeback snappy, but per silence_pauses.json it is followed by roughly 3.2s of near-continuous silence (four separate pause windows between 8.85s and 12.91s) after it ends -- by far the longest quiet stretch in the whole clip -- indicating the edit holds on a reaction shot to let the punchline breathe rather than cutting immediately."
+}

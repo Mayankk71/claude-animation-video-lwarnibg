@@ -1,0 +1,83 @@
+{
+  "video_slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off symmetrical two-shot: man (black coat, tall thin head) left-of-center, woman (brown sweater, black skirt, bun) right-of-center, both full-body with generous headroom against a flat beige wall. Empty restaurant tables/chairs fill the foreground and both sides in soft focus, framing the couple in a clear negative-space corridor down the center. Title card (\"Episode 26\", \"TABLE FOR TWO\") and dialogue captions sit centered in the lower-middle third, never overlapping the faces."
+    },
+    {
+      "start": 3.4,
+      "end": 4.166667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Direct top-down (bird's-eye) shot of the entire dining room grid. The two figures are tiny and dead-center in a sea of identical table/chair pairs arranged in a repeating grid, emphasizing how absurdly small their disagreement is relative to the empty room. Caption (\"TO\") sits bottom-center, well clear of the subjects."
+    },
+    {
+      "start": 4.166667,
+      "end": 4.9,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Front-on medium shot of the woman alone at a table edge, centered in frame with the empty restaurant receding symmetrically behind her; the man is cropped out. Caption \"RESTAURANT.\" sits low, under the table line, keeping her face and the empty-room punchline uncluttered."
+    },
+    {
+      "start": 4.9,
+      "end": 5.433333,
+      "shot_type": "over_shoulder",
+      "camera_movement": "static",
+      "composition_notes": "Reverse angle: camera now behind the couple, woman's back/bun filling the left third, man's head and pointing hand filling the right third, with the empty tables he's gesturing at receding down the center in shallow focus. Puts the audience in the position of looking at what he's pointing to rather than at his face."
+    },
+    {
+      "start": 5.433333,
+      "end": 6.3,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Fixed profile/side-on wide shot as both characters walk left-to-right across the frame toward a table; camera does not pan or track, they simply cross a static frame of the dining room, keeping the same empty-tables backdrop established in shot 1."
+    },
+    {
+      "start": 6.3,
+      "end": 6.733333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Tight close-up on the woman's face only, slight low angle looking up into her scowl; background is thrown fully out of focus so only her deadpan glare (heavy brow, narrowed eyes) reads. No caption text on this frame -- the expression alone carries the beat."
+    },
+    {
+      "start": 6.733333,
+      "end": 7.2,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Matching close-up on the man's face, same eyeline height and blurred-background treatment as the prior shot, pointing finger entering from the bottom-left corner. The back-to-back matched close-ups form a shot/reverse-shot pair on the same axis."
+    },
+    {
+      "start": 7.2,
+      "end": 9.366667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Wide, symmetrical seated two-shot at the chosen table: man on the left leaning back with an unimpressed look, woman on the right sitting upright, table dividing the frame roughly down the middle. Empty tables continue symmetrically on both sides, reinforcing the empty-restaurant joke while they finally sit."
+    },
+    {
+      "start": 9.366667,
+      "end": 11.866667,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Slow push-in on the woman's face for the punchline delivery: comparing the held frames across the shot, her head fills progressively more of the frame as it holds on \"No.\", cropping tighter on the brows/nose/mouth for the deadpan payoff. Background restaurant blurs further out as the lens tightens."
+    },
+    {
+      "start": 11.866667,
+      "end": 12.733333,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Extreme close-up isolating just the man's eyes/nose/brows on a flat gray backdrop (no restaurant set visible) for the end-card. Show title \"LOW BATTERY PEOPLE\" and credit \"CREATED BY NIN.\" are overlaid center-frame, cutting directly across the bridge of the nose."
+    },
+    {
+      "start": 12.733333,
+      "end": 14.166667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure black title card, no camera/subject -- centered yellow show title and white credit line, matching the text placement of the previous extreme close-up card for a clean match-cut out."
+    }
+  ],
+  "framing_patterns_notes": "The scene consistently alternates between a fixed, symmetrical wide two-shot (used for setup and for the final seated dialogue) and a rapid-fire sequence of single-character close-ups/over-the-shoulder shots for the walking-to-the-table bit -- the comedic escalation is built entirely through cutting rhythm and reframing rather than camera movement, since every shot in the body of the video is a static setup (only the punchline close-up on \"No.\" uses an actual push-in). Captions are placed low in the frame throughout, always clear of faces, and the empty rows of tables/chairs are kept visible (or emphasized via the top-down shot) in nearly every composition to keep restating the \"empty restaurant\" premise visually."
+}

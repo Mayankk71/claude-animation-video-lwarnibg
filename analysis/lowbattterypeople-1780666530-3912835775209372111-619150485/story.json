@@ -1,0 +1,65 @@
+{
+  "video_slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+  "duration_sec": 14.292042,
+  "hook": {
+    "start": 0.0,
+    "end": 1.914,
+    "description": "Wife (brown sweater, hair bun) turns to husband (tall, long-nosed, black coat) in an empty restaurant and asks 'You know how I know we're married?'; he replies 'How?'. Wide/medium two-shot establishes the stop-motion couple and empty restaurant setting immediately.",
+    "why_it_works": "Opens with a direct rhetorical question ('you know how I know...') — a proven relatability hook for married-couple comedy that creates an instant curiosity gap, delivered deadpan by exaggerated felt/clay character faces that signal the comedic tone within the first second."
+  },
+  "setup": {
+    "start": 1.914,
+    "end": 7.963,
+    "description": "Wife delivers the premise line, spoken continuously over several quick scene cuts: 'We spend six minutes discussing where to sit in an empty restaurant.' The camera cuts to a bird's-eye overhead shot (with an on-screen word 'TO' as part of animated captioning) and the couple is shown physically walking between rows of empty tables and chairs, visually dramatizing the very indecision she is describing.",
+    "cta_or_text_overlay": ""
+  },
+  "conflict": {
+    "start": 7.963,
+    "end": 9.367,
+    "description": "The couple finally sits down together at a table in a medium two-shot, appearing to resolve the search for a seat — setting up the expectation that the joke has already paid off and they've settled."
+  },
+  "punchline": {
+    "start": 9.367,
+    "end": 11.989,
+    "description": "Close-up on the wife's flat, unimpressed face as she says 'No.' (burned-in caption 'NO.'), rejecting the table they just chose; the husband then suggests 'Let's sit there.' The couple immediately re-enacts, in real time, the exact indecision she just described in her setup line — the joke lands by showing rather than telling."
+  },
+  "ending": {
+    "start": 11.989,
+    "end": 14.292042,
+    "description": "Cut to a close-up of the husband's wide, startled eyes as the title 'LOW BATTERY PEOPLE' fades in over his face, followed by a black card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' No further dialogue plays over this segment.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN."
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 1.914,
+      "beat_type": "hook",
+      "description": "Wife asks 'You know how I know we're married?'; husband replies 'How?' in an empty restaurant, medium two-shot."
+    },
+    {
+      "start": 1.914,
+      "end": 7.963,
+      "beat_type": "setup",
+      "description": "Wife's answer 'We spend six minutes discussing where to sit in an empty restaurant' plays continuously while cuts show an overhead shot and the couple wandering past empty tables and chairs, visually illustrating the premise."
+    },
+    {
+      "start": 7.963,
+      "end": 9.367,
+      "beat_type": "conflict",
+      "description": "The couple sits down together at a chosen table, appearing to have resolved the seating decision."
+    },
+    {
+      "start": 9.367,
+      "end": 11.989,
+      "beat_type": "punchline",
+      "description": "Close-up: wife says 'No.', rejecting the table; husband says 'Let's sit there.' — the couple live-demonstrates the exact indecision just described, landing the joke."
+    },
+    {
+      "start": 11.989,
+      "end": 14.292042,
+      "beat_type": "ending",
+      "description": "Close-up on husband's eyes as 'LOW BATTERY PEOPLE' title fades in, then a black title/credit card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.'"
+    }
+  ],
+  "narrative_notes": "At only ~14.3s, this reel is notably shorter than the typical 20-25s reference range, so the beats compress harder than usual. Setup and conflict are largely fused with the spoken joke itself: the wife's single long setup line ('We spend six minutes discussing where to sit...') is spoken continuously across multiple quick cuts (1.9s-8.0s) while the visuals simultaneously act out the conflict (wandering, indecisive walking through the restaurant), so the verbal setup and the physical conflict overlap in time rather than being sequential. The punchline is not a new joke but a live re-enactment/callback: immediately after claiming they take six minutes to decide, the couple is shown doing exactly that ('No.' / 'Let's sit there'), which is the core comedic mechanism of the whole piece. There is no spoken or on-screen CTA in the ending; the only overlay text is the creator's title card ('LOW BATTERY PEOPLE / CREATED BY NIN.'), functioning purely as branding/attribution rather than a call to action."
+}

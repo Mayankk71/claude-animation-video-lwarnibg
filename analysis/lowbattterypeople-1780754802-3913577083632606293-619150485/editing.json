@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1780754802-3913577083632606293-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.25,
+  "cuts": [
+    {
+      "timestamp": 3.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot of the kitchen into a tight close-up on the wife exactly as she starts her deflecting answer ('That we're still figuring it out'), isolating her for the lie."
+    },
+    {
+      "timestamp": 9.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wife's close-up to a matching close-up on the husband right after her punchline line 'She doesn't need to know that,' landing on his deadpan reaction for the comedic beat."
+    },
+    {
+      "timestamp": 11.133333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the husband's silent reaction shot to the black title/outro card, ending the joke on a hold before the branding beat."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 9.9,
+      "end": 11.133333,
+      "description": "Silent close-up on the husband's unimpressed, deadpan face immediately after the wife's punchline, functioning purely as a reaction beat rather than advancing the dialogue."
+    }
+  ],
+  "pacing_notes": "Shot length is uneven and driven by dialogue rather than a steady rhythm: a 3.4s wide establishing shot sets up the question, then an extended 6.5s close-up on the wife lets three lines of back-and-forth dialogue (her lie, his rebuttal, her deflection) play out in one continuous take. The pace then snaps sharply with a very short ~1.2s reaction cut on the husband for the punchline, before settling into a longer ~1.9s static hold on the title card for the outro/CTA."
+}

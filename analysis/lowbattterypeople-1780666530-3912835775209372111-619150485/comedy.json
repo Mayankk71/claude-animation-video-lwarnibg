@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.392,
+      "end": 1.914,
+      "mechanism": "recognition",
+      "description": "Setup exchange: 'You know how I know we're married?' / 'How?' delivered flat and fast, framing an inside-joke-style observation about marriage.",
+      "why_it_lands": "The husband's question is asked with zero buildup or smile (dead-eyed, heavy-lidded felt face in scene-0), and the wife's one-word 'How?' comes back almost instantly (only a 0.3s pause at 1.96-2.26s) -- the clipped, incurious rhythm reads like a couple who have had this exact exchange before."
+    },
+    {
+      "start": 2.254,
+      "end": 7.963,
+      "mechanism": "recognition",
+      "description": "Punchline: 'We spend six minutes discussing where to sit in an empty restaurant,' delivered as a nearly 6-second single line while both characters sit in a set filled with dozens of visibly empty tables and chairs.",
+      "why_it_lands": "The line is a specific, absurdly precise number (six minutes, not 'a while') paired against a keyframe (scene-7/scene-8) showing an entirely vacant dining room stretching to the edges of frame -- the visual proof of how unnecessary the deliberation is does the comedic work the dialogue only states."
+    },
+    {
+      "start": 8.43225,
+      "end": 10.306,
+      "mechanism": "deadpan",
+      "description": "A 1.1-second silent hold on the wife's face after the punchline, broken only by her flat 'No.'",
+      "why_it_lands": "The pause is long enough to read as a beat for a laugh-of-recognition or agreement, but her answering line is a single unadorned syllable with a downturned mouth and half-lidded stare (scene-9 close-up) -- rejecting the expected 'ha, true' response and refusing to validate the joke she's inside of."
+    },
+    {
+      "start": 11.328,
+      "end": 14.166666666666666,
+      "mechanism": "irony",
+      "description": "Final line 'Let's sit there,' followed by a long 1.65-second closing hold on the scene rather than another gag or reaction shot.",
+      "why_it_lands": "Immediately after being told (and having just proven) that they spend six minutes deliberating over seating, the couple starts the exact same negotiation again in real time -- the joke isn't explained, it's re-enacted, and the extended final pause (12.53-14.19s, the longest in the video) lets the viewer sit with that self-fulfilling loop instead of cutting away."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a two-line, single-set relatable-couple bit rather than a joke with escalating gags: nearly all the comedic load is carried by (1) an oversized, empty restaurant set that visually literalizes the absurdity of the dialogue's claim, (2) exaggerated felt-puppet faces (elongated noses, sunken half-lidded eyes) that read as perpetually unimpressed/deadpan regardless of what's being said, and (3) silence -- the three measured pauses (0.3s, 1.1s, 1.65s) function like a laugh-track substitute, with the pause length increasing toward the end so the video closes on a held, wordless beat rather than a punchline delivered and dropped."
+}

@@ -1,0 +1,80 @@
+{
+  "video_slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+  "cut_count": 10,
+  "avg_shot_length_sec": 1.29,
+  "cuts": [
+    {
+      "timestamp": 3.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the establishing two-shot down to a bird's-eye view of the restaurant right as the wife starts explaining the 'where to sit' saga, opening the visual gag about their indecision."
+    },
+    {
+      "timestamp": 4.166667,
+      "transition_type": "jump_cut",
+      "reason": "Jumps from the overhead layout shot into a tight front shot on the wife exactly as she lands the word 'restaurant,' snapping focus back to her face for the punchline of the setup sentence."
+    },
+    {
+      "timestamp": 4.9,
+      "transition_type": "jump_cut",
+      "reason": "Cuts to an over-the-shoulder shot of her pointing and arguing with him, launching the physical bickering montage that visually illustrates 'discussing where to sit.'"
+    },
+    {
+      "timestamp": 5.433333,
+      "transition_type": "jump_cut",
+      "reason": "Cuts to a wide shot of the couple walking past several tables, compressing their six minutes of indecision into a fast visual montage."
+    },
+    {
+      "timestamp": 6.3,
+      "transition_type": "jump_cut",
+      "reason": "Quick cut into a tight close-up of the wife's scowling face, punctuating the montage rhythm with her exasperation over the table choice."
+    },
+    {
+      "timestamp": 6.733333,
+      "transition_type": "jump_cut",
+      "reason": "Reverse cut to a tight close-up of the husband pointing and scowling, completing the rapid back-and-forth rhythm of the argument montage."
+    },
+    {
+      "timestamp": 7.2,
+      "transition_type": "hard_cut",
+      "reason": "Cuts wide to reveal the couple finally seated at a table, resolving the montage and giving the joke a beat of stillness before the punchline lines land."
+    },
+    {
+      "timestamp": 9.366667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts in to a tight close-up on the wife's deadpan face right as she delivers 'No,' isolating the punchline setup for maximum reaction emphasis."
+    },
+    {
+      "timestamp": 11.866667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a close-up of the husband's deadpan reaction immediately after 'Let's sit there,' landing on his silent, defeated expression as the sketch's button/punchline."
+    },
+    {
+      "timestamp": 12.733333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the husband's reaction face to the black title/credit card, closing out the sketch with the show's branding."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 6.3,
+      "end": 6.733333,
+      "description": "Tight close-up on the wife's scowling, unimpressed face during the table-selection montage."
+    },
+    {
+      "start": 6.733333,
+      "end": 7.2,
+      "description": "Tight close-up on the husband's annoyed, pointing face mid-argument during the table-selection montage."
+    },
+    {
+      "start": 9.366667,
+      "end": 11.866667,
+      "description": "Extended close-up on the wife's flat, deadpan expression as she says 'No' and then 'Let's sit there,' the emotional core of the punchline."
+    },
+    {
+      "start": 11.866667,
+      "end": 12.733333,
+      "description": "Final close-up on the husband's silent, weary deadpan reaction as the title card fades in over his face -- the sketch's closing button."
+    }
+  ],
+  "pacing_notes": "Opens with a leisurely ~3.4s establishing two-shot for the setup line, then explodes into a rapid-fire montage of five shots averaging under a second each (0.5-0.9s) as the dialogue describes the couple's six-minute table debate, mimicking their back-and-forth indecision through cutting rhythm alone. The pace then decelerates sharply: a ~2.2s held wide shot of them finally sitting, a ~2.5s close-up reaction shot for the 'No...Let's sit there' punchline, a brief ~0.9s final reaction shot as the button, and a longer ~1.4s outro title card to close. The whip-fast montage in the middle contrasted with the slow bookending shots is what sells both the joke's content and its punchline."
+}

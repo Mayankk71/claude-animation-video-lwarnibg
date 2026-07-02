@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780754802-3913577083632606293-619150485",
+  "comedic_beats": [
+    {
+      "start": 2.554,
+      "end": 4.957,
+      "mechanism": "deadpan",
+      "description": "Husband flatly asks what she told his mom; wife answers 'That we're still figuring it out' in a flat, unbothered tone while continuing to dry a plate.",
+      "why_it_lands": "The wife delivers the line without breaking her dish-drying rhythm or changing her droopy, half-lidded expression seen in scene-1's close-up, playing the white lie as mundane housework rather than a confession."
+    },
+    {
+      "start": 5.577,
+      "end": 7.099,
+      "mechanism": "irony",
+      "description": "The husband contradicts the lie by stating the plain fact: 'We figured it out three years ago,' revealing the couple has privately and permanently decided against kids while publicly stringing the mother along.",
+      "why_it_lands": "The 0.64s pause beforehand (4.93-5.57 in silence_pauses.json) sets up the correction like a punchline turn, and the specific 'three years ago' detail (versus a vague 'we decided') makes the gap between the public excuse and the settled private truth land as a joke about long-married-couple secrecy."
+    },
+    {
+      "start": 7.72,
+      "end": 10.05,
+      "mechanism": "awkward_silence",
+      "description": "Wife's closing button line 'She doesn't need to know that' is followed by a 1.2-second silent hold on the characters' tired faces before the scene cuts.",
+      "why_it_lands": "The 1.198s pause (the longest gap in silence_pauses.json) is held on the husband's exhausted, glasses-slid-down expression from scene-2, letting the audience sit in the casual moral shrug instead of rushing to the next scene, which is what sells the resignation as funny rather than sad."
+    },
+    {
+      "start": 0.0,
+      "end": 9.9,
+      "mechanism": "recognition",
+      "description": "Overall scenario of a couple who feel worn down and are low-key withholding truth from an in-law about kids, rendered with sagging, low-energy 'low battery' facial rigging (droopy eyes, long weary noses, hunched posture).",
+      "why_it_lands": "The character design itself (permanently tired eyes, sagging brows visible in both scene-1 and scene-2 keyframes) primes the joke before any dialogue lands, so viewers recognize 'exhausted married couple dodging a nosy parent' as a lived-in type rather than a one-off gag."
+    }
+  ],
+  "overall_comedic_style_notes": "The humor here is a two-hander built entirely on dry, matter-of-fact line readings from visibly weary stop-motion characters (part of a 'Low Battery People' series per the scene-3 title card) -- there is no slapstick or visual sight gag, just a domestic white lie exposed by a flat correction, capped with a long silent reaction hold instead of a punchline sting. Comedy comes from understatement: characters keep doing chores (drying dishes, washing up) through the reveal, refusing to react big, which reads as ironic deadpan rather than farce."
+}

@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 4.8,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.392,
+      "end": 1.513,
+      "text": "You know how I know we're married?",
+      "word_count": 7,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.613,
+      "end": 1.914,
+      "text": "How?",
+      "word_count": 1,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.254,
+      "end": 7.963,
+      "text": "We spend six minutes discussing where to sit in an empty restaurant.",
+      "word_count": 12,
+      "pause_before_sec": 0.301687,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 10.106,
+      "end": 10.306,
+      "text": "No.",
+      "word_count": 1,
+      "pause_before_sec": 1.09725,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.328,
+      "end": 11.989,
+      "text": "Let's sit there.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All 5 lines are labeled SPEAKER_00 in the transcript diarization (no second speaker tag was produced), but the text implies an alternating exchange: a setup question (line 1), a one-word prompt 'How?' (line 2), the joke premise (line 3), a rejection 'No.' (line 4), and a resolving offer 'Let's sit there.' (line 5). The flow is a classic setup-punchline-tag structure: the long explanatory line 3 (12 words) delivers the joke content, then a 2.1s beat (including a 1.1s measured silence) separates it from the terse 1-word reaction 'No.', which itself is followed by the short resolving line without any measured pause in between.",
+  "speech_rhythm_notes": "Line 3 ('We spend six minutes...') is the longest line by word count (12) and duration (5.7s) and is preceded by a short 0.3s measured pause (1.95975-2.26144s) right after the 1-word prompt 'How?', giving the setup a quick launch. The single longest measured silence in the clip (1.09725s, 8.43225-9.5295s) falls directly before the shortest, punchiest line 'No.' (1 word, 0.2s duration), so the terse rejection lands right after the biggest beat of dead air -- a comedic pause-before-punchline pattern. The final line 'Let's sit there.' follows immediately (1.0s gap with no matching silence window), keeping the resolution tight and undercutting the drawn-out setup with a fast tag."
+}
