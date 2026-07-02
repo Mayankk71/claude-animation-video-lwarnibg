@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1780927660-3915027150289611144-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 8.25,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.391,
+      "end": 1.213,
+      "text": "I took the bins out.",
+      "word_count": 5,
+      "pause_before_sec": 0.36075,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.773,
+      "end": 2.735,
+      "text": "And mentioned it twice.",
+      "word_count": 4,
+      "pause_before_sec": 0.565625,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.175,
+      "end": 7.14,
+      "text": "I did the laundry, the shopping, the dishes, and called your mother, said nothing.",
+      "word_count": 14,
+      "pause_before_sec": 0.34375,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.262,
+      "end": 11.246,
+      "text": "You move one bag to the curb and need applause.",
+      "word_count": 10,
+      "pause_before_sec": 1.11169,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single speaker (SPEAKER_00) delivers all 4 lines as one continuous monologue/rant with no second speaker in the transcript, so interruption=false throughout. The line-to-line gaps (0.36s, 0.57s, 0.34s) all correspond one-to-one to entries in silence_pauses.json, confirming they are genuine beat pauses rather than transcript gaps. Two pauses fall inside dialogue lines rather than between them: a 0.184s micro-pause at 3.956-4.140s and a 0.310s pause at 6.247-6.557s both sit inside line 3's span (3.175-7.14s), landing mid-list ('the laundry, the shopping, the dishes... and called your mother') as breath/beat pauses while enumerating grievances. A 0.779s pause at 9.710-10.488s falls inside line 4's span (8.262-11.246s), i.e. mid-sentence within 'You move one bag to the curb and need applause,' likely landing between 'curb' and 'and need applause' for comedic emphasis before the punch word.",
+  "speech_rhythm_notes": "The longest pause in the clip (1.112s, from 7.143s to 8.255s) sits directly before the final line, the punchline 'You move one bag to the curb and need applause' -- the setup/rant (lines 1-3) builds rapidly with short inter-line gaps (0.36s, 0.57s, 0.34s), then the delivery deliberately stalls for over a second before the payoff line lands. Line 3 is the longest line by far (14 words, spanning nearly 4 seconds) and contains two internal micro-pauses, giving it a staccato, list-like cadence ('the laundry, the shopping, the dishes, and called your mother, said nothing') that contrasts with the terse 4-5 word opening lines, so pacing accelerates through the complaint list before the long pre-punchline pause resets the rhythm for the final beat."
+}

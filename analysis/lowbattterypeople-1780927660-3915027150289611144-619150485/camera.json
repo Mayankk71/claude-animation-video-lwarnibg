@@ -1,0 +1,62 @@
+{
+  "video_slug": "lowbattterypeople-1780927660-3915027150289611144-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off two-shot establishing the kitchen: the man (rendered as a talking head on a black rectangular block, no visible body) sits left-of-center at roughly the left third, the woman stands right-of-center at the coffee machine near the right third, with the window/hood/cabinetry filling the negative space between them. Generous headroom above both heads; both figures cropped at torso/waist. Frame holds identically across the whole shot with no reframing."
+    },
+    {
+      "start": 2.9,
+      "end": 4.1,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a tight, centered head-and-shoulders shot on the man. His exaggerated nose runs diagonally through the frame center; eyes sit on the upper third. Fridge and window are soft-blurred behind him. Deadpan, droopy-eyed expression; bottom of frame crops him at the collar/tie, hiding the black-block body."
+    },
+    {
+      "start": 4.1,
+      "end": 4.766667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cut to the woman, centered, framed slightly looser than the following shot so her raised, gesturing hand (index finger up) fits fully in the lower-right of frame. Range hood and cabinets blurred behind her; earrings and bun catch light as small symmetrical details on either side of her face."
+    },
+    {
+      "start": 4.766667,
+      "end": 6.233333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Same setup as the previous shot but pushed noticeably tighter on the woman's face — only her fingertips ('rock-on' hand gesture) peek in at the bottom edge now. Knife block and toaster are soft shapes in the background right; composition stays dead-center on her nose/eyes."
+    },
+    {
+      "start": 6.233333,
+      "end": 8.066667,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Returns to the exact same framing used on the man earlier (identical crop line at the collar, identical background blur), but his eyes are now wide and bulging for a surprised take — the repeated composition makes the change in expression read as the punch, not a camera change."
+    },
+    {
+      "start": 8.066667,
+      "end": 11.233333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Single continuous locked shot on the woman held roughly 3.2s — noticeably longer than any other shot in the edit — carrying several caption words ('TO', 'AND', 'APPLAUSE.') without a cut, letting the punchline land without a reaction cutaway. Same centered, nose-through-frame composition as her earlier close-ups."
+    },
+    {
+      "start": 11.233333,
+      "end": 12.033333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Reuses the man's stock close-up framing (same crop as the 2.9-4.1s and 6.23-8.07s shots) as a freeze-style backdrop for the show's title card; 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' are centered as text over his torso/collar area, his surprised eyes still visible above the text block."
+    },
+    {
+      "start": 12.033333,
+      "end": 12.566667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure black graphic card, no character or set in frame — centered title lockup plus a small angled 'NEW EPISODE DAILY' badge lower-center. Functions as an outro/CTA slate rather than a filmed shot."
+    }
+  ],
+  "framing_patterns_notes": "The whole reel is cut entirely from locked-off, tripod-style static shots -- there is no pan, tilt, zoom, or handheld movement anywhere; all comedic timing comes from hard cuts between fixed compositions, not camera motion. After the single wide establishing two-shot, the video settles into strict shot-reverse-shot: every time it cuts to the man it reuses one identical centered close-up crop (nose bisecting the frame, collar as the bottom crop line), and every time it cuts to the woman it reuses one identical centered close-up crop (progressively tightening from medium to close-up across her first two lines), so viewers read character changes purely from who's on screen, not from any new framing choice. The punchline breaks this rhythm by holding on the woman's close-up far longer than any prior shot (about 3.2s vs. ~1-1.5s cuts elsewhere), and the outro title card recycles the man's earlier close-up frame rather than shooting new footage."
+}

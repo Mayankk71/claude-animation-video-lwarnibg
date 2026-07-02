@@ -1,0 +1,50 @@
+{
+  "video_slug": "lowbattterypeople-1780927660-3915027150289611144-619150485",
+  "cut_count": 7,
+  "avg_shot_length_sec": 1.57,
+  "cuts": [
+    {
+      "timestamp": 2.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot establishing both characters in the kitchen to a tight close-up on the husband's deadpan face right as he starts reciting his chore list ('the laundry, the shopping...'), pulling focus onto his monotone delivery."
+    },
+    {
+      "timestamp": 4.1,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a close-up of the wife's flat, unimpressed face on the word 'shopping,' turning the chore recitation into a rapid volley between the two characters instead of one static speaker."
+    },
+    {
+      "timestamp": 4.766667,
+      "transition_type": "jump_cut",
+      "reason": "A same-subject jump cut on the wife's close-up (subtle reframe) as the list continues into 'called your mother,' keeping visual rhythm with the rapid-fire delivery of the complaint list."
+    },
+    {
+      "timestamp": 6.233333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back to the husband's blank stare exactly on the punchline word 'nothing,' landing the joke that he does everything and gets zero acknowledgment."
+    },
+    {
+      "timestamp": 8.066667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to the wife's flat, judgmental expression as she launches the escalating rebuttal ('You move one bag to the curb and need applause'), giving her the setup shot for the closing jab."
+    },
+    {
+      "timestamp": 11.233333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back to the husband's wide-eyed, stunned reaction immediately after the 'need applause' line lands, holding on his silent response as the show's title card begins to fade in over it."
+    },
+    {
+      "timestamp": 12.033333,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut to a black end card with the show title and 'New Episode Daily' tag, the standard outro branding beat that closes the sketch and prompts viewers to return for the next episode."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 11.233333,
+      "end": 12.033333,
+      "description": "Wide-eyed, stunned close-up of the husband right after the wife's 'need applause' punchline, a silent reaction beat rather than new dialogue, held as the title card fades in over it."
+    }
+  ],
+  "pacing_notes": "Opens with a longer wide establishing shot (~2.9s) of both characters, then shrinks into quick sub-1.5s alternating close-ups (1.2s, 0.67s, 1.47s) as the husband and wife trade lines through the rapid chore list. It briefly holds ~1.8s on the husband for the 'nothing' punchline, then stretches to the longest shot of the video (~3.2s) to let the wife deliver the closing zinger line in full, before snapping into two quick sub-1s cuts (0.8s, 0.53s) for the title card and end card outro."
+}

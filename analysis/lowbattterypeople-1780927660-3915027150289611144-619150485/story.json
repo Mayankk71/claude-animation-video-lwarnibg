@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1780927660-3915027150289611144-619150485",
+  "duration_sec": 12.670708,
+  "hook": {
+    "start": 0.0,
+    "end": 2.9,
+    "description": "Cold open on a stop-motion husband character (long-nosed, felt-textured, seated with his back to camera in a black high-backed chair) delivering a flat, deadpan complaint straight past his wife: 'I took the bins out. And mentioned it twice.' The wife stands beside him at the espresso machine, visibly unbothered, not looking at him.",
+    "why_it_works": "The mundane, low-stakes grievance ('bins out') stated with mock-serious gravity by an exaggerated character immediately signals the show's deadpan comedic register. The wife's total indifference in frame creates instant curiosity about the relationship dynamic without any exposition."
+  },
+  "setup": {
+    "start": 2.9,
+    "end": 6.233333,
+    "description": "Tight close-ups on the husband's droopy, unimpressed face as he rattles off a growing list of unacknowledged chores in a single flat run-on: 'I did the laundry, the shopping, the dishes...' Captions burn in word-by-word ('LAUNDRY,' 'SHOPPING,' 'CALLED') as the list escalates, establishing the pattern of him doing everything and getting nothing in return."
+  },
+  "conflict": {
+    "start": 6.233333,
+    "end": 8.066667,
+    "description": "He finishes the list with 'and called your mother, said nothing' -- the 'AND' caption lands on a wide, blank stare, crystallizing the imbalance: he has silently absorbed every task with zero recognition. The conflict is mostly implicit and visual rather than a separate dramatized scene -- it's the tension between his mounting list and the wife's continued calm indifference while she keeps making coffee in the background."
+  },
+  "punchline": {
+    "start": 8.066667,
+    "end": 11.233333,
+    "description": "Direct cut to the husband's face as he delivers the roast line to his wife: 'You move one bag to the curb and need applause.' The joke flips his own quiet martyrdom into an accusation -- contrasting his silent labor against her demand for praise over a single, trivial task (moving one trash bag), which is the payoff the whole escalating list was building toward."
+  },
+  "ending": {
+    "start": 11.233333,
+    "end": 12.670708,
+    "description": "Hard cut from the husband's shocked wide-eyed reaction shot straight into the show's branded title card: 'LOW BATTERY PEOPLE / Created by Nin.' over his frozen face, then a black card with the same title and a torn-ticket-style badge reading 'NEW EPISODE DAILY.'",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "beat_type": "hook",
+      "description": "Husband deadpans 'I took the bins out. And mentioned it twice.' while wife ignores him at the coffee machine."
+    },
+    {
+      "start": 2.9,
+      "end": 6.233333,
+      "beat_type": "setup",
+      "description": "Escalating chore list in close-up with word-by-word captions: 'the laundry, the shopping, the dishes...'"
+    },
+    {
+      "start": 6.233333,
+      "end": 8.066667,
+      "beat_type": "conflict",
+      "description": "List concludes with 'and called your mother, said nothing' -- blank stare underscores the imbalance of effort versus recognition."
+    },
+    {
+      "start": 8.066667,
+      "end": 11.233333,
+      "beat_type": "punchline",
+      "description": "Twist roast: 'You move one bag to the curb and need applause,' flipping his complaint into an accusation about her need for praise over minimal effort."
+    },
+    {
+      "start": 11.233333,
+      "end": 12.670708,
+      "beat_type": "ending",
+      "description": "Cut to branded title card 'LOW BATTERY PEOPLE / Created by Nin.' followed by black 'NEW EPISODE DAILY' card."
+    }
+  ],
+  "narrative_notes": "This is a very short (12.67s) single-joke reel, well under the typical 20-25s range, so setup and conflict are tightly fused: the conflict is not a separate dramatized scene but is carried implicitly through the wife's unbroken indifference (she keeps making coffee throughout) juxtaposed against the husband's escalating list. There is no traditional rising action beyond the list itself -- the entire runtime is one continuous monologue building to a single reversal punchline, followed immediately by branded end-card titling that doubles as the show's recurring-series hook ('New Episode Daily') rather than a scenario-specific CTA."
+}

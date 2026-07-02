@@ -1,0 +1,47 @@
+{
+  "video_slug": "lowbattterypeople-1780817666-3914097645727672245-619150485",
+  "duration_sec": 28.350159,
+  "hook": {
+    "start": 0.0,
+    "end": 1.167,
+    "description": "Bold yellow title text 'THEN VS NOW' fills the frame over a stop-motion couple (long-nosed man in a suit, woman with a bun) walking away down a sunset road, with a small 'Episode 28' label in the corner.",
+    "why_it_works": "The overlay states the video's whole format in the first second, so viewers instantly know they're about to see a before/after contrast gag; pairing it with characters already mid-stride (not a static intro) keeps motion on screen from frame one, and 'Episode 28' signals this is an ongoing series worth following."
+  },
+  "setup": {
+    "start": 1.167,
+    "end": 6.933,
+    "description": "A fast three-shot burst establishes the couple's wild, romantic 'then' era: the woman does a flip dive into a pool, she dances on top of a bar table while a crowd cheers, and the man leaps skydiving with arms raised, all under warm golden-hour or neon lighting."
+  },
+  "conflict": {
+    "start": 6.933,
+    "end": 20.767,
+    "description": "The nostalgic montage keeps escalating instead of resolving: the woman leans excitedly toward the man as he drives, they eat snacks on the car roof at a drive-in under the stars, walk hand in hand down the same open road from the title card, dance together in a lit-up crowd, and share an upside-down kiss on the car hood. There's no antagonist or setback here — the tension is anticipatory, built purely by how high-energy and romantic the montage gets, priming the viewer for whatever 'now' contrast is coming."
+  },
+  "punchline": {
+    "start": 20.767,
+    "end": 26.933,
+    "description": "Hard cut from the upside-down car-hood kiss to the same couple, visibly older, standing in a plain kitchen. The man gazes at the woman with the same dreamy expression used in the romantic shots, and she holds up a sponge, delivering the deadpan line 'The new sponge is unbelievable... I know' as if it were a grand romantic moment, with matching subtitle text on screen."
+  },
+  "ending": {
+    "start": 26.933,
+    "end": 28.35,
+    "description": "Cut to a black screen with the series brand card.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 0.133, "beat_type": "hook", "description": "Brief black/fade transition opening the reel."},
+    {"start": 0.133, "end": 1.167, "beat_type": "hook", "description": "'THEN VS NOW' title text and 'Episode 28' label appear over the couple walking down a sunset road."},
+    {"start": 1.167, "end": 2.5, "beat_type": "setup", "description": "Underwater shot of the woman flip-diving into a swimming pool, establishing the youthful, adventurous 'then' tone."},
+    {"start": 2.5, "end": 4.6, "beat_type": "setup", "description": "The woman dances on top of a table in a crowded, neon-lit bar while onlookers cheer."},
+    {"start": 4.6, "end": 6.933, "beat_type": "setup", "description": "The man is shown mid-air skydiving with arms thrown up in exhilaration against a golden sky."},
+    {"start": 6.933, "end": 9.333, "beat_type": "conflict", "description": "Inside a moving car, the woman leans eagerly toward the man as he drives, both grinning with excitement."},
+    {"start": 9.333, "end": 14.367, "beat_type": "conflict", "description": "Extended car shot continues the same excited, close conversation between the two as they drive down the open road."},
+    {"start": 14.367, "end": 15.867, "beat_type": "conflict", "description": "The couple sits on the roof of their parked car at night under the stars, sharing drive-in movie snacks."},
+    {"start": 15.867, "end": 16.567, "beat_type": "conflict", "description": "Quick transition shot of the two walking hand in hand down the same road seen in the title card."},
+    {"start": 16.567, "end": 17.667, "beat_type": "conflict", "description": "The couple dances together in a crowd at a lit-up party or concert."},
+    {"start": 17.667, "end": 20.767, "beat_type": "conflict", "description": "Upside-down shot (car reflected in water/road) of the couple sharing a Spider-Man-style inverted kiss, the romantic peak of the montage."},
+    {"start": 20.767, "end": 26.933, "beat_type": "punchline", "description": "Hard cut to the couple, now older, in a plain kitchen; the man stares adoringly as the woman holds up a sponge and delivers the deadpan line 'The new sponge is unbelievable... I know,' subverting the romantic montage with total mundanity."},
+    {"start": 26.933, "end": 28.35, "beat_type": "ending", "description": "Black brand card reading 'LOW BATTERY PEOPLE, CREATED BY NIN., NEW EPISODE DAILY.'"}
+  ],
+  "narrative_notes": "This is a 'then vs now' relationship-montage format, not a dialogue-driven conflict skit: the transcript contains only a single 7-word line ('The new sponge is unbelievable I know') at the very end, so the entire hook/setup/build is carried by visuals and music, not speech. There is no true conflict beat with an obstacle or antagonist — the 'conflict' segment above is really the setup's escalation, an extended nostalgic montage that keeps raising the romantic/adventurous stakes purely to maximize the contrast payoff in the punchline. The joke's mechanism is a tonal mismatch: mundane domestic dialogue (a sponge) delivered with the same swooning presentation (lighting, gaze, music) as the passionate 'then' memories that preceded it."
+}

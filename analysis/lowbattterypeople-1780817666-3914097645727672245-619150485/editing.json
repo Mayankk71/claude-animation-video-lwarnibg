@@ -1,0 +1,80 @@
+{
+  "video_slug": "lowbattterypeople-1780817666-3914097645727672245-619150485",
+  "cut_count": 12,
+  "avg_shot_length_sec": 2.17,
+  "cuts": [
+    {
+      "timestamp": 0.133333,
+      "transition_type": "hard_cut",
+      "reason": "Quick flash cut within the opening two-shot of the couple walking down the road as the 'THEN VS NOW / Episode 28' title text finishes animating in, giving the intro card a bit of motion before the flashback montage begins."
+    },
+    {
+      "timestamp": 1.166667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the title-card walk straight into an underwater dive shot, launching the 'THEN' montage with the first flashback memory of youthful, carefree fun."
+    },
+    {
+      "timestamp": 2.5,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the pool dive to the woman dancing on a bar tabletop, keeping the rapid-fire montage rhythm going as it stacks up wild 'then' memories."
+    },
+    {
+      "timestamp": 4.6,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the bar dance to the man falling/leaping through the air arms-raised, another quick beat of youthful abandon in the 'then' highlight reel."
+    },
+    {
+      "timestamp": 6.933333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the mid-air leap into the car, where the woman is hanging out the window while he drives, moving the montage into the reckless joyride memory."
+    },
+    {
+      "timestamp": 9.333333,
+      "transition_type": "jump_cut",
+      "reason": "Cuts to a wider reverse angle inside the same car right as she climbs back in over the seat, landing on his wide-eyed, nervous face reacting to her recklessness -- the capstone gag of the 'then' section."
+    },
+    {
+      "timestamp": 14.366667,
+      "transition_type": "hard_cut",
+      "reason": "Hard tonal pivot from the chaotic car ride to a quiet night shot of the (now older) couple sitting on the car roof sharing snacks under the stars, marking the turn from 'THEN' into 'NOW.'"
+    },
+    {
+      "timestamp": 15.866667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the stargazing beat to the couple walking down the same road in daylight, keeping the 'now' montage moving at the same brisk clip as the 'then' section did."
+    },
+    {
+      "timestamp": 16.566667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to the couple dancing together in a crowd, showing their 'now' life still includes nights out, mirroring the earlier bar scene from their youth."
+    },
+    {
+      "timestamp": 17.666667,
+      "transition_type": "other",
+      "reason": "Cuts to a stylized inverted/reflection shot of the couple holding hands over the road at night, a creative bridging transition that visually signals time slipping by before the story settles into its final scene."
+    },
+    {
+      "timestamp": 20.766667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the upside-down bridging shot into the kitchen for the deadpan punchline moment, landing on 'The new sponge is unbelievable' -- the anti-climactic 'now' beat that pays off the wild 'then' montage with domestic mundanity."
+    },
+    {
+      "timestamp": 26.933333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the couple's kitchen exchange to the black branding title card, closing the episode right after the punchline lands."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 9.333333,
+      "end": 14.366667,
+      "description": "Wide reverse angle inside the car holding on the man's startled, wide-eyed face as the woman climbs back in from hanging out the window during the reckless joyride memory."
+    },
+    {
+      "start": 20.766667,
+      "end": 26.933333,
+      "description": "Two-shot in the kitchen holding on the couple's flat, contented faces as she delivers the deadpan 'the new sponge is unbelievable' line and he nods along, the mundane payoff to the film's adventurous 'then' montage."
+    }
+  ],
+  "pacing_notes": "Opens with a near-instant 0.13s title flash, then the 'THEN' montage rips through youthful memories in quick 1-2.3s bursts (pool dive, bar dance, mid-air leap) before settling into a longer 2.4s and then 5s car sequence that builds to the joyride's reaction-shot capstone. A hard tonal cut at 14.4s flips into the 'NOW' section, which echoes the same quick-cut rhythm (1.5s, 0.7s, 1.1s) through stargazing, a daytime walk, and dancing, before a 3.1s stylized inverted bridging shot slows things down. The video then holds its longest shot by far (~6.2s) on the static kitchen two-shot for the deadpan sponge punchline, letting the joke breathe, and closes with a brief 1.3s outro card."
+}

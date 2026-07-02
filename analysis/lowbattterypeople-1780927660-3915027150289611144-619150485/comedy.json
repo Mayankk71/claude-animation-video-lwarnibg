@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1780927660-3915027150289611144-619150485",
+  "comedic_beats": [
+    {
+      "start": 1.773,
+      "end": 2.735,
+      "mechanism": "recognition",
+      "description": "After a 0.57s pause (1.17-1.74s) following \"I took the bins out,\" the husband adds the deflating confession \"And mentioned it twice,\" undercutting his own moral high ground.",
+      "why_it_lands": "The pause before the line lets the audience assume a normal complaint is finished, then the add-on is delivered in the same flat, half-lidded stare as the rest of his monologue (scene-0 keyframe), so the self-own reads as unintentional rather than a punchline he's aware of -- exactly how people actually rat themselves out mid-rant."
+    },
+    {
+      "start": 3.175,
+      "end": 6.557,
+      "mechanism": "escalation",
+      "description": "The husband rattles off \"the laundry, the shopping, the dishes, and called your mother\" as one continuous, barely-paused run-on (only 0.18s and 0.31s micro-breaks in a 14-word, ~3.4s stretch).",
+      "why_it_lands": "The near-absence of pauses in the silence_pauses data across this segment mimics the accelerating cadence of a real domestic-grievance list being recited from memory, so the escalation feels lived-in rather than written."
+    },
+    {
+      "start": 6.557,
+      "end": 8.262,
+      "mechanism": "deadpan",
+      "description": "\"...said nothing.\" is delivered completely flat, then held for 1.11s of silence (7.14-8.26s, the longest pause in the whole clip) while his default droopy, heavy-lidded expression suddenly snaps into wide, bulging eyes on the word \"NOTHING\" (scene-4 keyframe).",
+      "why_it_lands": "The mismatch between the toneless line reading and the abrupt eye-bulge acts as the only punctuation the character allows himself, and the outsized 1.11s hold (roughly 3-6x longer than every other pause in the transcript) makes the audience feel the withheld anger before he pivots to the accusation."
+    },
+    {
+      "start": 8.262,
+      "end": 11.246,
+      "mechanism": "irony",
+      "description": "The kicker line \"You move one bag to the curb and need applause,\" split by a 0.78s mid-sentence pause (9.71-10.49s) right before \"and need applause.\"",
+      "why_it_lands": "He has just spent the prior segment listing his own unacknowledged chores and demanding credit for them, so accusing the partner of wanting \"applause\" for one bag is a direct, self-unaware hypocrisy the audience catches instantly -- the 0.78s hold before \"applause\" is timed exactly like a stand-up act-out beat, letting the absurdity of \"one bag\" register before the punch word lands."
+    },
+    {
+      "start": 4.767,
+      "end": 6.233,
+      "mechanism": "deadpan",
+      "description": "On the word \"CALLED,\" the wife's close-up (scene-3 keyframe) shows her making a small sarcastic hand gesture (fingers up, like a mocking little flourish) with an open-mouthed, unimpressed look while at the coffee machine, silently undercutting the husband's claim mid-sentence.",
+      "why_it_lands": "The gesture is tiny and dry rather than a big reaction shot, and it happens in the background of his monologue rather than being cut to as its own joke, which sells it as an aside only the audience notices -- a visual eye-roll delivered with zero verbal comment."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-joke, single-scene marital-argument skit built entirely on the gap between what the characters say and how their felt-puppet faces perform it. The whole 'Low Battery People' character design is itself a sight gag baked into the format: permanently heavy-lidded, half-asleep eyes as a visual pun on 'running on low battery,' which reads as chronic exhaustion/resentment even before either character speaks, so the deadpan tone is pre-loaded by the character model rather than just the line readings. Comedic timing is carried almost entirely by the silence_pauses data rather than by punchlines with obvious setups: the escalating chore list is rushed with minimal gaps, then the single longest pause in the piece (1.11s) is placed right before the emotional turn, and a second sizable pause (0.78s) breaks up the final punchline to isolate the word 'applause.' There's no laugh-track-style joke structure -- it's a hypocrisy-driven relatability gag (recognition of tit-for-tat spousal keeping-score) delivered in a flat, almost deadpan sitcom-couple register, capped by a hard cut to black-card series branding ('New Episode Daily') that treats the whole thing as one entry in a recurring format rather than a standalone short."
+}

@@ -1,0 +1,60 @@
+{
+  "video_slug": "lowbattterypeople-1780927660-3915027150289611144-619150485",
+  "characters": [
+    {
+      "name_or_role": "wife (the ranter)",
+      "personality_traits": [
+        "Assertive and unfiltered - delivers a rapid, unbroken list of grievances without hesitation",
+        "Multitasking and unbothered - keeps making her espresso through the entire rant, showing she is used to this routine",
+        "Sarcastic - closes with a pointed, mocking jab ('need applause') rather than a genuine complaint",
+        "Score-keeping - itemizes specific chores (bins, laundry, shopping, dishes, calling his mother) like she has been mentally tallying them"
+      ],
+      "emotional_range": [
+        "flat/deadpan irritation",
+        "mounting indignation",
+        "sarcastic exasperation",
+        "dry, self-satisfied smugness"
+      ],
+      "expressions": [
+        "0:00 heavy-lidded, unimpressed stare while operating the espresso machine",
+        "0:02 ('mentioned it twice') slight tightening of the mouth, brows low - quiet annoyance",
+        "0:03-0:05 ('laundry, shopping') mouth fully open mid-list, brows raised in emphasis - building indignation",
+        "0:05-0:07 ('called your mother') exaggerated open-mouth delivery with a smug half-smirk",
+        "throughout, eyes stay half-lidded/world-weary even as her mouth animates - contrast between tired eyes and energetic delivery"
+      ],
+      "gestures": [
+        "0:03 raised index finger emphasis on 'shopping'",
+        "0:05-0:06 'rock and roll' two-finger hand flourish on 'called' and 'mother'",
+        "continuous throughout: hands stay busy with the espresso cup and saucer, never pausing the task to face him directly"
+      ],
+      "interactions_notes": "She stands at the espresso machine, angled mostly toward her task rather than toward him, and never makes direct sustained eye contact with him on screen - she talks at him more than to him. She controls the entire scene: all of the dialogue, all of the physical activity, and the framing gives her more screen time and close-ups. She holds clear conversational power, using an itemized list as rhetorical ammunition before landing the closing insult about the bins."
+    },
+    {
+      "name_or_role": "husband (the silent listener)",
+      "personality_traits": [
+        "Passive and non-verbal - has zero lines in the entire clip, only reacts with his face",
+        "Complacent/checked-out at the start - begins with a small, sleepy, self-satisfied smile as if he thinks he's done enough",
+        "Visually 'low battery' - droopy eyelids and slack posture that fit the show's premise of exhausted, drained characters",
+        "Ultimately blindsided - his growing eye-widening shows he did not see the callout coming"
+      ],
+      "emotional_range": [
+        "sleepy contentment",
+        "fading complacency",
+        "shock",
+        "guilty stupor"
+      ],
+      "expressions": [
+        "0:00 small closed-mouth smile, half-lidded sleepy eyes - looks pleased with himself",
+        "0:02-0:03 ('laundry') smile flattens into a downturned mouth, eyes still droopy - dawning unease",
+        "0:06 ('nothing') eyebrows shoot upward, eyes go wide and round, mouth drops open - visible shock",
+        "0:08 ('you') same bulging wide-eyed, open-mouthed stunned look, now held as the accusation lands directly on him",
+        "0:10 (title card) eyes and brows relax slightly back toward a tired, deflated expression"
+      ],
+      "gestures": [
+        "no hand or arm gestures visible - his body is rendered as a stationary dark pedestal/appliance-like form with no arms shown",
+        "only visible physical movement is in the head: subtle upward tilts and a slight turn toward her as the list escalates"
+      ],
+      "interactions_notes": "He is physically set apart from her (own island/counter to her right in frame, static, elevated), and functions purely as a reactive audience for her monologue - he never speaks or gestures back. The power dynamic is entirely one-sided: she talks, acts, and delivers the punchline; he can only widen his eyes in real time as the accusation builds toward him, ending the clip visibly caught off guard with no rebuttal."
+    }
+  ]
+}

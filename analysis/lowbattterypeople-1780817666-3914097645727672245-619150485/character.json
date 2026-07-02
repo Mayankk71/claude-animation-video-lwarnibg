@@ -1,0 +1,78 @@
+{
+  "video_slug": "lowbattterypeople-1780817666-3914097645727672245-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (long-nosed man in black suit)",
+      "personality_traits": [
+        "Adventurous and physically uninhibited in the 'then' flashback (dives, jumps, dances, hangs upside down)",
+        "Playful showman who mugs for reaction (arms thrown up mid-air, big open-mouth grin while driving)",
+        "In the 'now' timeline reduced to a low-energy, deadpan homebody who responds to his wife with minimal effort",
+        "Dryly sarcastic rather than cruel -- his flat 'I know' reads as affectionate resignation, not hostility"
+      ],
+      "emotional_range": [
+        "then: exhilarated/euphoric (freefall jump, arms raised, wide grin)",
+        "then: startled excitement while driving with partner leaning in",
+        "then: warm contentment (eyes closed, small smile under the stars on the car roof)",
+        "then: gregarious joy (dancing at the party, shoulders bouncing)",
+        "then: giddy affection (laughing upside down under the bridge, holding hands)",
+        "now: flat, half-lidded fatigue with a faint ironic smirk"
+      ],
+      "expressions": [
+        "0:00 confident forward stride, back to camera, arm raised",
+        "mid: wide-eyed euphoric grin, arms thrown up while airborne/falling",
+        "mid: startled, wide-eyed open-mouth excitement while gripping the wheel as she leans toward him",
+        "mid: eyes closed, soft closed-mouth smile leaning cheek-to-cheek under a starry sky",
+        "mid: open, laughing mouth while dancing under stage lights",
+        "mid: mouth agape in laughter, hanging upside down under a bridge",
+        "0:00-0:03 (kitchen, 'now'): droopy half-lidded eyes, faint closed-mouth smirk, near-motionless face delivering 'I know'"
+      ],
+      "gestures": [
+        "then: arms thrown straight up overhead in celebratory freefall pose",
+        "then: one hand gripping the steering wheel, torso leaning toward partner as he talks animatedly",
+        "then: sitting on the car roof holding a snack, head tilted onto her shoulder",
+        "then: loose shoulder-bounce dance moves with elbows out at the party",
+        "then: reaching to hold her hand while both dangle upside down",
+        "now: stands still in the kitchen, hands mostly at his sides, only a small mouth movement for his one-line reply"
+      ],
+      "interactions_notes": "He is the more physically expansive, attention-grabbing half of the pair in every 'then' vignette (jumping, dancing, driving, hanging upside down), always shown reacting to or performing for her. In the 'now' kitchen scene the dynamic flips: she initiates with an enthusiastic, sincere line about a new sponge and he offers only a two-word, low-affect reply ('I know'), face nearly unmoving -- a comedic collapse from grand romantic energy to domestic autopilot. Eye contact and physical proximity (touching, leaning, holding hands) are constant in the flashbacks but absent in the present-day beat, where they stand facing each other without touching, mirroring each other's tired expression instead."
+    },
+    {
+      "name_or_role": "wife (long-nosed woman with hair in a bun)",
+      "personality_traits": [
+        "Confident and self-possessed in the 'then' flashback (walks with purpose, dances solo on a tabletop with her back to the crowd)",
+        "Romantic and tactile with her partner (leans into the car, rests head on his shoulder, holds his hand upside down)",
+        "In the 'now' timeline, finds genuine, earnest enthusiasm in a small domestic detail (a new sponge), delivered with sincerity that lands as deadpan comedy against her tired face",
+        "Comfortable and unguarded around her partner rather than performative -- her joy, then and now, is expressed toward him rather than to an audience"
+      ],
+      "emotional_range": [
+        "then: serene focus (gliding underwater, arms extended, controlled expression)",
+        "then: flirtatious self-assurance (standing on the table at the bar, back to camera, unbothered by the crowd)",
+        "then: delighted surprise, leaning out of the car toward him with a wide grin",
+        "then: tender contentment (eyes closed, small smile, head against his under the stars)",
+        "then: bright laughter dancing at the party, arms crossed near her chest as she watches him",
+        "then: joyful, open-mouthed laughter hanging upside down holding his hand",
+        "now: tired, half-lidded eyes with an earnest, small proud smile holding up the sponge"
+      ],
+      "expressions": [
+        "0:00-0:01 back to camera, chin slightly lifted, purposeful walk",
+        "mid: calm, focused face gliding underwater, no strain visible",
+        "mid: wide grin leaning toward him from the car's back seat, eyebrows raised",
+        "mid: eyes closed, gentle smile resting head near his under the stars",
+        "mid: mouth open in laughter at the party, eyes crinkled watching him dance",
+        "mid: eyes closed, broad laughing smile upside down under the bridge",
+        "0:00-0:03 (kitchen, 'now'): droopy, half-lidded eyes, earnest closed-mouth smile, chin slightly raised as she holds up the sponge and says 'The new sponge is unbelievable, I know'"
+      ],
+      "gestures": [
+        "then: one arm holding a bag/strap over her shoulder as she walks",
+        "then: arms extended straight out to the sides while diving underwater",
+        "then: standing balanced on a small café table, arms loosely out for balance while dancing",
+        "then: leaning her upper body out over the front seat toward him while he drives",
+        "then: cradling a snack box against her chest while resting against him on the car roof",
+        "then: arms crossed/hugged in front of her chest while laughing at the party",
+        "then: reaching down to clasp his hand while both hang upside down",
+        "now: holds the yellow sponge up between them with both hands, ring visible on her finger, as the sole prop in the kitchen exchange"
+      ],
+      "interactions_notes": "She mirrors her partner's arc from expansive and romantic (the pair are almost always touching, leaning toward each other, or making direct eye contact across the flashback montage) to comedically subdued in the present-day kitchen beat. She is the one who initiates and carries the emotional energy of the final scene, offering the sponge line with real sincerity; he undercuts it with his flat, near-monotone reply, and their aligned droopy-eyed expressions in that shot suggest a settled, low-key intimacy rather than distance -- the joke is that the couple's passion has been replaced by shared, comfortable exhaustion, not that they've grown apart."
+    }
+  ]
+}

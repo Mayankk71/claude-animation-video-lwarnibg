@@ -1,0 +1,18 @@
+{
+  "video_slug": "lowbattterypeople-1780817666-3914097645727672245-619150485",
+  "total_lines": 1,
+  "avg_words_per_line": 7,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.499,
+      "end": 3.581,
+      "text": "The new sponge is unbelievable I know",
+      "word_count": 7,
+      "pause_before_sec": 0,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "The transcript contains only a single spoken line, delivered right at the start of the clip (0.5s-3.58s), with no other transcribed dialogue for the rest of the ~28s runtime. No second speaker line exists to compare against for interruption/overlap, so the sole line cannot be flagged as an interruption. The seven silence windows logged in silence_pauses.json all fall between 21.33s and 28.26s, roughly 18-25 seconds after the dialogue line ends, meaning they sit in the dialogue-free back half of the clip rather than inside or between spoken lines -- consistent with a single quick verbal exchange up front followed by a long wordless visual sequence.",
+  "speech_rhythm_notes": "The one line, 'The new sponge is unbelievable I know,' is compressed into about 3 seconds with no pause beforehand (pause_before_sec: 0), giving it an immediate, rapid-fire delivery right at the open of the clip. After that, the transcript goes silent for the remainder of the video. The detected pauses cluster much later (21.33s-28.26s) as seven short, closely-spaced gaps -- mostly under 1 second, with one longer 1.68s pause at 23.98s-25.66s and a 1.03s pause at 27.23s-28.26s -- but since no dialogue lines fall in that window, these read as beats in a silent visual gag rather than breaths within the spoken line."
+}
