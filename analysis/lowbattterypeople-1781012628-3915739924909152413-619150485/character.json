@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1781012628-3915739924909152413-619150485",
+  "characters": [
+    {
+      "name_or_role": "woman (narrator/wife, knitting on the couch)",
+      "personality_traits": [
+        "self-aware and wry - narrates her own domestic frustration straight to camera rather than confronting her partner",
+        "patient on the surface but visibly counting/keeping score (\"I've said six things\")",
+        "multitasker - keeps knitting steadily through the whole exchange, treating the recurring standoff as routine rather than a crisis",
+        "dryly resigned rather than angry - lands the complaint as a deadpan joke, not a fight"
+      ],
+      "emotional_range": [
+        "mild, patient neutrality while offering dinner options",
+        "faint knowing smirk as she reels off the rejected options",
+        "flat deflation on \"Not pizza\"",
+        "peak exasperation with mouth open on \"I've said six things and he said no to all of them\"",
+        "dry, almost fond resignation on \"He has preferences\" / \"He just wants me to guess them\""
+      ],
+      "expressions": [
+        "0:00 neutral, slightly heavy-lidded eyes while asking \"What do you want to have for dinner?\"",
+        "0:03 half-smile/raised brow on \"Pizza?\" as if already expecting a no",
+        "0:04 mouth flattens, eyes narrow slightly on \"Not pizza\"",
+        "0:05-0:07 eyebrows up, mouth open in an exasperated near-laugh delivering \"I've said six things and he said no to all of them\", eyes cut toward camera",
+        "0:08 lids droop back down, small wry mouth curl on \"He has preferences\"",
+        "0:10 faint closed-mouth smile, eyes rolled slightly on the punchline \"He just wants me to guess them\""
+      ],
+      "gestures": [
+        "continuous, unbroken knitting motion (yarn ball and needles in hand) through nearly every line, hands never stop even as her face escalates",
+        "slight forward lean and direct look into camera when delivering the punchline lines, breaking the fourth wall",
+        "no touching or reaching toward the man beside her - stays self-contained in her own seat"
+      ],
+      "interactions_notes": "She sits center-frame on the main sofa and speaks past the man rather than to him, addressing the audience directly for the recap/punchline lines - a classic complaint-to-camera setup. She never turns to face him or waits for a reply; the joke is that she is having (and narrating) an entire exasperating exchange essentially by herself."
+    },
+    {
+      "name_or_role": "man (silent partner, seated beside her)",
+      "personality_traits": [
+        "checked-out / low-energy - the visual embodiment of the series title 'Low Battery People'",
+        "fussy, repetitive tic-driven behavior (constantly adjusting his glasses) that reads as nervous habit or total disengagement rather than active listening",
+        "non-verbal in this scene - his 'preferences' are only ever reported by her, he is never shown speaking or reacting"
+      ],
+      "emotional_range": [
+        "blank, deadpan throughout - no visible shift in emotion across the entire sequence"
+      ],
+      "expressions": [
+        "0:00-0:10 unchanging heavy-lidded, half-closed eyes and a flat downturned mouth in every frame he appears in",
+        "no eye contact with the woman and no reaction to her escalating exasperation at any point"
+      ],
+      "gestures": [
+        "repeatedly lifts both hands to push his round glasses up and pull them back down / off his face, a looping fidget that recurs across nearly every frame",
+        "otherwise sits rigidly upright, arms mostly returning to the same position, facing forward rather than toward her"
+      ],
+      "interactions_notes": "Positioned just to her left in his own chair, angled slightly away; he is present in frame for the entire scene but functions as an inert prop - the punchline depends on his total obliviousness while she vents about him. There is no dialogue, eye contact, or gesture exchanged between the two characters; the power dynamic is entirely one-directional, with her actively narrating and him passively, silently existing."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1781012628-3915739924909152413-619150485",
+  "cut_count": 1,
+  "avg_shot_length_sec": 6.22,
+  "cuts": [
+    {
+      "timestamp": 11.466667,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut from the single continuous living-room take straight to the black title/logo card immediately after the punchline 'He just wants me to guess them,' giving the joke a beat to land before the show branding stamps the exit."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 9.963,
+      "end": 11.466667,
+      "description": "No cut occurs here, but within the single continuous shot the camera has slowly pushed in from the wide two-shot to a tight close-up on the woman's face by this point, so the punchline 'He just wants me to guess them' plays as a deadpan reaction close-up rather than new plot action."
+    }
+  ],
+  "pacing_notes": "The entire scene (0-11.47s) is one uninterrupted take that slowly pushes in from a wide two-shot of the couple on the couch to a tight close-up on the woman's face as she runs through the dinner-guessing exchange and lands the punchline; there is no internal cutting to drive comedic rhythm, only the creeping zoom and her line delivery. The only actual edit in the whole reel is the single hard cut at 11.47s from that live-action beat into the ~0.97s black title/logo card ('LOW BATTERY PEOPLE') that closes the video, making this one of the lowest-cut-count, slowest-paced entries in the set."
+}

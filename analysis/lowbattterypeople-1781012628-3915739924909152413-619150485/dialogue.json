@@ -1,0 +1,81 @@
+{
+  "video_slug": "lowbattterypeople-1781012628-3915739924909152413-619150485",
+  "total_lines": 8,
+  "avg_words_per_line": 4.75,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.091,
+      "end": 0.972,
+      "text": "What do you want to have for dinner?",
+      "word_count": 8,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.992,
+      "end": 1.693,
+      "text": "I don't mind.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.294,
+      "end": 2.654,
+      "text": "You pick.",
+      "word_count": 2,
+      "pause_before_sec": 0.225438,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.875,
+      "end": 3.275,
+      "text": "Pizza?",
+      "word_count": 1,
+      "pause_before_sec": 0.15,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.696,
+      "end": 4.176,
+      "text": "Not pizza.",
+      "word_count": 2,
+      "pause_before_sec": 0.446437,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.057,
+      "end": 7.44,
+      "text": "I've said six things and he said no to all of them.",
+      "word_count": 12,
+      "pause_before_sec": 0.912188,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.141,
+      "end": 9.102,
+      "text": "He has preferences.",
+      "word_count": 3,
+      "pause_before_sec": 0.7365,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 9.963,
+      "end": 11.085,
+      "text": "He just wants me to guess them.",
+      "word_count": 7,
+      "pause_before_sec": 0.791438,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "A single credited speaker (SPEAKER_00) voices an entire two-sided dinner exchange, alternating a proposer role (\"What do you want to have for dinner?\", \"Pizza?\") and a rejecter role (\"I don't mind.\", \"You pick.\", \"Not pizza.\") in lines 1-5, then drops the reenactment to deliver three direct-address commentary lines (6-8, \"I've said six things...\", \"He has preferences.\", \"He just wants me to guess them.\") that reflect on the exchange rather than continue it. No cross-speaker overlaps exist in the transcript (diarization shows one speaker only), so the back-and-forth is performed rather than interrupted.",
+  "speech_rhythm_notes": "Lines 3-5 (\"You pick.\", \"Pizza?\", \"Not pizza.\") are separated by short, tightening pauses of 0.15-0.45 sec, giving the reenacted back-and-forth a clipped, rapid-fire rhythm that mimics real-time bickering. The pause before line 6 (0.912 sec) is the longest gap in the clip and marks the tonal pivot from reenacted dialogue to direct commentary. Line 8, the closing punchline (\"He just wants me to guess them.\", 7 words), follows the second-longest pause in the clip (0.791 sec after line 7's \"He has preferences.\"), landing after a deliberate breath that sets up the payoff line."
+}

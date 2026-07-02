@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1781012628-3915739924909152413-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot of the couple on a beige couch, positioned left-of-center (man) and center-right (woman); generous headroom above both figures, soft-focus window and fruit bowl visible in the right background. Man's glasses-lift gesture reads as a small foreground beat while the woman's knitting stays framed at chest height, both hands visible. Title card ('THE DINNER GAME', 'Episode 30') is overlaid directly on this live-action-style frame rather than cutting to a separate graphic."
+    },
+    {
+      "start": 3.5,
+      "end": 11.466667,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Slow, continuous push-in across the remainder of the scene: frame gradually tightens from a medium two-shot to a close-up isolating the woman's face and shoulders. The man is progressively cropped out of frame left, ending as just a sliver of ear/hand at the far edge, which visually sidelines him as she delivers each one-word answer ('DINNER?' / 'PIZZA?' / 'PIZZA.' / 'I'VE... HE... PREFERENCES.'). By the final frames she is centered with tight headroom, knitting motion still visible at the bottom edge of frame, window light rim-lighting her hair bun."
+    },
+    {
+      "start": 11.466667,
+      "end": 12.433333333333334,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full-black outro card, no camera framing of a scene: centered yellow serif title 'LOW BATTERY PEOPLE', white 'CREATED BY NIN.' subtitle, and a centered yellow ticket-shaped 'NEW EPISODE DAILY' graphic below, all stacked and symmetrically balanced on the horizontal center line of the frame."
+    }
+  ],
+  "framing_patterns_notes": "The whole clip is essentially one shot with a slow creeping zoom rather than cuts: it opens wide enough to include both characters and their sitting-room context, then pushes in steadily until only the woman's face fills the frame at the punchline, using framing itself (not an edit) to shift focus from the couple to her deadpan delivery. The husband is not cut away from — he is simply zoomed out of frame, which keeps his reactions off-screen and puts all comedic weight on her clipped one-word answers. Text captions are burned in at a fixed lower-third position throughout, and the episode title/branding is layered directly over the live scene at the start rather than as a separate title shot, while the sign-off card at the end reuses the same yellow-on-black title-card graphic style."
+}

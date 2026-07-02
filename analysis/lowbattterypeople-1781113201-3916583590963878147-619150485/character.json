@@ -1,0 +1,59 @@
+{
+  "video_slug": "lowbattterypeople-1781113201-3916583590963878147-619150485",
+  "characters": [
+    {
+      "name_or_role": "Woman at the kitchen island (speaker, SPEAKER_00)",
+      "personality_traits": [
+        "self-deceiving / in denial (opens with the flatly false claim 'I don't bottle things up' while calmly cataloguing evidence that she does)",
+        "observant and detail-oriented (tracks his battery percentage and the exact day, 'since Thursday')",
+        "passive-aggressive rather than confrontational (delivers an accusation in a mild, sipping-tea deadpan instead of raising her voice)",
+        "composed / withholding (keeps drinking tea and never breaks her physical stillness even as she needles him)"
+      ],
+      "emotional_range": [
+        "flat deadpan detachment",
+        "dry, knowing accusation",
+        "faint smugness/superiority",
+        "mock-innocence"
+      ],
+      "expressions": [
+        "0:00 neutral, heavy-lidded, sipping tea while stating 'I don't bottle things up'",
+        "0:03 eyebrows lift slightly, mouth opens mid-sentence as she lists his cabinet-slamming evidence",
+        "0:07 corner-of-mouth smirk / knowing look as she adds 'the cabinets are paying for it'",
+        "throughout: consistently sleepy, heavy-lidded eyes and a slightly downturned mouth, giving a permanently unimpressed 'seen it all' look"
+      ],
+      "gestures": [
+        "holds the teacup with both hands and sips it through nearly the entire scene",
+        "minimal body movement; stays seated and upright at the counter",
+        "no gesturing toward him with her hands — she never turns her body fully toward him, delivering the line more to camera/space than directly at him"
+      ],
+      "interactions_notes": "She holds the verbal and moral high ground of the scene: she is the one speaking and the one who gets to stay calm, while he is left to react physically. She does not make full eye contact with him and barely orients her body toward him, which reads as pointed indifference rather than genuine obliviousness."
+    },
+    {
+      "name_or_role": "Man near the cabinets/dishwasher (silent partner)",
+      "personality_traits": [
+        "repressed / conflict-avoidant (never speaks; channels frustration into physical actions — closing cabinets, loading the dishwasher — instead of confronting her)",
+        "anxious and self-conscious (wide, darting eyes and guarded posture suggest he knows he's been caught)",
+        "outwardly stiff/formal (dressed in a full black suit and tie even while doing kitchen chores, contrasting with his emotional messiness)"
+      ],
+      "emotional_range": [
+        "startled/wide-eyed alarm",
+        "guarded, guilty tension",
+        "suppressed irritation expressed through small aggressive actions rather than facial anger",
+        "sheepish/caught-out unease"
+      ],
+      "expressions": [
+        "0:00 eyes wide, eyebrows raised behind round glasses, mouth in a tight downturned line — a guarded, on-edge look",
+        "0:03-0:06 eyes dart toward her as she lists his behavior, eyebrows knit slightly, expression tightens further",
+        "0:06 bends down toward the open dishwasher, face turned away, posture stooped and tense",
+        "0:09 reaches up toward an open cabinet, eyes still wide and alert, mouth pressed into a thin, uneasy frown"
+      ],
+      "gestures": [
+        "stands rigid beside the counter with one arm braced against his own body/jacket, a self-contained, closed-off posture",
+        "bends and reaches into the dishwasher, placing a dish with visible tension in his shoulders (the 'collateral damage' of loading it too hard)",
+        "reaches up and grips/pushes an open cabinet door shut, echoing the '1%... cabinet-closing' behavior she describes",
+        "no verbal response at any point — all his reaction is physicalized through these small, repeated kitchen actions"
+      ],
+      "interactions_notes": "He never speaks and rarely looks directly at her; his eyes flick toward her only briefly while his body stays angled toward the cabinets/dishwasher, physically retreating into chores. The power dynamic favors her: she controls the dialogue and pacing while he is reduced to silent, fidgety busywork, which is the visual gag underlying the episode title 'Collateral Damage' — his suppressed frustration comes out on the cabinets and dishes instead of in the conversation."
+    }
+  ]
+}

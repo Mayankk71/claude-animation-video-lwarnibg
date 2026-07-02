@@ -1,0 +1,70 @@
+{
+  "video_slug": "lowbattterypeople-1781012628-3915739924909152413-619150485",
+  "duration_sec": 12.542708,
+  "hook": {
+    "start": 0,
+    "end": 1.693,
+    "description": "The title card 'THE DINNER GAME - Episode 30' is overlaid directly on the live scene (no separate intro shot): a couple on a couch, wife knitting, husband adjusting his glasses with a flat, mildly annoyed expression. She asks 'What do you want to have for dinner?' and he replies 'I don't mind.'",
+    "why_it_works": "It opens mid-scene on a universally relatable, low-stakes domestic question, and the episode-branding overlay tells returning viewers instantly that this is a recurring bit, so the joke can start without any preamble."
+  },
+  "setup": {
+    "start": 1.693,
+    "end": 4.176,
+    "description": "She presses him: 'You pick.' He gives no real answer, so she offers a concrete suggestion, 'Pizza?', and he shuts it down flatly with 'Not pizza.' In under three seconds the rejection pattern that the joke rests on is established."
+  },
+  "conflict": {
+    "start": 4.176,
+    "end": 9.102,
+    "description": "After a short pause, she reveals the real scale of the problem in a calm, deadpan aside: 'I've said six things and he said no to all of them' - implying far more off-screen rejections than the two we actually saw. She continues knitting through it and adds the diagnosis 'He has preferences,' still unbothered in tone despite the frustration in the words."
+  },
+  "punchline": {
+    "start": 9.102,
+    "end": 11.467,
+    "description": "She lands the tag line: 'He just wants me to guess them.' The joke reframes the husband not as indecisive but as deliberately making her play a guessing game, while he stays visually unreactive, still fiddling with his glasses."
+  },
+  "ending": {
+    "start": 11.467,
+    "end": 12.542708,
+    "description": "Hard cut from the couch scene to a black end card with the show's branding, closing the episode with no further dialogue.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / Created by Nin. / NEW EPISODE DAILY (yellow ticket-style graphic)"
+  },
+  "beat_map": [
+    {
+      "start": 0,
+      "end": 1.693,
+      "beat_type": "hook",
+      "description": "Title overlay 'THE DINNER GAME - Episode 30' on the couch scene; wife asks 'What do you want to have for dinner?'; husband replies 'I don't mind.'"
+    },
+    {
+      "start": 1.693,
+      "end": 4.176,
+      "beat_type": "setup",
+      "description": "'You pick.' -> 'Pizza?' -> 'Not pizza.' establishes the suggest-and-reject pattern within seconds."
+    },
+    {
+      "start": 4.176,
+      "end": 7.44,
+      "beat_type": "conflict",
+      "description": "After a beat of silence, deadpan reveal that this has actually happened six times ('I've said six things and he said no to all of them'), implying an off-screen time skip of repeated rejections."
+    },
+    {
+      "start": 7.44,
+      "end": 9.102,
+      "beat_type": "conflict",
+      "description": "She adds the calm diagnosis 'He has preferences,' still knitting, tone unchanged despite the underlying frustration."
+    },
+    {
+      "start": 9.102,
+      "end": 11.467,
+      "beat_type": "punchline",
+      "description": "Tag line delivered: 'He just wants me to guess them.' Comedic reveal that his silence is a guessing game, not indecision; husband remains visually deadpan."
+    },
+    {
+      "start": 11.467,
+      "end": 12.542708,
+      "beat_type": "ending",
+      "description": "Cut to black end card with series branding: 'LOW BATTERY PEOPLE', 'Created by Nin.', and a 'NEW EPISODE DAILY' ticket graphic."
+    }
+  ],
+  "narrative_notes": "At 12.5s this reel is roughly half the length of the 20-25s reels referenced in the general instructions, so the beats compress hard: hook and setup are nearly fused, separated here only by the shift from the opening question to the first concrete suggestion ('Pizza?'). There is a single continuous shot for the entire joke (scene_boundaries.json shows one scene from 0-11.47s), so all comedic escalation is carried by dialogue and character stillness (husband adjusting glasses, wife calmly knitting) rather than by cuts, camera moves, or a shown sequence of rejected suggestions - the 'six things' rejection montage is implied, not depicted, which is itself the joke's compression technique. The punchline is a verbal tag line rather than a sudden sight gag or reveal; the deadpan delivery/expression is unchanged from hook to punchline, so the humor is entirely in what is said. The ending is a bare branding/end-card beat (11.47-12.54s) with 'NEW EPISODE DAILY' functioning as the show's recurring CTA rather than anything specific to this episode's story."
+}

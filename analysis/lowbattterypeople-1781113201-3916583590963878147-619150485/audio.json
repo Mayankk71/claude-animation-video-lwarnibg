@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1781113201-3916583590963878147-619150485",
+  "voice_delivery_notes": "Single speaker (SPEAKER_00) delivers all three lines. The opening line \"I don't bottle things up.\" reads as a flat, declarative denial that is immediately undercut by the following lines, implying a deadpan/ironic delivery style typical of this format. The second line is one long unbroken 16-word run (3.248s-7.558s) describing the cabinet-slamming behavior, which implies a building, slightly clipped or rushed cadence with matter-of-fact phrasing rather than an emotional outburst. The closing line \"I don't know what I did Thursday, but the cabinets are paying for it.\" reads as a dry, resigned punchline. All of this is inferred from transcript phrasing and timing, not heard directly.",
+  "pitch_energy_notes": "No audio was directly analyzed; pitch and energy are inferred from transcript phrasing and pause structure only. The short, clipped opening statement followed by a long, single-breath complaint sentence suggests a flat-to-mildly-agitated energy level consistent with deadpan comic delivery rather than shouting or high pitch variation. The final line's construction (a resigned, understated punchline) implies a slight drop in energy/pitch at the end, typical of a dry comedic button rather than an emphatic climax.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No on-screen text, caption, or other evidence in transcript.json or silence_pauses.json indicates background music, so presence cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json shows a short 0.536s pause (2.737s-3.274s) between the opening line and the start of the long cabinet-slamming sentence, functioning as a brief setup beat. A 0.954s pause follows the second line (10.712s-11.667s) roughly where the transcript's second segment ends, acting as a breath before the final line. The longest silence in the whole clip is 1.448s (12.228s-13.676s), which falls after the transcript's last spoken word and extends past the final line \"...the cabinets are paying for it.\" -- this trailing hold is the clip's biggest pause and reads as a deliberate comedic button/hang time after the punchline rather than mid-sentence hesitation."
+}

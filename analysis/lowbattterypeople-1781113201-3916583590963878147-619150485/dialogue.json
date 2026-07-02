@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1781113201-3916583590963878147-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 11.67,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.502,
+      "end": 1.745,
+      "text": "I don't bottle things up.",
+      "word_count": 5,
+      "pause_before_sec": 0.247,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.248,
+      "end": 7.558,
+      "text": "You've been closing every cabinet in this house with exactly 1% two more four since Thursday.",
+      "word_count": 16,
+      "pause_before_sec": 0.536,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.878,
+      "end": 10.785,
+      "text": "I don't know what I did Thursday, but the cabinets are paying for it.",
+      "word_count": 14,
+      "pause_before_sec": 0.163,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Single speaker (SPEAKER_00) delivers all three lines as an uninterrupted monologue with no overlapping speech, so interruption is false throughout. The flow is a setup-escalation-punchline structure: a flat denial (line 1), a specific accusatory build-up naming the behavior and its exact timing (line 2), and a deadpan capper (line 3). Line 2 is preceded by a cluster of three short silence windows (1.919-2.261s, 2.261-2.469s, 2.737-3.274s) rather than one clean pause, suggesting halting, stammer-like hesitation before committing to the specific accusation, consistent with a character building up to a confession-like statement.",
+  "speech_rhythm_notes": "Line 3 (14 words, 7.878-10.785s) contains an internal silence window from 9.166-9.478s (0.312s) roughly 44% into the line, landing right after 'Thursday,' and right before the punchline clause 'but the cabinets are paying for it' -- a mid-line comedic beat rather than a between-scene gap. The two longest pauses in the whole clip occur back-to-back immediately after line 3 ends (10.712-11.667s, 0.955s, and 12.228-13.676s, 1.448s), giving the punchline room to land in silence before the clip closes -- the classic 'drop the joke, hold, cut' rhythm. By contrast, the pause before line 3 itself is the shortest pre-line pause in the clip (0.163s), keeping the accusation (line 2) and its immediate follow-up (line 3) tightly connected as one continuous thought, while the longer, stuttered pause cluster before line 2 (~1.5s combined across three fragments) signals the character working up to naming the specific behavior."
+}

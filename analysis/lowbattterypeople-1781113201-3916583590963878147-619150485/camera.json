@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1781113201-3916583590963878147-619150485",
+  "shots": [
+    {
+      "start": 0,
+      "end": 13.0,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Single locked-off wide two-shot of a stop-motion kitchen, camera never moves for the full 13s. Woman occupies left third seated at a kitchen island holding a teacup, framed from waist up with generous headroom above her bun; window behind her fills the upper-left background. Man occupies right-of-center, cropped at the waist by the counter/dishwasher, alternating between loading dishes and reaching up to a cabinet; his body stays roughly centered in the right two-thirds. Kitchen counters, stove, and cabinets fill the background on both sides with shallow depth (soft-focus greenery visible through the window). Neither character is ever isolated in their own shot -- both stay in frame simultaneously for the entire scene, so all comedic beats (her deadpan reactions, his frantic dish-loading) play out via blocking/expression within one static composition rather than via cutting or reframing."
+    },
+    {
+      "start": 13.0,
+      "end": 13.633333333333333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "End-card graphic: black background with centered title \"LOW BATTERY PEOPLE\" in yellow serif type, \"CREATED BY NIN.\" beneath in white, and a yellow \"NEW EPISODE DAILY\" ribbon graphic lower-center. No live-action/animated character content, no camera movement -- purely a static title card."
+    }
+  ],
+  "framing_patterns_notes": "The entire sketch is shot as one uninterrupted static wide two-shot with no camera movement, pans, zooms, or cuts between characters -- comedy relies entirely on simultaneous visibility of both performers' reactions in a single frame rather than cutaways or close-ups. An \"Episode 31\" title card ('COLLATERAL DAMAGE') is burlaid directly over the live scene partway through rather than cutting to a separate title shot, preserving the unbroken take. The only true shot change in the whole clip is the transition from the kitchen scene to the black end-card at the very end."
+}
