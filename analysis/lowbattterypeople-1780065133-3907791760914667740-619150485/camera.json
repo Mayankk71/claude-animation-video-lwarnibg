@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1780065133-3907791760914667740-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 9.533333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Single locked-off wide-medium two-shot for the entire scene, camera never repositions across any of the sampled frames. Man is seated in an oversized black armchair on the left third of the frame, chair back and headrest crop close above his head giving him almost no headroom; woman stands upright on the right third at the open refrigerator, which is partially cropped by the right frame edge. Negative space in the center-background (kitchen counter, stove hood) separates the two characters and doubles as the caption/subtitle zone -- all burned-in text (episode title, dialogue captions, character-role labels like 'AI' and 'HUMAN') is placed in that empty middle-ground rather than over either face. Both characters are framed roughly at chest-to-head height, eyeline-matched to each other despite the height difference (his exaggerated long face vs. her shorter frame), reinforced by the practically identical caricatured long-nose character design. Fridge interior (soda cans) is visible screen-right as a persistent prop/sight gag."
+    },
+    {
+      "start": 9.533333,
+      "end": 9.966667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full-black end card/title screen, no camera or set at all: centered yellow serif show title 'LOW BATTERY PEOPLE', smaller centered white 'CREATED BY NIN.' subtitle beneath it, and a centered yellow ticket-shaped 'NEW EPISODE DAILY' badge with small starburst marks lower in frame. Pure graphic/text composition, symmetric centered layout with generous negative space above and below the text block."
+    }
+  ],
+  "framing_patterns_notes": "The entire sketch is shot as one continuous static wide-medium two-shot with zero cuts, pans, zooms, or reframing during the actual joke (9.5s) -- all comedic timing is carried by dialogue captions and puppet performance, not camera work. Captions/labels are consistently parked in the empty middle-ground between the two characters rather than overlapping faces. The recurring episode-branding overlay ('Episode 18' top-left, episode title banner center, 'created by NIN.' end card) frames every episode of this series with the same static kitchen two-shot setup, suggesting the show's visual signature is deliberately camera-less/theatrical (like a stage play) so all attention goes to the dialogue exchange."
+}

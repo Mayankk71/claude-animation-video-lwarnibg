@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+  "duration_sec": 10.046708,
+  "hook": {
+    "start": 0.0,
+    "end": 2.651,
+    "description": "Cold open on a static, symmetrical two-shot of a stop-motion couple lying in bed, each absorbed in their own phone. Title card 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a 'NEW EPISODE DAILY' ribbon fades over the frame, followed by an 'Episode 17' label (top-left) and a giant yellow word 'GROSS' stamped across the couple before any dialogue starts. No line has been spoken yet.",
+    "why_it_works": "The visual gag (two disengaged partners glued to phones in bed) plus the blunt one-word title card 'GROSS' front-loads the joke's punch before a word is said, telegraphing the show's satirical target (phone-numbed intimacy) and using series branding as an attention-grabbing pattern-interrupt in the first 2-3 seconds."
+  },
+  "setup": {
+    "start": 2.651,
+    "end": 4.975,
+    "description": "The wife (SPEAKER_01), still staring at her phone, delivers the setup line: 'Remember when you used to excuse yourself to fart?' Her tone is flat/nostalgic-accusatory, establishing the domestic complaint that this is a couple who no longer observes basic social/marital courtesies with each other."
+  },
+  "conflict": {
+    "start": 4.975,
+    "end": 5.817,
+    "description": "A brief beat of silence/reaction shot on the frozen two-shot (no new dialogue, both still phone-fixated) that lets the accusation land and sets up the husband's dismissive reply -- the 'conflict' here is implicit marital tension/resignation rather than an active argument, compressed into a near-instantaneous transition."
+  },
+  "punchline": {
+    "start": 5.817,
+    "end": 7.46,
+    "description": "The husband (SPEAKER_00), without looking up from his phone, replies 'That man was trying to get married' -- reframing his old politeness as a cynical, transactional courtship tactic now abandoned since the marriage is secured. This is the joke's turn: the 'gross' behavior is revealed to be a knowing, unapologetic choice rather than mere decline."
+  },
+  "ending": {
+    "start": 7.46,
+    "end": 10.046708,
+    "description": "The scene holds on the same static shot as the husband's line finishes, then the video loops/cuts back into the black 'LOW BATTERY PEOPLE / CREATED BY NIN.' title card with the 'NEW EPISODE DAILY' ribbon, closing out on branding rather than an original visual beat.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY ribbon; earlier overlay 'Episode 17' and giant word 'GROSS' during the hook."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.651, "beat_type": "hook", "description": "Static two-shot of couple in bed on phones; title card, 'Episode 17' label, and giant 'GROSS' text stamp appear before any line is spoken."},
+    {"start": 2.651, "end": 4.975, "beat_type": "setup", "description": "Wife, eyes on phone, says: 'Remember when you used to excuse yourself to fart?' establishing the couple's lost courtesy toward each other."},
+    {"start": 4.975, "end": 5.817, "beat_type": "conflict", "description": "Silent beat on the same frozen shot as the accusation lands and the husband prepares his defense; tension is implicit, not verbalized."},
+    {"start": 5.817, "end": 7.46, "beat_type": "punchline", "description": "Husband, still on his phone, replies: 'That man was trying to get married' -- revealing the old courtesy was strategic, not sincere, and is now dropped."},
+    {"start": 7.46, "end": 10.046708, "beat_type": "ending", "description": "Beat holds on the couple in silence after the line, then cuts back to the 'LOW BATTERY PEOPLE / CREATED BY NIN.' / 'NEW EPISODE DAILY' title card, closing the loop on branding."}
+  ],
+  "narrative_notes": "This 10-second clip is far shorter than a typical 20-25s reel and appears to be a tightly trimmed excerpt (or single-scene episode) built around exactly one exchange of dialogue over one unbroken static shot -- scene_boundaries.json shows only two scenes (0-8.97s and 8.97-10.05s), the second being the closing title card, meaning the entire couple-in-bed sequence is a single continuous take with no cuts, camera moves, or coverage changes; all 'motion' in the scene is limited to facial animation and text overlays. Setup and conflict are almost fused: there is no separate rising action, only a single accusatory line (setup) followed by a near-instant, silent reaction beat (conflict) before the rebuttal (punchline) -- the conflict beat is best understood as a comedic pause/reaction rather than a distinct story development. The hook is unusually front-loaded with branding/text (title card, episode number, 'GROSS' stamp) rather than dialogue or action, which is atypical for the format and suggests this clip is either a repost/highlight extraction from a longer episode or a series that leans on recurring visual branding as its hook rather than a cold-open sight gag."
+}

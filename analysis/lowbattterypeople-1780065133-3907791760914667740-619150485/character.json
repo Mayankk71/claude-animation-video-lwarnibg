@@ -1,0 +1,56 @@
+{
+  "video_slug": "lowbattterypeople-1780065133-3907791760914667740-619150485",
+  "characters": [
+    {
+      "name_or_role": "Man in armchair (deadpan pontificator)",
+      "personality_traits": [
+        "Detached philosopher-type who makes sweeping pronouncements ('AI is replacing human thinking') from a seated, low-effort position",
+        "Emotionally flat/checked-out despite the dramatic content of his lines, suggesting practiced apathy or exhaustion rather than genuine alarm",
+        "Fidgety hands (constantly manipulating his glasses) suggest a nervous or overthinking energy underneath the flat vocal delivery",
+        "Self-satisfied contrarian — drops a big claim, then casually undercuts it ('No... that happened years ago'), enjoying the reveal"
+      ],
+      "emotional_range": [
+        "Faux-grave seriousness (opening line)",
+        "Mild confusion/searching when asked 'At work?'",
+        "Flat, almost bored certainty on the reveal ('No.' / 'That happened years ago.')"
+      ],
+      "expressions": [
+        "0:00 heavy-lidded, half-open eyes and downturned mouth while stating the big claim — looks tired rather than urgent",
+        "0:03 eyebrows lift slightly, eyes widen a touch as if reconsidering when the question 'At work?' lands",
+        "0:04 mouth drops slightly open on 'No' — flat, deadpan surprise-that-isn't-surprise",
+        "0:05-0:06 eyes remain droopy/half-lidded through 'That happened years ago,' no build in intensity despite the punchline"
+      ],
+      "gestures": [
+        "Seated the entire scene in a slouched, sunken posture in a black armchair, elbows resting low",
+        "Continuously takes off and holds his glasses in both hands, turning them slightly — a fidget that never resolves into putting them on or fully setting them down",
+        "No pointing, leaning-in, or hand-raising toward the woman — physically passive throughout, all energy is in the small glasses-fidget"
+      ],
+      "interactions_notes": "He is physically lower and smaller in the frame (seated, sunken into the chair) while she stands taller and closer to the camera-side fridge, giving her the visual power position even though he holds conversational initiative by speaking the setup line. He does not look directly at her for most of the exchange, keeping his gaze somewhat forward/down, reinforcing his detached delivery. There is no physical contact between them; the joke's engine is his monologue-like delivery answered by short interjections from her, with the two of them existing in the same kitchen but rarely making full eye contact, more like a man rehearsing a thought aloud with a housemate half-listening."
+    },
+    {
+      "name_or_role": "Woman at the fridge (unimpressed foil)",
+      "personality_traits": [
+        "Low-effort, unbothered domestic multitasker — she's mid-errand (getting a drink) and treats his big statement as background noise",
+        "Skeptical/wry rather than alarmed — her half-lidded eyes and small mouth movements read as 'here we go again'",
+        "Practical and self-contained: keeps drinking/handling the can throughout, never stops her task for his statement"
+      ],
+      "emotional_range": [
+        "Mild curiosity/prompt ('At work?') delivered lightly, almost rhetorical",
+        "Amused disbelief/smirk as she opens and drinks from the can",
+        "Settled indifference by the end, sipping calmly with a faint smile"
+      ],
+      "expressions": [
+        "0:00 heavy-lidded, slightly raised brow while facing the open fridge, half-turned toward him — passive listening face",
+        "0:03 mouth opens into the quick question 'At work?', eyebrows lift slightly with real (if mild) curiosity",
+        "0:04-0:06 small closed-mouth smirk forms as she raises the can to drink, eyes stay droopy/unbothered",
+        "later frames: settles into a faint, satisfied smile while sipping, gaze drifting toward him without full engagement"
+      ],
+      "gestures": [
+        "Stands at the open refrigerator the whole time, one hand on the door, browsing/selecting a can",
+        "Pulls a green can from the fridge shelf, then raises it to drink partway through his lines",
+        "Body oriented mostly toward the fridge, only the head/torso turned toward him — never fully faces him"
+      ],
+      "interactions_notes": "She functions as the reactive, task-anchored counterpart to his seated monologue: she asks the follow-up question that sets up his punchline, but her body stays committed to the fridge/drink business rather than turning to engage him fully, which visually reinforces that his statement doesn't really land with her. The power dynamic favors her physically (standing, taller in frame, moving) while he stays sunk in the chair; conversationally he drives the exchange but she undercuts its weight by treating it as small talk over a beer."
+    }
+  ]
+}

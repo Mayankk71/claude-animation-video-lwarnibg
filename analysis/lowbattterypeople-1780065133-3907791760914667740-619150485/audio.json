@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1780065133-3907791760914667740-619150485",
+  "voice_delivery_notes": "Transcript shows a single speaker (SPEAKER_00) delivering four short lines in a call-and-response, self-interrogating structure: a flat declarative claim (\"AI is replacing human thinking.\"), a clipped follow-up question (\"At work?\"), a one-word flat denial (\"No.\"), and a deadpan reveal (\"That happened years ago.\"). The short word counts (5, 2, 1, 4) and the punctuation (period, question mark, period, period) imply a deadpan, matter-of-fact delivery rather than an excited or shouted one -- this is inferred from phrasing/punctuation, not heard directly. The question-then-flat-answer pattern reads as a mock-interview or internal-monologue bit building to an ironic punchline on the last line.",
+  "pitch_energy_notes": "No audio was heard; pitch and energy are inferred from sentence type and length only. The opening line reads as a statement of moderate, matter-of-fact energy (setup). \"At work?\" is inferred to carry a slight rising inflection typical of a question. \"No.\" is inferred as flat/low-energy, consistent with a deadpan one-word answer. The closing line \"That happened years ago.\" is inferred to land at a flat or dryly amused pitch, consistent with a punchline delivered without added excitement -- a common deadpan-comedy pattern, but not confirmed by any audio or keyframe evidence.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music cues, captions, or keyframe evidence of a soundtrack are present in the available transcript or silence data, so presence cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json shows five gaps: 1.16s (1.82s-2.99s) between the opening statement and \"At work?\", 0.81s (3.29s-4.10s) between \"At work?\" and \"No.\", 1.08s (4.55s-5.62s) between \"No.\" and the final line, a brief 0.39s (6.49s-6.88s) micro-pause right after the final line ends, and a long 2.70s (7.31s-10.01s) hold at the very end of the clip -- the longest silence overall. The two roughly 1.1s pauses bracketing \"No.\" (both before and after) emphasize that one-word answer as a comedic beat, while the closing 2.7s hold lets \"That happened years ago.\" sit as the punchline before the clip ends, a typical button-and-linger pattern for a short comedic reveal."
+}

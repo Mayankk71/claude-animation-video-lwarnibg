@@ -1,0 +1,14 @@
+{
+  "video_slug": "lowbattterypeople-1780065133-3907791760914667740-619150485",
+  "cut_count": 1,
+  "avg_shot_length_sec": 4.98,
+  "cuts": [
+    {
+      "timestamp": 9.533333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the single unbroken kitchen take straight to the black end-card/title screen right after the punchline beat ('That happened years ago.') has landed and the audio trails into silence, giving the joke a clean button before branding."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The entire joke plays out in one continuous locked-off shot (0-9.53s, no internal cuts) rather than intercutting between the two characters; comic timing is carried entirely by dialogue pauses and character performance (glasses fidget, eye rolls, sipping the can) instead of editing rhythm. Pauses lengthen through the middle beats (about 1.2s after the setup line, 0.8s and 1.1s around the 'At work?' / 'No.' exchange) and then a long ~2.7s hold follows the final punchline line before the hard cut to the black title card, giving the tagline room to land before the daily-episode branding closes the video out."
+}

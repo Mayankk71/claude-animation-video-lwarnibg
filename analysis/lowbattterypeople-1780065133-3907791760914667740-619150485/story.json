@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1780065133-3907791760914667740-619150485",
+  "duration_sec": 10.089375,
+  "hook": {
+    "start": 0.071,
+    "end": 1.855,
+    "description": "Cold open, mid-scene, no title card yet visible on this exact frame range: the man (long-nosed stop-motion character in a suit, seated in a black armchair, cleaning his glasses) states the episode's premise as a flat, ominous claim: 'AI is replacing human thinking.' The woman stands at the open refrigerator in the background, already reaching for a can.",
+    "why_it_works": "Opens on a big, generic, alarmist statement about AI with total deadpan delivery, creating an instant expectation of a serious take -- which primes the misdirection the punchline relies on. It also drops viewers straight into a scene already in progress (no establishing shot), which is a fast-hook technique for short-form."
+  },
+  "setup": {
+    "start": 3.018,
+    "end": 4.381,
+    "description": "The man narrows the claim into a personal, leading question -- 'At work?' -- inviting the woman to confirm AI is replacing thinking in a workplace context. She flatly shuts it down with a one-word 'No.', while continuing to calmly retrieve a beer can from the fridge, not looking at him."
+  },
+  "conflict": {
+    "start": 4.161,
+    "end": 5.604,
+    "description": "The one-word 'No.' creates a beat of confusion/tension: if not at work, then where or when did this supposed AI takeover of thinking happen? The gap between his big claim and her curt denial is the joke's pressure point, held open by a pause before she elaborates (visible in her smug half-smile in the keyframes as she sips the beer)."
+  },
+  "punchline": {
+    "start": 5.604,
+    "end": 6.506,
+    "description": "She delivers the twist: 'That happened years ago.' The 'replacing human thinking' isn't a fresh AI-era anxiety -- by her telling it's old news, already fully underway, which reframes the opening statement from urgent warning to resigned, comedic understatement. Her nonchalant beer-drinking and refusal to make eye contact throughout sells the joke that she personally embodies checked-out, 'low battery' thinking, tying the gag back to the show's title.",
+    "why_it_works": ""
+  },
+  "ending": {
+    "start": 6.506,
+    "end": 10.089375,
+    "description": "No new dialogue after the punchline; the scene holds on the two characters (him processing/reacting with wide eyes, her continuing to drink from the can) as the persistent overlay text -- 'LOW BATTERY PEOPLE', 'Episode 18', 'BLAME IT ON AI', 'Created by NIN.', and a 'NEW EPISODE DAILY' badge -- becomes the dominant visual element in the final frames, framing the joke as one episode in an ongoing daily series.",
+    "cta_or_text_overlay": "Title card overlay throughout: 'Episode 18' (top left), 'BLAME IT ON AI' (large center, episode title), series branding 'LOW BATTERY PEOPLE / Created by NIN.', and a yellow ticket-style badge reading 'NEW EPISODE DAILY' -- functioning as a built-in series-subscription CTA rather than a spoken call to action."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.855, "beat_type": "hook", "description": "Man declares 'AI is replacing human thinking' in flat, alarmist tone while cleaning his glasses; woman is already at the fridge in the background."},
+    {"start": 1.855, "end": 3.018, "beat_type": "hook", "description": "Silent beat holding on both characters before he narrows the claim; no dialogue in transcript for this gap, functions as a comedic pause bridging hook into setup."},
+    {"start": 3.018, "end": 4.381, "beat_type": "setup", "description": "He asks 'At work?' to specify the claim; she answers 'No.' immediately, still facing the fridge, not looking at him."},
+    {"start": 4.381, "end": 5.604, "beat_type": "conflict", "description": "Pause after her denial -- the mismatch between his big claim and her flat 'no' creates unresolved tension/expectation for where this supposedly happened; she sips the beer, unbothered."},
+    {"start": 5.604, "end": 6.506, "beat_type": "punchline", "description": "She delivers 'That happened years ago,' reframing 'AI replacing human thinking' as old, resigned news rather than a current threat -- twist lands via her deadpan, disengaged delivery."},
+    {"start": 6.506, "end": 10.089375, "beat_type": "ending", "description": "No further dialogue; characters hold their reactions (his wide-eyed processing, her continued drinking) while the persistent title/branding overlay ('LOW BATTERY PEOPLE', 'Episode 18', 'BLAME IT ON AI', 'Created by NIN.', 'NEW EPISODE DAILY') remains the dominant visual, closing the episode."}
+  ],
+  "narrative_notes": "This is an extremely compressed (10.09s) single-scene, two-character gag -- scene_boundaries.json shows effectively one continuous shot (scene 0: 0-9.53s) with only a fractional tail scene (9.53-9.97s), meaning there is no cut-driven structural break between beats; all beats are carried entirely by dialogue timing and performance within one static camera setup. Setup and conflict are fused and very brief: the 'At work?' / 'No.' exchange (3.0-4.4s) simultaneously narrows the premise (setup) and creates the confusion driving toward the punchline (conflict), with only a short pause (4.4-5.6s) separating them. There is no distinct 'ending' scene change or resolution shot -- the ending beat is the punchline's held reaction plus the series' standing title-card overlay (episode number, episode title 'Blame It On AI', series branding, and 'NEW EPISODE DAILY' badge), which doubles as this episode's de facto CTA rather than any spoken sign-off or new visual. The 'why_it_works' field for punchline is left empty because the transcript/keyframes support describing what the punchline is and how it's delivered, but do not provide grounds (e.g. no visible audience reaction, no additional VO) to assert why it lands beyond what's already covered in hook.why_it_works and the punchline description itself."
+}

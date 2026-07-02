@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 8.966667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off frontal two-shot, camera at headboard height looking straight on. Bed frame's vertical posts bracket both edges of the frame, creating a symmetrical stage-like box around the couple. The two characters are placed in near-mirror symmetry, one in the left third, one in the right third, with the seam between their pillows/blankets running almost exactly down the center of the frame. Both are cropped at the elbows/forearms by the bottom of frame (blanket line rises to fill the lower third), so hands holding phones are the lowest visible action. Ample headroom above both heads leaves the dark wood headboard and a strip of wall/pillow as negative space. Identical eyeline height for both characters reinforces the 'matching couple' visual gag. No pans, tilts, or zooms across the entire held take -- the shot does not move at all for the full ~9 seconds, letting the dialogue and deadpan face-turns (not the camera) carry the comedic beats. Episode number ('Episode 17') is locked to the top-left corner and the punchline word ('GROSS') is dropped in oversized centered text across the characters' faces partway through, consistent with the subtitle captions that run under the frame throughout."
+    },
+    {
+      "start": 8.966667,
+      "end": 9.933333333333334,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black card with no camera/scene at all -- static text-only end slate. Title 'LOW BATTERY PEOPLE' centered horizontally in the upper-middle of the frame in yellow serif type, subtitle 'CREATED BY NIN.' centered directly beneath it in smaller white serif type, with a small yellow 'NEW EPISODE DAILY' ribbon graphic centered lower in the frame. Generous symmetrical margins on all sides; nothing is cropped since there is no live-action content, just centered stacked text blocks."
+    }
+  ],
+  "framing_patterns_notes": "The entire sketch is carried by a single unbroken, symmetrical, static two-shot -- there is no coverage, no cutting to close-ups, and no camera movement at all during the actual scene; all comedic emphasis is achieved through in-frame graphic overlays (episode number top-left, giant centered punchline text, bottom-third dialogue captions) rather than reframing or cutting. The rigid bilateral symmetry of the bed/character placement mirrors the 'matching couple' premise implied by the dialogue. The only shot change in the whole video is the hard cut from the live scene to a black title/credit card at the very end."
+}

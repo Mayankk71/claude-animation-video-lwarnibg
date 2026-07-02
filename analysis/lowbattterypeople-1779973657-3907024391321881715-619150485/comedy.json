@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 2.626,
+      "mechanism": "awkward_silence",
+      "description": "Cold open on two stop-motion figures propped up in bed, side by side, each slack-jawed and glassy-eyed staring down at their phones with zero interaction between them",
+      "why_it_lands": "The 0.83s + 1.24s back-to-back pauses before either character speaks let the visual do the work first: both mouths are literally hanging open in the periodic-4/6/7 frames, a blank phone-scroll stupor that reads as more 'married' than any dialogue could, so the audience recognizes the relationship dynamic before a word is said"
+    },
+    {
+      "start": 2.651,
+      "end": 4.975,
+      "mechanism": "recognition",
+      "description": "The wife's wistful, out-of-nowhere line 'Remember when you used to excuse yourself to fart?' recasts basic relationship-decay politeness as a lost romantic gesture",
+      "why_it_lands": "It lands because it's mundane and specific rather than a big swing at 'romance' — nostalgically comparing early-relationship etiquette to the current state where a bodily function isn't even hidden anymore, delivered in the same flat, phone-fixated pose she's held since frame one"
+    },
+    {
+      "start": 5.817,
+      "end": 7.46,
+      "mechanism": "deadpan",
+      "description": "The husband's reply, 'That man was trying to get married,' answers with a completely disconnected non-sequitur while his eyes and thumbs never leave his phone",
+      "why_it_lands": "His expression in the 'married' keyframe — mouth open, eyebrows slack, gaze locked on the phone screen instead of at her — shows he's not actually responding to what she said, just half-processing a stray thought; the deadpan delivery with no vocal inflection or eye contact sells the joke that he's only nominally present in the conversation"
+    },
+    {
+      "start": 0.0,
+      "end": 7.46,
+      "mechanism": "irony",
+      "description": "A couple lying inches apart in the same bed, illuminated only by their phone screens, having a conversation about intimacy while being maximally emotionally absent from each other",
+      "why_it_lands": "The irony is structural, not verbal: the entire beat is 'about' a partner no longer performing small courtesies, while the visual staging (both bodies angled toward their phones, not each other) is itself the modern version of that same withdrawal — the joke's subject and its delivery method are the same behavior"
+    }
+  ],
+  "overall_comedic_style_notes": "This is a two-line, ~10-second blackout sketch built entirely on a single sustained tableau (unchanging wide shot of a married couple in bed) rather than escalation or a twist ending — the humor comes from relatable long-term-relationship recognition (phone-numbed non-communication) delivered through flat, distracted line readings and mismatched dialogue (a nostalgic question met with an unrelated deadpan answer) rather than a punchline in the traditional sense. The show's branding as 'Low Battery People' with a daily-episode format suggests the format leans on quick, low-key relational observations rather than big comedic swings."
+}

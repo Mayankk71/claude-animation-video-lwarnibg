@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1780065133-3907791760914667740-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 3,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.071,
+      "end": 1.855,
+      "text": "AI is replacing human thinking.",
+      "word_count": 5,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.018,
+      "end": 3.399,
+      "text": "At work?",
+      "word_count": 2,
+      "pause_before_sec": 1.16394,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.161,
+      "end": 4.381,
+      "text": "No.",
+      "word_count": 1,
+      "pause_before_sec": 0.806813,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.604,
+      "end": 6.506,
+      "text": "That happened years ago.",
+      "word_count": 4,
+      "pause_before_sec": 1.07775,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All four lines are delivered by the same single speaker (SPEAKER_00) as a self-answered rhetorical bit rather than a back-and-forth exchange — the speaker poses a claim, then voices the follow-up question and answer themselves ('At work? No.'). No line overlaps another (no interruptions), but each line is separated by a distinct in-dialogue pause matched from silence_pauses.json (1.16s, 0.81s, 1.08s), so the rhythm is built entirely from clipped, punchy statements bridged by held silences rather than continuous speech.",
+  "speech_rhythm_notes": "Word count drops sharply line to line (5 words to 2 words to 1 word to 4 words), with the shortest line ('No.', 1 word) landing after the second-longest pause (0.81s) as a deadpan beat. The longest in-line pause (1.16s) sits right after the opening setup line, stretching the silence before the fake follow-up question 'At work?' to build a comic delay before the twist ('No. That happened years ago.'). After the final line, silence_pauses.json shows a much longer trailing pause (2.70s, 7.31s-10.01s) than any of the internal gaps, indicating the punchline lands and then the clip holds on silence rather than moving quickly to another line."
+}

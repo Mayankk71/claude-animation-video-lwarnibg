@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+  "total_lines": 2,
+  "avg_words_per_line": 8,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2.651,
+      "end": 4.975,
+      "text": "Remember when you used to excuse yourself to fart?",
+      "word_count": 9,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.817,
+      "end": 7.46,
+      "text": "That man was trying to get married",
+      "word_count": 7,
+      "pause_before_sec": 0.961813,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Only two lines of dialogue in the clip, delivered as a clean setup-and-punchline exchange between two speakers with no overlap or interruption. SPEAKER_01 poses a nostalgic/absurd premise (the setup), and after a clear beat, SPEAKER_00 delivers the incongruous reply (the punchline) as a non-sequitur reaction rather than a direct answer, which is the source of the comedic turn.",
+  "speech_rhythm_notes": "There is a 0.96s pause (4.8795-5.84131) between the setup line ending at 4.975 and the punchline line starting at 5.817 - this is the longest gap in the spoken portion of the clip and functions as a comedic beat before the reply. The punchline line itself (7 words, 'That man was trying to get married') lands right after this held pause, giving the reaction room to breathe rather than crashing into the setup. A much shorter micro-pause (0.177s at 4.465-4.64213) occurs within/just before the tail of the setup line, suggesting a brief internal hitch in delivery rather than a scene break. Trailing silence after 7.46s (two pauses totaling ~2s) extends past the last line, consistent with a hold-on-the-reaction-shot ending typical of punchline-driven short-form clips."
+}

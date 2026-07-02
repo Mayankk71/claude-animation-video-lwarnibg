@@ -1,0 +1,264 @@
+{
+  "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+  "duration_sec": 10.046708,
+  "story": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "duration_sec": 10.046708,
+    "hook": {
+      "start": 0.0,
+      "end": 2.651,
+      "description": "Cold open on a static, symmetrical two-shot of a stop-motion couple lying in bed, each absorbed in their own phone. Title card 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a 'NEW EPISODE DAILY' ribbon fades over the frame, followed by an 'Episode 17' label (top-left) and a giant yellow word 'GROSS' stamped across the couple before any dialogue starts. No line has been spoken yet.",
+      "why_it_works": "The visual gag (two disengaged partners glued to phones in bed) plus the blunt one-word title card 'GROSS' front-loads the joke's punch before a word is said, telegraphing the show's satirical target (phone-numbed intimacy) and using series branding as an attention-grabbing pattern-interrupt in the first 2-3 seconds."
+    },
+    "setup": {
+      "start": 2.651,
+      "end": 4.975,
+      "description": "The wife (SPEAKER_01), still staring at her phone, delivers the setup line: 'Remember when you used to excuse yourself to fart?' Her tone is flat/nostalgic-accusatory, establishing the domestic complaint that this is a couple who no longer observes basic social/marital courtesies with each other."
+    },
+    "conflict": {
+      "start": 4.975,
+      "end": 5.817,
+      "description": "A brief beat of silence/reaction shot on the frozen two-shot (no new dialogue, both still phone-fixated) that lets the accusation land and sets up the husband's dismissive reply -- the 'conflict' here is implicit marital tension/resignation rather than an active argument, compressed into a near-instantaneous transition."
+    },
+    "punchline": {
+      "start": 5.817,
+      "end": 7.46,
+      "description": "The husband (SPEAKER_00), without looking up from his phone, replies 'That man was trying to get married' -- reframing his old politeness as a cynical, transactional courtship tactic now abandoned since the marriage is secured. This is the joke's turn: the 'gross' behavior is revealed to be a knowing, unapologetic choice rather than mere decline."
+    },
+    "ending": {
+      "start": 7.46,
+      "end": 10.046708,
+      "description": "The scene holds on the same static shot as the husband's line finishes, then the video loops/cuts back into the black 'LOW BATTERY PEOPLE / CREATED BY NIN.' title card with the 'NEW EPISODE DAILY' ribbon, closing out on branding rather than an original visual beat.",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY ribbon; earlier overlay 'Episode 17' and giant word 'GROSS' during the hook."
+    },
+    "beat_map": [
+      {
+        "start": 0.0,
+        "end": 2.651,
+        "beat_type": "hook",
+        "description": "Static two-shot of couple in bed on phones; title card, 'Episode 17' label, and giant 'GROSS' text stamp appear before any line is spoken."
+      },
+      {
+        "start": 2.651,
+        "end": 4.975,
+        "beat_type": "setup",
+        "description": "Wife, eyes on phone, says: 'Remember when you used to excuse yourself to fart?' establishing the couple's lost courtesy toward each other."
+      },
+      {
+        "start": 4.975,
+        "end": 5.817,
+        "beat_type": "conflict",
+        "description": "Silent beat on the same frozen shot as the accusation lands and the husband prepares his defense; tension is implicit, not verbalized."
+      },
+      {
+        "start": 5.817,
+        "end": 7.46,
+        "beat_type": "punchline",
+        "description": "Husband, still on his phone, replies: 'That man was trying to get married' -- revealing the old courtesy was strategic, not sincere, and is now dropped."
+      },
+      {
+        "start": 7.46,
+        "end": 10.046708,
+        "beat_type": "ending",
+        "description": "Beat holds on the couple in silence after the line, then cuts back to the 'LOW BATTERY PEOPLE / CREATED BY NIN.' / 'NEW EPISODE DAILY' title card, closing the loop on branding."
+      }
+    ],
+    "narrative_notes": "This 10-second clip is far shorter than a typical 20-25s reel and appears to be a tightly trimmed excerpt (or single-scene episode) built around exactly one exchange of dialogue over one unbroken static shot -- scene_boundaries.json shows only two scenes (0-8.97s and 8.97-10.05s), the second being the closing title card, meaning the entire couple-in-bed sequence is a single continuous take with no cuts, camera moves, or coverage changes; all 'motion' in the scene is limited to facial animation and text overlays. Setup and conflict are almost fused: there is no separate rising action, only a single accusatory line (setup) followed by a near-instant, silent reaction beat (conflict) before the rebuttal (punchline) -- the conflict beat is best understood as a comedic pause/reaction rather than a distinct story development. The hook is unusually front-loaded with branding/text (title card, episode number, 'GROSS' stamp) rather than dialogue or action, which is atypical for the format and suggests this clip is either a repost/highlight extraction from a longer episode or a series that leans on recurring visual branding as its hook rather than a cold-open sight gag."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "total_lines": 2,
+    "avg_words_per_line": 8,
+    "lines": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2.651,
+        "end": 4.975,
+        "text": "Remember when you used to excuse yourself to fart?",
+        "word_count": 9,
+        "pause_before_sec": 0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 5.817,
+        "end": 7.46,
+        "text": "That man was trying to get married",
+        "word_count": 7,
+        "pause_before_sec": 0.961813,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "Only two lines of dialogue in the clip, delivered as a clean setup-and-punchline exchange between two speakers with no overlap or interruption. SPEAKER_01 poses a nostalgic/absurd premise (the setup), and after a clear beat, SPEAKER_00 delivers the incongruous reply (the punchline) as a non-sequitur reaction rather than a direct answer, which is the source of the comedic turn.",
+    "speech_rhythm_notes": "There is a 0.96s pause (4.8795-5.84131) between the setup line ending at 4.975 and the punchline line starting at 5.817 - this is the longest gap in the spoken portion of the clip and functions as a comedic beat before the reply. The punchline line itself (7 words, 'That man was trying to get married') lands right after this held pause, giving the reaction room to breathe rather than crashing into the setup. A much shorter micro-pause (0.177s at 4.465-4.64213) occurs within/just before the tail of the setup line, suggesting a brief internal hitch in delivery rather than a scene break. Trailing silence after 7.46s (two pauses totaling ~2s) extends past the last line, consistent with a hold-on-the-reaction-shot ending typical of punchline-driven short-form clips."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.0,
+        "end": 2.626,
+        "mechanism": "awkward_silence",
+        "description": "Cold open on two stop-motion figures propped up in bed, side by side, each slack-jawed and glassy-eyed staring down at their phones with zero interaction between them",
+        "why_it_lands": "The 0.83s + 1.24s back-to-back pauses before either character speaks let the visual do the work first: both mouths are literally hanging open in the periodic-4/6/7 frames, a blank phone-scroll stupor that reads as more 'married' than any dialogue could, so the audience recognizes the relationship dynamic before a word is said"
+      },
+      {
+        "start": 2.651,
+        "end": 4.975,
+        "mechanism": "recognition",
+        "description": "The wife's wistful, out-of-nowhere line 'Remember when you used to excuse yourself to fart?' recasts basic relationship-decay politeness as a lost romantic gesture",
+        "why_it_lands": "It lands because it's mundane and specific rather than a big swing at 'romance' \u2014 nostalgically comparing early-relationship etiquette to the current state where a bodily function isn't even hidden anymore, delivered in the same flat, phone-fixated pose she's held since frame one"
+      },
+      {
+        "start": 5.817,
+        "end": 7.46,
+        "mechanism": "deadpan",
+        "description": "The husband's reply, 'That man was trying to get married,' answers with a completely disconnected non-sequitur while his eyes and thumbs never leave his phone",
+        "why_it_lands": "His expression in the 'married' keyframe \u2014 mouth open, eyebrows slack, gaze locked on the phone screen instead of at her \u2014 shows he's not actually responding to what she said, just half-processing a stray thought; the deadpan delivery with no vocal inflection or eye contact sells the joke that he's only nominally present in the conversation"
+      },
+      {
+        "start": 0.0,
+        "end": 7.46,
+        "mechanism": "irony",
+        "description": "A couple lying inches apart in the same bed, illuminated only by their phone screens, having a conversation about intimacy while being maximally emotionally absent from each other",
+        "why_it_lands": "The irony is structural, not verbal: the entire beat is 'about' a partner no longer performing small courtesies, while the visual staging (both bodies angled toward their phones, not each other) is itself the modern version of that same withdrawal \u2014 the joke's subject and its delivery method are the same behavior"
+      }
+    ],
+    "overall_comedic_style_notes": "This is a two-line, ~10-second blackout sketch built entirely on a single sustained tableau (unchanging wide shot of a married couple in bed) rather than escalation or a twist ending \u2014 the humor comes from relatable long-term-relationship recognition (phone-numbed non-communication) delivered through flat, distracted line readings and mismatched dialogue (a nostalgic question met with an unrelated deadpan answer) rather than a punchline in the traditional sense. The show's branding as 'Low Battery People' with a daily-episode format suggests the format leans on quick, low-key relational observations rather than big comedic swings."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "characters": [
+      {
+        "name_or_role": "Wife (left side of bed, brown sweater, hair bun) - SPEAKER_01",
+        "personality_traits": [
+          "Nostalgic/wistful \u2014 opens the skit musing about a past social norm ('remember when you used to excuse yourself to fart?'), positioning her as the one who notices and comments on changed behavior",
+          "Passive-aggressive commentator \u2014 delivers her line as an observation/needle rather than a direct confrontation, eyes cutting sideways at her husband instead of addressing him head-on",
+          "Physically withdrawn/guarded \u2014 stays curled toward her own phone with elbows tucked in, body angled slightly away from her husband despite being inches apart"
+        ],
+        "emotional_range": [
+          "Detached mild irritation (scrolling, blank stare) at the open",
+          "Building disbelief / bug-eyed alarm as she delivers the line",
+          "Faint, tight-lipped smugness/self-satisfaction by the final frame, as if she landed the jab"
+        ],
+        "expressions": [
+          "0:00 neutral, half-lidded, screen-lit stare down at phone",
+          "0:02-0:03 eyes widen sharply, eyebrows raise, mouth drops open into a slightly gaping 'o' as she starts speaking ('Remember when...')",
+          "0:04 eyes remain saucer-wide and fixed sideways on her husband, mouth still parted mid-sentence ('...to fart?')",
+          "0:07-0:08 (after husband's rebuttal) gaze softens, mouth closes into a small closed-lip smirk, eyebrows settle \u2014 a quiet 'I made my point' look"
+        ],
+        "gestures": [
+          "Holds phone low and close to her chest with both hands throughout, thumbs poised but still",
+          "Head/eyes swivel toward her husband without turning her torso, signaling she's talking at him rather than to him",
+          "No hand gestures accompany the line \u2014 all emphasis is carried in the face, consistent with a stop-motion puppet's limited rig but used for comic timing"
+        ],
+        "interactions_notes": "She initiates the exchange unprompted, breaking the shared silence of two people lying in bed each absorbed in a separate screen. She looks at him; he does not look back at her, keeping his eyes on his own phone even while responding \u2014 an asymmetric eye-contact dynamic that visually reinforces the joke (two people 'together' but each in their own device-lit bubble). Her tone/expression suggests she believes she's won the exchange by the end, while he seems mildly stung by the accusation embedded in her nostalgia."
+      },
+      {
+        "name_or_role": "Husband (right side of bed, glasses, sweater vest, headphones/wires) - SPEAKER_00",
+        "personality_traits": [
+          "Deflective/defensive \u2014 his rebuttal ('That man was trying to get married') reframes past-tense fart etiquette as strategic performance rather than genuine courtesy, dodging the implication that he's grown lazier or less considerate",
+          "Withdrawn/absorbed \u2014 remains visually locked onto his own phone through the entire scene, barely reacting physically even while delivering a comeback line",
+          "Dry, deadpan comic timing \u2014 the joke lands because his face barely moves; the humor is entirely in the contrast between his flat delivery and the sharpness of the retort"
+        ],
+        "emotional_range": [
+          "Flat, sedated boredom/indifference for most of the clip (heavy-lidded eyes, downturned mouth)",
+          "A flicker of defensiveness/irritation as he answers back, mouth opening into a slight grimace",
+          "Returns to flat indifference immediately after, unaffected"
+        ],
+        "expressions": [
+          "0:00-0:04 static droopy-eyed, mouth curved slightly down in a neutral frown, glasses reflecting phone glow \u2014 completely unreactive to his wife's opening line",
+          "0:05-0:06 eyebrows tick up slightly and mouth opens into a small downturned oval as he delivers 'That man was trying to get married' \u2014 the closest he comes to an active expression in the clip",
+          "0:07+ face resets to the same flat, glazed, screen-fixed look as the opening"
+        ],
+        "gestures": [
+          "Holds phone up higher and closer to his face than his wife, two-handed grip, elbows resting on wrapped/bandaged-looking forearms (visual gag suggesting overuse of the phone/devices)",
+          "Head stays facing forward toward his own screen throughout \u2014 never turns toward his wife, even to respond",
+          "No other body movement; torso and shoulders remain static against the pillow the entire scene"
+        ],
+        "interactions_notes": "He answers her verbally but not physically \u2014 same power dynamic as her: both are technically 'in dialogue' but neither breaks visual attention from their own phone, which is the visual thesis of the whole skit (title 'Low Battery People' implies emotionally/attentionally depleted couple). His deadpan non-reaction to being needled, followed by a quick verbal jab back, suggests a long-married couple's practiced, low-effort bickering rather than real conflict \u2014 no anger, no raised voices, just mutual screen-numbed sniping."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 8.966667,
+        "shot_type": "medium",
+        "camera_movement": "static",
+        "composition_notes": "Locked-off frontal two-shot, camera at headboard height looking straight on. Bed frame's vertical posts bracket both edges of the frame, creating a symmetrical stage-like box around the couple. The two characters are placed in near-mirror symmetry, one in the left third, one in the right third, with the seam between their pillows/blankets running almost exactly down the center of the frame. Both are cropped at the elbows/forearms by the bottom of frame (blanket line rises to fill the lower third), so hands holding phones are the lowest visible action. Ample headroom above both heads leaves the dark wood headboard and a strip of wall/pillow as negative space. Identical eyeline height for both characters reinforces the 'matching couple' visual gag. No pans, tilts, or zooms across the entire held take -- the shot does not move at all for the full ~9 seconds, letting the dialogue and deadpan face-turns (not the camera) carry the comedic beats. Episode number ('Episode 17') is locked to the top-left corner and the punchline word ('GROSS') is dropped in oversized centered text across the characters' faces partway through, consistent with the subtitle captions that run under the frame throughout."
+      },
+      {
+        "start": 8.966667,
+        "end": 9.933333333333334,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Full black card with no camera/scene at all -- static text-only end slate. Title 'LOW BATTERY PEOPLE' centered horizontally in the upper-middle of the frame in yellow serif type, subtitle 'CREATED BY NIN.' centered directly beneath it in smaller white serif type, with a small yellow 'NEW EPISODE DAILY' ribbon graphic centered lower in the frame. Generous symmetrical margins on all sides; nothing is cropped since there is no live-action content, just centered stacked text blocks."
+      }
+    ],
+    "framing_patterns_notes": "The entire sketch is carried by a single unbroken, symmetrical, static two-shot -- there is no coverage, no cutting to close-ups, and no camera movement at all during the actual scene; all comedic emphasis is achieved through in-frame graphic overlays (episode number top-left, giant centered punchline text, bottom-third dialogue captions) rather than reframing or cutting. The rigid bilateral symmetry of the bed/character placement mirrors the 'matching couple' premise implied by the dialogue. The only shot change in the whole video is the hard cut from the live scene to a black title/credit card at the very end."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "technique": "Stop-motion-style puppet animation (felt/clay-textured character skins with visible fabric weave on the woman's sweater and pored, matte skin on the man's face) rendered as a single locked-off overhead-ish two-shot of a couple in bed. Bodies and hand/phone poses barely change across the 8 mid-video periodic frames while facial rigging (brows, eyelids, mouth) does the acting - consistent with a stop-motion or stop-motion-look rig where only the head/face is re-posed per beat and the torso/arms are held as a static maquette. Cannot fully rule out that this is a 3D CG render built to mimic stop-motion (Laika-style aesthetic, e.g. long-nosed character designs) versus true frame-by-frame physical puppet capture - the skin micro-texture and perfectly clean geometry lean toward CG-simulated stop-motion rather than photographed clay/felt, but this is a best read, not a certainty.",
+    "facial_animation_notes": "Almost all visible animation is concentrated in the woman's face: her eyebrows lift and drop, her eyelids widen from a hooded/narrow look (periodic-0) to fully round 'shocked' eyes (periodic-2, periodic-5), and her mouth cycles between a closed pursed line, a small open gasp, and an open frown across frames tied to the subtitle words ('fart?', 'when', 'yourself', 'man', 'married.'). The man's face is comparatively inert for most of the sequence (fixed downturned mouth-line, static brow) until periodic-7, where his mouth suddenly snaps open into a wide, distressed 'married.' shape with visible teeth - a discrete pose change rather than a gradual mouth-shape interpolation, consistent with keyed/held facial extremes rather than continuous lip-sync.",
+    "eye_and_blink_notes": "No blinks are caught in any of the 10 periodic frames - the woman's eyes stay open throughout, cycling only between narrowed/skeptical and fully-round-wide as an expression beat, not a blink. Her pupils/irises shift position slightly frame to frame (a glance toward the man in some frames, a straight-ahead stare in others), suggesting eye-dart animation is used for reaction timing. The man's eyes stay behind his glasses in a static middle position across every frame with no visible pupil movement, reinforcing that he is the more 'idle' puppet in this shot.",
+    "head_movement_notes": "Both heads stay in essentially the same tilt and screen position across all 8 dialogue frames (periodic-1 through periodic-8) - there is no visible turn, nod, or tilt beyond the facial rig changes. This reads as a locked head pose held for the entire shot, with all readable performance pushed into eyebrows/eyelids/mouth rather than head motion.",
+    "gesture_notes": "The woman's phone-holding hand and forearm position on the blanket do not visibly change across the sequence. The man's hands (one holding a phone, one holding what appears to be a second black device/remote under the blanket) are similarly static in framing across frames, with only very minor finger/wrist micro-shifts that could be attributable to normal stop-motion frame-to-frame jitter rather than an intentional gesture beat - no deliberate hand gesture (pointing, waving, dropping the phone) occurs within the sampled frames.",
+    "idle_motion_notes": "Background elements (pillows, wooden headboard, patterned green blanket) show no perceptible movement or jitter between frames, and appear to be a static set/background plate; the only 'idle' motion detectable is extremely subtle body sway/settle in the puppets consistent with typical stop-motion micro-jitter between shots (slight edge-position shifts of under a pixel or two on hands and blanket folds), too small to confirm as an intentional breathing/idle cycle versus rig noise.",
+    "frame_rate_feel": "Source is 30fps per metadata, but the acting reads as being posed on a slow beat: each of the 5 sampled subtitle words ('fart?', 'when', 'yourself', 'man', 'married.') corresponds to a visibly distinct held facial expression with no in-between frames captured, implying the underlying animation was likely shot/posed on 2s or slower holds rather than smooth 1s (full 30fps) character animation - typical of stop-motion economy, giving a deliberate stutter/snap quality to expression changes (especially the sudden jump to the man's wide-open mouth in periodic-7) rather than fluid interpolation.",
+    "overall_animation_style_notes": "The piece leans entirely on a single static wide shot with all comedic/emotional information delivered through minimal, punctuated facial changes on one puppet and a late, single sharp facial 'snap' on the other for the punchline beat ('married.') - an efficient, limited-animation approach where body language is frozen and expression swaps do the storytelling. Bold serif title cards ('LOW BATTERY PEOPLE / CREATED BY NIN.', episode number, and a large yellow pop-up title card word 'GROSS') are layered as 2D graphic overlays on top of the puppet shot rather than being part of the physical animation itself, reinforcing that only the puppets/set were animated while titles are a separate post-production graphic layer."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "cut_count": 1,
+    "avg_shot_length_sec": 5.02,
+    "cuts": [
+      {
+        "timestamp": 8.966667,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the single locked-off bedroom shot straight to a black end card right after the wife's deadpan punchline ('That man was trying to get married'), giving the joke a beat to land before the branding/CTA tag appears."
+      }
+    ],
+    "reaction_shots": [],
+    "pacing_notes": "This short has almost no cutting: the entire joke (setup line, punchline, and the couple's phone-scrolling reactions) plays out in one continuous static shot lasting about 9 seconds, so all the comedic timing comes from performance and dialogue delivery rather than editing rhythm. The only cut in the whole video is the hard cut at the very end into a ~1-second black title/CTA card ('LOW BATTERY PEOPLE... NEW EPISODE DAILY'), which functions as a branded outro rather than a story beat."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "voice_delivery_notes": "Only two spoken lines in the transcript. SPEAKER_01 delivers a rhetorical/nostalgic setup ('Remember when you used to excuse yourself to fart?') from 2.65s-4.98s, phrased as a question, which implies a musing, deadpan or wistful delivery rather than urgency. SPEAKER_00 responds with a short punchline-style rebuttal ('That man was trying to get married') from 5.82s-7.46s, phrased as a flat declarative statement, implying a deadpan, matter-of-fact comedic delivery typical of a punchline line-read. Both inferences are based on sentence structure/punctuation in the transcript, not on directly hearing the audio.",
+    "pitch_energy_notes": "No direct audio was heard, so pitch/energy is inferred from phrasing only. The first line's question format suggests a slight upward inflection typical of nostalgic recollection. The second line's short, blunt statement suggests flat or slightly emphatic energy consistent with a deadpan punchline delivery. No keyframe or on-screen text evidence was available to corroborate posture or vocal energy, so these judgments are low-confidence inferences from transcript phrasing alone.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No on-screen text, caption, or keyframe evidence of background music was available in the processed files, so presence is left false rather than assumed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "silence_pauses.json shows a long 1.24s pause from 1.39s-2.63s before SPEAKER_01's line even begins, functioning as a hook/lead-in hold. A 0.96s pause from 4.88s-5.84s sits right between the two speakers' lines, effectively bridging the setup and the punchline delivery by SPEAKER_00. The longest pause in the clip is 1.61s (8.35s-9.96s), landing immediately after the punchline line ends (7.46s), which reads as a post-punchline hold letting the joke land before the clip closes. A brief 0.18s micro-pause (4.47s-4.64s) also appears near the end of the first line, likely a natural breath break rather than a deliberate comedic beat."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+    "backgrounds": "A single fixed location for the entire episode: a dimly lit bedroom at night, shot in stop-motion, framed as a static wide shot of a wooden-framed double bed shown head-on from the foot of the bed. Two matching pillows sit behind each character against a dark wood headboard; a sliver of plain wall and what looks like a nightstand edge is visible at the frame edges but stays out of focus and undetailed. The camera never moves or cuts to another set within the episode \u2014 the only other 'location' is the plain black title-card background used for the intro/outro cards.",
+    "props": [
+      "wooden bed frame and headboard",
+      "two beige/cream pillows",
+      "green patterned (heart/floral motif) bedspread and matching sheets",
+      "smartphones (one held by each character, the recurring gag object)",
+      "wife's stud/pearl earrings",
+      "wife's ring",
+      "husband's round black-framed glasses",
+      "yellow ribbon-style 'NEW EPISODE DAILY' badge graphic on the black title card"
+    ],
+    "lighting_notes": "Low-key, warm/amber practical lighting consistent with a bedside-lamp-lit bedroom at night; faces are softly lit from the front while the background falls into shadow, keeping full attention on the two characters' expressions. No lighting changes occur during the scene, reinforcing the frozen, static-shot format typical of the series.",
+    "color_palette": [
+      "warm amber/brown skin and sweater tones",
+      "muted sage green (bedspread and sheets)",
+      "cream/off-white (pillows and bedding trim)",
+      "dark walnut brown (bed frame, shadow areas)",
+      "black (title card background)",
+      "golden yellow (title text and episode-title text, matching the badge)"
+    ],
+    "visual_complexity_notes": "Extremely minimal and stylized: one static camera angle, one set, two characters, no camera movement or scene changes for the entire runtime. This is clearly a deliberate stripped-down format (recognizable from the title-card branding as a recurring daily series) that puts all visual weight on facial expression, stop-motion texture, and on-screen caption text rather than on set design or blocking variety."
+  }
+}

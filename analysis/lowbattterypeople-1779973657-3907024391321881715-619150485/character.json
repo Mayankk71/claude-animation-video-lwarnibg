@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1779973657-3907024391321881715-619150485",
+  "characters": [
+    {
+      "name_or_role": "Wife (left side of bed, brown sweater, hair bun) - SPEAKER_01",
+      "personality_traits": [
+        "Nostalgic/wistful — opens the skit musing about a past social norm ('remember when you used to excuse yourself to fart?'), positioning her as the one who notices and comments on changed behavior",
+        "Passive-aggressive commentator — delivers her line as an observation/needle rather than a direct confrontation, eyes cutting sideways at her husband instead of addressing him head-on",
+        "Physically withdrawn/guarded — stays curled toward her own phone with elbows tucked in, body angled slightly away from her husband despite being inches apart"
+      ],
+      "emotional_range": [
+        "Detached mild irritation (scrolling, blank stare) at the open",
+        "Building disbelief / bug-eyed alarm as she delivers the line",
+        "Faint, tight-lipped smugness/self-satisfaction by the final frame, as if she landed the jab"
+      ],
+      "expressions": [
+        "0:00 neutral, half-lidded, screen-lit stare down at phone",
+        "0:02-0:03 eyes widen sharply, eyebrows raise, mouth drops open into a slightly gaping 'o' as she starts speaking ('Remember when...')",
+        "0:04 eyes remain saucer-wide and fixed sideways on her husband, mouth still parted mid-sentence ('...to fart?')",
+        "0:07-0:08 (after husband's rebuttal) gaze softens, mouth closes into a small closed-lip smirk, eyebrows settle — a quiet 'I made my point' look"
+      ],
+      "gestures": [
+        "Holds phone low and close to her chest with both hands throughout, thumbs poised but still",
+        "Head/eyes swivel toward her husband without turning her torso, signaling she's talking at him rather than to him",
+        "No hand gestures accompany the line — all emphasis is carried in the face, consistent with a stop-motion puppet's limited rig but used for comic timing"
+      ],
+      "interactions_notes": "She initiates the exchange unprompted, breaking the shared silence of two people lying in bed each absorbed in a separate screen. She looks at him; he does not look back at her, keeping his eyes on his own phone even while responding — an asymmetric eye-contact dynamic that visually reinforces the joke (two people 'together' but each in their own device-lit bubble). Her tone/expression suggests she believes she's won the exchange by the end, while he seems mildly stung by the accusation embedded in her nostalgia."
+    },
+    {
+      "name_or_role": "Husband (right side of bed, glasses, sweater vest, headphones/wires) - SPEAKER_00",
+      "personality_traits": [
+        "Deflective/defensive — his rebuttal ('That man was trying to get married') reframes past-tense fart etiquette as strategic performance rather than genuine courtesy, dodging the implication that he's grown lazier or less considerate",
+        "Withdrawn/absorbed — remains visually locked onto his own phone through the entire scene, barely reacting physically even while delivering a comeback line",
+        "Dry, deadpan comic timing — the joke lands because his face barely moves; the humor is entirely in the contrast between his flat delivery and the sharpness of the retort"
+      ],
+      "emotional_range": [
+        "Flat, sedated boredom/indifference for most of the clip (heavy-lidded eyes, downturned mouth)",
+        "A flicker of defensiveness/irritation as he answers back, mouth opening into a slight grimace",
+        "Returns to flat indifference immediately after, unaffected"
+      ],
+      "expressions": [
+        "0:00-0:04 static droopy-eyed, mouth curved slightly down in a neutral frown, glasses reflecting phone glow — completely unreactive to his wife's opening line",
+        "0:05-0:06 eyebrows tick up slightly and mouth opens into a small downturned oval as he delivers 'That man was trying to get married' — the closest he comes to an active expression in the clip",
+        "0:07+ face resets to the same flat, glazed, screen-fixed look as the opening"
+      ],
+      "gestures": [
+        "Holds phone up higher and closer to his face than his wife, two-handed grip, elbows resting on wrapped/bandaged-looking forearms (visual gag suggesting overuse of the phone/devices)",
+        "Head stays facing forward toward his own screen throughout — never turns toward his wife, even to respond",
+        "No other body movement; torso and shoulders remain static against the pillow the entire scene"
+      ],
+      "interactions_notes": "He answers her verbally but not physically — same power dynamic as her: both are technically 'in dialogue' but neither breaks visual attention from their own phone, which is the visual thesis of the whole skit (title 'Low Battery People' implies emotionally/attentionally depleted couple). His deadpan non-reaction to being needled, followed by a quick verbal jab back, suggests a long-married couple's practiced, low-effort bickering rather than real conflict — no anger, no raised voices, just mutual screen-numbed sniping."
+    }
+  ]
+}
