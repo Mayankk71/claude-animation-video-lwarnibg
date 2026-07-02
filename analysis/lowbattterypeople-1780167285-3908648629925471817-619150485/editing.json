@@ -1,0 +1,24 @@
+{
+  "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.658333,
+  "cuts": [
+    {
+      "timestamp": 2.566667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the silent 'Episode 19' establishing shot of the low-battery guy staring blankly into the open fridge straight into the narrator's direct-to-camera monologue, moving from sight gag setup to verbal setup ('He always does this.') with no lingering."
+    },
+    {
+      "timestamp": 13.833333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts away immediately after the narrator delivers the punchline ('It'll have nothing to do with why he opened the fridge.') straight to the black title/credit card, ending the sketch right on the joke instead of holding for a reaction."
+    },
+    {
+      "timestamp": 14.533333,
+      "transition_type": "other",
+      "reason": "A near-instant flash cut/bumper transition from the black 'Created by Nin.' credit card to a plain white card holding just the show title text, functioning as a quick branding sting rather than a story beat."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The whole joke lives inside a single unbroken take: after a brief ~2.6s establishing shot of the fridge guy staring blankly (the visual gag), the edit holds on one continuous ~11.3s shot of the narrator explaining his behavior while he pantomimes it out of focus behind her, delivering setup and punchline without a single cut. Only once the line lands does the editing speed up sharply, snapping through a 0.7s black credit card and then a 0.1s white logo flash to close the episode fast and move on to the next one."
+}

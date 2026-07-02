@@ -1,0 +1,58 @@
+{
+  "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+  "characters": [
+    {
+      "name_or_role": "narrator (woman, foreground)",
+      "personality_traits": [
+        "deadpan and unbothered, delivers observations in a flat monotone rather than an animated one",
+        "wry/knowing - speaks about the man's habit as a well-worn, predictable pattern ('He always does this')",
+        "detached commentator rather than a participant - never interacts with the man directly, only describes him to camera",
+        "mildly exasperated but resigned, as if she has watched this exact scene play out many times before"
+      ],
+      "emotional_range": [
+        "flat/neutral resting affect",
+        "mild bemusement",
+        "quiet, knowing exasperation",
+        "soft disbelief that stays understated, never escalates to real anger"
+      ],
+      "expressions": [
+        "0:00 - heavy-lidded, droopy neutral stare directly at camera while saying 'He always does this'",
+        "0:03 - mouth drops slightly open in flat bemusement on 'opens the fridge and just stares'",
+        "0:06 - eyes stay half-lidded, brows barely lift on 'trying to remember why he came in here', a look of tired familiarity",
+        "0:08 - lips purse slightly, faint knowing smirk on 'Eventually he'll grab something'",
+        "0:11-0:13 - mouth opens again into a small 'why' shape, head tilts slightly, closing on a look of resigned disbelief as he walks off with the cheese"
+      ],
+      "gestures": [
+        "stands rooted in place facing camera for the entire scene, no hand gestures visible on screen",
+        "very subtle head tilts synced to line beats, otherwise almost motionless posture",
+        "body never turns toward the man behind her - she keeps her back to him throughout, addressing the camera instead"
+      ],
+      "interactions_notes": "She is in sharp focus in the foreground while the man is soft-focus in the background, visually marking her as the authority/narrator and him as the object of observation. She never makes eye contact with him and never turns around; all her 'interaction' with him is verbal narration aimed at the camera, not at him. This one-directional setup gives her full narrative control of the joke while he remains a silent, oblivious prop."
+    },
+    {
+      "name_or_role": "the man / \"he\" (fridge starer, background)",
+      "personality_traits": [
+        "absent-minded and easily distracted - opens the fridge and forgets his purpose almost immediately",
+        "unselfconscious - completely unaware he is being watched and narrated about, never reacts to her presence or commentary",
+        "wordless throughout - all his characterization is physical/behavioral rather than verbal",
+        "mildly comedic and clueless in his final action, walking off with something (a block of cheese) that clearly has nothing to do with why he opened the fridge"
+      ],
+      "emotional_range": [
+        "blank, zoned-out concentration while staring into the fridge",
+        "unbothered neutrality",
+        "faint, dazed confusion by the end, as if surprised by what's in his own hand"
+      ],
+      "expressions": [
+        "0:00-0:08 - back to camera, head static and slightly tilted, staring blankly into the open fridge for the entire first two-thirds of the clip - no visible facial expression, just fixed posture",
+        "0:09-0:11 - turns/moves away from the fridge holding a block of cheese at chest height",
+        "0:12-0:13 - caught mid-motion with head cocked at an odd, exaggerated angle, brow slightly raised and mouth in a faint half-smile/confused set, as if unsure why he grabbed the cheese"
+      ],
+      "gestures": [
+        "stands with both arms outstretched into the fridge - one hand braced on the door frame, the other gripping the fridge door handle/edge - leaning in to peer at the shelves",
+        "holds the pose almost completely still for several seconds, reinforcing the 'stares blankly' description in the narration",
+        "eventually reaches in, grabs a wedge of cheese, and walks off holding it in front of his chest, head tilted, seemingly disconnected from any clear intent"
+      ],
+      "interactions_notes": "He never acknowledges the narrator, never turns to face her or the camera, and appears entirely unaware he is the subject of her commentary. His only 'interaction' with her is spatial - he occupies the background while she occupies the foreground - and his physical behavior (the blank stare, the mismatched grab) is what confirms everything she says about him, functioning as a silent visual punchline to her narration rather than a conversational partner."
+    }
+  ]
+}

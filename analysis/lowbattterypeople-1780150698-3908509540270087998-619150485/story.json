@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1780150698-3908509540270087998-619150485",
+  "duration_sec": 10.452042,
+  "hook": {
+    "start": 0,
+    "end": 1.715,
+    "description": "Static shot of a stiff, wide-eyed stop-motion man (thick round glasses, sharp nose, oversized black overcoat) standing beside a skeptical woman (bun hairstyle, arms crossed, brown turtleneck) in a restaurant's glass doorway. A deadpan narrator voiceover opens with the man's self-assessment: 'I think I'm naturally confident.'",
+    "why_it_works": "A flat, relatable overconfident claim delivered in a dry narrator tone immediately clashes with the character's visibly nervous, awkward design and the woman's unimpressed side-eye -- that dramatic-irony gap makes viewers want the contradiction that's clearly coming, all within the first 1.7 seconds."
+  },
+  "setup": {
+    "start": 1.715,
+    "end": 3.459,
+    "description": "A roughly 1.7s silent hold on the couple in the doorway -- the man keeps his flat, self-satisfied smile while the woman remains arms-crossed with a doubtful expression -- letting the opening claim sit in silence before the narrator resumes, building anticipation for the reveal."
+  },
+  "conflict": {
+    "start": 3.459,
+    "end": 7.348,
+    "description": "The narrator VO undercuts the opening claim in second person: 'You practice saying table for two in the car, in two different tones.' This reveals the private, rehearsed behavior that contradicts 'naturally confident,' while the woman's expression grows more visibly questioning/unconvinced as the line lands."
+  },
+  "punchline": {
+    "start": 7.348,
+    "end": 8.966667,
+    "description": "The scene holds in silence on the couple as a bold yellow title-card overlay stamps across the frame: 'PRACTICE makes a man perfect.' The joke lands here -- the 'perfect' confidence from the hook is exposed as rehearsed, not natural, and the overlay text delivers that twist as a written tagline rather than new dialogue."
+  },
+  "ending": {
+    "start": 8.966667,
+    "end": 10.452042,
+    "description": "Hard cut to a black card with the series branding: 'LOW BATTERY PEOPLE' in yellow serif type, 'CREATED BY NIN.' beneath it, and a yellow ribbon graphic below that.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (yellow ribbon graphic)"
+  },
+  "beat_map": [
+    {"start": 0, "end": 1.715, "beat_type": "hook", "description": "Narrator VO: 'I think I'm naturally confident.' over a static two-shot of the awkward man and skeptical woman in the restaurant doorway."},
+    {"start": 1.715, "end": 3.459, "beat_type": "setup", "description": "Silent ~1.7s hold on the couple's expressions (his smug smile, her crossed-arm skepticism) before the narrator continues."},
+    {"start": 3.459, "end": 7.348, "beat_type": "conflict", "description": "Narrator VO reveals the contradiction: 'You practice saying table for two in the car, in two different tones,' undercutting the confidence claim from the hook."},
+    {"start": 7.348, "end": 8.966667, "beat_type": "punchline", "description": "Silent beat as the yellow text overlay 'PRACTICE makes a man perfect' stamps over the couple, delivering the joke's twist as written text."},
+    {"start": 8.966667, "end": 10.452042, "beat_type": "ending", "description": "Black outro card: 'LOW BATTERY PEOPLE,' 'CREATED BY NIN.,' and a 'NEW EPISODE DAILY' ribbon graphic."}
+  ],
+  "narrative_notes": "At ~10.5s this reel compresses the arc into essentially two dialogue beats plus a text-stamped punchline: the hook (deadpan confidence claim) and setup (silent reaction pause) are separated only by a brief hold, and the conflict and punchline are nearly fused -- the narrator's 'You practice saying table for two...' line IS the joke, with the on-screen text 'PRACTICE makes a man perfect' functioning as a stamped tagline/punchline rather than a separate comedic escalation. Both spoken lines are tagged SPEAKER_00 in transcript.json, consistent with a single narrator voiceover addressing the audience in second person ('You practice...') rather than the two on-screen characters talking to each other -- the couple's visuals silently illustrate the narration instead of delivering it. transcript.json contains no on-screen text-overlay timing track, so the exact start of the 'PRACTICE makes a man perfect' graphic is estimated from keyframe sampling (it appears composited over frames toward the end of scene 0, before the 8.966667s cut to the black end card) rather than read from a precise timestamp."
+}

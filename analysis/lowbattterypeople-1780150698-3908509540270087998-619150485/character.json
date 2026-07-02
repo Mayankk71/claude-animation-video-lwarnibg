@@ -1,0 +1,56 @@
+{
+  "video_slug": "lowbattterypeople-1780150698-3908509540270087998-619150485",
+  "characters": [
+    {
+      "name_or_role": "man (tall, bespectacled, in dark long coat/suit)",
+      "personality_traits": [
+        "self-assured to the point of smugness",
+        "poised/upright posture that reads as pompous given his exaggerated tall, gaunt frame",
+        "unbothered by his companion's reactions - conversationally oblivious or simply unfazed",
+        "minimal expressiveness, projecting effortless (possibly performed) confidence"
+      ],
+      "emotional_range": [
+        "flat, contented confidence sustained for the entire scene with almost no visible variation"
+      ],
+      "expressions": [
+        "0:00 faint closed-mouth smirk as he states 'I think I'm naturally confident'",
+        "0:02-0:07 the same small, satisfied half-smile holds steady through the whole line about practicing in the car - no eyebrow movement, no reaction to his companion's shock",
+        "0:08 smile unchanged at scene's end, gaze forward/off rather than toward the woman"
+      ],
+      "gestures": [
+        "hands not visible, kept inside/behind the oversized dark coat for the whole scene",
+        "stands rigidly upright and still, no head tilts or hand gestures",
+        "chin held level to slightly raised, reinforcing an air of quiet self-satisfaction"
+      ],
+      "interactions_notes": "He is physically taller and positioned slightly forward/left of the woman at the restaurant entrance, but rarely turns to look at her directly - his focus stays forward, giving the impression he is delivering a rehearsed line rather than truly conversing. His stillness contrasts with her active reactions, suggesting he holds the floor conversationally (his claim of confidence is the scene's premise) while she holds the reactive/judging power."
+    },
+    {
+      "name_or_role": "woman (brown turtleneck sweater, black skirt, hair in a bun)",
+      "personality_traits": [
+        "skeptical and quick to judge, signaled by her permanently crossed arms",
+        "sharp/observant - visibly tracks and reacts to every beat of what's being said",
+        "guarded body language throughout, unconvinced by the man's claim of natural confidence",
+        "ultimately wry/amused rather than angry - she seems entertained despite her skepticism"
+      ],
+      "emotional_range": [
+        "unimpressed and deadpan at the start",
+        "escalating incredulity/disbelief through the middle of the line",
+        "settles into a knowing, faintly amused smirk by the end"
+      ],
+      "expressions": [
+        "0:00 narrowed eyes, one eyebrow slightly raised, mouth in a flat skeptical line while he says he's 'naturally confident'",
+        "0:01-0:02 sideways glance toward him, brow still raised, unimpressed",
+        "0:03 ('You') brows draw in, mouth parts slightly as she begins the rebuttal",
+        "0:05 ('car.') mouth falls open in visible disbelief/exaggeration, eyebrows up",
+        "0:06 ('tones.') mouth still open, same startled/incredulous look held",
+        "0:07-0:08 expression softens into a small, knowing smile as she turns her gaze toward him at the end of the scene"
+      ],
+      "gestures": [
+        "arms crossed tightly over her chest for the entire scene - a consistent, unbroken defensive/judging posture",
+        "no hand gestures beyond the crossed arms; all reaction is carried through her face",
+        "slight weight shift and head turn toward the man in the final beat, breaking her forward-facing stance"
+      ],
+      "interactions_notes": "She stands close beside him but keeps her arms crossed the whole time, a physical barrier that underscores her skepticism of his claim. Unlike him, she is highly reactive - her face runs through a full arc (unimpressed to shocked to amused) while he stays static, so the comedic power dynamic favors her: she is the one exposing/reacting to his line, and her closing smirk suggests she's caught him in something (or finds his overconfidence funny) even though he never breaks his own composure to acknowledge it."
+    }
+  ]
+}

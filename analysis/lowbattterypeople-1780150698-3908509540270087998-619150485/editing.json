@@ -1,0 +1,14 @@
+{
+  "video_slug": "lowbattterypeople-1780150698-3908509540270087998-619150485",
+  "cut_count": 1,
+  "avg_shot_length_sec": 5.1666665,
+  "cuts": [
+    {
+      "timestamp": 8.966667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the single continuous two-shot of the couple outside the restaurant (where the line 'practice makes a man perfect' and the confidence bit land) straight to the black title/CTA card, ending the skit on the joke rather than lingering."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The whole gag plays out in one uninterrupted ~9s static two-shot of the man and woman, letting the dialogue and stacked on-screen captions (word-by-word, then the bolded 'PRACTICE / makes a man perfect' payoff line) do the comedic work without any coverage cuts; pacing is driven by caption timing rather than editing. The video then hard-cuts to a much shorter (~1.4s) static title/CTA card for the branding beat, so overall the edit is essentially a single held shot plus one abrupt closing cut rather than a build-up of shrinking shot lengths."
+}

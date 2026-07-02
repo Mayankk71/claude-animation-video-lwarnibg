@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+  "duration_sec": 14.761375,
+  "hook": {
+    "start": 0,
+    "end": 2.567,
+    "description": "Cold open, no intro: 'Episode 19' title card sits top-left over a stop-motion man (dark yarn/felt body, tan felt head) standing with his back to camera, staring blankly into an open fridge. Before any context is given, the deadpan narrator immediately says 'He always does this.'",
+    "why_it_works": "Drops the viewer straight into a frozen, instantly recognizable moment (staring blankly into an open fridge) with zero setup dialogue, and the flat narrator line implies familiarity/inside-joke recognition rather than explaining the premise. The 'Episode 19' label signals an established, proven series format, which builds trust and curiosity for both new and returning viewers within the first ~2 seconds."
+  },
+  "setup": {
+    "start": 2.567,
+    "end": 7.37,
+    "description": "Cut to the narrator character (tall, thin felt woman with a bun, deadpan half-lidded expression) speaking directly to camera in the kitchen, with the man still visible blurred in the background frozen at the open fridge. She narrates the specific behavior being spotlighted: 'He opens the fridge and just stares' (2.902-4.485s), then 'He's trying to remember why he came in here' (5.547-7.37s), naming the exact relatable quirk the episode is about."
+  },
+  "conflict": {
+    "start": 7.37,
+    "end": 9.634,
+    "description": "A held pause with the man still frozen at the fridge in the background builds mundane suspense over what he will do next, followed by the narrator's flat, resigned prediction 'Eventually he'll grab something' (8.432-9.634s). There is no interpersonal or high-stakes conflict here; the tension is purely situational anticipation (will he remember why he came, or not)."
+  },
+  "punchline": {
+    "start": 9.634,
+    "end": 13.833,
+    "description": "After another brief silent beat, the narrator delivers the twist: 'It'll have nothing to do with why he opened the fridge' (11.077-13.001s), confirming the comedic disconnect between intention and action. The line is allowed to land and hang for roughly 0.8s of silence before the hard cut to the end card."
+  },
+  "ending": {
+    "start": 13.833,
+    "end": 14.761375,
+    "description": "Hard cut to a black end card reading 'LOW BATTERY PEOPLE' in gold serif type with 'CREATED BY NIN.' beneath it and a yellow 'NEW EPISODE DAILY' tape-graphic badge, which then transitions to a plain white card isolating just the 'LOW BATTERY PEOPLE' title as the video ends.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (yellow tape badge)"
+  },
+  "beat_map": [
+    {
+      "start": 0,
+      "end": 2.567,
+      "beat_type": "hook",
+      "description": "'Episode 19' title card over the man frozen staring into the open fridge, back to camera; narrator opens cold with 'He always does this.'"
+    },
+    {
+      "start": 2.567,
+      "end": 7.37,
+      "beat_type": "setup",
+      "description": "Cut to narrator woman speaking to camera describing the behavior: 'He opens the fridge and just stares' / 'He's trying to remember why he came in here', man still frozen and blurred at the fridge in background."
+    },
+    {
+      "start": 7.37,
+      "end": 9.634,
+      "beat_type": "conflict",
+      "description": "Silent held beat on the frozen fridge-staring man builds anticipation, then narrator predicts 'Eventually he'll grab something.'"
+    },
+    {
+      "start": 9.634,
+      "end": 13.833,
+      "beat_type": "punchline",
+      "description": "Another pause, then the reveal line lands: 'It'll have nothing to do with why he opened the fridge,' confirming the joke before the cut."
+    },
+    {
+      "start": 13.833,
+      "end": 14.761375,
+      "beat_type": "ending",
+      "description": "Hard cut to black/white branded end cards: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and 'NEW EPISODE DAILY' tape badge."
+    }
+  ],
+  "narrative_notes": "This is an observational-comedy vignette from an ongoing series ('Low Battery People', Episode 19), not a dialogue-driven conflict story. There is no traditional antagonist or obstacle; 'conflict' here is replaced by mundane situational suspense (will the man remember why he opened the fridge). Hook and setup are nearly fused since the core premise is stated almost immediately in the opening line ('He always does this.'), and the punchline is a purely verbal reveal from the narrator rather than a visual gag or new on-screen action -- the man's actual grabbing of an unrelated item is never shown, only described. The scene_boundaries.json groups the entire narrated portion (2.57s-13.83s) as a single continuous shot, so setup/conflict/punchline are distinguished here by transcript pacing and pause structure rather than by cuts."
+}

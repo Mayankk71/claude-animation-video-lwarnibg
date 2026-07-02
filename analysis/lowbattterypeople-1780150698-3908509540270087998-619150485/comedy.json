@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1780150698-3908509540270087998-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.171,
+      "end": 1.715,
+      "mechanism": "irony",
+      "description": "The man states 'I think I'm naturally confident' while his design and posture (owlish wide eyes behind round glasses, thin downturned mouth) and his date's already-skeptical crossed-arm stance visually contradict the claim before any punchline lands.",
+      "why_it_lands": "In keyframe scene-0.jpg his mouth is a flat downward curve and his date's eyebrows are already raised/unimpressed at the exact moment he claims confidence, so the visual mismatch starts working a full two seconds before the verbal reveal arrives."
+    },
+    {
+      "start": 1.625,
+      "end": 3.464,
+      "mechanism": "awkward_silence",
+      "description": "After the confidence claim, the edit holds on the two characters in total silence with no reaction shot change, letting the incongruity between his words and his appearance sit unresolved.",
+      "why_it_lands": "This 1.84s pause is tied for the longest gap in the whole clip (per silence_pauses.json), which is disproportionately long for a 10-second piece, so it reads as a deliberate 'letting that claim hang there' beat rather than dead air."
+    },
+    {
+      "start": 3.459,
+      "end": 7.348,
+      "mechanism": "irony",
+      "description": "The reveal line 'You practice saying table for two in the car, in two different tones' directly disproves the preceding 'naturally confident' claim by exposing rehearsed, over-prepared behavior for a completely mundane sentence.",
+      "why_it_lands": "The specificity of the detail -- not just practicing, but doing it 'in two different tones' for four words as trivial as a hostess greeting -- is what turns a generic contradiction into a recognizable, cringe-relatable confession rather than a throwaway line."
+    },
+    {
+      "start": 5.392,
+      "end": 6.397,
+      "mechanism": "escalation",
+      "description": "A roughly one-second hold falls right between 'in the car' and 'in two different tones,' delaying the more absurd, more specific topper detail.",
+      "why_it_lands": "The 1.0s pause (silence_pauses.json) sits mid-sentence rather than at a natural clause break, functioning as comedic timing that makes the audience wait for the escalating specificity of 'two different tones' instead of letting the line run flat."
+    },
+    {
+      "start": 7.296,
+      "end": 8.967,
+      "mechanism": "deadpan",
+      "description": "The date's expression never breaks into a laugh or an eye-roll -- she keeps the same flat, arms-crossed, faintly judgmental look from before the reveal through after it -- while the bold on-screen text 'PRACTICE makes a man perfect' lands over his self-satisfied smirk, ironically repurposing the earnest idiom 'practice makes perfect.'",
+      "why_it_lands": "In periodic-8.jpg his mouth curls into a small smug smile right as the caption 'confident.' displays underneath, while her face (periodic-1/periodic-2) stays essentially unchanged throughout -- the joke is delivered entirely through his self-satisfaction and her static non-reaction rather than any punchline reaction shot."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single sustained micro-sketch built on one claim-then-contradiction structure rather than multiple discrete jokes: a stated trait ('naturally confident') is immediately undercut by a specific, over-prepared behavior (rehearsing a four-word restaurant line in two tones in the car). The whole bit plays out in one unbroken shot with no cuts between characters, so all comedic timing comes from dialogue pacing and pause length rather than editing -- the two longest pauses in the clip (1.84s each) bookend the setup and the transition to the branded outro card. The visual design does a lot of the work before the dialogue even resolves: both characters are drawn with heavy-lidded, skeptical default expressions, so the 'naturally confident' claim reads as ironic on sight. A bold serif text overlay ('PRACTICE makes a man perfect') doubles as a written punchline that recontextualizes a familiar idiom, reinforcing the reveal typographically rather than through a reaction shot or cutaway."
+}

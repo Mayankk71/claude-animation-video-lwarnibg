@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1780150698-3908509540270087998-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 8.966667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot from just outside a restaurant's glass entry doors, doorframe verticals bracket both sides of the frame. Man (tall, glasses, oversized black coat/suit) is left-of-center and cropped at the hips; woman (arms crossed, brown turtleneck) is right-of-center and cropped just below the waist. Both have generous headroom under the restaurant's row of ceiling downlights, which forms a repeating dot pattern across the top third. Background restaurant interior (red walls, bar, blurred diners) stays in soft focus behind them for the entire scene, with no reframing across the 9 seconds despite multiple lines of dialogue and two on-screen caption/title text inserts appearing mid-shot."
+    },
+    {
+      "start": 8.966667,
+      "end": 10.333333333333334,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black-frame title card, no live-action/animated subject in shot. 'LOW BATTERY PEOPLE' centered in yellow serif type with 'CREATED BY NIN.' beneath it in white, and a yellow 'NEW EPISODE DAILY' ribbon graphic centered near the bottom third; symmetrical, centered layout with heavy negative space above."
+    }
+  ],
+  "framing_patterns_notes": "The dialogue scene never re-frames, pans, zooms, or cuts to a closer angle even as captions cycle through the joke's punchline lines ('for', 'confident.', 'car.', 'tones.') — the same static medium two-shot through the glass doors carries the entire exchange, putting all comedic emphasis on the burned-in caption text and character expressions rather than camera coverage. The end card is a separate, fully static graphic-only shot with no camera movement, functioning as a branded outro rather than a scene continuation."
+}

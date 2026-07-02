@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1780150698-3908509540270087998-619150485",
+  "total_lines": 2,
+  "avg_words_per_line": 9,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.171,
+      "end": 1.715,
+      "text": "I think I'm naturally confident.",
+      "word_count": 5,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.459,
+      "end": 7.348,
+      "text": "You practice saying table for two in the car, in two different tones.",
+      "word_count": 13,
+      "pause_before_sec": 1.84,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Only one speaker (SPEAKER_00) is transcribed across the clip, delivering a two-beat setup/reveal structure rather than back-and-forth dialogue: a confident claim (\"I think I'm naturally confident.\") followed, after a near 1.84s beat, by the contradicting reveal (\"You practice saying table for two in the car, in two different tones.\"). No interruptions or overlaps occur since the single speaker's lines are sequential with a clean gap between them. After the second line ends at 7.348s, three more silence windows occur back-to-back (7.30-8.08, 8.50-10.35) through 10.35s with no further dialogue, indicating the clip closes on a purely visual/physical punchline beat rather than a spoken button line.",
+  "speech_rhythm_notes": "The setup line is short (5 words, 1.5s) and is followed by the single largest pause tied to a dialogue gap in the clip (1.84s, matching the 1.62462-3.46356 silence window), creating a deliberate beat before the longer 13-word reveal line lands. That reveal line runs nearly 4 seconds (3.459-7.348) without a mid-line pause, front-loading the joke's specificity (\"in the car, in two different tones\") in one unbroken breath. After the reveal, dialogue stops entirely but silence windows continue stacking (0.79s, then 1.85s) up to 10.35s, mirroring the length of the initial pre-reveal pause and suggesting the visual gag/reaction shot after the line is given roughly as much screen time as the joke's setup."
+}

@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 7,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.858,
+      "end": 1.74,
+      "text": "He always does this.",
+      "word_count": 4,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.902,
+      "end": 4.485,
+      "text": "He opens the fridge and just stares.",
+      "word_count": 7,
+      "pause_before_sec": 1.11,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.547,
+      "end": 7.37,
+      "text": "He's trying to remember why he came in here.",
+      "word_count": 9,
+      "pause_before_sec": 1.0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.432,
+      "end": 9.634,
+      "text": "Eventually he'll grab something.",
+      "word_count": 4,
+      "pause_before_sec": 1.03,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.077,
+      "end": 13.001,
+      "text": "It'll have nothing to do with why he opened the fridge.",
+      "word_count": 11,
+      "pause_before_sec": 1.27,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "This is a single-speaker (SPEAKER_00) narrated voiceover, not a back-and-forth dialogue scene -- all 5 lines belong to one continuous narrator describing a character's fridge-staring habit. There are no overlaps or interruptions since only one voice is present. The lines build in a linear observational structure: statement of habit (line 1) -> visual description (line 2) -> internal reasoning (line 3) -> false resolution setup (line 4) -> punchline reveal (line 5), each separated by a clean, evenly-spaced pause rather than conversational back-and-forth.",
+  "speech_rhythm_notes": "Lines 2-5 are each preceded by a near-uniform pause of roughly 1.0-1.1s (matched silence_pauses.json windows: 1.11s, 1.00s, 1.03s), giving the narration a deliberate, deadpan cadence typical of a beat-driven voiceover. The gap before the final punchline line ('It'll have nothing to do with why he opened the fridge.') contains two separate silence windows totaling 1.27s (1.12s + 0.15s) -- the longest combined pause in the clip -- immediately before the longest line by word count (11 words), giving the audience an extra beat before the payoff. The two shortest lines (line 1 and line 4, both 4 words) bookend the longer explanatory lines (7 and 9 words), producing a short-long-long-short-long rhythm that alternates terse setup beats with more descriptive ones before landing on the extended punchline."
+}

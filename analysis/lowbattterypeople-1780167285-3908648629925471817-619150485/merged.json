@@ -1,0 +1,333 @@
+{
+  "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+  "duration_sec": 14.761375,
+  "story": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "duration_sec": 14.761375,
+    "hook": {
+      "start": 0,
+      "end": 2.567,
+      "description": "Cold open, no intro: 'Episode 19' title card sits top-left over a stop-motion man (dark yarn/felt body, tan felt head) standing with his back to camera, staring blankly into an open fridge. Before any context is given, the deadpan narrator immediately says 'He always does this.'",
+      "why_it_works": "Drops the viewer straight into a frozen, instantly recognizable moment (staring blankly into an open fridge) with zero setup dialogue, and the flat narrator line implies familiarity/inside-joke recognition rather than explaining the premise. The 'Episode 19' label signals an established, proven series format, which builds trust and curiosity for both new and returning viewers within the first ~2 seconds."
+    },
+    "setup": {
+      "start": 2.567,
+      "end": 7.37,
+      "description": "Cut to the narrator character (tall, thin felt woman with a bun, deadpan half-lidded expression) speaking directly to camera in the kitchen, with the man still visible blurred in the background frozen at the open fridge. She narrates the specific behavior being spotlighted: 'He opens the fridge and just stares' (2.902-4.485s), then 'He's trying to remember why he came in here' (5.547-7.37s), naming the exact relatable quirk the episode is about."
+    },
+    "conflict": {
+      "start": 7.37,
+      "end": 9.634,
+      "description": "A held pause with the man still frozen at the fridge in the background builds mundane suspense over what he will do next, followed by the narrator's flat, resigned prediction 'Eventually he'll grab something' (8.432-9.634s). There is no interpersonal or high-stakes conflict here; the tension is purely situational anticipation (will he remember why he came, or not)."
+    },
+    "punchline": {
+      "start": 9.634,
+      "end": 13.833,
+      "description": "After another brief silent beat, the narrator delivers the twist: 'It'll have nothing to do with why he opened the fridge' (11.077-13.001s), confirming the comedic disconnect between intention and action. The line is allowed to land and hang for roughly 0.8s of silence before the hard cut to the end card."
+    },
+    "ending": {
+      "start": 13.833,
+      "end": 14.761375,
+      "description": "Hard cut to a black end card reading 'LOW BATTERY PEOPLE' in gold serif type with 'CREATED BY NIN.' beneath it and a yellow 'NEW EPISODE DAILY' tape-graphic badge, which then transitions to a plain white card isolating just the 'LOW BATTERY PEOPLE' title as the video ends.",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (yellow tape badge)"
+    },
+    "beat_map": [
+      {
+        "start": 0,
+        "end": 2.567,
+        "beat_type": "hook",
+        "description": "'Episode 19' title card over the man frozen staring into the open fridge, back to camera; narrator opens cold with 'He always does this.'"
+      },
+      {
+        "start": 2.567,
+        "end": 7.37,
+        "beat_type": "setup",
+        "description": "Cut to narrator woman speaking to camera describing the behavior: 'He opens the fridge and just stares' / 'He's trying to remember why he came in here', man still frozen and blurred at the fridge in background."
+      },
+      {
+        "start": 7.37,
+        "end": 9.634,
+        "beat_type": "conflict",
+        "description": "Silent held beat on the frozen fridge-staring man builds anticipation, then narrator predicts 'Eventually he'll grab something.'"
+      },
+      {
+        "start": 9.634,
+        "end": 13.833,
+        "beat_type": "punchline",
+        "description": "Another pause, then the reveal line lands: 'It'll have nothing to do with why he opened the fridge,' confirming the joke before the cut."
+      },
+      {
+        "start": 13.833,
+        "end": 14.761375,
+        "beat_type": "ending",
+        "description": "Hard cut to black/white branded end cards: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and 'NEW EPISODE DAILY' tape badge."
+      }
+    ],
+    "narrative_notes": "This is an observational-comedy vignette from an ongoing series ('Low Battery People', Episode 19), not a dialogue-driven conflict story. There is no traditional antagonist or obstacle; 'conflict' here is replaced by mundane situational suspense (will the man remember why he opened the fridge). Hook and setup are nearly fused since the core premise is stated almost immediately in the opening line ('He always does this.'), and the punchline is a purely verbal reveal from the narrator rather than a visual gag or new on-screen action -- the man's actual grabbing of an unrelated item is never shown, only described. The scene_boundaries.json groups the entire narrated portion (2.57s-13.83s) as a single continuous shot, so setup/conflict/punchline are distinguished here by transcript pacing and pause structure rather than by cuts."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "total_lines": 5,
+    "avg_words_per_line": 7,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.858,
+        "end": 1.74,
+        "text": "He always does this.",
+        "word_count": 4,
+        "pause_before_sec": 0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.902,
+        "end": 4.485,
+        "text": "He opens the fridge and just stares.",
+        "word_count": 7,
+        "pause_before_sec": 1.11,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 5.547,
+        "end": 7.37,
+        "text": "He's trying to remember why he came in here.",
+        "word_count": 9,
+        "pause_before_sec": 1.0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 8.432,
+        "end": 9.634,
+        "text": "Eventually he'll grab something.",
+        "word_count": 4,
+        "pause_before_sec": 1.03,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 11.077,
+        "end": 13.001,
+        "text": "It'll have nothing to do with why he opened the fridge.",
+        "word_count": 11,
+        "pause_before_sec": 1.27,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "This is a single-speaker (SPEAKER_00) narrated voiceover, not a back-and-forth dialogue scene -- all 5 lines belong to one continuous narrator describing a character's fridge-staring habit. There are no overlaps or interruptions since only one voice is present. The lines build in a linear observational structure: statement of habit (line 1) -> visual description (line 2) -> internal reasoning (line 3) -> false resolution setup (line 4) -> punchline reveal (line 5), each separated by a clean, evenly-spaced pause rather than conversational back-and-forth.",
+    "speech_rhythm_notes": "Lines 2-5 are each preceded by a near-uniform pause of roughly 1.0-1.1s (matched silence_pauses.json windows: 1.11s, 1.00s, 1.03s), giving the narration a deliberate, deadpan cadence typical of a beat-driven voiceover. The gap before the final punchline line ('It'll have nothing to do with why he opened the fridge.') contains two separate silence windows totaling 1.27s (1.12s + 0.15s) -- the longest combined pause in the clip -- immediately before the longest line by word count (11 words), giving the audience an extra beat before the payoff. The two shortest lines (line 1 and line 4, both 4 words) bookend the longer explanatory lines (7 and 9 words), producing a short-long-long-short-long rhythm that alternates terse setup beats with more descriptive ones before landing on the extended punchline."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.858,
+        "end": 1.74,
+        "mechanism": "recognition",
+        "description": "Narrator opens cold with \"He always does this,\" a flat diagnostic statement about a habitual quirk before we've even seen the behavior.",
+        "why_it_lands": "The line is delivered with zero setup or context in under a second of screen time, positioning the viewer as someone who already knows this type of person -- it front-loads the relatability instead of building to it."
+      },
+      {
+        "start": 2.902,
+        "end": 4.485,
+        "mechanism": "deadpan",
+        "description": "\"He opens the fridge and just stares\" is narrated in a flat, unimpressed tone over a wide shot of the black-hoodie figure standing motionless with the fridge door open, while the felt narrator in the foreground holds the same heavy-lidded, half-closed stare directly at camera.",
+        "why_it_lands": "The narrator's own droopy, half-lidded eyes (visible in scene-1 keyframe) mirror the described blankness of the fridge-starer, so the joke is told twice at once -- once in the words, once in the narrator's static, unbothered face."
+      },
+      {
+        "start": 4.571,
+        "end": 5.567,
+        "mechanism": "awkward_silence",
+        "description": "A near-1-second pause (0.9965s per silence_pauses.json) sits between \"...just stares\" and \"He's trying to remember why he came in here,\" with no dialogue or visible action change to fill it.",
+        "why_it_lands": "The pause doesn't just precede the joke about forgetting -- it performs it: the narration itself trails off and hangs blank for a beat, making the viewer feel the same mental stall being described."
+      },
+      {
+        "start": 5.547,
+        "end": 7.37,
+        "mechanism": "recognition",
+        "description": "\"He's trying to remember why he came in here\" names the universal experience of walking into a room (or opening a fridge) and forgetting the original purpose.",
+        "why_it_lands": "This is the video's core relatable hook, phrased as a diagnosis rather than a punchline -- it lands because the audience recognizes the exact sensation from their own lives, not because of any twist."
+      },
+      {
+        "start": 8.432,
+        "end": 10.749,
+        "mechanism": "escalation",
+        "description": "\"Eventually he'll grab something\" is followed by the longest pause in the piece (1.11538s, per silence_pauses.json), stretching the anticipation of what payoff is coming before the final line resolves it.",
+        "why_it_lands": "By this point two shorter pauses (1.11s and 1.03s) have already trained the viewer to expect a beat of dead air before each new narrator line, so this third and longest pause reads as a deliberate drumroll into the punchline rather than just more dead time."
+      },
+      {
+        "start": 11.077,
+        "end": 13.001,
+        "mechanism": "irony",
+        "description": "The payoff, \"It'll have nothing to do with why he opened the fridge,\" subverts the setup's implied goal (remembering the reason, then acting on it) by confirming the character grabs something completely unrelated -- visually paid off by the on-screen figure holding a block of cheese with his mouth open on the caption word \"why\" (periodic-12 keyframe).",
+        "why_it_lands": "The joke withholds the actual object of the fridge trip and instead resolves on the absence of connection between cause and result, which is funnier than any specific punchline item would be because it names a pattern (aimless action) rather than a single gag."
+      }
+    ],
+    "overall_comedic_style_notes": "The whole 14-second piece runs on a single mechanism stacked twice: a flat, omniscient narrator (a felt figure with permanently heavy-lidded, unimpressed eyes) describes a mundane, universally recognizable human quirk in short declarative sentences, with deliberately overlong pauses (roughly 1-1.1 seconds each, well above normal conversational gaps per silence_pauses.json) inserted between beats to let each observation land before the next. There is no dialogue from the on-screen character at all -- the humor lives entirely in the narrator's dry commentary track plus the visual deadpan of the character's blank stare into the fridge, culminating in an anticlimactic irony (grabbing something irrelevant) rather than a conventional joke twist. The 'Episode 19' and recurring series branding (visible in scene-0 and scene-2/3 keyframes) signal this is a repeatable format built around naming one small relatable behavioral tic per episode."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "characters": [
+      {
+        "name_or_role": "narrator (woman, foreground)",
+        "personality_traits": [
+          "deadpan and unbothered, delivers observations in a flat monotone rather than an animated one",
+          "wry/knowing - speaks about the man's habit as a well-worn, predictable pattern ('He always does this')",
+          "detached commentator rather than a participant - never interacts with the man directly, only describes him to camera",
+          "mildly exasperated but resigned, as if she has watched this exact scene play out many times before"
+        ],
+        "emotional_range": [
+          "flat/neutral resting affect",
+          "mild bemusement",
+          "quiet, knowing exasperation",
+          "soft disbelief that stays understated, never escalates to real anger"
+        ],
+        "expressions": [
+          "0:00 - heavy-lidded, droopy neutral stare directly at camera while saying 'He always does this'",
+          "0:03 - mouth drops slightly open in flat bemusement on 'opens the fridge and just stares'",
+          "0:06 - eyes stay half-lidded, brows barely lift on 'trying to remember why he came in here', a look of tired familiarity",
+          "0:08 - lips purse slightly, faint knowing smirk on 'Eventually he'll grab something'",
+          "0:11-0:13 - mouth opens again into a small 'why' shape, head tilts slightly, closing on a look of resigned disbelief as he walks off with the cheese"
+        ],
+        "gestures": [
+          "stands rooted in place facing camera for the entire scene, no hand gestures visible on screen",
+          "very subtle head tilts synced to line beats, otherwise almost motionless posture",
+          "body never turns toward the man behind her - she keeps her back to him throughout, addressing the camera instead"
+        ],
+        "interactions_notes": "She is in sharp focus in the foreground while the man is soft-focus in the background, visually marking her as the authority/narrator and him as the object of observation. She never makes eye contact with him and never turns around; all her 'interaction' with him is verbal narration aimed at the camera, not at him. This one-directional setup gives her full narrative control of the joke while he remains a silent, oblivious prop."
+      },
+      {
+        "name_or_role": "the man / \"he\" (fridge starer, background)",
+        "personality_traits": [
+          "absent-minded and easily distracted - opens the fridge and forgets his purpose almost immediately",
+          "unselfconscious - completely unaware he is being watched and narrated about, never reacts to her presence or commentary",
+          "wordless throughout - all his characterization is physical/behavioral rather than verbal",
+          "mildly comedic and clueless in his final action, walking off with something (a block of cheese) that clearly has nothing to do with why he opened the fridge"
+        ],
+        "emotional_range": [
+          "blank, zoned-out concentration while staring into the fridge",
+          "unbothered neutrality",
+          "faint, dazed confusion by the end, as if surprised by what's in his own hand"
+        ],
+        "expressions": [
+          "0:00-0:08 - back to camera, head static and slightly tilted, staring blankly into the open fridge for the entire first two-thirds of the clip - no visible facial expression, just fixed posture",
+          "0:09-0:11 - turns/moves away from the fridge holding a block of cheese at chest height",
+          "0:12-0:13 - caught mid-motion with head cocked at an odd, exaggerated angle, brow slightly raised and mouth in a faint half-smile/confused set, as if unsure why he grabbed the cheese"
+        ],
+        "gestures": [
+          "stands with both arms outstretched into the fridge - one hand braced on the door frame, the other gripping the fridge door handle/edge - leaning in to peer at the shelves",
+          "holds the pose almost completely still for several seconds, reinforcing the 'stares blankly' description in the narration",
+          "eventually reaches in, grabs a wedge of cheese, and walks off holding it in front of his chest, head tilted, seemingly disconnected from any clear intent"
+        ],
+        "interactions_notes": "He never acknowledges the narrator, never turns to face her or the camera, and appears entirely unaware he is the subject of her commentary. His only 'interaction' with her is spatial - he occupies the background while she occupies the foreground - and his physical behavior (the blank stare, the mismatched grab) is what confirms everything she says about him, functioning as a silent visual punchline to her narration rather than a conversational partner."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 2.566667,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Locked static shot from directly behind the male character, symmetrical with the open fridge door filling the right two-thirds of frame; his head is cropped by the top edge at the fridge's upper shelf, both hands gripping the door edges. 'Episode 19' title card sits fixed in the top-left corner, independent of character motion. The rest of the kitchen (counter, kettle, cabinets, bowl) is fully visible and evenly lit on the left side of frame, establishing the set before the cut."
+      },
+      {
+        "start": 2.566667,
+        "end": 13.833333,
+        "shot_type": "close-up",
+        "camera_movement": "static",
+        "composition_notes": "Single uninterrupted lock-off held for the whole ~11s gag: the woman is framed close and centered with modest headroom, sharp focus on her face/upper chest while the fridge and the male character stay soft in the background the entire time (fixed rack focus, never pulled even as the joke escalates). The framing itself is the punchline delivery device: the sight gag in the background (his head tips back at an odd angle, his arm and cheese-holding hand detach and float) plays out entirely inside the blurred background without any reframing or cut-in, so it is noticed only via the woman's widening eyes and dropped jaw in the sharp foreground."
+      },
+      {
+        "start": 13.833333,
+        "end": 14.533333,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Static graphic title card: black background, 'LOW BATTERY PEOPLE' centered horizontally in yellow serif type, 'CREATED BY NIN.' subtitle directly beneath it, and a yellow 'NEW EPISODE DAILY' tape graphic anchored in the lower-third center. No animated character or set elements; text/graphics are the entire composition."
+      },
+      {
+        "start": 14.533333,
+        "end": 14.633333333333333,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Single-frame static transition card: plain white background with only the 'LOW BATTERY PEOPLE' title text (no subtitle, no tape graphic), positioned in the same horizontal center as the prior card. Functions as a brief flash/whip transition out of the black title card."
+      }
+    ],
+    "framing_patterns_notes": "The whole reel is built from two locked-off shots and never pans, tilts, or zooms \u2014 the comedy is carried entirely by staging and a fixed rack-focus depth split (sharp woman foreground / soft man-and-fridge background) rather than any camera movement. The punchline gag is staged in the permanently out-of-focus background so the camera never 'reveals' it; the viewer only catches it via the sharp foreground character's reaction. Title/episode-number text overlays repeat the same screen positions across the intro and outro cards (episode number top-left during the cold open, main title bottom-center/centered on the closing cards)."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "technique": "Appears to be 3D CGI built to imitate felt/wool stop-motion puppetry rather than physically-shot stop-motion: the sweater's fiber texture, skin gradients, and studio-kitchen lighting are too evenly rendered and noise-free (no dust specks, no armature flicker, no subtle set-jitter between frames) for a real practical rig, yet the character design (felted-wool sweater texture, painted button eyes, seamed felt nose/head, visible cloth-seam joints on the black hooded figure) deliberately quotes Aardman-style claymation/felt puppetry. Flagging uncertainty: without motion blur or a true consecutive-frame burst it cannot be fully ruled out as genuine stop-motion shot with a very stable rig and clean digital post-processing, but the balance of evidence favors a CG felt-look puppet rig.",
+    "facial_animation_notes": "Mouth shapes are the primary animated facial feature and change per spoken word/syllable (compare periodic-4 'stares.' open oval mouth, periodic-6 'in' narrow mouth, periodic-9 'grab' wide-open mouth, periodic-11 'It'll' near-closed mouth, periodic-13 'why' round open mouth) \u2014 this reads as a replacement- or blend-shape mouth rig doing basic phoneme approximation rather than full lip-sync detail. Eyebrows stay in one fixed low, flat, unimpressed position across every sampled frame; no independent brow acting was observed. The felt nose, cheeks, and jaw show no secondary jiggle or squash-stretch between frames.",
+    "eye_and_blink_notes": "No blink was captured across the 11 sampled periodic frames of the woman's dialogue (periodic-4 through periodic-13); eyes stay wide open with the same painted white sclera and small solid black pupils throughout. The pupils do drift slightly frame to frame (angled right-of-center in periodic-4/5, more centered by periodic-9, drifting further in periodic-10/11), giving a deadpan 'shifty-eyed' comedic read rather than naturalistic saccades \u2014 consistent with sparse, held eye animation punctuated by occasional pupil pops rather than continuous eye-dart animation.",
+    "head_movement_notes": "The woman's head holds a near-identical static 3/4-front tilt across the entire sampled dialogue run (periodic-4 to periodic-13) with only millimeter-scale differences visible; no nodding, no listening-tilt, no turn toward the man behind her even as he moves. This is a locked 'talking head' pose typical of limited-animation holds, with all visible motion budget spent on the mouth instead of the head.",
+    "gesture_notes": "The man's arm/hand gesture (periodic-1 through periodic-9: braced hand on the open fridge door, other hand gripping the handle) stays essentially frozen in the same held pose for many consecutive frames while only the door's occupant activity implicitly changes; by periodic-10/11/12/13 he is shown collapsed/tilted at an odd downward angle in the background holding a block of cheese, suggesting a sudden held 'frozen mid-action' gag pose (thematically fitting a 'low battery' collapse) rather than a smooth transition \u2014 the pose change reads as an abrupt jump-cut hold rather than an animated arc.",
+    "idle_motion_notes": "Background props (kettle, pot, bowl, cabinet hardware) show zero motion or breathing/settling animation across all sampled frames \u2014 a fully static set typical of economical limited animation where only the speaking character and one background gag figure are animated per shot. The woman shows no idle weight-shift, breathing chest movement, or fabric settle on her wool sweater between frames despite continuous dialogue.",
+    "frame_rate_feel": "Source is 30fps per metadata.json, but the sampled periodic frames show the woman's head and torso essentially frozen for stretches spanning multiple frames with animation concentrated almost entirely in the mouth shape and occasional pupil shift \u2014 consistent with the classic stop-motion 'shoot on 2s or 3s' feel (12-15 effective animation changes per second) rather than continuously-animated 30fps motion, giving a deliberately measured, slightly stuttery comedic cadence rather than fluid movement.",
+    "overall_animation_style_notes": "Overall this is a deadpan, minimal-motion comedic style: a single static medium shot of a flat-affect wool-felt woman delivering dialogue via mouth-only animation, with a secondary black-hooded 'low battery' character frozen mid-gesture in soft-focus background depth. The visual signature (long conical felt nose, oversized painted eyes with tiny pupils, visible wool fiber texture, pastel domestic kitchen set) reads as a deliberate Aardman/claymation homage, and the restrained, hold-heavy animation reinforces the joke premise (characters running out of 'battery'/energy) rather than aiming for naturalistic movement."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "cut_count": 3,
+    "avg_shot_length_sec": 3.658333,
+    "cuts": [
+      {
+        "timestamp": 2.566667,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the silent 'Episode 19' establishing shot of the low-battery guy staring blankly into the open fridge straight into the narrator's direct-to-camera monologue, moving from sight gag setup to verbal setup ('He always does this.') with no lingering."
+      },
+      {
+        "timestamp": 13.833333,
+        "transition_type": "hard_cut",
+        "reason": "Cuts away immediately after the narrator delivers the punchline ('It'll have nothing to do with why he opened the fridge.') straight to the black title/credit card, ending the sketch right on the joke instead of holding for a reaction."
+      },
+      {
+        "timestamp": 14.533333,
+        "transition_type": "other",
+        "reason": "A near-instant flash cut/bumper transition from the black 'Created by Nin.' credit card to a plain white card holding just the show title text, functioning as a quick branding sting rather than a story beat."
+      }
+    ],
+    "reaction_shots": [],
+    "pacing_notes": "The whole joke lives inside a single unbroken take: after a brief ~2.6s establishing shot of the fridge guy staring blankly (the visual gag), the edit holds on one continuous ~11.3s shot of the narrator explaining his behavior while he pantomimes it out of focus behind her, delivering setup and punchline without a single cut. Only once the line lands does the editing speed up sharply, snapping through a 0.7s black credit card and then a 0.1s white logo flash to close the episode fast and move on to the next one."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "voice_delivery_notes": "Single narrator (SPEAKER_00) carries the entire 15s clip in five short declarative lines. The phrasing ('He always does this.' / 'He's trying to remember why he came in here.' / 'It'll have nothing to do with why he opened the fridge.') reads as a deadpan, observational voiceover describing a character's behavior from the outside, rather than dialogue spoken by the character itself. Sentence lengths escalate slightly (4, 7, 9, 4, 11 words) before settling into the punchline, consistent with a narrator building toward a wry conclusion. This is inferred from transcript phrasing and pacing only; no audio was heard directly.",
+    "pitch_energy_notes": "No direct audio access, so pitch/energy is inferred from sentence structure and pause placement. The short, flat, matter-of-fact sentences and the consistent ~1s pauses before each new beat suggest a calm, even-keeled, low-energy delivery typical of dry comedic narration (not an excited or shouting register). The final line is longer and more elaborate than the setup lines, which could imply a slight rise in emphasis/energy for the punchline, but this is speculative without hearing the actual audio.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No evidence of background music available from transcript.json or silence_pauses.json (no on-screen music cues or captions referenced in these files), so presence cannot be confirmed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "silence_pauses.json shows a clear rhythm of ~1s holds between each narration beat: 1.112s (1.824s-2.936s) after 'He always does this.', 0.997s (4.571s-5.567s) before 'He's trying to remember why he came in here.', 1.031s (7.374s-8.405s) before 'Eventually he'll grab something.', and the longest pause in the clip, 1.115s (9.634s-10.750s), sitting right before the final punchline line 'It'll have nothing to do with why he opened the fridge.' The remaining pauses are much shorter (0.154s-0.850s) and fall within/around word boundaries rather than between full narration beats, suggesting the editor consistently uses ~1s beats to let each observation land before the next, with the single longest hold reserved for setting up the closing line."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+    "backgrounds": "Single set: a stylized stop-motion domestic kitchen. Cream/white shaker-style cabinets line the back wall, with a grey stainless range hood over a dark gas stove, a subway-tile backsplash, a grey stone countertop, a grey stone sink basin, and a tall white refrigerator positioned stage-right that stays open for most of the scene. A plain flat light-grey wall fills the right side of frame beside the fridge. No second location or exterior is shown; the whole episode plays out in this one kitchen, shot mostly in a static medium/close framing with the fridge visible in the background or foreground depending on which character is favored.",
+    "props": [
+      "open white refrigerator stocked with visible jars, produce, cheese, and containers",
+      "block of yellow cheese (handled/eaten by the black-clad character)",
+      "silver stovetop kettle on the counter",
+      "second silver kettle further back near the stove",
+      "grey stockpot on the stove",
+      "cream ceramic bowl and plate on the counter",
+      "range hood and gas stove with black knobs",
+      "small jars/spice containers on counter",
+      "wall power outlet"
+    ],
+    "lighting_notes": "Soft, even studio lighting typical of stop-motion tabletop sets, with a warm practical light glowing from inside the open fridge that lightly rims the black character's silhouette. Overall key light is diffuse and neutral (no hard shadows or dramatic contrast), keeping focus on the felted character faces; the flat grey wall on the right is lit slightly cooler/brighter than the warmer cabinetry side.",
+    "color_palette": [
+      "cream/off-white (cabinets, fridge)",
+      "warm tan/brown (female character's felted sweater and skin)",
+      "matte black (male character's felted body/hood)",
+      "cool grey (countertop, range hood, wall)",
+      "mustard yellow accent (title cards and cheese prop)"
+    ],
+    "visual_complexity_notes": "The set itself is moderately detailed (realistic-looking stop-motion kitchen with tactile props like kettles, pots, and stocked fridge shelves), but the camera keeps a shallow depth of field that blurs the background kitchen details, pushing visual focus onto the two felted character faces in the foreground. This is a deliberate choice: a richly dressed single-location set combined with selective focus keeps comedic attention on facial expressions and dialogue rather than the environment."
+  }
+}

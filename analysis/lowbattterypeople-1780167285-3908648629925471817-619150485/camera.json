@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780167285-3908648629925471817-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.566667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked static shot from directly behind the male character, symmetrical with the open fridge door filling the right two-thirds of frame; his head is cropped by the top edge at the fridge's upper shelf, both hands gripping the door edges. 'Episode 19' title card sits fixed in the top-left corner, independent of character motion. The rest of the kitchen (counter, kettle, cabinets, bowl) is fully visible and evenly lit on the left side of frame, establishing the set before the cut."
+    },
+    {
+      "start": 2.566667,
+      "end": 13.833333,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Single uninterrupted lock-off held for the whole ~11s gag: the woman is framed close and centered with modest headroom, sharp focus on her face/upper chest while the fridge and the male character stay soft in the background the entire time (fixed rack focus, never pulled even as the joke escalates). The framing itself is the punchline delivery device: the sight gag in the background (his head tips back at an odd angle, his arm and cheese-holding hand detach and float) plays out entirely inside the blurred background without any reframing or cut-in, so it is noticed only via the woman's widening eyes and dropped jaw in the sharp foreground."
+    },
+    {
+      "start": 13.833333,
+      "end": 14.533333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Static graphic title card: black background, 'LOW BATTERY PEOPLE' centered horizontally in yellow serif type, 'CREATED BY NIN.' subtitle directly beneath it, and a yellow 'NEW EPISODE DAILY' tape graphic anchored in the lower-third center. No animated character or set elements; text/graphics are the entire composition."
+    },
+    {
+      "start": 14.533333,
+      "end": 14.633333333333333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Single-frame static transition card: plain white background with only the 'LOW BATTERY PEOPLE' title text (no subtitle, no tape graphic), positioned in the same horizontal center as the prior card. Functions as a brief flash/whip transition out of the black title card."
+    }
+  ],
+  "framing_patterns_notes": "The whole reel is built from two locked-off shots and never pans, tilts, or zooms — the comedy is carried entirely by staging and a fixed rack-focus depth split (sharp woman foreground / soft man-and-fridge background) rather than any camera movement. The punchline gag is staged in the permanently out-of-focus background so the camera never 'reveals' it; the viewer only catches it via the sharp foreground character's reaction. Title/episode-number text overlays repeat the same screen positions across the intro and outro cards (episode number top-left during the cold open, main title bottom-center/centered on the closing cards)."
+}
