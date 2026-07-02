@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1781280357-3917984294739873537-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 11.633333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off two-shot on a suburban sidewalk at golden hour; man (dark suit, exaggerated long nose, sofa-shaped black torso) is left-of-center from mid-chest up, woman (brown sweater, arms crossed) is right-of-center from waist up. Both face slightly toward camera-left/each other rather than straight-on. Wide band of sky and street left empty above their heads for the yellow episode-title text that appears mid-scene, and the lower-third is reserved for burned-in captions. A second, smaller pedestrian couple walks away from camera in the mid-background on the same sidewalk, echoing the foreground pair's positioning. Frame never cuts or re-composes across the full ~11.6s scene despite many dialogue lines (confirmed identical across all periodic samples)."
+    },
+    {
+      "start": 11.633333,
+      "end": 12.066667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Same locked-off framing and background plate as the preceding scene, now static (characters no longer mid-speech) with the show title 'LOW BATTERY PEOPLE' and 'CREATED BY NIN.' credit text centered over the lower-middle of the frame, overlapping the woman's torso. Functions as an end-card freeze rather than a new camera setup."
+    },
+    {
+      "start": 12.066667,
+      "end": 12.966667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black card, no live-action/animated image. Title and credit text repeated, centered horizontally in the upper-middle of the frame, with a yellow 'NEW EPISODE DAILY' ribbon graphic centered below it and small motion-line accents flanking the ribbon. Pure graphic outro, not a camera shot of the scene."
+    }
+  ],
+  "framing_patterns_notes": "The entire dialogue portion of the video is a single unbroken static medium two-shot with zero pans, zooms, or cuts — all comedic beats and captions are delivered through dialogue/text timing rather than camera changes. Headroom above both characters is consistently oversized, clearly reserved for the episode-title text card that later appears in that same empty space. Captions are consistently placed in the lower third, below the characters' torsos, never overlapping faces. The background pedestrian pair is kept small and blurred in the midground, visually rhyming with the foreground couple without competing for attention."
+}

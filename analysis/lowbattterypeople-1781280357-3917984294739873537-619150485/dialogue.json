@@ -1,0 +1,63 @@
+{
+  "video_slug": "lowbattterypeople-1781280357-3917984294739873537-619150485",
+  "total_lines": 6,
+  "avg_words_per_line": 5.67,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.151,
+      "end": 2.273,
+      "text": "That couple's been holding hands for three blocks.",
+      "word_count": 8,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.893,
+      "end": 4.034,
+      "text": "Why don't we do that anymore?",
+      "word_count": 6,
+      "pause_before_sec": 0.61,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.435,
+      "end": 5.316,
+      "text": "We do other things.",
+      "word_count": 4,
+      "pause_before_sec": 0.36,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.836,
+      "end": 6.276,
+      "text": "Like what?",
+      "word_count": 2,
+      "pause_before_sec": 0.58,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.817,
+      "end": 9.379,
+      "text": "I let you snore and steal the duvet every night.",
+      "word_count": 10,
+      "pause_before_sec": 0.56,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 10.24,
+      "end": 11.421,
+      "text": "Holding hands is nothing.",
+      "word_count": 4,
+      "pause_before_sec": 0.91,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Six-line back-and-forth between a couple: observation (line1) leads to a rhetorical question (line2), a deflection (line3), a one-word challenge 'Like what?' (line4), an over-detailed comedic answer (line5), and a deadpan callback punchline (line6) that echoes the opening image ('holding hands'). No lines overlap and no interruption windows were found (every line starts after the prior line's end, with a measurable silence gap in between each transition) -- the rhythm is strictly call-and-response, not overlapping cross-talk. Notably, transcript.json labels all six lines as SPEAKER_00 despite this reading as a two-person exchange (one partner observes/challenges, the other rationalizes) -- the diarization pass in processed/ did not separate the two voices, so speaker attribution in this file reflects the source transcript as-is rather than an inferred second speaker.",
+  "speech_rhythm_notes": "Pauses lengthen steadily across the exchange (0.36s before line3, 0.58s before line4, 0.56s before line5) then peak at 0.91s before the final line, the longest pause of the whole clip -- matching silence_pauses.json window 9.3465-10.2558s. That longest pause directly precedes the punchline 'Holding hands is nothing.' (4 words), which lands right after the clip's longest line, 'I let you snore and steal the duvet every night.' (10 words, delivered 6.817-9.379s) -- a build-then-drop pattern: longest line, longest pause, shortest punchline. The shortest line in the clip, 'Like what?' (2 words, 5.836-6.276s), is also the setup that triggers that long buildup line, keeping the challenge terse before the rationalization expands. A brief 0.153s micro-pause also occurs mid-utterance inside line1 (1.539-1.692s, before the clip's own dialogue lines begin in earnest), consistent with a natural breath break rather than a scene gap."
+}

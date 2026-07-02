@@ -1,0 +1,70 @@
+{
+  "video_slug": "lowbattterypeople-1781280357-3917984294739873537-619150485",
+  "duration_sec": 13.076,
+  "hook": {
+    "start": 0.0,
+    "end": 2.273,
+    "description": "Cold open, no preamble: two droopy-eyed, deadpan stop-motion adults (a man in a suit, a woman with arms crossed) stand on a sunset suburban sidewalk. The man deadpans, 'That couple's been holding hands for three blocks,' as a background couple is visible walking away hand-in-hand. An episode title overlay ('Episode 32' top-left, 'The Real Love Language' centered in yellow) is stamped over this opening frame.",
+    "why_it_works": "The visual gag lands before a word is spoken: the two leads' exhausted, sagging 'low-battery' faces are staring flatly at a background couple's overt affection, so the contrast (jaded us vs. romantic them) is legible even muted. The line itself is a specific, slightly absurd observation ('three blocks') rather than a generic setup, which creates an immediate curiosity gap about why they're commenting on strangers instead of just holding hands themselves."
+  },
+  "setup": {
+    "start": 2.273,
+    "end": 5.316,
+    "description": "The woman turns the observation inward with 'Why don't we do that anymore?' The man deflects immediately with 'We do other things,' establishing the couple's actual conflict: an unspoken gap between how affectionate they used to be and how they show love now."
+  },
+  "conflict": {
+    "start": 5.316,
+    "end": 6.817,
+    "description": "She pushes back with a flat, skeptical 'Like what?', directly challenging his vague deflection and forcing him to justify the relationship in front of her (and the camera). A short beat of silence follows before he answers, both characters holding their same static, tired expressions."
+  },
+  "punchline": {
+    "start": 6.817,
+    "end": 9.379,
+    "description": "He answers completely deadpan: 'I let you snore and steal the duvet every night.' The joke reframes tolerating an annoying nightly habit as their real, unglamorous 'love language,' subverting the romantic hand-holding image from the hook."
+  },
+  "ending": {
+    "start": 11.421,
+    "end": 13.076,
+    "description": "After a brief silent reaction beat, the man tops his own joke with 'Holding hands is nothing,' delivered with the same flat confidence, then the frame holds on the couple as the same title card reappears ('LOW BATTERY PEOPLE / CREATED BY NIN.') before cutting to a black card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a yellow 'NEW EPISODE DAILY' tag graphic.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 2.273,
+      "beat_type": "hook",
+      "description": "Man observes, deadpan, that a background couple has been holding hands for three blocks; 'Episode 32: The Real Love Language' title card overlays the frame."
+    },
+    {
+      "start": 2.273,
+      "end": 5.316,
+      "beat_type": "setup",
+      "description": "Woman asks why they don't hold hands anymore; man deflects with 'We do other things,' surfacing the couple's affection gap."
+    },
+    {
+      "start": 5.316,
+      "end": 6.817,
+      "beat_type": "conflict",
+      "description": "Woman challenges him with a flat 'Like what?', demanding proof, followed by a short static pause before he responds."
+    },
+    {
+      "start": 6.817,
+      "end": 9.379,
+      "beat_type": "punchline",
+      "description": "Man delivers the core joke deadpan: 'I let you snore and steal the duvet every night,' reframing tolerated annoyances as their form of love."
+    },
+    {
+      "start": 9.379,
+      "end": 11.421,
+      "beat_type": "punchline",
+      "description": "A beat of silence, then the topper/button line 'Holding hands is nothing,' delivered with the same unbothered confidence, closing out the joke."
+    },
+    {
+      "start": 11.421,
+      "end": 13.076,
+      "beat_type": "ending",
+      "description": "Freeze on the couple with the series title overlay, then a black branding card with the show title, creator credit, and a 'NEW EPISODE DAILY' CTA tag."
+    }
+  ],
+  "narrative_notes": "At ~13s this reel is noticeably shorter than the 20-25s range and compresses setup and conflict into two single-line exchanges ('Why don't we do that anymore?' / 'We do other things.' then 'Like what?') with almost no separation between them. The punchline is delivered in two parts across a short silent reaction beat: the initial reveal ('I let you snore and steal the duvet every night.') and a topper/button ('Holding hands is nothing.') that re-tops the joke rather than introducing new information, so both are tagged punchline in the beat map rather than forcing the button into a separate category. The ending carries no character action or resolution dialogue at all -- it is purely a series branding/CTA card ('LOW BATTERY PEOPLE, CREATED BY NIN., NEW EPISODE DAILY'), consistent with this being a daily episodic format rather than a self-contained short with a narrative wrap-up."
+}

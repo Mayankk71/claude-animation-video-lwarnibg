@@ -1,0 +1,29 @@
+{
+  "video_slug": "lowbattterypeople-1781353439-3918599070935494560-619150485",
+  "cut_count": 18,
+  "avg_shot_length_sec": 0.91,
+  "cuts": [
+    {"timestamp": 1.466667, "transition_type": "jump_cut", "reason": "Cuts from the tight opening close-up ('message to all husbands') straight to a full-body side-profile walk on a plain background, jumping scale and setting to reveal the character as he introduces himself."},
+    {"timestamp": 2.3, "transition_type": "hard_cut", "reason": "Whips back to the library close-up for 'MY NAME IS,' establishing the wide/close alternating rhythm used for every boast line."},
+    {"timestamp": 3.0, "transition_type": "hard_cut", "reason": "Cuts to an insert close-up of a hand adjusting a watch right as he says 'Paul,' visually flexing a status symbol at the moment he states his identity."},
+    {"timestamp": 3.8, "transition_type": "hard_cut", "reason": "Returns to the library close-up for the delivery of 'I have taken complete control,' keeping his face the anchor for the boast."},
+    {"timestamp": 4.866667, "transition_type": "hard_cut", "reason": "Cuts to a full-body shot of him buttoning his coat with the watch visible, physically dramatizing 'complete control' as he speaks."},
+    {"timestamp": 5.633333, "transition_type": "hard_cut", "reason": "Cuts to a close-up for the punchline half of the line, 'and I fear nothing,' landing the boast on his smug expression."},
+    {"timestamp": 6.466667, "transition_type": "hard_cut", "reason": "Cuts to a coffee-pouring insert during the beat between lines, a cutaway B-roll reinforcing his 'in-control morning routine' persona."},
+    {"timestamp": 7.133333, "transition_type": "hard_cut", "reason": "Returns to a full-body wide shot for 'I wake up with purpose,' matching the established wide-then-close pattern for each affirmation."},
+    {"timestamp": 7.7, "transition_type": "hard_cut", "reason": "Quick reframe to the library close-up as the same line finishes, keeping the montage's cutting rhythm tight and punchy."},
+    {"timestamp": 8.2, "transition_type": "hard_cut", "reason": "Cuts to a full-body shot for 'I move with confidence,' continuing the one-affirmation-per-cut-pair structure."},
+    {"timestamp": 8.7, "transition_type": "hard_cut", "reason": "Cuts to a grinning close-up to close out 'I move with confidence' on his face."},
+    {"timestamp": 9.2, "transition_type": "hard_cut", "reason": "Cuts to a new wide shot with arms crossed against a city-skyline backdrop for 'I make,' raising the visual scale as the boasts escalate."},
+    {"timestamp": 9.933333, "transition_type": "hard_cut", "reason": "Cuts to a grinning library close-up to deliver 'my own decisions,' reinforcing his bravado with the recurring close-up payoff."},
+    {"timestamp": 10.633333, "transition_type": "hard_cut", "reason": "Cuts to an insert of a hand signing a document on 'I live life on,' a visual metaphor for autonomy right as the line begins."},
+    {"timestamp": 11.466667, "transition_type": "hard_cut", "reason": "Cuts back to the library close-up for 'on my terms,' his expression tightening into frustration as the setup for the twist builds."},
+    {"timestamp": 12.033333, "transition_type": "hard_cut", "reason": "Hard cut to a wide, low-angle rooftop shot right as an off-screen voice shouts 'PAUL!!!!!!,' a jarring scale change that undercuts all his big talk for the comedic reveal."},
+    {"timestamp": 13.633333, "transition_type": "hard_cut", "reason": "Cuts to a tight reaction close-up with wide startled eyes for 'Yeah? Coming!,' capturing his deflated compliance right after the punchline."},
+    {"timestamp": 14.866667, "transition_type": "hard_cut", "reason": "Cuts to the black branded end card once the joke lands, giving clean space for the show title and 'new episode daily' CTA."}
+  ],
+  "reaction_shots": [
+    {"start": 13.633333, "end": 14.866667, "description": "Close-up on Paul's face, eyes wide and startled, reacting to his wife shouting his name from off-screen before he meekly answers 'Yeah? Coming!' - deflating all his prior 'I fear nothing / I make my own decisions' bravado."}
+  ],
+  "pacing_notes": "Shots open around 0.7-1.5s while the setup (address to husbands, name, watch insert) plays out, then tighten to a brisk ~0.5-0.8s alternating wide/close pairs through the confident-affirmation montage ('I wake up with purpose... I move with confidence... I make my own decisions'), punctuated by quick B-roll inserts (watch, coffee, pen signing) that never linger. Pacing then stretches for the punchline: a 1.6s wide rooftop reveal shot for the wife's shout, a 1.2s reaction close-up for his climb-down, and finally a long ~2.4s static end card for the branding/CTA, letting the joke and the outro breathe after the rapid-fire montage."
+}

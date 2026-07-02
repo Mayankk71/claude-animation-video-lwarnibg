@@ -1,0 +1,43 @@
+{
+  "video_slug": "lowbattterypeople-1781353439-3918599070935494560-619150485",
+  "duration_sec": 17.34,
+  "hook": {
+    "start": 0,
+    "end": 6.58,
+    "description": "Cold open, direct address: the stop-motion 'Paul' character (pointed felt face, round glasses, dark suit) stares into camera in a moody library set while bold red text reads 'THIS IS THE MESSAGE TO ALL HUSBANDS'. VO: 'This is a message to all husbands. My name is Paul. I have taken complete control and I fear nothing.'",
+    "why_it_works": "The deliberately over-serious 'message to all husbands' framing, paired with an unsettling, deadpan puppet delivering it straight to camera, creates instant curiosity about what kind of 'control' he's bragging about -- setting up the reversal to come."
+  },
+  "setup": {
+    "start": 6.58,
+    "end": 12.56,
+    "description": "Rapid montage of matching-red-text affirmations -- 'I WAKE UP WITH PURPOSE', 'I MOVE WITH CONFIDENCE', 'I MAKE MY OWN DECISIONS', 'I LIVE LIFE ON MY TERMS' -- cutting between Paul posing full-body on a plain grey stage (confident stride, chest out) and live-action stock inserts of a hand signing a notebook, visually building the image of a fully self-directed 'alpha husband'."
+  },
+  "conflict": {
+    "start": 12.56,
+    "end": 13.63,
+    "description": "Mid-swagger the scene hard-cuts to Paul posed like a caped hero on a rooftop against a city skyline while giant red text screams 'PAUL!!!!!!!!' across the frame -- an implied off-screen shout (his wife) that is not captioned as spoken dialogue in the transcript, only rendered as a scream-text card, instantly puncturing the montage."
+  },
+  "punchline": {
+    "start": 13.63,
+    "end": 14.98,
+    "description": "Cut back to the library close-up: Paul's eyes snap wide with alarm as on-screen text reads 'YEAH COMINIG' (sic) while he stammers 'Yeah?' then immediately 'Coming!'. The entire 'I fear nothing / I make my own decisions' persona collapses into instant, cowed obedience the moment he's summoned, delivering the joke that his declared 'control' was pure fantasy."
+  },
+  "ending": {
+    "start": 14.98,
+    "end": 17.34,
+    "description": "Cut to a black title card closing the episode: gold script 'LOW BATTERY PEOPLE' with 'CREATED BY NIN.' beneath it, and a yellow tape-style badge stamped 'NEW EPISODE DAILY'.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {"start": 0, "end": 2.41, "beat_type": "hook", "description": "Library close-up on Paul, red text 'THIS IS THE MESSAGE TO ALL HUSBANDS', VO: 'This is a message to all husbands.'"},
+    {"start": 2.41, "end": 6.58, "beat_type": "hook", "description": "VO: 'My name is Paul. I have taken complete control and I fear nothing.' Text overlays step through 'I HAVE' etc. as he introduces himself and his boast."},
+    {"start": 6.58, "end": 8.24, "beat_type": "setup", "description": "'I wake up with purpose' -- full-body grey-stage pose, text 'I WAKE UP WITH PURPOSE'."},
+    {"start": 8.24, "end": 9.34, "beat_type": "setup", "description": "'I move with confidence' -- library close-up with a confident grin, text 'I MOVE WITH CONFIDENCE'."},
+    {"start": 9.34, "end": 10.62, "beat_type": "setup", "description": "'I make my own decisions' -- live-action stock insert of a hand signing a notebook to visually 'prove' autonomy."},
+    {"start": 10.62, "end": 12.56, "beat_type": "setup", "description": "'I live life on my terms' -- continued signing insert, text 'I LIVE LIFE ON', completing the affirmation montage."},
+    {"start": 12.56, "end": 13.63, "beat_type": "conflict", "description": "Hard cut to a rooftop hero pose against the skyline; giant red text 'PAUL!!!!!!!!' represents an off-screen shout that interrupts the montage with no matching transcript dialogue."},
+    {"start": 13.63, "end": 14.98, "beat_type": "punchline", "description": "Startled library close-up, text 'YEAH COMINIG'; VO 'Yeah?' then 'Coming!' as the confident persona instantly deflates into obedience."},
+    {"start": 14.98, "end": 17.34, "beat_type": "ending", "description": "Black outro card: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and a 'NEW EPISODE DAILY' badge."}
+  ],
+  "narrative_notes": "Setup is a single continuous 4-line affirmation montage rather than four distinct setup beats, so it is treated as one setup segment with finer beat_map entries for traceability. The conflict beat is extremely compressed (about 1 second) and is carried entirely by a text-overlay scream ('PAUL!!!!!!!!') with no corresponding line in transcript.json -- the interruption is visual/typographic, not spoken. The punchline's final word ('Coming!', ending 14.982s per transcript) audibly spills a few frames into the start of the outro card (which visually begins at 14.867s per scene_boundaries.json); the cut point of 14.98 was chosen to keep the punchline and ending non-overlapping in this file while reflecting that near-simultaneity. This is part of an ongoing series ('Low Battery People' / new episode daily), so the hook doubles as a franchise-recognizable character intro (Paul) rather than a one-off setup."
+}

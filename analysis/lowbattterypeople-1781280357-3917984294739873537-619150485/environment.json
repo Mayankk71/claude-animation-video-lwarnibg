@@ -1,0 +1,17 @@
+{
+  "video_slug": "lowbattterypeople-1781280357-3917984294739873537-619150485",
+  "backgrounds": "A single continuous location: a suburban residential sidewalk at golden-hour/sunset. A quiet neighborhood street runs alongside the sidewalk, lined with single-family houses, manicured hedges and rounded topiary trees, wooden telephone poles with overhead wires, and a parked car or two in the soft-focus distance. The sky is a warm gradient from pale gold near the horizon fading to dusky blue-grey above. The camera stays locked on the same stretch of sidewalk for the entire scene (no location changes), with the two main characters in sharp focus foreground and background pedestrians/houses rendered in shallow depth-of-field blur.",
+  "props": [
+    "green plastic curbside trash/recycling bin",
+    "wooden telephone poles with overhead power lines",
+    "trimmed rounded hedges and topiary trees lining the lawns",
+    "concrete sidewalk and paved road with visible lane texture",
+    "background houses with visible rooftops and porches",
+    "a parked car blurred in the background",
+    "a large dark rectangular block/pillar the male character stands behind (a stylized, oversized felt-textured monolith shape suggesting a slab-like torso, core visual gag of the character design)",
+    "duplicate background pedestrian couples (same character models reused, walking away down the sidewalk)"
+  ],
+  "lighting_notes": "Warm, soft golden-hour backlighting/rim light from a low sun behind the characters, creating gentle highlights on hair and shoulders and long soft shadows across the lawn and sidewalk. Foreground characters are lit slightly cooler/more neutral for readability against the warm sky, giving a filmic, romantic dusk mood typical of stop-motion cinematography.",
+  "color_palette": ["warm golden-amber sky", "muted olive/sage green lawns and hedges", "matte black (character suit block and skirt)", "warm peach skin tone", "warm brown/tan sweater", "off-white shirt collar", "soft grey concrete sidewalk", "bright yellow title text accent"],
+  "visual_complexity_notes": "The set is a single, moderately detailed but static suburban backdrop that stays fixed across the whole video (no cuts to new environments), keeping visual complexity low relative to a live-action location so viewer attention stays on the two characters' faces and dialogue exchange in the foreground. The felt/wool stop-motion texture on characters and hedges adds tactile detail without competing colors, and the shallow depth of field deliberately blurs the background clutter (houses, extras, poles) to reduce visual noise during the joke's delivery."
+}

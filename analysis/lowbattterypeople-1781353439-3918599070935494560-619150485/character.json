@@ -1,0 +1,59 @@
+{
+  "video_slug": "lowbattterypeople-1781353439-3918599070935494560-619150485",
+  "characters": [
+    {
+      "name_or_role": "Paul (husband, on-screen protagonist)",
+      "personality_traits": [
+        "Self-important and performative, delivering his affirmations like a motivational-speaker monologue rather than a private thought",
+        "Outwardly domineering ('I have taken complete control', 'I make my own decisions', 'I live life on my terms') while the visuals repeatedly undercut that claim",
+        "Vain / image-conscious, cast in grand backdrops (library, glass-tower skyline, windswept rooftop with his coat billowing like a cape) that inflate his self-image",
+        "Ultimately submissive underneath the bravado, instantly dropping the act and obeying the second his name is shouted"
+      ],
+      "emotional_range": [
+        "stern, drowsy-eyed authority (opening lines)",
+        "clenched-jaw irritation/defiance while boasting",
+        "smug, tooth-baring pride ('I move with confidence', 'I make my own decisions')",
+        "sudden wide-eyed shock/fear when interrupted",
+        "meek, deflated compliance in the final beat"
+      ],
+      "expressions": [
+        "0:00-0:03 heavy-lidded, unimpressed stare over round glasses while introducing himself ('This is a message to all husbands... My name is Paul')",
+        "0:04-0:07 furrowed brow, bared-teeth snarl on 'I have taken complete control and I fear nothing'",
+        "0:07-0:09 flat, half-lidded seriousness on 'I wake up with purpose'",
+        "0:08-0:09 smirking, closed-eyed grin of self-satisfaction on 'I move with confidence' (crossed arms, chin up against a city skyline)",
+        "0:09-0:11 wide, toothy grin with fists clenched at chest on 'I make my own decisions'",
+        "0:11-0:12 stern narrowed eyes signing a document ('I live life on my terms')",
+        "0:12-0:13 arms flung open on a rooftop, coat flapping like a cape, chest puffed out in a triumphant hero pose",
+        "0:13 abrupt cut to bulging, saucer-wide eyes and a dropped, trembling jaw the instant 'PAUL!!!!!' is shouted off-screen",
+        "0:13-0:15 sheepish, shrunken-shoulder look delivering a small 'Yeah?' then 'Coming!' in a noticeably smaller, higher, less confident voice than his opening lines"
+      ],
+      "gestures": [
+        "Held mostly in a static waist-up torso shot for the affirmation lines, using only eyebrow/eye movement and jaw motion for emphasis",
+        "Arms crossed over chest on 'I move with confidence' — a classic power pose, undercut by comic delivery",
+        "Fists clenched and pumped toward camera on 'I make my own decisions'",
+        "Cut to a close-up of a hand signing a document with a fountain pen on 'I live life on my terms', implying grandiosity/importance",
+        "Arms thrown wide open, standing atop a skyscraper with coat flaring like a cape on the peak 'hero' beat",
+        "Whole body stiffens and freezes the moment his name is shouted, arms still outstretched but posture instantly reads as caught/busted",
+        "Walks off camera-left in a brisk, obedient little shuffle immediately after saying 'Coming!' (implied by final scene direction)"
+      ],
+      "interactions_notes": "Paul is the only character ever shown on screen; he addresses the camera directly for the entire piece, as if narrating a mantra/manifesto to 'all husbands'. The second character in the joke — presumably his wife — never appears visually and has no transcribed dialogue of her own; she exists only as an off-screen shouted 'PAUL!!!!!' text/sound cue that instantly punctures his monologue. The power dynamic is the entire gag: every line builds Paul up as dominant and in control, staged with increasingly grandiose settings (private library, corner office skyline, rooftop), and the single off-screen interruption collapses that persona in under a second, revealing he is actually meek and reactive toward the unseen wife. There is no real back-and-forth exchange; the 'interaction' is a one-line ambush that recontextualizes everything said before it."
+    },
+    {
+      "name_or_role": "Unseen wife (off-screen, implied)",
+      "personality_traits": [
+        "Commanding despite never appearing on camera — a single shouted word is enough to instantly override Paul's stated independence",
+        "Functions as the true authority in the relationship, contradicting Paul's opening claims"
+      ],
+      "emotional_range": [
+        "implied stern/impatient (conveyed only through the abrupt, all-caps, exclamation-heavy on-screen cue 'PAUL!!!!!' and Paul's terrified reaction to it)"
+      ],
+      "expressions": [
+        "not visually depicted at any point in the keyframes"
+      ],
+      "gestures": [
+        "not visually depicted at any point in the keyframes"
+      ],
+      "interactions_notes": "Never shown or heard as transcribed dialogue (the transcript only credits SPEAKER_00, i.e. Paul); her presence is entirely inferred from the on-screen text 'PAUL!!!!!' at roughly 0:12-0:13 and from Paul's instantaneous, obedient response ('Yeah?' ... 'Coming!'). She is the punchline device rather than a depicted character, existing purely to expose the gap between Paul's self-description and his actual behavior."
+    }
+  ]
+}

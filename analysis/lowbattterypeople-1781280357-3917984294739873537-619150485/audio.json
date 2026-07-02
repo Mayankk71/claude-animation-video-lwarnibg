@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1781280357-3917984294739873537-619150485",
+  "voice_delivery_notes": "Transcript has six short lines all tagged as SPEAKER_00 despite reading as a two-sided couple's conversation (a question/observation, a rebuttal, a comeback, a punchline) — this is inferred from diarization data, not confirmed by ear, so it may mean a single narrator voices both sides, or the diarization simply failed to split two similar-sounding voices. Lines are short and clipped (2-10 words each), consistent with a rapid back-and-forth conversational rhythm typical of a stop-motion comedy skit rather than monologue delivery.",
+  "pitch_energy_notes": "Inferred from punctuation and phrasing only, not heard directly. ‘Why don't we do that anymore?’ and ‘Like what?’ are phrased as questions, implying rising inflection typical of genuine or needling curiosity. ‘We do other things.’ and ‘Holding hands is nothing.’ are flat declarative statements, implying a deadpan/dismissive delivery consistent with dry comedic timing, especially since ‘Holding hands is nothing.’ follows the longest pause in the clip and functions as the punchline — likely delivered with a flatter, more confident or sarcastic energy than the setup lines.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music cues are present in transcript.json or silence_pauses.json (no on-screen text or keyframe evidence was reviewed for this pass), so presence of music cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json shows the longest pause in the clip (0.909s, from 9.3465s to 10.2558s) falls directly between the setup line ending 'I let you snore and steal the duvet every night.' and the punchline 'Holding hands is nothing.' — a classic comedic beat-before-punchline hold. The second-longest pause (0.833s, 12.16s to 12.993s) occurs right after the punchline line ends, functioning as a landing/button silence to let the joke sit before the clip closes. Mid-conversation pauses are shorter and more even (0.608s after 'Why don't we do that anymore?', 0.577s after 'Like what?', 0.560s before 'I let you snore...'), consistent with natural conversational turn-taking rather than deliberate comedic emphasis."
+}
