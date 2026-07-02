@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1781113201-3916583590963878147-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.502,
+      "end": 1.745,
+      "mechanism": "irony",
+      "description": "The wife opens with a flat, self-satisfied claim, \"I don't bottle things up,\" delivered mid tea-sip while her husband is already visibly mid-cabinet-slam in the background of the same frame.",
+      "why_it_lands": "In the scene-0 and periodic-1 keyframes her eyelids are half-lowered and her expression totally placid (a classic droopy, unbothered stop-motion 'deadpan' face) while, over her shoulder, the husband's arm is already reaching up into a cabinet with visible tension — the visual evidence contradicts her claim before she even finishes the sentence, so the irony is baked into the single shot rather than needing a cutaway."
+    },
+    {
+      "start": 3.248,
+      "end": 7.558,
+      "mechanism": "other",
+      "description": "hyperspecificity — she quantifies her husband's passive-aggression with clinical exactness: he has been \"closing every cabinet in this house with exactly 1% too much force... since Thursday,\" turning an emotional behavior into something read out like a device spec.",
+      "why_it_lands": "The line is delivered in the exact same flat, unbothered register as the opening line (word-by-word bold captions THINGS / FORCE / THURSDAY reinforce the clipped, matter-of-fact rhythm), so the joke isn't the accusation itself but the absurdly precise \"1%\" measurement applied to a mood — it plays like a diagnostic readout, setting up the show's literal battery-percentage conceit before the title card ever names it."
+    },
+    {
+      "start": 3.248,
+      "end": 10.785,
+      "mechanism": "other",
+      "description": "juxtaposition — throughout the whole cabinet-slamming monologue, the frame holds both of them in the same static two-shot: she is serene and seated, sipping tea with small, careful hand movements; he is stiff-limbed and oversized (his black coat reads almost like a couch bolted to his back), yanking dishes and cabinet doors with visibly excess force.",
+      "why_it_lands": "The keyframes (periodic-8 through periodic-11) never cut away from this composition — her stillness and his agitation are staged in constant simultaneous view, so the gag isn't a punchline but a sustained visual contrast that keeps escalating the longer the shot holds."
+    },
+    {
+      "start": 7.878,
+      "end": 10.785,
+      "mechanism": "recognition",
+      "description": "The punchline lands: \"I don't know what I did Thursday, but the cabinets are paying for it,\" naming the specific, widely-recognizable relationship dynamic of taking out unspoken anger on objects instead of the person.",
+      "why_it_lands": "The line's timing coincides almost exactly with the episode-title overlay \"COLLATERAL DAMAGE\" seen in periodic-9, so the caption and the dialogue confirm the same idea at once — it reads less like a joke setup/punchline and more like a shared, rueful nod at behavior the audience has personally witnessed or done, which is what makes it land as recognition rather than surprise."
+    },
+    {
+      "start": 10.785,
+      "end": 13.676,
+      "mechanism": "callback",
+      "description": "A hard cut to black follows the punchline, held through two consecutive pauses (0.955s, then 1.448s — by far the longest gaps in the whole clip) before the gold-lettered title \"LOW BATTERY PEOPLE\" appears.",
+      "why_it_lands": "The nearly 2.4 seconds of held silence functions as a \"let that sink in\" beat, and the title itself retroactively reframes the earlier \"exactly 1%\" line as a literal battery-percentage joke rather than just hyperbole — the reveal calls back to and re-contextualizes dialogue the audience just heard, which is what makes the delayed title drop feel like a punchline rather than a plain logo card."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a recurring-series format (\"Episode 31\") built on a single-speaker deadpan monologue: the wife narrates/comments on her husband's behavior in a flat, unbroken tone while he silently performs the emotional content physically (slamming cabinets, forcefully unloading dishes) in the same static two-shot — the joke engine is the gap between her verbal composure and his visible physical excess, resolved by an absurdly precise numeric detail (\"1% too much force\") that only pays off once the show's title (\"Low Battery People\") is revealed at the end, turning the whole scene into a literalized battery/appliance metaphor for repressed anger. Word-by-word bold captions keep pace with the flat vocal delivery, and the longest silences in the piece are reserved for the post-punchline beat right before the title card, giving the gut-punch line room to breathe before the branding payoff."
+}
