@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1780320034-3909930001491145913-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 3.54,
+  "cuts": [
+    {
+      "timestamp": 4.4,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot of the bedroom (subtitle 'with') straight into a tight close-up on the husband's scowling face (subtitle 'will'), punching in right as his line escalates for emphasis."
+    },
+    {
+      "timestamp": 8.8,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out from the husband's close-up to the wide two-shot (subtitle 'Ask') to bring the wife's reaction back into frame as the exchange continues, resetting the geography for the next beat of dialogue."
+    },
+    {
+      "timestamp": 13.1,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut from the live-action-style bedroom scene straight to the black title/outro card ('LOW BATTERY PEOPLE / CREATED BY NIN.'), ending the skit abruptly right after the punchline exchange."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 4.4,
+      "end": 8.8,
+      "description": "Tight close-up on the husband's annoyed, wide-eyed face as he snaps back mid-argument, isolating his reaction rather than showing both characters."
+    }
+  ],
+  "pacing_notes": "The two dialogue shots are nearly identical in length (~4.4s and ~4.3s), giving the argument a steady, even rhythm rather than accelerating cuts. The final shot is much shorter (~1.1s), an abrupt jump straight to the black title/outro card immediately after the punchline line, giving the piece a clipped, sudden stop rather than a wind-down."
+}

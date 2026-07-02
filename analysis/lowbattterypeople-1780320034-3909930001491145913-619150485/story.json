@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1780320034-3909930001491145913-619150485",
+  "duration_sec": 14.164042,
+  "hook": {
+    "start": 0.752,
+    "end": 4.4,
+    "description": "Wide two-shot of an elderly stop-motion couple in a lamp-lit bedroom: the husband (stern, glasses, grey suit-coat) suddenly issues a jarring ultimatum to his wife, 'Let me go out with the boys, or you will regret this,' while she keeps calmly reading a book beside him.",
+    "why_it_works": "The line is a pattern-interrupt: an unexpectedly aggressive, high-stakes threat from a claymation grandpa-type character, paired with his wife's total lack of reaction, creates instant tonal whiplash and curiosity about how she'll respond."
+  },
+  "setup": {
+    "start": 0.0,
+    "end": 0.752,
+    "description": "A near-silent establishing beat (scene-0 keyframe) before any dialogue: the couple is shown seated on the edge of a bed, he rigid and glaring, she serene with a book in hand and a warm bedside lamp lighting the room, quietly establishing their mismatched dynamic."
+  },
+  "conflict": {
+    "start": 4.4,
+    "end": 9.766,
+    "description": "The camera cuts to a tight close-up on the husband's furious, wide-eyed face as he finishes the threat ('...you will regret this'), then holds briefly in silence while the wife glances over at him, still unbothered and still holding her open book, letting the tension of his demand sit unanswered."
+  },
+  "punchline": {
+    "start": 9.766,
+    "end": 12.47,
+    "description": "The wife replies with a flat, one-word 'Interesting,' then adds 'Ask again in your normal voice' -- a calm, deadpan comeback that instantly deflates his threat and flips the power dynamic, implying his aggressive tone has no leverage over her."
+  },
+  "ending": {
+    "start": 12.47,
+    "end": 14.164042,
+    "description": "A brief held reaction shot on the couple gives way to a hard cut to a black title card reading 'LOW BATTERY PEOPLE' with 'CREATED BY NIN.' beneath it.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / ticket-style badge reading 'NEW EPISODE DAILY'"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 0.752,
+      "beat_type": "setup",
+      "description": "Silent establishing wide shot: stern husband and calmly-reading wife seated on a bed under warm lamplight, before any line is spoken."
+    },
+    {
+      "start": 0.752,
+      "end": 4.4,
+      "beat_type": "hook",
+      "description": "Husband opens with the attention-grabbing ultimatum: 'Let me go out with the boys, or you will regret this,' delivered in the same wide two-shot."
+    },
+    {
+      "start": 4.4,
+      "end": 9.766,
+      "beat_type": "conflict",
+      "description": "Cut to close-up on the husband's enraged face completing the threat, followed by a silent beat where the wife looks over, unfazed, book still in hand."
+    },
+    {
+      "start": 9.766,
+      "end": 12.47,
+      "beat_type": "punchline",
+      "description": "Wife's two-part deadpan reply, 'Interesting... Ask again in your normal voice,' delivered evenly while still holding her book, undercutting the threat entirely."
+    },
+    {
+      "start": 12.47,
+      "end": 14.164042,
+      "beat_type": "ending",
+      "description": "Short held reaction shot cuts to a black branding card: 'LOW BATTERY PEOPLE, CREATED BY NIN.' with a 'NEW EPISODE DAILY' badge."
+    }
+  ],
+  "narrative_notes": "At only ~14s, hook and setup are almost entirely fused: the video opens on a sub-1-second silent establishing frame (setup) immediately followed by the husband's ultimatum line, which itself functions as the hook. There is no separate scene of 'normalcy' before the conflict is introduced -- the couple is already mid-tension in frame one. The conflict beat is carried visually (a cut to close-up plus a silent reaction pause) rather than through additional dialogue, since the transcript contains only two lines total. The punchline is a two-beat deadpan delivery ('Interesting.' then, after a short pause, 'Ask again in your normal voice.') rather than a single quip. The ending is not a narrative resolution of the couple's conflict (we never see him comply or retreat) but a straight cut to a static series branding/CTA card, which is standard for this recurring-character short-form format ('Low Battery People')."
+}

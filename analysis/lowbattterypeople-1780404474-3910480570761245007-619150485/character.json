@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1780404474-3910480570761245007-619150485",
+  "characters": [
+    {
+      "name_or_role": "the man (seesaw, black cloak, glasses) - sole speaker",
+      "personality_traits": [
+        "self-deprecating and quick to preempt criticism (\"I've already lost an argument that hasn't started yet\")",
+        "defensive/anxious under a partner's silent scrutiny",
+        "deadpan sarcastic humor delivered in a flat, resigned tone rather than agitated",
+        "conflict-avoidant but wordy - fills silence with rationalizing rather than confronting directly"
+      ],
+      "emotional_range": [
+        "weary resignation",
+        "mild indignation",
+        "flustered defensiveness",
+        "pleading self-pity played for comedy"
+      ],
+      "expressions": [
+        "0:00 neutral, half-lidded tired eyes as he opens his mouth to speak (\"Don't\")",
+        "~0:02 eyebrows lift slightly, mouth pulled into a small incredulous purse on \"like what\"",
+        "~0:04-0:05 brow furrows, mouth opens wider as he leans into the complaint (\"I've already lost...\")",
+        "~0:05 (\"At\") most animated beat - eyes widen behind glasses, head tilts back as he touches his face",
+        "~0:07-0:08 (\"first\"/\"you\") expression softens into a tired, pleading half-smile as he finishes the line"
+      ],
+      "gestures": [
+        "hands gripping the seesaw handle, torso upright and still through the opening lines",
+        "~0:05 both hands rise together to his glasses/face in a flustered, self-conscious adjusting motion (coincides with the most emphatic word of the line)",
+        "hands return to the handle by the end of the line, body settling back into stillness",
+        "large black cloak draped over his shoulders shifts like wings when his hands lift, visually exaggerating the defensive gesture"
+      ],
+      "interactions_notes": "He is the only one who speaks and the only one who moves expressively; he never fully holds her gaze, instead glancing off or reacting to her stare rather than meeting it head-on, reinforcing that he is on the back foot in this exchange."
+    },
+    {
+      "name_or_role": "the woman (seesaw, brown sweater, bun) - silent counterpart",
+      "personality_traits": [
+        "stoic and quietly judgmental - conveys disapproval entirely through a held stare rather than words",
+        "patient but skeptical, unmoved by his preemptive excuses",
+        "composed and still, functioning as the emotional 'straight man' against his fidgety wordiness"
+      ],
+      "emotional_range": [
+        "flat, unimpressed skepticism",
+        "faint, simmering disapproval that never escalates or breaks"
+      ],
+      "expressions": [
+        "0:00-0:08 (entire clip) near-static half-lidded, narrow-eyed stare directed at him - the 'look' referenced in the on-screen title ('That Look') - shows essentially no change across the whole sequence",
+        "mouth remains flat and closed throughout, no smile or frown shift even as his tone escalates"
+      ],
+      "gestures": [
+        "hands resting motionless on the seesaw handle for the full duration",
+        "upright, unmoving posture contrasted against his shifting cloak and hand movements - her stillness itself reads as the gesture/punchline"
+      ],
+      "interactions_notes": "She never speaks and barely moves, but her fixed stare is the scene's entire source of tension - he is visibly reacting and defending himself against a judgment she hasn't voiced. The physical seesaw, balanced and static between them, mirrors the power dynamic: she holds steady ground while he does all the emotional and verbal work to try to shift it."
+    }
+  ]
+}

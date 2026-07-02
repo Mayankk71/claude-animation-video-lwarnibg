@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780320034-3909930001491145913-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off symmetrical two-shot on the bed: husband (dark robe, scowling) frames the left third, wife (brown sweater, reading) frames the right third, with the backlit window curtain as a near-dead-center vertical divider. Both heads sit at the same height with generous even headroom, and the bed's footboard/blanket crops the lower legs. Warm lamp glow on the right edge balances the cool window light on the left, keeping the shot visually symmetrical. Caption text is burned in centered in the lower third across all frames in this shot."
+    },
+    {
+      "start": 4.4,
+      "end": 8.8,
+      "shot_type": "over_shoulder",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a tight push-in on the husband's face, shot past the wife's blurred shoulder/ear in the right foreground (shallow depth of field, background reduced to a soft blue gradient). He's held slightly left of center, hair grazing the top of frame with minimal headroom, isolating his angry expression for the dialogue punch (\"you / will / regret / this.\"). Framing is identical across all sampled frames in this shot -- no reframing or push during the line, just a static held close-up."
+    },
+    {
+      "start": 8.8,
+      "end": 13.1,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Cuts back to the exact same locked-off two-shot framing as the opening shot (same camera position, same symmetrical left/right character split, same warm/cool lighting balance), now with the wife turned toward him mid-reply (mouth open, eyebrow raised). Reusing the identical wide setup for the reaction creates a shot/reverse rhythm built entirely through cutting rather than camera movement or reframing."
+    },
+    {
+      "start": 13.1,
+      "end": 14.066666666666666,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "End card: title first appears overlaid on the live wide two-shot, then settles on a plain black background. Text is centered and symmetrical -- \"LOW BATTERY PEOPLE\" in large gold serif type, \"CREATED BY NIN.\" in smaller white type beneath it, and a yellow ticket-shaped \"NEW EPISODE DAILY\" badge with small burst marks centered at the bottom. No camera motion; it's a static graphic card."
+    }
+  ],
+  "framing_patterns_notes": "The video alternates between a locked-off symmetrical wide two-shot (used for setup and for the wife's reaction) and a tight static over-the-shoulder close-up on the husband for his angry punchline delivery -- the wide shot is reused with identical framing on the return cut rather than varied, so the shot/reverse feel comes purely from editing, not blocking or camera movement. There is no pan, tilt, zoom, or handheld movement anywhere in the clip; every shot is a static setup and all cuts are hard cuts. Captions are consistently centered in the lower third in both the wide and close-up shots. Lighting stays consistent across shots (cool window backlight vs. warm lamp light), reinforcing the sense that camera setups, not lighting, differentiate the two recurring shot types."
+}

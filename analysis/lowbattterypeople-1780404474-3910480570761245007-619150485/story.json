@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1780404474-3910480570761245007-619150485",
+  "duration_sec": 11.774708,
+  "hook": {
+    "start": 0.0,
+    "end": 2.32,
+    "description": "Cold open, mid-argument: the phone-headed stop-motion character on the seesaw snaps 'Don't look at me like that... like what?' at the felted woman across from him, who is giving him a flat, disapproving side-eye. No context is given for what triggered it. Text overlay reads 'THAT LOOK' with 'Episode 23' branding in the corner, and word-synced captions ('DON'T') reinforce the opening line.",
+    "why_it_works": "Drops the viewer into an already-tense exchange with zero preamble, so the disapproving stare itself becomes the mystery/hook; the character's defensive, exasperated tone plus the on-screen title 'THAT LOOK' immediately signals the joke is about being silently judged, which is instantly relatable and demands the viewer keep watching to see how he defends himself."
+  },
+  "setup": {
+    "start": 2.32,
+    "end": 5.11,
+    "description": "He explains the specific grievance: 'like I've already lost an argument that hasn't started yet' (captioned 'ALREADY' around this point). This establishes the comedic premise of the whole episode -- he's being pre-judged by a look before any actual words or wrongdoing have occurred, within the recurring park-bench seesaw setting of the 'Low Battery People' series."
+  },
+  "conflict": {
+    "start": 5.11,
+    "end": 8.19,
+    "description": "He pleads for fairness: 'At least let me say something wrong first before you...' (captioned 'LET' around this point) -- the tension is the imbalance between the accusing look and his desire to actually be heard before being blamed, mirrored visually by the two characters frozen at opposite ends of the seesaw, neither side moving or breaking eye contact."
+  },
+  "punchline": {
+    "start": 8.19,
+    "end": 8.754,
+    "description": "The sentence lands on '...convict me' -- escalating a petty relationship side-eye into courtroom language, which is the comedic twist: he's being 'tried' for a crime he hasn't committed yet. Dialogue ends exactly at 8.754s."
+  },
+  "ending": {
+    "start": 8.754,
+    "end": 11.774708,
+    "description": "A silent beat: both characters hold their deadpan expressions on the seesaw with no further dialogue, letting the punchline breathe before the shot resolves into the series outro card over the same static frame.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / Created by Nin. (end-card title overlay, with 'Episode 23' shown throughout via corner branding)"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.32, "beat_type": "hook", "description": "In-media-res accusatory stare; 'Don't look at me like that... like what?' with 'THAT LOOK' title overlay and 'Episode 23' branding."},
+    {"start": 2.32, "end": 5.11, "beat_type": "setup", "description": "'like I've already lost an argument that hasn't started yet' -- establishes the premise of being pre-judged before speaking."},
+    {"start": 5.11, "end": 8.19, "beat_type": "conflict", "description": "'At least let me say something wrong first before you...' -- plea for fairness, visual standoff held static on the seesaw."},
+    {"start": 8.19, "end": 8.754, "beat_type": "punchline", "description": "'...convict me' -- petty stare escalated to a courtroom verb, landing the joke."},
+    {"start": 8.754, "end": 11.774708, "beat_type": "ending", "description": "Silent deadpan hold, then the 'LOW BATTERY PEOPLE / Created by Nin.' end-card text overlay fades in over the same frozen composition."}
+  ],
+  "narrative_notes": "This entry is markedly shorter (11.77s) than the typical 20-25s reel and consists of a single unbroken scene/shot (scene_boundaries.json lists only one scene, 0-11.63s) with one continuous 30-word monologue from a single speaker (SPEAKER_00). Because there is no cutaway, no scene change, and no second character line, hook/setup/conflict are not visually distinct beats but are compressed into consecutive clauses of the same sentence, separated here by content rather than by shot changes. The punchline is a single word ('convict') rather than a full clause. There is no verbal CTA; the only 'ending' text is the series/episode branding end-card, which functions as outro rather than a call to action."
+}

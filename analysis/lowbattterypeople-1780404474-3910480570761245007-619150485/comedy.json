@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780404474-3910480570761245007-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.372,
+      "end": 2.723,
+      "mechanism": "recognition",
+      "description": "Man opens with 'Don't look at me like that,' then answers his own imagined pushback with a flat 'like what,' voicing the accusing partner's side of a conversation she hasn't spoken aloud.",
+      "why_it_lands": "The keyframes show the woman's face never actually changes expression (half-lidded, dead-flat side-eye held the entire scene) while he supplies her rebuttal for her -- the audience instantly recognizes the universal experience of being silently judged by a partner and pre-emptively arguing with a look that hasn't said a word."
+    },
+    {
+      "start": 2.723,
+      "end": 5.062,
+      "mechanism": "irony",
+      "description": "'I've already lost an argument that hasn't started yet' -- a logically paradoxical claim: he is declaring defeat in a debate that, by his own account, has not begun.",
+      "why_it_lands": "The 0.75s pause that follows (5.062-5.814 in silence_pauses.json) lets the contradiction sit before he pivots to his rebuttal, giving the line room to register as a self-aware punchline rather than a throwaway complaint."
+    },
+    {
+      "start": 5.814,
+      "end": 8.754,
+      "mechanism": "escalation",
+      "description": "'At least let me say something wrong first before you convict me' escalates the metaphor from a casual 'argument' to a full courtroom 'convict,' framing a park-bench seesaw spat as a criminal trial.",
+      "why_it_lands": "The clipped delivery is broken by two short pauses (7.387-7.921s and 8.483-8.640s from silence_pauses.json) right around 'say something wrong first' and 'before,' mimicking the halting cadence of someone building a legal defense in real time, which sells the mock-gravity of the courtroom escalation."
+    },
+    {
+      "start": 8.754,
+      "end": 11.671,
+      "mechanism": "awkward_silence",
+      "description": "After his closing line the scene holds on the woman's unmoved stare with no reply, no seesaw movement, and no cut, running nearly 3 uninterrupted seconds including a final 1.79s silent stretch (9.886-11.671 per silence_pauses.json).",
+      "why_it_lands": "Her total non-reaction -- captured identically across periodic keyframes 3, 6, and 9 with the same flat brow and pursed mouth -- is the actual punchline: his entire courtroom-style defense visibly fails to move the needle, and the held static wide shot on the seesaw lets that silence do the punching instead of a line."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole bit is a single unbroken 11.6s wide shot (per scene_boundaries.json, one scene only) of two felt stop-motion figures balanced on a park seesaw, one built like a boxy black appliance/device torso -- the visual pun behind the series title 'Low Battery People,' framing relationship exhaustion as a drained battery. There is no cutaway, no reaction-shot editing, and no score swell; the comedy rides entirely on a single unbroken monologue delivered against a silent, motionless scene partner, so pacing and pause length (measured precisely in silence_pauses.json) carry the escalating self-argument from wounded opener to mock-legal defense to a deflating silent non-response."
+}

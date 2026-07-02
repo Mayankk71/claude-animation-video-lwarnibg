@@ -1,0 +1,59 @@
+{
+  "video_slug": "lowbattterypeople-1780320034-3909930001491145913-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (SPEAKER_01)",
+      "personality_traits": [
+        "blustery and demanding, tries to issue an ultimatum to assert authority",
+        "quick to anger, physically rigid and tense rather than relaxed at rest",
+        "brittle confidence that collapses the moment he is challenged",
+        "old-fashioned/formal appearance (glasses, buttoned coat, tie) suggesting a self-image of quiet authority that the scene undercuts"
+      ],
+      "emotional_range": [
+        "simmering irritation at the start (furrowed brow, downturned mouth)",
+        "aggressive/threatening while delivering the ultimatum, voice straining as if losing power",
+        "confused and deflated when his wife calmly dismisses him",
+        "open-mouthed, wide-eyed shock/discomfort as he processes being called out"
+      ],
+      "expressions": [
+        "0:00 - seated on bed, jaw set, eyebrows angled down in a fixed scowl",
+        "0:01-0:04 - scowl deepens, mouth opens into a strained shout shape while saying \"Let me go out with the boys, or you will regret this\"",
+        "0:04 - glasses slightly askew on his nose, giving a slightly deflated/worn look mid-outburst",
+        "0:08-0:12 - eyebrows stay angled but eyes widen and mouth hangs ajar in stunned silence as the wife responds, posture unchanged but expression reads as caught off guard"
+      ],
+      "gestures": [
+        "sits stiffly upright on the edge of the bed, hands planted flat on the mattress bracing himself",
+        "leans slightly forward toward his wife while delivering the threat, invading her space",
+        "no hand gestures used beyond the bracing posture - the threat is carried entirely through voice and facial tension",
+        "remains frozen in the same braced position after speaking, not retreating or softening physically even as his face reacts"
+      ],
+      "interactions_notes": "He initiates the confrontation, turning his body and voice toward her while she keeps reading, physically established as the one seeking a reaction. He does not make sustained eye contact until after he has already delivered the line, by which point she has taken control of the exchange."
+    },
+    {
+      "name_or_role": "wife (SPEAKER_00)",
+      "personality_traits": [
+        "unbothered and self-possessed, treats her husband's outburst as a minor curiosity rather than a threat",
+        "sharp and quietly commanding, dismantles his authority with a single calm request",
+        "emotionally composed to the point of appearing detached, prioritizing her book over the conflict",
+        "dry, deadpan wit implied by the clipped, understated delivery of her lines"
+      ],
+      "emotional_range": [
+        "placid, absorbed interest in her book at rest (heavy-lidded, relaxed eyes)",
+        "mild, almost clinical amusement (\"Interesting.\") in response to his threat",
+        "calm authority as she issues her own instruction (\"Ask again in your normal voice\"), eyebrow slightly raised",
+        "no visible escalation or distress at any point - emotional range stays narrow and controlled by design, which is the comedic contrast to him"
+      ],
+      "expressions": [
+        "0:00 - eyes lowered to the book, soft neutral expression, mouth relaxed",
+        "0:08-0:10 - eyes lift toward him unhurriedly, one eyebrow arching slightly as she says \"Interesting.\"",
+        "0:10-0:12 - head tilts a little toward him, faint knowing look while delivering \"Ask again in your normal voice\", mouth barely moving"
+      ],
+      "gestures": [
+        "holds an open book in both hands throughout, thumb marking her place, never fully lowering it even when addressing him",
+        "shifts gaze from the page to him without turning her whole body, keeping her posture settled into the pillows",
+        "sits back against the pillows in a relaxed, grounded pose that visually contrasts his forward-leaning tension"
+      ],
+      "interactions_notes": "She holds the power position in the scene despite speaking last and least: she barely turns to face him, keeps the book as a barrier/prop, and answers his loud demand with two short, quiet lines that flip the dynamic. Eye contact is asymmetric - he looks at her directly while threatening her, she glances at him only briefly and returns her attention to the book, signaling she was never truly threatened."
+    }
+  ]
+}

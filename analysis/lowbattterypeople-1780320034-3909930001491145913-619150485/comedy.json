@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1780320034-3909930001491145913-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.752,
+      "end": 8.424,
+      "mechanism": "escalation",
+      "description": "The husband delivers a domestic, almost trivial demand ('let me go out with the boys') dressed up as a life-or-death ultimatum ('or you will regret this'), his face escalating from a locked scowl to a wide-mouthed, bulging-eyed shout on the word 'will' (keyframe scene-1).",
+      "why_it_lands": "The visual escalation across a single 7.7-second line -- crooked glasses sliding down his enormous nose, jaw cranking open on the threat word -- is disproportionate to the mundane content of the request, so the buildup itself primes the anticlimax that follows."
+    },
+    {
+      "start": 8.97,
+      "end": 10.507,
+      "mechanism": "deadpan",
+      "description": "After a 0.73-second silence (the longest gap in the exchange), the wife responds to the shouted ultimatum with a single flat word: 'Interesting.' She never looks up from her book and her expression barely shifts.",
+      "why_it_lands": "The 0.725s pause (per silence_pauses.json) lets his threat hang in the air unanswered just long enough to register as a non-event before her clipped, unbothered one-word reply drains all the tension he built -- she is visibly still reading rather than reacting."
+    },
+    {
+      "start": 10.869,
+      "end": 12.47,
+      "mechanism": "irony",
+      "description": "The wife's follow-up -- 'Ask again in your normal voice' -- retroactively reframes his entire performance as a put-on: she is naming, out loud, that his 'threatening' register is fake, and instructing him to drop the act.",
+      "why_it_lands": "It inverts the apparent power dynamic set up by his angry, glasses-askew tirade: the person who looked cowed (quietly reading, saying one word) turns out to hold all the leverage, which lands as instantly recognizable to anyone who has tried to sound tough with a partner and been immediately seen through."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole 14-second piece is a single two-beat setup/punchline built entirely on vocal and facial performance mismatch: an exaggerated, Nosferatu-featured stop-motion husband over-performs aggression while the deadpan wife, absorbed in her book, dismantles it in two short lines. Comedy comes from restraint on her side against excess on his -- the joke needs almost no plot, just a threat, a pause, and a call-out. The silence before 'Interesting' (0.725s, the longest pause in the clip) functions as the comedic hinge, and the piece ends immediately on the punchline with no reaction shot, letting the audience supply the deflated husband beat themselves."
+}

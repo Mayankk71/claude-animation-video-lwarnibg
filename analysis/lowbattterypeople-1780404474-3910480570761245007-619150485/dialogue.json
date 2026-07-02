@@ -1,0 +1,18 @@
+{
+  "video_slug": "lowbattterypeople-1780404474-3910480570761245007-619150485",
+  "total_lines": 1,
+  "avg_words_per_line": 30,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.372,
+      "end": 8.754,
+      "text": "Don't look at me like that like what like I've already lost an argument that hasn't started yet At least let me say something wrong first before you convict me",
+      "word_count": 30,
+      "pause_before_sec": 0.389188,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "This clip is a single-speaker direct-address monologue, not a back-and-forth exchange -- SPEAKER_00 is the only voice in the transcript, speaking to an unseen, silent 'you' who is implied to be accusing/judging them. The line front-loads a defensive reaction ('Don't look at me like that') before any accusation is stated, then justifies that reaction ('I've already lost an argument that hasn't started yet'), then closes with a mock-plea punchline ('let me say something wrong first before you convict me'). Because there is only one speaker, interruption is not applicable in the classic overlapping-speech sense; the 'conflict' is staged entirely through the character reacting to an off-screen, non-verbal cue (a look), which the comedic pause structure (below) is used to sell.",
+  "speech_rhythm_notes": "The single 8.38s line (0.372s-8.754s) contains six internal micro-pauses totaling ~3.17s of silence -- more than a third of the line's runtime -- despite reading as one continuous take, which produces a halting, stammering delivery. The shortest pauses (0.435s at ~2.29s-2.72s, aligning with the stuttered 'like what like' repetition, and 0.157s at ~8.48s-8.64s, aligning with 'convict' before the final 'me') read as hesitation/nervous-laugh beats. The longest internal pause (0.752s at 5.062s-5.814s) lands right at the sentence boundary between 'hasn't started yet' and 'At least,' functioning as a rhythmic reset before the character pivots into the punch line setup. After the line ends at 8.754s, the transcript is followed by the single longest pause in the whole clip (1.785s at 9.886s-11.671s per silence_pauses.json), letting the closing line 'before you convict me' sit in silence as the joke lands before the clip cuts."
+}

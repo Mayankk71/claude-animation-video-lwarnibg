@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1780320034-3909930001491145913-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 6.33,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.752,
+      "end": 8.424,
+      "text": "Let me go out with the boys, or you will regret this.",
+      "word_count": 12,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 9.766,
+      "end": 10.507,
+      "text": "Interesting.",
+      "word_count": 1,
+      "pause_before_sec": 0.73,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 10.947,
+      "end": 12.47,
+      "text": "Ask again in your normal voice.",
+      "word_count": 6,
+      "pause_before_sec": 0.35,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Two-line exchange (three transcript segments) built around a single escalating comedic beat: SPEAKER_01 opens with a 12-word ultimatum ('Let me go out with the boys, or you will regret this.'), which is met with a flat one-word deadpan reply from SPEAKER_00 ('Interesting.') after a clear silent beat, then SPEAKER_00 immediately follows up with the punchline ('Ask again in your normal voice.'), which reframes the opening line as having been delivered in an altered/robotic voice, matching the low-battery premise of the clip. No line overlaps another; each speaker waits for the prior line to fully end before starting, so there are no interruptions.",
+  "speech_rhythm_notes": "The clip's longest inter-line pause (0.73s, matched to the 8.970-9.696 silence window) falls between the 12-word opening ultimatum and SPEAKER_00's terse 1-word reply, creating a deadpan beat before the turnaround. SPEAKER_00 then delivers the 6-word punchline after a much shorter 0.35s pause (matched to the 10.517-10.869 silence window), keeping their own two lines close together so the reveal lands quickly on the heels of 'Interesting.' rather than being drawn out. Two further silence windows (0.33s at 12.57-12.90 and 0.77s at 13.29-14.06) occur after the final line with no subsequent transcript line to attach to, extending the pause past the punchline as comedic hang time before the scene presumably cuts."
+}
