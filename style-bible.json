@@ -1,0 +1,390 @@
+{
+  "meta": {
+    "source_video_count": 46,
+    "generated_from": "pattern-discovery.json",
+    "classification_legend": {
+      "invariant": "Present in nearly all 46 reference reels (typically 40+/46). Treat as a hard rule — violate only with strong justification.",
+      "frequent": "Present in a clear majority but not all reels (roughly 24-39/46). Treat as the default choice unless the scenario specifically calls for a variation.",
+      "optional": "A recurring but non-majority choice (roughly 7-24/46). Legitimate to use, never required; pick when it serves the specific scenario.",
+      "one_off": "Observed in only 1-3 reels. Not part of the reusable house style. Included here only for reference; do not treat as the default and do not build the generate-script pipeline around it."
+    },
+    "format_outliers_do_not_replicate": [
+      {
+        "name": "Then vs Now relationship montage",
+        "slug": "lowbattterypeople-1780817666-3914097645727672245-619150485",
+        "why_it_is_an_outlier": "Multi-location montage across 6+ distinct settings with almost no dialogue, resolving on a deadpan domestic punchline instead of the dominant single static two-shot scene. Also drives the rapid fast-cut editing one-off (10-18+ cuts, sub-1s average shot length).",
+        "instruction": "Do not use as a template for generate-script. The house style is single-scene, low-cut, static-camera — this reel is the exception that proves it."
+      },
+      {
+        "name": "Paul monologue with live-action B-roll",
+        "slug": "lowbattterypeople-1781353439-3918599070935494560-619150485",
+        "why_it_is_an_outlier": "Direct-to-camera mock-motivational-video parody ('message to all husbands') intercut with live-action product B-roll (watch, coffee, pen), punctured by a submissive reveal from an unseen off-screen character. Also drives the rapid fast-cut editing one-off.",
+        "instruction": "Do not mix live-action footage into generated output and do not default to direct-to-camera monologue address. The house style is a two-character scene shot as if by an unseen third-person camera."
+      },
+      {
+        "name": "Fast-cut restaurant piece",
+        "slug": "lowbattterypeople-1780666530-3912835775209372111-619150485",
+        "why_it_is_an_outlier": "Rapid-fire fast-cut editing (10-18+ cuts, sub-1-second average shot length) used for mock-commercial pacing instead of the dominant slow two-shot format.",
+        "instruction": "Do not default to fast-cut montage pacing. The house editing style is 0-6 hard cuts total at 2-7s average shot length."
+      }
+    ]
+  },
+  "structure": {
+    "typical_beat_timing": {
+      "total_runtime": "Roughly 9.5-17.5 seconds as a single-scene micro-sketch (invariant, 45/46). This is well under the 20-25s range assumed elsewhere in the pipeline docs — new scripts should aim for this shorter runtime by default.",
+      "cold_open": "0:00 — dialogue/action begins already in progress, mid-conversation or mid-argument, with zero establishing shot or context-setting narration (invariant, 43/46).",
+      "hook_and_setup_fused": "Roughly the first 30-45% of runtime — the hook (attention-grabbing opening line/situation) and the setup (context for the joke) are not staged as separate escalating beats; they are compressed into one continuous exchange (frequent, 36/46).",
+      "minimal_conflict_beat": "Mid-clip — there is no external obstacle or physical conflict. The 'conflict' is only a held silence or a single skeptical follow-up question, never an escalating argument (frequent, 34/46).",
+      "build_up_pause": "Immediately before the punchline (or immediately after it) — the single longest silence in the entire clip, roughly 0.6-3.3 seconds, longer than any other pause in the video (invariant, 43/46).",
+      "punchline": "Delivered as either a very short 1-3 word capitulation/verdict line ('No.', 'Good.', 'Yeah.') (frequent, 27/46) or as one unbroken escalating sentence with no internal pause, arriving right after the build-up pause (optional, 18/46).",
+      "post_punchline_hold": "1-3 seconds of trailing silence follows the last line of dialogue before the cut to the outro card; no reaction shot or reply is required (frequent, 30/46 for the trailing silence; optional, 17/46 for withholding a reaction shot entirely).",
+      "outro_card": "Hard cut to a static black branded outro card with no narrative resolution, reply, or character button (invariant, 46/46). Frequently includes a yellow ticket/ribbon 'return tomorrow' CTA graphic (frequent, 39/46) and an 'Episode NN' + episode title label burned into the corner of the hook shot at the start (frequent, 30/46)."
+    },
+    "rules": [
+      {
+        "rule": "Keep total runtime to roughly 9.5-17.5 seconds as a single, unbroken scene. Do not write multi-scene scripts or pad runtime toward 20-25s.",
+        "classification": "invariant",
+        "evidence": "45/46 reels"
+      },
+      {
+        "rule": "Open in medias res: the scene must already be underway when the video starts. Never open on an establishing shot, narration, or scene-setting text.",
+        "classification": "invariant",
+        "evidence": "43/46 reels"
+      },
+      {
+        "rule": "Fuse the hook and setup into a single continuous exchange rather than writing them as two separate escalating beats. The audience should learn the premise and hit the first laugh-adjacent beat within the same breath of dialogue.",
+        "classification": "frequent",
+        "evidence": "36/46 reels"
+      },
+      {
+        "rule": "Do not write an external obstacle, physical conflict, or escalating argument. The only 'conflict' should be a held silence or a single skeptical follow-up question before the reveal.",
+        "classification": "frequent",
+        "evidence": "34/46 reels"
+      },
+      {
+        "rule": "End every script on a hard cut to a static black branded outro card. Never resolve the scene narratively, never show a reply to the punchline, never give a character a closing button line after the joke lands.",
+        "classification": "invariant",
+        "evidence": "46/46 reels"
+      },
+      {
+        "rule": "Default to including a 'return tomorrow' style CTA graphic on the outro card (in the reference reels, a yellow ticket/ribbon reading 'NEW EPISODE DAILY').",
+        "classification": "frequent",
+        "evidence": "39/46 reels"
+      },
+      {
+        "rule": "Default to burning an episode/scenario label into the corner of the opening shot (in the reference reels, 'Episode NN' plus a short episode title such as 'THAT LOOK').",
+        "classification": "frequent",
+        "evidence": "30/46 reels"
+      },
+      {
+        "rule": "Do not use a multi-location montage structure with near-zero dialogue as the default format.",
+        "classification": "one_off",
+        "evidence": "1/46 reels — see meta.format_outliers_do_not_replicate"
+      },
+      {
+        "rule": "Do not use a direct-to-camera monologue/parody structure intercut with other footage as the default format.",
+        "classification": "one_off",
+        "evidence": "1/46 reels — see meta.format_outliers_do_not_replicate"
+      }
+    ]
+  },
+  "dialogue": {
+    "rules": [
+      {
+        "rule": "Write very little dialogue: 1-8 short lines total per script, averaging roughly 3-12 words per line. Resist the urge to over-explain the premise or the objection — the scenario should be legible from a handful of clipped lines.",
+        "classification": "invariant",
+        "evidence": "46/46 reels"
+      },
+      {
+        "rule": "Keep both characters' vocal delivery close in tone and register to one another — flat, similarly-paced, non-overlapping turns. (In the source reels this is evidenced indirectly: automated speaker diarization frequently collapsed a clear two-person exchange into a single speaker tag, implying the two voices read as tonally similar rather than sharply differentiated or interruptive.)",
+        "classification": "frequent",
+        "evidence": "34/46 reels"
+      },
+      {
+        "rule": "It is acceptable, and sometimes preferable for clarity, to write a cleanly alternating two-speaker back-and-forth (one line each, alternating) rather than folding both voices into one blended exchange.",
+        "classification": "optional",
+        "evidence": "10/46 reels"
+      },
+      {
+        "rule": "Place the single longest silence in the whole script either immediately before or immediately after the punchline line — it should be measurably longer than any other pause in the piece.",
+        "classification": "invariant",
+        "evidence": "43/46 reels"
+      },
+      {
+        "rule": "Make the shortest line in the script (1-3 words: 'No.', 'Good.', 'Yeah.', or an equally clipped equivalent) do the work of the punchline or a capitulation/button line.",
+        "classification": "frequent",
+        "evidence": "27/46 reels"
+      },
+      {
+        "rule": "As an alternative to the ultra-short punchline, deliver the punchline as one unbroken sentence with no internal pause, using a front-loaded escalating clause structure, landing immediately after the script's biggest build-up pause.",
+        "classification": "optional",
+        "evidence": "18/46 reels"
+      }
+    ],
+    "voice_notes": "Dialogue in this style is written to be said, not read: short, clipped, declarative sentences with low pitch variation and no expressive vocal escalation, even when the content is emotionally loaded (see comedy/deadpan and audio/no-vocal-escalation rules). Lines should read like the character has already emotionally checked out of the stakes of the conversation — flat statements and flat questions, never raised-voice arguing, never trailing off with ellipses or interruptions. Avoid exclamation points in the script text; avoid stage directions implying vocal intensity ('shouts', 'exclaims'). The punchline in particular should be writable as a complete, grammatically plain sentence or a bare 1-3 word reply — nothing needs a vocal flourish to land because the pause around it (see structure.build_up_pause) is doing the comedic work, not the delivery."
+  },
+  "comedy": {
+    "rules": [
+      {
+        "rule": "Every line, including the punchline, should be playable deadpan: flat, matter-of-fact delivery regardless of how emotionally loaded the content is. Deadpan is the primary comedic engine of this style, not a garnish on top of a joke that is otherwise 'performed' — do not write jokes that depend on an animated or exaggerated reaction to land.",
+        "classification": "invariant",
+        "evidence": "44/46 reels"
+      },
+      {
+        "rule": "Treat the held pause as its own comedic beat, not just a gap between lines. Script an explicit awkward-silence moment (via a stage direction / pause marker) that itself performs part of the joke — the discomfort of the silence is the payoff, not filler waiting for the next line.",
+        "classification": "frequent",
+        "evidence": "38/46 reels"
+      },
+      {
+        "rule": "Structure the joke as irony/misdirection: open with a sincere- or serious-sounding claim or question, then undercut it with a mundane, petty, or absurd reveal. The gap between the register of the setup and the pettiness of the reveal is where the laugh comes from.",
+        "classification": "frequent",
+        "evidence": "33/46 reels"
+      },
+      {
+        "rule": "Root the joke's specificity in one hyper-concrete, quantified detail — an exact number, a specific day, a specific price, a specific product — rather than broad exaggeration or vague generalization. Recognition of the precise detail is the humor mechanism.",
+        "classification": "frequent",
+        "evidence": "29/46 reels"
+      },
+      {
+        "rule": "Do not write physical slapstick or a visual sight gag to carry the joke. Comedy should be dialogue- and micro-expression-driven within an otherwise static, locked-off frame — the humor lives in what is said and the flatness with which it's said, not in staged physical business.",
+        "classification": "frequent",
+        "evidence": "36/46 reels"
+      },
+      {
+        "rule": "It is acceptable to withhold any reaction shot or reply after the punchline and cut straight from the joke to the outro card with no capper — the audience does not need to see the other character's response for the joke to register as complete.",
+        "classification": "optional",
+        "evidence": "17/46 reels"
+      },
+      {
+        "rule": "A physical sight gag as the payoff (rather than a spoken line) is a rare, non-default option — use only if a scenario specifically benefits from a single, contained sight gag (e.g., a small physical prop action), and keep it as understated as the rest of the style, never full slapstick.",
+        "classification": "one_off",
+        "evidence": "2/46 reels — treat as a rare exception, not a technique to reach for by default"
+      }
+    ]
+  },
+  "character": {
+    "rules": [
+      {
+        "rule": "Cast exactly two on-screen principal characters carrying the entire scene. In the reference reels this pair is a heterosexual long-term couple (husband/wife); when adapting to a new niche, preserve the two-hander structure and the established, familiar-with-each-other relational dynamic between the pair.",
+        "classification": "invariant",
+        "evidence": "41/46 reels"
+      },
+      {
+        "rule": "Give both characters a shared 'low battery' resting facial design: permanently heavy-lidded/half-closed eyes and a flat, slightly downturned mouth as the default expression — and keep that resting expression in play regardless of what the dialogue content is (even when a line is emotionally charged, the face stays flat).",
+        "classification": "invariant",
+        "evidence": "43/46 reels"
+      },
+      {
+        "rule": "Give characters an elongated, exaggerated wedge/conical nose (especially the male character), often paired with small round glasses.",
+        "classification": "invariant",
+        "evidence": "42/46 reels"
+      },
+      {
+        "rule": "Have one character (commonly the male character) hold or fixate on a phone/device while the other speaks, visually enacting distraction or disengagement rather than active listening.",
+        "classification": "frequent",
+        "evidence": "22/46 reels"
+      },
+      {
+        "rule": "Avoid direct eye contact between the two characters even during the tensest beat of the exchange — have both face forward toward the camera/a shared focal point (e.g., a TV, in the sales-objection adaptation a shared screen) rather than turning to look at each other.",
+        "classification": "frequent",
+        "evidence": "27/46 reels"
+      },
+      {
+        "rule": "It is a strong option, though not required, to give the punchline or verdict line to the female character (in an adapted cast: the character in the 'reactive'/decision-holding role).",
+        "classification": "optional",
+        "evidence": "24/46 reels"
+      },
+      {
+        "rule": "An unseen/off-screen second character who is spoken about or heard but never shown, delivering a twist purely through the on-screen character's reaction, is a rare available option — not the default two-hander, but usable if a scenario calls for a third implied party.",
+        "classification": "one_off",
+        "evidence": "2/46 reels — rare, optional technique"
+      }
+    ]
+  },
+  "camera": {
+    "rules": [
+      {
+        "rule": "Never pan or tilt the camera. Every shot change must be a hard cut between fully static, locked-off setups — the camera itself should never be seen to move within a shot except for the one permitted push-in (see next rule).",
+        "classification": "invariant",
+        "evidence": "44/46 reels"
+      },
+      {
+        "rule": "It is a valid and clean option to play the entire joke in one unbroken static shot with zero internal cuts, rather than cutting between characters at all.",
+        "classification": "optional",
+        "evidence": "16/46 reels"
+      },
+      {
+        "rule": "The only camera movement permitted anywhere in the piece is a slow, continuous, straight-line push-in (zoom toward a character's face) — never a pan, tilt, orbit, or handheld move — and it should be timed to land tight right on the punchline.",
+        "classification": "optional",
+        "evidence": "14/46 reels"
+      },
+      {
+        "rule": "Default to a shot/reverse-shot pattern: open on a wide static two-shot establishing both characters and the setting, then cut to isolated close-ups on each speaker's face for their individual lines.",
+        "classification": "frequent",
+        "evidence": "26/46 reels"
+      },
+      {
+        "rule": "Hold a tight close-up on one character's face alone (with the partner cropped out of frame or softly blurred) specifically for the punchline delivery, isolating the deadpan reaction/delivery from the rest of the scene.",
+        "classification": "frequent",
+        "evidence": "30/46 reels"
+      },
+      {
+        "rule": "Symmetrical, centered, Wes-Anderson-style framing with a shallow-depth-of-field, softly blurred crowd of background extras is a strong option specifically for public/social settings (e.g., a restaurant or diner backdrop).",
+        "classification": "optional",
+        "evidence": "7/46 reels"
+      }
+    ]
+  },
+  "animation": {
+    "rules": [
+      {
+        "rule": "Render in 3D CGI with a felted-wool/clay-look shader designed to evoke stop-motion — but explicitly do NOT simulate genuine frame-by-frame stop-motion. There should be no set jitter, no visible fingerprints or tool marks in the material, and lighting/camera movement should stay perfectly smooth and consistent frame to frame (this is a stop-motion-styled CG look, not a stop-motion simulation).",
+        "classification": "invariant",
+        "evidence": "44/46 reels"
+      },
+      {
+        "rule": "Do not animate blinking. Characters' eyes stay open in the heavy-lidded default pose for the entire clip.",
+        "classification": "invariant",
+        "evidence": "40/46 reels"
+      },
+      {
+        "rule": "Concentrate essentially all animation budget on the face — mouth, eyebrows, eyelids. Keep the torso, arms, and legs locked and static with no idle secondary motion (no breathing sway, no cloth simulation, no hair simulation) for the majority of the shot.",
+        "classification": "invariant",
+        "evidence": "41/46 reels"
+      },
+      {
+        "rule": "Sync mouth movement to a small library of discrete, held/swapped viseme shapes timed to spoken words, rather than continuous, fluid phoneme-level lip sync — the mouth should read as changing between distinct held poses, not smoothly morphing.",
+        "classification": "frequent",
+        "evidence": "30/46 reels"
+      },
+      {
+        "rule": "Keep all background and set props (furniture, dishes, window light, wall decor) completely static across the shot — zero ambient motion, no wind, no flicker, no drift.",
+        "classification": "frequent",
+        "evidence": "33/46 reels"
+      },
+      {
+        "rule": "It is acceptable to give each character exactly one recurring physical gesture (e.g., a glasses-fidget, a phone-scroll, a knitting motion) that loops or holds for most of the shot, rather than continuously re-animating new business for the body.",
+        "classification": "optional",
+        "evidence": "15/46 reels"
+      }
+    ]
+  },
+  "editing": {
+    "rules": [
+      {
+        "rule": "Keep the total cut count low: 0-6 hard cuts for the entire piece. This is a slow, static-shot-driven format, not a fast-cut one.",
+        "classification": "invariant",
+        "evidence": "42/46 reels"
+      },
+      {
+        "rule": "Use hard cuts almost exclusively for every transition. Reserve dissolves/wipes, if used at all, only for the transition into the outro card.",
+        "classification": "frequent",
+        "evidence": "36/46 reels"
+      },
+      {
+        "rule": "Let a silent reaction/hold beat follow the punchline before cutting to the outro card, rather than cutting away from the joke immediately.",
+        "classification": "frequent",
+        "evidence": "32/46 reels"
+      },
+      {
+        "rule": "Aim for an average shot length of roughly 2-7 seconds across the piece.",
+        "classification": "frequent",
+        "evidence": "35/46 reels"
+      },
+      {
+        "rule": "Do not default to rapid-fire fast-cut montage editing (10-18+ cuts, sub-1-second average shot length). That pacing is a rare format outlier in the source set, used for a mock-commercial/montage piece, not the house style.",
+        "classification": "one_off",
+        "evidence": "3/46 reels — see meta.format_outliers_do_not_replicate"
+      }
+    ]
+  },
+  "audio": {
+    "rules": [
+      {
+        "rule": "Include no background music anywhere in the piece.",
+        "classification": "invariant",
+        "evidence": "46/46 reels"
+      },
+      {
+        "rule": "Include no sound effects or foley of any kind.",
+        "classification": "invariant",
+        "evidence": "46/46 reels"
+      },
+      {
+        "rule": "Cluster pause duration around the punchline: make the single longest silence in the whole clip (roughly 0.6-3.3 seconds) land either as a build-up beat immediately before the punchline or as a trailing hold immediately after it.",
+        "classification": "invariant",
+        "evidence": "43/46 reels"
+      },
+      {
+        "rule": "Deliver dialogue as short, clipped, low-pitch-variation declarative sentences — not expressive or escalating vocal performance, even at emotionally loaded moments.",
+        "classification": "frequent",
+        "evidence": "34/46 reels"
+      },
+      {
+        "rule": "Let roughly 1-3 seconds of trailing silence follow the very last line of dialogue before the hard cut to the outro card.",
+        "classification": "frequent",
+        "evidence": "30/46 reels"
+      }
+    ]
+  },
+  "environment": {
+    "rules": [
+      {
+        "rule": "Use a single unchanging set/location for the entire episode. Do not change location or scene — the only visual variety should come from reframing between wide and close shots of the same background.",
+        "classification": "invariant",
+        "evidence": "42/46 reels"
+      },
+      {
+        "rule": "Light the scene with warm, soft, naturalistic light from a single practical motivated source (e.g., a table lamp, a window, a candle — in an adapted context, a laptop/monitor glow works as the equivalent motivated source), with a shallow depth of field softly blurring the background.",
+        "classification": "frequent",
+        "evidence": "33/46 reels"
+      },
+      {
+        "rule": "Default to a domestic interior setting (kitchen, bedroom, or living-room couch equivalent) unless the scenario specifically calls for a public/social setting.",
+        "classification": "frequent",
+        "evidence": "27/46 reels"
+      },
+      {
+        "rule": "A public/social location (restaurant, park, sidewalk, parking garage, car, salon) is a legitimate alternative to a home interior when the scenario calls for it.",
+        "classification": "optional",
+        "evidence": "16/46 reels"
+      },
+      {
+        "rule": "Include a smartphone or laptop as a visible on-screen prop tied directly to the scene's plot or joke — not just set dressing.",
+        "classification": "frequent",
+        "evidence": "24/46 reels"
+      },
+      {
+        "rule": "A visible wedding/engagement ring (or an equivalent small, legible prop that signals the characters' established relationship/role to each other) is an optional but effective detail.",
+        "classification": "optional",
+        "evidence": "11/46 reels"
+      }
+    ]
+  },
+  "prompt_generation_guidelines": {
+    "veo3_style_keywords": [
+      "MATERIAL: felted-wool / soft clay stop-motion-look shader on all characters and props — matte, fibrous, non-reflective surface, no glossy CG highlights",
+      "MATERIAL: CG-clean stop-motion pastiche — perfectly smooth motion, NO set jitter, NO visible fingerprints or tool marks, NO frame strobing; this is a stylized stop-motion LOOK rendered with fully consistent CG smoothness, not genuine frame-by-frame stop-motion",
+      "CHARACTER DESIGN: heavy-lidded, half-closed 'low battery' eyes as the default resting expression, no blinking during the shot",
+      "CHARACTER DESIGN: flat, slightly downturned mouth at rest, held even through emotionally loaded lines — deadpan face sculpt, not an expressive/animated face rig",
+      "CHARACTER DESIGN: elongated wedge/conical nose; small round glasses on at least one character",
+      "RIG/ANIMATION: animate only the mouth, eyebrows, and eyelids; keep torso, arms, and legs completely locked and static — no idle breathing sway, no cloth simulation, no hair simulation",
+      "RIG/ANIMATION: mouth reads as a small set of discrete held viseme poses swapped on each spoken word, not continuous fluid phoneme-level lip-sync",
+      "RIG/ANIMATION: at most one small looping gesture per character (e.g., tapping a keyboard, adjusting glasses, scrolling a phone) held for most of the shot rather than continuously re-animated",
+      "CAMERA: locked-off, static camera for every shot — no pans, no tilts, no handheld shake",
+      "CAMERA: the only allowed camera movement is a slow, continuous, straight-line push-in toward a character's face, timed to land tight exactly on the punchline line",
+      "CAMERA: shot/reverse-shot pattern — open on a wide static two-shot, cut to isolated tight close-ups per speaker, partner cropped out of frame or softly blurred during the other's line",
+      "LIGHTING: warm, soft, naturalistic key light motivated by a single practical in-frame source (desk lamp, window, laptop/monitor glow); shallow depth of field with a softly blurred background",
+      "SET: completely static background — furniture, screens, props, and decor do not move, drift, flicker, or animate at all between frames",
+      "SET: single unchanging location for the whole scene; visual variety comes only from reframing between the wide two-shot and tight close-ups, never a location change",
+      "COLOR: muted, warm, desaturated palette consistent with a felt/clay material — avoid glossy or highly saturated CG rendering",
+      "COMPOSITION (optional, for public settings): symmetrical, centered Wes-Anderson-style framing with a shallow-DOF, softly blurred crowd of background extras",
+      "EDIT/PACING: 0-6 hard cuts total, no dissolves or wipes except optionally into the closing card; average shot length 2-7 seconds",
+      "AUDIO: no score, no sound design, no foley — dialogue and room tone only",
+      "PERFORMANCE: every line, including the punchline, delivered in a flat, low-pitch-variation, deadpan monotone regardless of emotional stakes",
+      "PERFORMANCE: hold a long silence (0.6-3.3s) directly before or after the punchline; no filler movement or sound during the hold",
+      "GRAPHIC OVERLAY (optional): burned-in episode/scenario label in the corner of the opening shot; static branded end-card with hard cut, no narrative resolution shown after it"
+    ],
+    "script_structure_template": "TOTAL RUNTIME TARGET: 9.5-17.5s single unbroken scene (adapt: sales rep + prospect on a Google Meet call, two-person, established/familiar dynamic, in place of the reference reels' married couple).\n\n[0:00] COLD OPEN — Cut in already mid-conversation. No establishing shot, no narration. Static locked-off wide two-shot (e.g., a split-screen / Meet-tile framing) showing both participants already engaged.\n\n[~0:00-0:05] HOOK + SETUP (fused) — 1-3 short declarative lines (roughly 3-12 words each), deadpan delivery, low pitch variation. The objection (e.g., 'it's too expensive', 'I'll think about it') surfaces here, stated plainly rather than argued. Optional: one participant fixates on a phone/second screen/laptop rather than making direct eye contact with the camera/other tile.\n\n[~0:05-0:08] MINIMAL CONFLICT BEAT — No escalating argument. Either a held silence or exactly one skeptical follow-up question/pushback line.\n\n[~0:08-0:10] BUILD-UP PAUSE — The single longest silence in the script, 0.6-3.3s, placed immediately before the punchline. Optional: this is where the sole camera push-in (slow, straight-line, toward one character's face) lands.\n\n[~0:10-0:12] PUNCHLINE — Either a 1-3 word capitulation/verdict line, or one unbroken escalating sentence delivered with no internal pause. Structure it as irony/misdirection (a sincere-sounding claim undercut by a mundane, petty, or absurd reveal) or as recognition humor anchored on one hyper-specific quantified detail (an exact price, day, or number). Cut to a tight close-up on the speaker's face alone, deadpan, partner cropped/blurred out.\n\n[~0:12-0:14] POST-PUNCHLINE HOLD — 1-3s of trailing silence. No reaction shot or reply is required; camera holds static.\n\n[~0:14] HARD CUT TO OUTRO CARD — Static black branded end card (brand name + credit line). Optional: 'new content daily'-style CTA graphic and an episode/scenario label. No narrative resolution shown.\n\nDO NOT: pad to 20-25s, add a second scene or location change, write an escalating argument, add music/SFX, use camera pans/tilts, use fast-cut montage editing, or resolve the objection with a visible reply/reaction after the punchline — these all break invariant or near-invariant rules of the house style."
+  }
+}
