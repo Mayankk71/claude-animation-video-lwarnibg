@@ -1,0 +1,682 @@
+{
+  "video_count": 46,
+  "categories": {
+    "story": [
+      {
+        "trait": "Total runtime is compressed to roughly 9.5-17.5 seconds as a single-scene micro-sketch, well under the 20-25s range the pipeline docs assume as typical",
+        "classification": "invariant",
+        "video_count": 45,
+        "example_slugs": [
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1781442194-3919343384795560020-619150485",
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1781353439-3918599070935494560-619150485"
+        ]
+      },
+      {
+        "trait": "Video opens in medias res on an already-in-progress conversation/argument with zero establishing shot or context-setting narration ('cold open')",
+        "classification": "invariant",
+        "video_count": 43,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779368671-3901432015895623965-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781280357-3917984294739873537-619150485",
+          "lowbattterypeople-1781978781-3923844242317343523-619150485"
+        ]
+      },
+      {
+        "trait": "Hook and setup beats are narratively fused/compressed into one continuous exchange rather than staged as distinct escalating scenes (explicitly called out in the story specialist's narrative_notes)",
+        "classification": "frequent",
+        "video_count": 36,
+        "example_slugs": [
+          "lowbattterypeople-1778851839-3897614028780131225-619150485",
+          "lowbattterypeople-1779025945-3899074417384611536-619150485",
+          "lowbattterypeople-1779973657-3907024391321881715-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485"
+        ]
+      },
+      {
+        "trait": "There is no external obstacle or physical conflict; the 'conflict' beat is just a held silence or a single skeptical follow-up question before the reveal, not an escalating argument",
+        "classification": "frequent",
+        "video_count": 34,
+        "example_slugs": [
+          "lowbattterypeople-1779973657-3907024391321881715-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "Ends on a hard cut to a static black branded outro card ('LOW BATTERY PEOPLE' + 'CREATED BY NIN.') rather than any narrative resolution, reply, or character button",
+        "classification": "invariant",
+        "video_count": 46,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1780167285-3908648629925471817-619150485",
+          "lowbattterypeople-1780817666-3914097645727672245-619150485",
+          "lowbattterypeople-1781353439-3918599070935494560-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "A yellow ticket/ribbon graphic reading 'NEW EPISODE DAILY' appears on the outro card as an implicit return-tomorrow CTA",
+        "classification": "frequent",
+        "video_count": 39,
+        "example_slugs": [
+          "lowbattterypeople-1779410442-3902116317138371767-619150485",
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780580406-3912114173378968838-619150485",
+          "lowbattterypeople-1782067920-3924592141011751568-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485"
+        ]
+      },
+      {
+        "trait": "An 'Episode NN' number label (often paired with an episode-specific title like 'THAT LOOK' or 'MARRIAGE TRANSLATION') is burned into the corner of the hook shot",
+        "classification": "frequent",
+        "video_count": 30,
+        "example_slugs": [
+          "lowbattterypeople-1779458902-3902705005849334582-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781113201-3916583590963878147-619150485",
+          "lowbattterypeople-1782067920-3924592141011751568-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "One-off format deviation: a multi-location 'Then vs Now' relationship montage spanning 6+ distinct settings with almost no dialogue, resolving on a deadpan domestic punchline instead of the usual single static two-shot",
+        "classification": "one_off",
+        "video_count": 1,
+        "example_slugs": [
+          "lowbattterypeople-1780817666-3914097645727672245-619150485"
+        ]
+      },
+      {
+        "trait": "One-off format deviation: a direct-to-camera mock-motivational-video parody ('message to all husbands') intercut with live-action product B-roll (watch, coffee, pen), punctured by a submissive reveal",
+        "classification": "one_off",
+        "video_count": 1,
+        "example_slugs": [
+          "lowbattterypeople-1781353439-3918599070935494560-619150485"
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "trait": "Very low total dialogue volume: 1-8 short transcribed lines per video, averaging roughly 3-12 words per line",
+        "classification": "invariant",
+        "video_count": 46,
+        "example_slugs": [
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485",
+          "lowbattterypeople-1780233383-3909034108386995201-619150485",
+          "lowbattterypeople-1780927660-3915027150289611144-619150485"
+        ]
+      },
+      {
+        "trait": "Transcript diarization returns a single SPEAKER_00 label for what clearly reads as a two-person exchange (both conversational roles voiced under one speaker tag)",
+        "classification": "frequent",
+        "video_count": 34,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780666530-3912835775209372111-619150485",
+          "lowbattterypeople-1781280357-3917984294739873537-619150485",
+          "lowbattterypeople-1782048328-3924427971154802321-619150485"
+        ]
+      },
+      {
+        "trait": "A genuine two-speaker (SPEAKER_00/SPEAKER_01) diarized back-and-forth is captured cleanly",
+        "classification": "optional",
+        "video_count": 10,
+        "example_slugs": [
+          "lowbattterypeople-1779110644-3899783885185627077-619150485",
+          "lowbattterypeople-1779458902-3902705005849334582-619150485",
+          "lowbattterypeople-1779973657-3907024391321881715-619150485",
+          "lowbattterypeople-1780233383-3909034108386995201-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485"
+        ]
+      },
+      {
+        "trait": "The single longest silence in the whole clip sits immediately adjacent to the punchline line (a pre-punchline beat or a post-punchline hold), longer than any other pause in the video",
+        "classification": "invariant",
+        "video_count": 43,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "The shortest line in the dialogue (1-3 words, e.g. 'No.', 'Good.', 'Yeah.', 'Acid reflex.') functions as the punchline or a capitulation/button line",
+        "classification": "frequent",
+        "video_count": 27,
+        "example_slugs": [
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485"
+        ]
+      },
+      {
+        "trait": "The punchline line is delivered as one unbroken sentence with no internal pause, arriving right after the clip's biggest build-up pause, front-loading an escalating clause structure",
+        "classification": "optional",
+        "video_count": 18,
+        "example_slugs": [
+          "lowbattterypeople-1780492312-3911374883623815801-619150485",
+          "lowbattterypeople-1780927660-3915027150289611144-619150485",
+          "lowbattterypeople-1782067920-3924592141011751568-619150485",
+          "lowbattterypeople-1782048328-3924427971154802321-619150485"
+        ]
+      }
+    ],
+    "comedy": [
+      {
+        "trait": "Deadpan delivery is the core comedic engine — lines are read flat/matter-of-fact regardless of how emotionally loaded the content is; explicitly named as the driving mechanism in almost every comedy write-up",
+        "classification": "invariant",
+        "video_count": 44,
+        "example_slugs": [
+          "lowbattterypeople-1778765543-3896890140127485874-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "'awkward_silence' is explicitly logged as its own comedic mechanism/beat — the held pause itself performs the joke rather than just separating lines",
+        "classification": "frequent",
+        "video_count": 38,
+        "example_slugs": [
+          "lowbattterypeople-1778851839-3897614028780131225-619150485",
+          "lowbattterypeople-1779540938-3903394479008523268-619150485",
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485"
+        ]
+      },
+      {
+        "trait": "Irony/misdirection structure: a sincere- or serious-sounding opening claim or question is undercut by a mundane, petty, or absurd reveal",
+        "classification": "frequent",
+        "video_count": 33,
+        "example_slugs": [
+          "lowbattterypeople-1778938816-3898343508574313591-619150485",
+          "lowbattterypeople-1779284985-3901246633299844019-619150485",
+          "lowbattterypeople-1780150698-3908509540270087998-619150485",
+          "lowbattterypeople-1781280357-3917984294739873537-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Recognition humor built on one hyper-specific, quantified detail (an exact number, day, or price) rather than broad exaggeration",
+        "classification": "frequent",
+        "video_count": 29,
+        "example_slugs": [
+          "lowbattterypeople-1780233383-3909034108386995201-619150485",
+          "lowbattterypeople-1780927660-3915027150289611144-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782048328-3924427971154802321-619150485"
+        ]
+      },
+      {
+        "trait": "No physical slapstick or visual sight gag carries the joke — comedy is dialogue- and micro-expression-driven within an otherwise static frame",
+        "classification": "frequent",
+        "video_count": 36,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "The scene withholds any reaction shot or reply after the punchline — it cuts straight from the joke to the branded outro card with no capper",
+        "classification": "optional",
+        "video_count": 17,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1781113201-3916583590963878147-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782048328-3924427971154802321-619150485"
+        ]
+      },
+      {
+        "trait": "One-off/rare: the joke's payoff is a physical sight gag rather than a spoken line (e.g. a soccer-celebration collapse, a single animated tear)",
+        "classification": "one_off",
+        "video_count": 2,
+        "example_slugs": [
+          "lowbattterypeople-1779628734-3904130983121042727-619150485",
+          "lowbattterypeople-1780233383-3909034108386995201-619150485"
+        ]
+      }
+    ],
+    "character": [
+      {
+        "trait": "Exactly two on-screen principal characters — a heterosexual long-term couple (husband/wife) — carry the entire scene",
+        "classification": "invariant",
+        "video_count": 41,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779973657-3907024391321881715-619150485",
+          "lowbattterypeople-1780754802-3913577083632606293-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "Both characters share the 'low battery' facial design: permanently heavy-lidded/half-closed eyes and a flat, slightly downturned mouth as the resting/default expression, regardless of dialogue content",
+        "classification": "invariant",
+        "video_count": 43,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Elongated, exaggerated wedge/conical nose (especially on the male character), often paired with small round glasses",
+        "classification": "invariant",
+        "video_count": 42,
+        "example_slugs": [
+          "lowbattterypeople-1779110644-3899783885185627077-619150485",
+          "lowbattterypeople-1780150698-3908509540270087998-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781526587-3920051314851485827-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "One partner (usually the man) holds or fixates on a phone/device while the other speaks, visually enacting distraction or disengagement",
+        "classification": "frequent",
+        "video_count": 22,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779410442-3902116317138371767-619150485",
+          "lowbattterypeople-1779973657-3907024391321881715-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1781978781-3923844242317343523-619150485"
+        ]
+      },
+      {
+        "trait": "The two characters rarely make direct eye contact — both face forward toward the camera/TV rather than at each other even mid-argument",
+        "classification": "frequent",
+        "video_count": 27,
+        "example_slugs": [
+          "lowbattterypeople-1779196935-3900508544017127101-619150485",
+          "lowbattterypeople-1779540938-3903394479008523268-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "The female character is the one who delivers the final punchline or verdict line",
+        "classification": "optional",
+        "video_count": 24,
+        "example_slugs": [
+          "lowbattterypeople-1780492312-3911374883623815801-619150485",
+          "lowbattterypeople-1781280357-3917984294739873537-619150485",
+          "lowbattterypeople-1781526587-3920051314851485827-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485"
+        ]
+      },
+      {
+        "trait": "One-off: an unseen/off-screen second character (spoken about or shouted from off-camera but never shown) delivers the twist purely through the on-screen character's reaction",
+        "classification": "one_off",
+        "video_count": 2,
+        "example_slugs": [
+          "lowbattterypeople-1781353439-3918599070935494560-619150485",
+          "lowbattterypeople-1780167285-3908648629925471817-619150485"
+        ]
+      }
+    ],
+    "camera": [
+      {
+        "trait": "Camera never pans or tilts anywhere in the video — every shot change is a hard cut between fully static, locked-off setups",
+        "classification": "invariant",
+        "video_count": 44,
+        "example_slugs": [
+          "lowbattterypeople-1778851839-3897614028780131225-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "The entire joke (all dialogue) plays out in a single unbroken static shot with zero internal cuts",
+        "classification": "optional",
+        "video_count": 16,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781012628-3915739924909152413-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485"
+        ]
+      },
+      {
+        "trait": "A slow, continuous straight-line push-in (zoom_in) toward a character's face is the sole camera movement used, typically timed to land tight right on the punchline",
+        "classification": "optional",
+        "video_count": 14,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779410442-3902116317138371767-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1780580406-3912114173378968838-619150485",
+          "lowbattterypeople-1781012628-3915739924909152413-619150485"
+        ]
+      },
+      {
+        "trait": "Shot/reverse-shot pattern: a wide establishing two-shot cuts to isolated close-ups on each speaker's face for their individual lines",
+        "classification": "frequent",
+        "video_count": 26,
+        "example_slugs": [
+          "lowbattterypeople-1778938816-3898343508574313591-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "Camera holds a tight close-up on one character's face alone (partner cropped or blurred out) specifically for the punchline delivery",
+        "classification": "frequent",
+        "video_count": 30,
+        "example_slugs": [
+          "lowbattterypeople-1778851839-3897614028780131225-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780754802-3913577083632606293-619150485",
+          "lowbattterypeople-1781526587-3920051314851485827-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Symmetrical, centered, Wes-Anderson-style framing with a shallow-DOF, softly blurred crowd of restaurant/diner extras behind the couple",
+        "classification": "optional",
+        "video_count": 7,
+        "example_slugs": [
+          "lowbattterypeople-1779714386-3904849473746350158-619150485",
+          "lowbattterypeople-1780150698-3908509540270087998-619150485",
+          "lowbattterypeople-1780666530-3912835775209372111-619150485",
+          "lowbattterypeople-1781442194-3919343384795560020-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485"
+        ]
+      }
+    ],
+    "animation": [
+      {
+        "trait": "Rendered as 3D CGI with a felted-wool/clay-look shader designed to evoke stop-motion, explicitly flagged by the specialist as NOT genuine frame-by-frame stop-motion (no set jitter, no fingerprints/tool marks, perfectly consistent lighting and camera moves)",
+        "classification": "invariant",
+        "video_count": 44,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780817666-3914097645727672245-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "No blink is captured in any sampled keyframe for either character — eyes stay open in the heavy-lidded default pose across the whole clip",
+        "classification": "invariant",
+        "video_count": 40,
+        "example_slugs": [
+          "lowbattterypeople-1778851839-3897614028780131225-619150485",
+          "lowbattterypeople-1779540938-3903394479008523268-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Animation budget is concentrated almost entirely on the face (mouth/eyebrows/eyelids); torso, arms and legs stay locked/static with no idle secondary motion (no breathing sway, no cloth or hair sim) for most of the shot",
+        "classification": "invariant",
+        "video_count": 41,
+        "example_slugs": [
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1781113201-3916583590963878147-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Mouth shapes are a small library of discrete held/swapped visemes synced to caption words rather than continuous phoneme-level lip sync",
+        "classification": "frequent",
+        "video_count": 30,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780167285-3908648629925471817-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782048328-3924427971154802321-619150485"
+        ]
+      },
+      {
+        "trait": "Background/set props (furniture, dishes, window light, wall decor) are pixel-static across every sampled frame with zero ambient motion",
+        "classification": "frequent",
+        "video_count": 33,
+        "example_slugs": [
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781113201-3916583590963878147-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485"
+        ]
+      },
+      {
+        "trait": "One recurring physical gesture per character (e.g. glasses-fidget, phone-scroll, knitting) is held/looped for most of the shot rather than continuously re-animated",
+        "classification": "optional",
+        "video_count": 15,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1781012628-3915739924909152413-619150485",
+          "lowbattterypeople-1781526587-3920051314851485827-619150485",
+          "lowbattterypeople-1782067920-3924592141011751568-619150485"
+        ]
+      }
+    ],
+    "editing": [
+      {
+        "trait": "Low overall cut count (0-6 hard cuts) typical of the dominant single-scene dialogue format",
+        "classification": "invariant",
+        "video_count": 42,
+        "example_slugs": [
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781012628-3915739924909152413-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "Transitions are almost exclusively hard cuts; dissolves/wipes are rare and, when used, are reserved for the transition into the outro card",
+        "classification": "frequent",
+        "video_count": 36,
+        "example_slugs": [
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1780320034-3909930001491145913-619150485",
+          "lowbattterypeople-1782067920-3924592141011751568-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485"
+        ]
+      },
+      {
+        "trait": "A silent reaction/hold beat follows the punchline before the cut to the outro card, rather than cutting away immediately",
+        "classification": "frequent",
+        "video_count": 32,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1781955997-3923648559488634713-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Average shot length across the video is roughly 2-7 seconds",
+        "classification": "frequent",
+        "video_count": 35,
+        "example_slugs": [
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780754802-3913577083632606293-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485"
+        ]
+      },
+      {
+        "trait": "One-off/format-outlier: rapid-fire fast-cut editing (10-18+ cuts, sub-1-second average shot length) used for montage or mock-commercial pacing instead of the dominant slow two-shot format",
+        "classification": "one_off",
+        "video_count": 3,
+        "example_slugs": [
+          "lowbattterypeople-1780666530-3912835775209372111-619150485",
+          "lowbattterypeople-1780817666-3914097645727672245-619150485",
+          "lowbattterypeople-1781353439-3918599070935494560-619150485"
+        ]
+      }
+    ],
+    "audio": [
+      {
+        "trait": "No background music present in the video (explicitly confirmed absent across every video's audio analysis)",
+        "classification": "invariant",
+        "video_count": 46,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "No sound effects present or logged",
+        "classification": "invariant",
+        "video_count": 46,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "Pause durations cluster around the punchline: the single longest silence in the whole clip (roughly 0.6-3.3s) lands either as a build-up beat right before the punchline or as a trailing hold right after it",
+        "classification": "invariant",
+        "video_count": 43,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485"
+        ]
+      },
+      {
+        "trait": "Dialogue reads as short, clipped, low-pitch-variation declarative sentences rather than expressive/escalating vocal performance",
+        "classification": "frequent",
+        "video_count": 34,
+        "example_slugs": [
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780404474-3910480570761245007-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "A trailing silence of roughly 1-3 seconds follows the very last line of dialogue before the cut to the outro card",
+        "classification": "frequent",
+        "video_count": 30,
+        "example_slugs": [
+          "lowbattterypeople-1780065133-3907791760914667740-619150485",
+          "lowbattterypeople-1780250111-3909246296137464964-619150485",
+          "lowbattterypeople-1781113201-3916583590963878147-619150485",
+          "lowbattterypeople-1782137053-3925172274638114169-619150485",
+          "lowbattterypeople-1782665432-3929604656166492518-619150485"
+        ]
+      }
+    ],
+    "environment": [
+      {
+        "trait": "Single unchanging set/location for the entire episode — no location or scene changes, only reframing between wide and close shots of the same background",
+        "classification": "invariant",
+        "video_count": 42,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782229571-3925948371931858024-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "Warm, soft, naturalistic lighting from a single practical motivated source (table lamp, window, candle) with a shallow depth of field softly blurring the background",
+        "classification": "frequent",
+        "video_count": 33,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1781113201-3916583590963878147-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Domestic interior setting (kitchen, bedroom, or living-room couch) is the location",
+        "classification": "frequent",
+        "video_count": 27,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779889969-3906322374890867869-619150485",
+          "lowbattterypeople-1780754802-3913577083632606293-619150485",
+          "lowbattterypeople-1781609391-3920745932899305179-619150485",
+          "lowbattterypeople-1782412721-3927484758992673713-619150485"
+        ]
+      },
+      {
+        "trait": "Public/social location (restaurant, park, sidewalk, parking garage, car, salon) is used instead of a home interior",
+        "classification": "optional",
+        "video_count": 16,
+        "example_slugs": [
+          "lowbattterypeople-1778851839-3897614028780131225-619150485",
+          "lowbattterypeople-1779714386-3904849473746350158-619150485",
+          "lowbattterypeople-1780666530-3912835775209372111-619150485",
+          "lowbattterypeople-1781280357-3917984294739873537-619150485",
+          "lowbattterypeople-1782715688-3930026225661514955-619150485"
+        ]
+      },
+      {
+        "trait": "A smartphone or laptop is a visible on-screen prop tied to the scene's plot/joke",
+        "classification": "frequent",
+        "video_count": 24,
+        "example_slugs": [
+          "lowbattterypeople-1778682723-3896195393733836091-619150485",
+          "lowbattterypeople-1779410442-3902116317138371767-619150485",
+          "lowbattterypeople-1779973657-3907024391321881715-619150485",
+          "lowbattterypeople-1780492312-3911374883623815801-619150485",
+          "lowbattterypeople-1781978781-3923844242317343523-619150485"
+        ]
+      },
+      {
+        "trait": "A visible wedding/engagement ring on at least one character signals a married couple",
+        "classification": "optional",
+        "video_count": 11,
+        "example_slugs": [
+          "lowbattterypeople-1779284985-3901246633299844019-619150485",
+          "lowbattterypeople-1780320034-3909930001491145913-619150485",
+          "lowbattterypeople-1780492312-3911374883623815801-619150485",
+          "lowbattterypeople-1780927660-3915027150289611144-619150485",
+          "lowbattterypeople-1781526587-3920051314851485827-619150485"
+        ]
+      }
+    ]
+  }
+}
