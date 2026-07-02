@@ -1,0 +1,104 @@
+{
+  "video_slug": "lowbattterypeople-1780817666-3914097645727672245-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 0.133333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Two figures walk away from camera down the dead center of a two-lane road at golden hour, the double yellow line acting as a symmetry axis splitting the frame in half. 'THEN VS NOW' title card and small 'Episode 28' watermark (upper-left) are burning in over the image. Footage is a horizontal clip pillarboxed inside the vertical 9:16 canvas, leaving large black bars top and bottom -- roughly a third of the frame top and bottom is dead black."
+    },
+    {
+      "start": 0.133333,
+      "end": 1.166667,
+      "shot_type": "wide",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Same road shot continues with a slow, subtle push toward the two walking figures; the title text reads slightly larger/tighter compared to the opening frame, confirming a slight zoom rather than a hard cut. Characters remain centered on the lane divider, low in frame with generous negative sky/road space above and around them; telephone poles recede symmetrically on both sides."
+    },
+    {
+      "start": 1.166667,
+      "end": 2.5,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Underwater match-cut: camera is fixed below the pool surface looking straight up as a diver's legs and torso punch through the waterline in a burst of bubbles. The figure is dead-center and vertically symmetric against the tiled lane markers receding on both sides, mimicking the road's vanishing-point symmetry from the previous shot."
+    },
+    {
+      "start": 2.5,
+      "end": 4.6,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off shot inside a dim bar: a woman stands on a small round cocktail table with her back to camera, arms out, while a blurred crowd cheers around her under red and blue neon signage. She is placed just left of center; the framing crops her from ankle to hairline, leaving the neon signs as background anchors on both edges of frame."
+    },
+    {
+      "start": 4.6,
+      "end": 6.933333,
+      "shot_type": "wide",
+      "camera_movement": "tilt",
+      "composition_notes": "Low-angle shot from beneath and behind a building ledge as a man leaps off the roof, arms thrown up, hair mid-flip. Building edge cuts diagonally into the right third of frame while open sky and sun-lit clouds fill the left two-thirds; his falling body is tracked/tilted with by the camera rather than staying static, keeping him roughly centered as he drops toward the pool below -- movement reads as handheld-following in feel even though it is a tilt."
+    },
+    {
+      "start": 6.933333,
+      "end": 9.333333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Camera sits low in the back seat of a moving car, shooting forward over the bench seat toward the windshield; the driver (right) grips the wheel while the woman (left) leans forward into his space. The seat-back edge forms a hard horizontal crop across the bottom third of frame, and the sunset road is visible through the windscreen as a bright vanishing point between them."
+    },
+    {
+      "start": 9.333333,
+      "end": 14.366667,
+      "shot_type": "close-up",
+      "camera_movement": "handheld",
+      "composition_notes": "Reverse angle: camera appears rig-mounted on the car's hood/front bumper, shooting back through the windshield at both riders in a tight two-shot. Over this five-second held take the pair lean further out their windows, mouths open, hair whipping -- the camera position itself stays fixed but the rising physical energy in-frame gives the shot a handheld, vibrating feel. Windshield frame and wiper blade silhouette bracket the top and bottom of the shot."
+    },
+    {
+      "start": 14.366667,
+      "end": 15.866667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Night shot, locked-off and frontal: the couple sits on the roof of the parked car sharing popcorn boxes under a star field. They are centered and symmetric, mirroring the earlier road-walk framing; large empty sky above gives generous headroom and lets the scattered stars read clearly."
+    },
+    {
+      "start": 15.866667,
+      "end": 16.566667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Brief callback to the opening composition: the pair viewed from behind, running/walking down the same center-line road, no title text this time. Framing repeats the earlier symmetric road-and-poles composition almost exactly, signalling a rhyme rather than new information."
+    },
+    {
+      "start": 16.566667,
+      "end": 17.666667,
+      "shot_type": "medium",
+      "camera_movement": "handheld",
+      "composition_notes": "Concert/dance-floor shot: the couple stands arm-in-arm in the middle of a crowd, colored stage beams crossing behind them. Camera sits at chest height among the crowd rather than above it, with foreground silhouettes (a stranger's head, shoulder) intruding at the bottom edges, giving a jostled, handheld point-of-view rather than a clean composed shot."
+    },
+    {
+      "start": 17.666667,
+      "end": 20.766667,
+      "shot_type": "wide",
+      "camera_movement": "other",
+      "composition_notes": "Night pier/dock shot: the couple holds hands, framed low against a dark sky with string-light posts on either side creating a symmetrical corridor. The shot is doubled by a still-water reflection below, then the entire frame inverts (goes upside-down) as an in-camera roll/flip is used as the transition device carrying into the next scene -- the same pier geometry becomes the ceiling of the following room."
+    },
+    {
+      "start": 20.766667,
+      "end": 21.6,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Whip-cut insert shot: two hands hold up a new sponge directly to camera in a bright kitchen, the product filling the center of frame with a soft-focus window and cabinetry behind it. This is the only true product/object insert in the video and marks the tonal pivot from the nostalgic 'then' material to the mundane 'now' punchline."
+    },
+    {
+      "start": 21.6,
+      "end": 26.933333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off, deadpan two-shot in a daylit kitchen: husband and wife face each other in front of a large window, both cropped at the chest, delivering the 'The new sponge is unbelievable.' / 'I know' exchange with flat, unimpressed expressions. Symmetric, static, and visually flat compared to every preceding 'then' shot -- no crowd, no motion, no color accents beyond warm neutral cabinetry."
+    },
+    {
+      "start": 26.933333,
+      "end": 28.233333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "End card: solid black background with centered serif title 'LOW BATTERY PEOPLE', smaller 'CREATED BY NIN.' subtitle, and a yellow 'NEW EPISODE DAILY' badge below, all vertically centered in the lower-middle of frame. No camera or characters, pure graphic card."
+    }
+  ],
+  "framing_patterns_notes": "Every shot in this reel is a horizontal-aspect clip pillarboxed into a vertical canvas, leaving persistent black bars top and bottom -- the video never uses a true full-bleed vertical composition. The 'then' montage repeatedly returns to dead-center, symmetric compositions built around a strong vanishing point or axis (the road's double yellow line, the pier's light posts, the diver's pool lanes), which visually rhymes the many different vignettes together even though they are different locations. The energetic 'then' shots favor movement cues (falling/tilt camera on the rooftop jump, handheld vibration on the hood-mounted car shot, jostled handheld framing in the crowd) while the single 'now' beat (kitchen) is the only fully static, symmetric, low-energy medium two-shot in the piece -- camera stillness itself becomes the joke's punctuation, contrasting with the constant motion of the nostalgia footage. The video also uses one hard structural device: an upside-down whip/roll transition carries the frame from the final 'then' shot directly into the 'now' kitchen reveal, and the only extreme close-up in the whole edit is reserved for the sponge insert that sets up the punchline."
+}
