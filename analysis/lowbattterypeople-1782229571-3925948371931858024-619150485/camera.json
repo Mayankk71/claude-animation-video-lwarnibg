@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1782229571-3925948371931858024-619150485",
+  "shots": [
+    {
+      "start": 0,
+      "end": 10.166667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide-medium two-shot of the living room set, held for the entire skit with no cuts. Man (recliner-armed figure) is framed left-of-center holding keys up at chest height, woman is seated right-of-center in an armchair with a book; both figures' heads sit in the upper third with consistent headroom. The floor lamp fills the negative space between them and doubles as a visual divider between the two characters/thirds of the frame. Curtains crop the far left edge, bookshelf crops the far right edge, keeping the composition boxed in and symmetrical around the lamp. Framing never reframes, pushes, or pulls despite ~10s of dialogue and reaction beats."
+    },
+    {
+      "start": 10.166667,
+      "end": 12.333333333333334,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Static full-black end card/title card, no camera or set at all: show title centered upper-middle, 'Created by Nin.' subtitle beneath it, and a 'New Episode Daily' washi-tape graphic anchored lower-third center. Pure graphic overlay shot, not a filmed camera angle."
+    }
+  ],
+  "framing_patterns_notes": "The entire live-action-style portion of this short is a single unbroken static shot: no pans, tilts, zooms, or cuts between the two characters despite multiple dialogue exchanges and reaction beats (surprise, eye-rolls, deadpan). All comedic weight is carried by character animation/expression changes within the fixed frame rather than by camera work, and the piece ends on a graphic-only static title card rather than a final live shot."
+}

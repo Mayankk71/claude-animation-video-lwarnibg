@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1782229571-3925948371931858024-619150485",
+  "duration_sec": 12.436042,
+  "hook": {
+    "start": 0.0,
+    "end": 2.653,
+    "description": "Husband, dressed in a suit and already holding a jangling set of keys, announces to his wife 'I'm going out with friends.' She barely looks up from the book she's reading on the couch and replies, in a flat, unbothered tone, 'Do whatever you want.'",
+    "why_it_works": "Opens mid-scene on an instantly legible domestic power dynamic (husband poised to leave, wife seemingly indifferent). The keys-in-hand sight gag plus her deceptively permissive line reads as a trap, creating immediate curiosity about whether 'do whatever you want' really means yes."
+  },
+  "setup": {
+    "start": 2.653,
+    "end": 5.595,
+    "description": "A roughly 3-second dialogue-free beat: the husband's expression shifts to smug, droopy-eyed satisfaction (periodic-1/periodic-2 frames) as he seems to take her line as literal permission, while the wife stays absorbed in her book. No new information is introduced verbally; the pause is a held comedic beat letting the audience assume he's in the clear."
+  },
+  "conflict": {
+    "start": 5.595,
+    "end": 6.515,
+    "description": "The wife delivers the reveal line, 'That's not a yes,' without raising her eyes from the book. The husband's face snaps into a startled, wide-eyed, open-mouth expression (periodic-6 keyframe), his assumption instantly punctured."
+  },
+  "punchline": {
+    "start": 6.515,
+    "end": 9.277,
+    "description": "The husband deflates and concedes with a single word, 'Good.' (7.716-8.036), and the wife rewards his instant capitulation with mock-approving praise, 'You're learning.' (8.677-9.277), on-screen as bold caption text. The joke is the speed and totality of his surrender rather than any escalation."
+  },
+  "ending": {
+    "start": 9.277,
+    "end": 12.436042,
+    "description": "A brief closing reaction beat (husband still standing frozen with keys in hand, wife back to reading) carries the scene to its 10.17s cut, then the video cuts to a static black outro card reading 'LOW BATTERY PEOPLE' in gold serif type, 'CREATED BY NIN.' beneath it, and a yellow taped 'NEW EPISODE DAILY' ribbon graphic below that.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (series branding card, doubles as a return-for-more CTA)"
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.653, "beat_type": "hook", "description": "Husband announces he's going out with friends, keys already in hand; wife replies flatly 'Do whatever you want' without looking up from her book."},
+    {"start": 2.653, "end": 5.595, "beat_type": "setup", "description": "Silent ~3s comedic pause; husband's face reads smug/satisfied as if he's been granted permission, wife remains absorbed in her book."},
+    {"start": 5.595, "end": 6.515, "beat_type": "conflict", "description": "Wife corrects him, still not looking up: 'That's not a yes.' Husband's expression snaps to shocked, wide-eyed surprise."},
+    {"start": 6.515, "end": 9.277, "beat_type": "punchline", "description": "Husband immediately backs down with 'Good.'; wife delivers mocking approval, 'You're learning.', punctuated with bold on-screen caption text."},
+    {"start": 9.277, "end": 10.166667, "beat_type": "ending", "description": "Final held reaction shot of the husband frozen with keys still raised and the wife returning to her reading, closing out the live scene."},
+    {"start": 10.166667, "end": 12.436042, "beat_type": "ending", "description": "Cut to static black outro card: 'LOW BATTERY PEOPLE', 'CREATED BY NIN.', and a 'NEW EPISODE DAILY' ribbon graphic, serving as series branding/CTA."}
+  ],
+  "narrative_notes": "This is a heavily compressed micro-sketch: setup and hook nearly fuse into a single continuous exchange (0-2.653s) with the 'setup' beat contributing no new dialogue, only a silent comedic hold (2.653-5.595s) that lets the audience assume the husband got his way before the reveal punctures it. Conflict and punchline are likewise a tight one-two (5.595-9.277s, under 4 seconds total) rather than a drawn-out escalation. There is no separate scene change for the ending beat within the live-action portion -- it is a reaction shot that runs straight into the studio's static outro/branding card (scene boundary at 10.167s), which functions as the video's CTA. An 'Episode 42' overlay is visible in the top-left corner from the very first frame, indicating this is one entry in a daily serialized format, but it is a persistent UI label rather than a distinct narrative beat."
+}

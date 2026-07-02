@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1782412721-3927484758992673713-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 10.4,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot of the couple seated side by side on a couch, both facing camera/screen-left rather than each other; woman occupies left third, man's long nose and stiff torso occupy center-right, with a lit lamp balancing the right edge. Rainy city window behind them fills the top third for headroom and sets a nighttime interior. Frame stays completely static for the full 10+ seconds with no reframing, pan, tilt, or zoom even as dialogue and on-screen captions ('SHE SAID NO', word-by-word subtitles) change; both characters are cropped at the waist, hands visible in lap."
+    },
+    {
+      "start": 10.4,
+      "end": 11.5,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full-black title/end card, no camera or set in frame: centered yellow serif title 'LOW BATTERY PEOPLE', smaller white 'CREATED BY NIN.' subtitle beneath it, and a yellow ticket-shaped 'NEW EPISODE DAILY' badge lower-center with small burst marks flanking it for emphasis."
+    }
+  ],
+  "framing_patterns_notes": "The entire scripted portion of the video is a single unbroken static two-shot with no cuts, camera moves, or reframing whatsoever — all comedic timing (the pause before 'No,' the pause before the punchline) is carried by dialogue/caption timing rather than editing or camera work. The 'Episode 43' label and 'SHE SAID NO' spoiler text appear as overlays baked into the same locked shot rather than via a cutaway or insert shot, and the show's title/branding card appears both as an overlay early in the shot and again as a separate closing card, reinforcing the same centered-text branding treatment twice."
+}

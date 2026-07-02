@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1782229571-3925948371931858024-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 3.2,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.151,
+      "end": 1.092,
+      "text": "I'm going out with friends.",
+      "word_count": 5,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.532,
+      "end": 2.653,
+      "text": "Do whatever you want.",
+      "word_count": 4,
+      "pause_before_sec": 0.39,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.595,
+      "end": 6.515,
+      "text": "That's not a yes.",
+      "word_count": 4,
+      "pause_before_sec": 2.89,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.716,
+      "end": 8.036,
+      "text": "Good.",
+      "word_count": 1,
+      "pause_before_sec": 1.13,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.677,
+      "end": 9.277,
+      "text": "You're learning.",
+      "word_count": 2,
+      "pause_before_sec": 0.63,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All 5 lines carry the same transcript speaker label (SPEAKER_00) despite the content clearly alternating between two conversational roles (a partner announcing plans vs. a partner reacting/scoring the response) -- diarization in transcript.json did not split the two voices, so the speaker field as provided is a single undifferentiated label rather than two distinct tags. No line's start time falls before the prior line's end time (all gaps are positive, ranging 0.39s-2.89s), so there are no true audio interruptions; every pause in silence_pauses.json that falls inside the 0.151-9.277s dialogue span (1.147-1.539, 2.728-5.621, 6.588-7.716, 8.056-8.687) lines up one-to-one with the gap before lines 2-5, confirming each beat is separated by a deliberate in-scene pause rather than a scene cut. The trailing pause at 10.17-12.35s falls after the last line (9.277s) and is not attached to any dialogue gap.",
+  "speech_rhythm_notes": "The clip opens with two quick lines only 0.39s apart (both mid-length, 4-5 words), setting up a normal exchange pace. The rhythm then breaks hard: the longest pause in the clip (2.89s, more than 7x the opening gap) sits directly before the 4-word turn line 'That's not a yes.', giving the reveal/punchline maximum silence to land. After that, pauses shorten in a stepped decay (1.13s, then 0.63s) while line length also shrinks to single words ('Good.' at 1 word, 'You're learning.' at 2 words), producing an accelerating, clipped tag-out that mirrors the punchline's brevity rather than returning to the opening's fuller sentence length."
+}

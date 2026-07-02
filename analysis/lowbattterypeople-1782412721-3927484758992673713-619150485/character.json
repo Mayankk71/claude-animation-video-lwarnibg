@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1782412721-3927484758992673713-619150485",
+  "characters": [
+    {
+      "name_or_role": "Husband (tall man in black suit and tie)",
+      "personality_traits": [
+        "deadpan and low-energy, matching the 'Low Battery People' framing of the series",
+        "emotionally guarded on the surface but reveals genuine attachment underneath",
+        "asks a vulnerable question in a flat, almost bored tone rather than an eager one",
+        "responds to a blunt rejection with a quiet, caring reframe instead of hurt or anger, suggesting a dry, self-aware sense of humor"
+      ],
+      "emotional_range": [
+        "weary/fatigued baseline throughout",
+        "mild vulnerability when asking 'Do you still get excited when I come home?'",
+        "subdued resignation/acceptance on hearing 'No.'",
+        "quiet tenderness masked as worry in the closing line 'I get worried when you don't.'"
+      ],
+      "expressions": [
+        "0:00 - droopy half-lidded eyes, slack downturned mouth, staring straight ahead at the TV, no eye contact with wife while asking the question",
+        "0:02 - eyebrows raise very slightly and mouth opens a fraction as 'No.' lands (periodic-2), otherwise face stays largely inert",
+        "0:03-0:06 - reverts to flat, sagging expression, mouth settles into a neutral downturned line (periodic-3)",
+        "0:06 - no visible change in expression while delivering 'I get worried when you don't,' voice/posture carry the emotional weight instead of the face"
+      ],
+      "gestures": [
+        "sits rigidly upright on the couch with torso barely moving for the entire clip",
+        "hands rest motionless, folded/loosely clasped in his lap the whole time",
+        "no head turn toward his wife even when addressing her directly - both remain facing forward toward the TV/camera"
+      ],
+      "interactions_notes": "He initiates the exchange with the vulnerable question and, after his wife's blunt 'No,' has the last word with a soft, caring reframe - giving him narrative control of the scene's punchline even though he is physically passive. Despite the emotional content of the dialogue, neither character turns to look at the other; they talk past each other toward the TV, reinforcing the 'low battery,' checked-out comedic premise of the series."
+    },
+    {
+      "name_or_role": "Wife (woman in brown knit sweater, hair in a bun)",
+      "personality_traits": [
+        "blunt and economical with words - answers a loaded emotional question with a single flat 'No.'",
+        "shares the same low-affect, low-energy demeanor as her husband, suggesting the fatigue is mutual/routine rather than personal to one partner",
+        "not performatively caring or reassuring - her honesty is unadorned, which is the joke"
+      ],
+      "emotional_range": [
+        "flat, tired baseline expression held for nearly the entire clip",
+        "brief widening of the mouth/jaw drop on 'No.' (periodic-3) - the only clear expression change she has"
+      ],
+      "expressions": [
+        "0:00-0:02 - static, heavy-lidded stare toward the TV while her husband speaks, no reaction shown to his question",
+        "0:02-0:03 - mouth drops open slightly to deliver 'No.' (periodic-3), a small but the most animated moment she gets",
+        "0:03-0:07 - expression resets immediately to the same flat, sagging look, unmoved through his closing line"
+      ],
+      "gestures": [
+        "hands clasped still in her lap for the full duration, wedding ring visible",
+        "torso and head stay fixed facing forward; she never turns to look at her husband",
+        "no shift in posture or self-soothing gestures even after her blunt answer or his emotional follow-up"
+      ],
+      "interactions_notes": "She and her husband sit shoulder to shoulder on the couch but interact entirely through dialogue, not body language - no eye contact, no touching, no head turns. Her terse 'No.' functions as the deadpan pivot the scene is built around, and her stillness afterward lets his following line land as the emotional payoff without her reacting to it on camera."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1782412721-3927484758992673713-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 5.33,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.698,
+      "end": 2.303,
+      "text": "Do you still get excited when I come home?",
+      "word_count": 9,
+      "pause_before_sec": 0.74,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.644,
+      "end": 2.885,
+      "text": "No.",
+      "word_count": 1,
+      "pause_before_sec": 0.24,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.216,
+      "end": 7.46,
+      "text": "I get worried when you don't.",
+      "word_count": 6,
+      "pause_before_sec": 3.27,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All three lines are attributed to a single labeled speaker (SPEAKER_00), consistent with a narrator/voiceover delivering both a question and its blunt reply as one comedic beat rather than a back-and-forth exchange between two distinct on-screen voices. The setup ('Do you still get excited when I come home?') and the flat one-word denial ('No.') land close together with only a 0.24s beat between them, keeping the setup-to-deny exchange snappy. The reveal line ('I get worried when you don't.') is separated from the denial by a 3.27s silence, the longest gap in the clip, before the emotional/logical twist is delivered -- a classic setup-flatline-then-reframe rhythm.",
+  "speech_rhythm_notes": "The 'No.' punchline-adjacent line is only 1 word and follows the shortest gap in the clip (0.24s), landing almost immediately after the setup question to read as a deadpan cut-in. The real payoff line, 'I get worried when you don't.' (6 words), is delivered only after the clip's longest pause (3.27s, matching the silence window from 2.90794s to 6.18081s), letting the blunt 'No.' sit before the reframe explains it. There are two additional silence windows after the final line (7.50669-8.60112s, 1.09s; 8.99881-11.4999s, 2.50s) that fall after all dialogue ends, functioning as a closing hold rather than an in-dialogue pause."
+}

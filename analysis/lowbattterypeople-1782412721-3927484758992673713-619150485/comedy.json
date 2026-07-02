@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1782412721-3927484758992673713-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.698,
+      "end": 2.885,
+      "mechanism": "deadpan",
+      "description": "Husband asks 'Do you still get excited when I come home?' and wife answers 'No.' after only a 0.24s beat, in the same flat, half-lidded expression she wears throughout the scene.",
+      "why_it_lands": "The near-instant, unhesitating 'No' (only ~0.24s of silence separates question and answer per silence_pauses.json) reads as brutal honesty rather than cruelty because her sculpted face never shifts out of its droopy, sleep-deprived neutrality visible in scene-0.jpg — there's no flinch, no softening, just flat fact."
+    },
+    {
+      "start": 2.907,
+      "end": 6.181,
+      "mechanism": "awkward_silence",
+      "description": "A 3.27-second dead pause follows the 'No,' with both characters sitting motionless side by side, staring forward at the TV instead of at each other.",
+      "why_it_lands": "It's the longest silence in the whole 11.5s piece by a wide margin (more than double the next-longest gap), and the couple's identical slumped, half-closed-eye posture (same keyframe held across scene-0 and periodic-6) forces the viewer to sit in the same flat discomfort the characters do before the punch line resolves it."
+    },
+    {
+      "start": 6.216,
+      "end": 7.46,
+      "mechanism": "irony",
+      "description": "The husband's follow-up, 'I get worried when you don't,' reframes his wife's blunt 'No' from a rejection into a statement of secure, low-drama trust.",
+      "why_it_lands": "The reversal works because the setup primes you to hear 'No' as bad news (a 3+ second silence practically demands it), so the quiet, unbothered delivery of 'I get worried when you don't' — with no change in either character's expression — recasts a seemingly cold answer as the punchline's actual point: comfort, not passion, is the marker of a good marriage."
+    },
+    {
+      "start": 7.46,
+      "end": 11.5,
+      "mechanism": "other",
+      "description": "gut-punch: after the reveal line, the couple stays frozen in the same static two-shot for another 4+ seconds (including a 1.09s and then a 2.5s pause) as the show's title card fades in over them.",
+      "why_it_lands": "There's no further joke here, just a held shot of two people who look exhausted rather than warm — the show's whole 'low battery people' conceit (weary, drained, half-checked-out couples/parents) crystallizes in that final motionless hold, letting a relatable ache about long relationships settle rather than escalating for a bigger laugh."
+    }
+  ],
+  "overall_comedic_style_notes": "This entry runs on restraint, not jokes: a single exchange (question, blunt one-word answer, held silence, quiet reframe) delivered by stop-motion characters whose faces never animate beyond a tired, half-lidded default expression (seen consistently in scene-0.jpg, scene-1.jpg, and periodic-6.jpg). The comedy/emotion is generated almost entirely by pause length and vocal flatness rather than visual gags, wordplay, or physical action — fitting the show's branding ('Low Battery People,' 'created by Nin.') as a series about depleted, low-affect domestic moments rather than punchline-driven sketches."
+}

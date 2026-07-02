@@ -1,0 +1,70 @@
+{
+  "video_slug": "lowbattterypeople-1782412721-3927484758992673713-619150485",
+  "duration_sec": 11.604042,
+  "hook": {
+    "start": 0.0,
+    "end": 2.885,
+    "description": "Husband asks 'Do you still get excited when I come home?' and the wife immediately answers 'No.' The blunt rejection is punched up on-screen with a giant yellow 'SHE SAID NO' spoiler-title overlay (plus 'Episode 43' branding in the corner), front-loading the shocking answer before any context is given.",
+    "why_it_works": "It leads with the emotionally jarring answer instead of building to it, and the on-screen text literally announces the twist as news ('SHE SAID NO'), creating an instant curiosity gap about why he'd ask this and what he'll say back — all inside the first 3 seconds."
+  },
+  "setup": {
+    "start": 0.698,
+    "end": 2.303,
+    "description": "The husband's earnest, vulnerable-sounding question 'Do you still get excited when I come home?' establishes the domestic couch scene (two stop-motion characters side by side, city window behind them, warm lamp light) and the relationship stakes in a single line; it is delivered inside the same window as the hook, so setup and hook are essentially fused here."
+  },
+  "conflict": {
+    "start": 2.885,
+    "end": 6.216,
+    "description": "After the curt 'No.', both characters hold a long, silent, deadpan stare-ahead shot for over 3 seconds with no dialogue at all. There is no external complication or argument — the 'conflict' is purely the awkwardness of the unanswered rejection being allowed to sit, building anticipation for how the husband will respond to being told no."
+  },
+  "punchline": {
+    "start": 6.216,
+    "end": 7.46,
+    "description": "Husband replies, 'I get worried when you don't,' reframing his opening question: he wasn't asking about romantic excitement but about whether she's still powered on/charged, a battery-and-robot pun that recasts the couple as the titular 'Low Battery People' and flips the sad breakup-sounding exchange into a sight gag about being an android running low on battery."
+  },
+  "ending": {
+    "start": 7.46,
+    "end": 11.604042,
+    "description": "Both characters hold the same flat, tired expression for a beat with no reaction shot or laugh line, letting the pun land in silence. The show's branding then fades in over the live couch scene ('Low Battery People / Created by Nin.'), before the video cuts to a plain black end card repeating the title.",
+    "cta_or_text_overlay": "Low Battery People / Created by Nin. / yellow 'NEW EPISODE DAILY' ticket-style badge"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 0.698,
+      "beat_type": "hook",
+      "description": "Silent opening frame on the couch before any line is spoken; 'Episode 43' and the giant 'SHE SAID NO' title text are already on screen, priming the punchline before it's even said aloud."
+    },
+    {
+      "start": 0.698,
+      "end": 2.303,
+      "beat_type": "setup",
+      "description": "Husband asks, 'Do you still get excited when I come home?', establishing the domestic scene and emotional premise."
+    },
+    {
+      "start": 2.303,
+      "end": 2.885,
+      "beat_type": "hook",
+      "description": "Wife answers 'No.', landing the blunt reveal that the on-screen 'SHE SAID NO' text had already promised."
+    },
+    {
+      "start": 2.885,
+      "end": 6.216,
+      "beat_type": "conflict",
+      "description": "Extended silent pause (over 3 seconds); both characters stare ahead deadpan, letting the rejection hang unresolved before any reply comes."
+    },
+    {
+      "start": 6.216,
+      "end": 7.46,
+      "beat_type": "punchline",
+      "description": "Husband says, 'I get worried when you don't,' recasting 'excited' as a charge/power metaphor rather than affection — the pun that defines the 'Low Battery People' premise."
+    },
+    {
+      "start": 7.46,
+      "end": 11.604042,
+      "beat_type": "ending",
+      "description": "Deadpan hold on both characters, then the 'Low Battery People / Created by Nin.' branding overlay fades in over the live scene, followed by a cut to a black end card with the 'New Episode Daily' tag."
+    }
+  ],
+  "narrative_notes": "This is a two-line couch-joke format compressed into ~11.6s total, and several classic beats are deliberately fused rather than distinct. Hook and setup overlap almost entirely: the husband's question (setup) and the wife's 'No' plus its spoiler-title overlay (hook) both occur before 2.9s, with the on-screen text 'SHE SAID NO' effectively announcing the twist before it's dramatized, which is unusual — the hook here works by spoiling the beat, not delaying it. There is no true dramatic 'conflict' (no argument, obstacle, or escalation); the conflict beat is really just a held silence/stare after the 'No', functioning as comedic timing rather than plot tension, and is explicitly fused with the pause before the punchline. The punchline itself is pure wordplay (excited/worried reinterpreted as battery charge language) rather than a physical or slapstick gag, consistent with this being an episodic series ('Episode 43', 'New Episode Daily') whose recurring joke engine is stop-motion characters delivering deadpan relationship one-liners that resolve into a battery/robot pun."
+}

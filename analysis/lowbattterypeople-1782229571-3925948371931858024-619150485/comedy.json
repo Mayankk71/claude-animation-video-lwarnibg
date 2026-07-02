@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1782229571-3925948371931858024-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.151,
+      "end": 2.653,
+      "mechanism": "recognition",
+      "description": "Husband announces 'I'm going out with friends' and his wife replies flatly 'Do whatever you want' without looking up from her book.",
+      "why_it_lands": "Anyone in a long-term relationship immediately recognizes 'do whatever you want' as a loaded, non-permission phrase; the wife never breaks eye contact with her book (periodic-4.jpg), which signals the line is a test, not actual indifference."
+    },
+    {
+      "start": 2.653,
+      "end": 5.595,
+      "mechanism": "awkward_silence",
+      "description": "A 2.89-second silent hold on the husband's bug-eyed, keys-still-raised stare as he processes what she really meant.",
+      "why_it_lands": "The pause (2.727-5.621, per silence_pauses.json) is by far the longest beat in a 12-second video, and his frozen posture with keys still dangling mid-air visually stretches the tension of a man doing math on a trap he already knows he's in."
+    },
+    {
+      "start": 5.595,
+      "end": 6.515,
+      "mechanism": "recognition",
+      "description": "He breaks the silence with 'That's not a yes,' correctly decoding her passive-aggressive permission.",
+      "why_it_lands": "It names the exact subtext the audience was already thinking during the 2.89s pause, turning shared cultural knowledge of marital dynamics into the punchline instead of new information."
+    },
+    {
+      "start": 6.515,
+      "end": 8.036,
+      "mechanism": "deadpan",
+      "description": "After a 1.13-second beat, the wife responds with a single flat 'Good,' delivered without looking up, confirming he was right to be suspicious.",
+      "why_it_lands": "The keyframe at this line (periodic-8.jpg) shows her mouth barely moving and eyes still down at the book while the on-screen caption reads 'GOOD.' in stark white text against the dim room -- the mismatch between the huge stakes he's sweating over and her one flat syllable is the joke."
+    },
+    {
+      "start": 8.036,
+      "end": 9.277,
+      "mechanism": "irony",
+      "description": "After a 0.63-second pause, she adds 'You're learning,' reframing the entire exchange as her training him like a pet or student.",
+      "why_it_lands": "The line reveals the true power dynamic retroactively -- the whole 9-second scene was a test she was grading -- which recontextualizes his earlier fear into a relatable, gut-punch acknowledgment of who actually runs the relationship."
+    }
+  ],
+  "overall_comedic_style_notes": "The entire joke is carried by a single static two-shot with zero cuts (scene_boundaries.json shows one 10.17s scene) and lives almost entirely in pause length rather than blocking or physical gags: the silence_pauses.json timings (0.39s, 2.89s, 1.13s, 0.63s, 0.43s) escalate and then contract, mirroring the husband's dawning dread and the wife's clipped, unbothered control. Comedy comes from recognition of a universal relationship script (the loaded 'do whatever you want') rather than absurdity or slapstick, paired with deadpan vocal delivery and exaggerated stop-motion eye-widening on the husband as the only physical comedic amplifier. The video closes on a plain branded title card ('LOW BATTERY PEOPLE... NEW EPISODE DAILY') rather than a visual gag, suggesting the series' hook is short, dialogue-only relational vignettes."
+}
