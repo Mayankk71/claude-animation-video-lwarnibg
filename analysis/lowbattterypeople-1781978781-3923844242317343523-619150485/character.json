@@ -1,0 +1,61 @@
+{
+  "video_slug": "lowbattterypeople-1781978781-3923844242317343523-619150485",
+  "characters": [
+    {
+      "name_or_role": "woman (partner in brown sweater, bun hairstyle)",
+      "personality_traits": [
+        "quietly assertive - opens the confrontation and delivers the corrective punchline without raising her voice",
+        "patient but weary - keeps a heavy-lidded, deadpan expression through the whole exchange rather than escalating",
+        "holds her partner accountable - tests him with follow-up prompts ('What was the story about?', 'Go on.') instead of dropping the issue",
+        "low physical energy / minimal gesture, consistent with the show's 'low battery' deadpan house style"
+      ],
+      "emotional_range": [
+        "mild accusatory irritation at 0:01 ('You weren't listening')",
+        "flat skepticism while he answers 0:03-0:05",
+        "faint concern / raised eyebrows as his guess unspools 0:06-0:09",
+        "dry, vindicated correction at 0:10-0:14 ('That was Tuesday's story... I was talking about my sister') delivered with the same tired deadpan, no gloating"
+      ],
+      "expressions": [
+        "0:00 baseline: droopy, half-lidded eyes, closed mouth, resigned look",
+        "0:01 mouth opens to speak, brow slightly lifted, gaze fixed forward rather than at partner",
+        "0:03-0:05 listens with narrowed, skeptical eyes and a faint downturned mouth corner",
+        "0:06-0:09 mouth open again, eyebrows raised slightly higher than baseline, a flicker of surprise as the wrong story emerges",
+        "0:10-0:14 mouth open delivering the correction, eyebrows still raised but eyes return to the same tired half-lidded state - exasperation without animation"
+      ],
+      "gestures": [
+        "hands folded and resting motionless on her lap/blanket for nearly the entire scene",
+        "minimal head movement - stays facing forward, only a slight tilt toward him when speaking",
+        "no phone, no props - stillness is used to visually contrast with his phone-fidgeting"
+      ],
+      "interactions_notes": "She sits upright against the headboard, angled slightly toward him but rarely making direct eye contact - both characters spend most of the scene facing forward rather than at each other, a visual gag suggesting parallel disengagement even while arguing about listening. She initiates and controls the exchange (accusation, prompts, final correction), giving her the conversational upper hand; he answers to her rather than the reverse, establishing her as the one who 'wins' the beat."
+    },
+    {
+      "name_or_role": "man (partner in black suit and tie, phone in hand)",
+      "personality_traits": [
+        "phone-dependent and distracted - never puts the phone down, even while defending himself",
+        "outwardly confident despite being caught - answers quickly and with a smirk rather than pausing to think",
+        "conflict-avoidant - instead of admitting he wasn't listening, he offers a vague, generic guess ('someone at your work did a thing and you were not happy') that could apply to almost any story",
+        "quick to backpedal once exposed, without visible embarrassment - the deflation is understated, not dramatic"
+      ],
+      "emotional_range": [
+        "complacent, half-smiling confidence at 0:03 ('I was listening.')",
+        "mild uncertainty at 0:04-0:05, eyes flicking down toward the phone while stalling with a question",
+        "wide-eyed, slightly alarmed over-effort at 0:06-0:09 while manufacturing the generic answer, punctuated by an illustrative pointing gesture",
+        "flat, deflated return to baseline droopy stare at 0:10-0:14 once corrected, no protest or apology shown"
+      ],
+      "expressions": [
+        "0:00 baseline: heavy-lidded eyes, mouth slightly open, distracted stare down at phone",
+        "0:03 small smug smirk and slightly raised eyebrows on 'I was listening'",
+        "0:04-0:05 eyebrows tick toward a faint furrow, eyes dart between phone and forward as he stalls with 'What was the story about? / Your work?'",
+        "0:06-0:09 eyes open wide, eyebrows raised high, mouth open as if reciting confidently while pointing with his free hand",
+        "0:10-0:14 eyes and brows drop back to the tired half-lidded baseline, mouth curls slightly down - quiet deflation on 'That was Tuesday's story... my sister'"
+      ],
+      "gestures": [
+        "continuously holds and thumbs/taps the phone screen with his free hand throughout the scene",
+        "raises an index finger in a small illustrative point at ~0:08 while delivering his guess, the only deliberate hand gesture from either character",
+        "torso stays angled behind/beside her, body oriented more toward the phone than toward her"
+      ],
+      "interactions_notes": "He remains physically tethered to his phone rather than to her, which visually reinforces the joke that he 'was listening' only in a generic, half-attentive way. He responds to her prompts on a delay, glancing at the phone between lines, and only fully turns his attention to her (without breaking his tired expression) when correcting himself at the end. The power dynamic favors her throughout - he is reactive and corrected, she is the one setting the terms of the conversation."
+    }
+  ]
+}

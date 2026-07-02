@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1782048328-3924427971154802321-619150485",
+  "comedic_beats": [
+    {
+      "start": 1.013,
+      "end": 4.037,
+      "mechanism": "recognition",
+      "description": "Wife confronts husband with the exact, hyper-specific search he just made: 'is it normal to be annoyed by chewing?'",
+      "why_it_lands": "The line is delivered as a direct quote of his own search history, not a paraphrase — the specificity (misophonia toward a partner's chewing) is instantly recognizable to anyone who has felt irrationally irritated by a loved one's eating sounds, which is why it reads as relatable rather than absurd."
+    },
+    {
+      "start": 4.278,
+      "end": 5.579,
+      "mechanism": "deadpan",
+      "description": "Husband flatly replies 'Nothing, just doing some research' while still holding his phone up at chest height, mid-scroll, in plain view.",
+      "why_it_lands": "His face stays in the same droopy, half-lidded neutral expression from the opening frame (keyframe scene-0.jpg) — zero flinch or panic despite being caught red-handed — so the mismatch between the flimsiness of the lie and his total lack of reaction is the joke."
+    },
+    {
+      "start": 5.7,
+      "end": 8.133,
+      "mechanism": "awkward_silence",
+      "description": "Wife states 'We just had dinner together,' then the transcript shows a 0.81s pause before the next line lands.",
+      "why_it_lands": "The 0.81-second silence (7.322-8.133 in silence_pauses.json) is the longest gap in the exchange up to that point, letting the accusation hang in the air like a held beat before she comes back in with the fuller, damning version of the sentence."
+    },
+    {
+      "start": 8.143,
+      "end": 11.568,
+      "mechanism": "escalation",
+      "description": "Wife upgrades the accusation from 'we just had dinner' to the fully specific, present-tense indictment: 'You Googled that during dinner about me while I was chewing in front of you.'",
+      "why_it_lands": "Each clause adds a new incriminating detail (during dinner → about me → while I was chewing → in front of you), stacking specificity on top of specificity until the sentence itself becomes the punchline through sheer accumulation rather than a single twist."
+    },
+    {
+      "start": 12.224,
+      "end": 14.871,
+      "mechanism": "awkward_silence",
+      "description": "The scene ends on a 2.65-second held silence with no rebuttal from the husband, cutting straight to the black title card ('LOW BATTERY PEOPLE').",
+      "why_it_lands": "At 2.65 seconds this is by far the longest pause in the whole clip (nearly 20% of total runtime), and pairing it with his same unmoved, low-lidded expression from the opening frame turns his silence into the closing beat — he has no comeback, and the show doesn't give him one."
+    }
+  ],
+  "overall_comedic_style_notes": "The humor here is built entirely on recognition and escalating specificity rather than a single punchline: the joke is 'named' immediately in the opening line (googling whether it's normal to be annoyed by a partner's chewing) and the rest of the 15-second scene just tightens the noose with added detail while the husband's expression never changes, so the deadpan stasis of his face against the wife's rising specificity is the core comic engine. The title card reveal ('LOW BATTERY PEOPLE') at the very end reframes the whole exchange as one entry in a recurring format about people who are checked-out/emotionally unavailable in relationships, so the gag also functions as a franchise-establishing beat rather than a one-off joke."
+}

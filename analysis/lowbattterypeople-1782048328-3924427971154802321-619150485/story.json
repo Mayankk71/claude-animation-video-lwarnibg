@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1782048328-3924427971154802321-619150485",
+  "duration_sec": 14.974708,
+  "hook": {
+    "start": 0,
+    "end": 4.037,
+    "description": "Cold open mid-argument at a stop-motion felt-character dinner table (wine glasses, plates, 'Episode 39' label). A 'GOOGLE HISTORY' text overlay names the joke's premise while the wife (SPEAKER_00) fires an oddly specific accusation: 'Why did you just Google, is it normal to be annoyed by chewing?' The husband sits deadpan, phone in hand.",
+    "why_it_works": "Dropping the viewer into an already-escalated, bizarrely specific accusation ('annoyed by chewing') creates instant curiosity about what happened, while the 'GOOGLE HISTORY' overlay and deadpan felt-puppet expressions telegraph the comedic tone before any punchline lands."
+  },
+  "setup": {
+    "start": 4.037,
+    "end": 5.579,
+    "description": "Husband gives a flat, unconvincing deflection: 'Nothing, just doing some research,' still holding up his phone, establishing his guilt without admitting anything."
+  },
+  "conflict": {
+    "start": 5.579,
+    "end": 8.143,
+    "description": "Wife points out the timing doesn't add up - 'We just had dinner together' - followed by a short silent beat of reaction shots (her stunned, open-mouthed expression; his sheepish avoidance) that builds suspicion right before the reveal."
+  },
+  "punchline": {
+    "start": 8.143,
+    "end": 11.568,
+    "description": "Wife delivers the full accusation in one line: 'You Googled that during dinner about me while I was chewing in front of you.' The absurdity is that he searched, in real time, whether it's normal to be annoyed by his date's chewing while sitting directly across from her mid-meal."
+  },
+  "ending": {
+    "start": 11.568,
+    "end": 14.974708,
+    "description": "A brief frozen reaction beat on the two characters cuts to the show's branded outro card layered over the same dinner scene: 'LOW BATTERY PEOPLE' title in yellow serif type with 'CREATED BY NIN.' beneath it and a torn-paper 'NEW EPISODE DAILY' ribbon graphic. There is no spoken resolution - the sketch ends on the outro card rather than a reaction line.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE - Created by Nin. / NEW EPISODE DAILY (ribbon graphic)"
+  },
+  "beat_map": [
+    {"start": 0, "end": 4.037, "beat_type": "hook", "description": "Wife accuses husband mid-dinner: 'Why did you just Google, is it normal to be annoyed by chewing?' over a 'GOOGLE HISTORY' text overlay and 'Episode 39' label."},
+    {"start": 4.037, "end": 5.579, "beat_type": "setup", "description": "Husband deflects flatly: 'Nothing, just doing some research,' phone still visible in hand."},
+    {"start": 5.579, "end": 8.143, "beat_type": "conflict", "description": "Wife notes 'We just had dinner together,' followed by a silent reaction beat of suspicious/stunned expressions before she continues."},
+    {"start": 8.143, "end": 11.568, "beat_type": "punchline", "description": "Wife's full reveal line: 'You Googled that during dinner about me while I was chewing in front of you,' landing the absurdity of him researching live during the date."},
+    {"start": 11.568, "end": 14.974708, "beat_type": "ending", "description": "Silent frozen reaction shot dissolves into the 'LOW BATTERY PEOPLE / Created by Nin.' outro card with 'NEW EPISODE DAILY' ribbon branding."}
+  ],
+  "narrative_notes": "This reel runs about 15 seconds, shorter than the typical 20-25s reference length, so the arc compresses into four rapid dialogue lines with almost no dedicated visual setup beyond the opening two-shot at the dinner table. The 'conflict' beat is thin - really just the wife's transitional line plus a half-second reaction pause - functioning more as a suspense hinge into the punchline than a separate escalation. There is no spoken ending or resolution line; the sketch closes on series branding ('Low Battery People,' 'Episode 39' shown earlier in the hook, 'New episode daily') rather than a joke-driven wrap-up, consistent with a serialized micro-sitcom format."
+}

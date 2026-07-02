@@ -1,0 +1,25 @@
+{
+  "video_slug": "lowbattterypeople-1781978781-3923844242317343523-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 5.43,
+  "cuts": [
+    {
+      "timestamp": 10.066667,
+      "transition_type": "jump_cut",
+      "reason": "Cuts from the wide two-shot of the couple in bed to a slightly punched-in reframe of the same pose right as the wife finishes her question, tightening on the husband's face for his reaction to the line."
+    },
+    {
+      "timestamp": 14.3,
+      "transition_type": "hard_cut",
+      "reason": "Hard cuts from the husband's reaction beat straight to the black branded outro card ('LOW BATTERY PEOPLE / Created by Nin.'), ending the skit immediately after the punchline lands rather than lingering."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 10.066667,
+      "end": 14.3,
+      "description": "Tighter reframe on the husband, still scrolling his phone, as his eyes widen and mouth drops open in reaction to his wife's line -- a reaction beat rather than new plot action."
+    }
+  ],
+  "pacing_notes": "The whole skit is essentially two static shots of the couple in bed plus a title card: shot 1 runs long (~10.1s) to let the word-by-word caption dialogue play out and set up the joke, shot 2 tightens and shortens (~4.2s) to hold on the husband's reaction to the punchline, and the final outro card is the shortest (~2.0s), landing as a quick branded stamp right after the laugh. Overall pacing compresses from a slow, held setup shot to a snappier reaction and an abrupt sign-off, with almost no camera movement -- the pacing is carried by the captions and dialogue timing rather than by cutting frequency."
+}

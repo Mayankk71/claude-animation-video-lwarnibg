@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1782048328-3924427971154802321-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 13.066667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot across a dinner table, camera never moves for the full 13s scene (confirmed identical framing across all periodic samples). Woman seated left third of frame in a brown sweater, facing right toward her husband; man seated right of center, angled 3/4 away from her and toward his phone, which he holds low in the lower-right third. Both figures have generous headroom with a large flat negative-space band above their heads (left open for episode-number and lower-third caption text). Wine glass and dinner plates cropped at the very bottom edge anchor the foreground; background kitchen/doorway is soft-focused and unobtrusive. His hunched posture and downward phone-gaze versus her flat, unimpressed stare create the comedic asymmetry within the fixed frame."
+    },
+    {
+      "start": 13.066667,
+      "end": 14.833333333333334,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black card, no camera/scene content: centered show title in yellow serif type, 'Created by Nin.' subtitle beneath in white, and a small angled yellow 'NEW EPISODE DAILY' badge graphic centered below that. Pure graphic end-card, symmetrical and centered on the frame."
+    }
+  ],
+  "framing_patterns_notes": "The entire gag plays out in a single unbroken static medium two-shot at the dinner table with no pans, zooms, or cuts between the two characters -- the humor is carried entirely by their exaggerated felt-puppet expressions and posture within a fixed frame, not by camera coverage. Generous headroom is consistently left above both characters to accommodate the episode-number label (top-left) and burned-in dialogue captions (lower-center), suggesting the composition is deliberately built to leave clean space for text overlays. The video closes on a static, centered black title/branding card rather than an in-scene camera move."
+}

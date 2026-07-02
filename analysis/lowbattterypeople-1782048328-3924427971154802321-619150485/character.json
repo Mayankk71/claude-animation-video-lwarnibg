@@ -1,0 +1,51 @@
+{
+  "video_slug": "lowbattterypeople-1782048328-3924427971154802321-619150485",
+  "characters": [
+    {
+      "name_or_role": "Woman (girlfriend/wife, seated left)",
+      "personality_traits": [
+        "Perceptive and unimpressed - immediately calls out her partner's odd search instead of asking casually",
+        "Dry, deadpan delivery - delivers the accusation flatly rather than yelling",
+        "Escalates methodically, building the case point by point (googled it -> during dinner -> about me -> while I was chewing in front of you)",
+        "Composed under irritation - keeps hands resting on the table and stays seated rather than reacting physically"
+      ],
+      "emotional_range": [
+        "mild suspicion (0:01) -> flat disbelief (0:04-0:06) -> mounting incredulous offense (0:08-0:11)"
+      ],
+      "expressions": [
+        "0:01 heavy-lidded, skeptical half-closed eyes fixed on partner while asking the question",
+        "0:02-0:04 mouth drops slightly open, brow flattens into a 'seriously?' look as he deflects",
+        "0:06 jaw drops further, eyebrows knit - registering the timeline (during dinner) in real time",
+        "0:08-0:11 mouth remains open in a stunned, offended half-gape, eyes narrow with hurt/annoyance as she spells out the full insult"
+      ],
+      "gestures": [
+        "Hands stay flat on the table on either side of her plate throughout, food untouched",
+        "No hand gestures used - all reaction is carried in the face, reinforcing a controlled, simmering tone",
+        "Head stays level and forward-facing toward her partner, no looking away"
+      ],
+      "interactions_notes": "She holds steady eye contact on her partner for the entire exchange, functioning as the scene's questioner/prosecutor. She never breaks gaze or gets up, which puts the conversational power in her hands - he is the one who has to answer to her. Her stillness (hands on table, upright posture) contrasts with his phone-holding, slightly hunched posture, visually marking her as the aggrieved party and him as the one caught out."
+    },
+    {
+      "name_or_role": "Man (boyfriend/husband, seated right, holding phone)",
+      "personality_traits": [
+        "Caught off guard and quick to minimize ('Nothing, just doing some research') - classic deflecting/downplaying response",
+        "Slightly oblivious or in denial about how bad the search looks, judging by his casual explanation",
+        "Passive/avoidant body language rather than confrontational - he does not defend himself loudly, just underplays it"
+      ],
+      "emotional_range": [
+        "sleepy nonchalance (0:00) -> mild alarm at being caught (0:04) -> sheepish resignation as she lays out the timeline (0:05-0:11)"
+      ],
+      "expressions": [
+        "0:00 droopy, half-lidded 'low battery' eyes looking down at his phone, neutral closed-mouth frown",
+        "0:04 eyes flick up toward her while answering 'Nothing, just doing some research' - a slightly guilty, non-committal look",
+        "0:06-0:11 expression barely changes, staying in the same tired, deadpan slack-mouthed frown, signaling he doesn't fully register or won't admit how bad it looks"
+      ],
+      "gestures": [
+        "Holds the phone up in front of his chest with both hands cradling it throughout the whole exchange, thumb near the screen as if mid-search",
+        "Torso angled slightly toward her but eyes/attention repeatedly drop back to the phone rather than fully engaging her",
+        "No other hand gestures - stillness reinforces a caught-red-handed, frozen posture"
+      ],
+      "interactions_notes": "He never puts the phone down even while being confronted, which is the visual joke - literally still holding the incriminating evidence as he tries to explain it away. He answers her directly but his gaze drifts to the phone rather than holding eye contact, underscoring his lower-status, defensive position relative to her steady, direct stare. The power dynamic is asymmetric: she interrogates and escalates, he stays passive and under-explains, and the phone functions as a physical prop separating them across the table."
+    }
+  ]
+}

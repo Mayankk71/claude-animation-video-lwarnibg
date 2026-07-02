@@ -1,0 +1,14 @@
+{
+  "video_slug": "lowbattterypeople-1782048328-3924427971154802321-619150485",
+  "cut_count": 1,
+  "avg_shot_length_sec": 7.42,
+  "cuts": [
+    {
+      "timestamp": 13.066667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts straight from the live dinner-table scene to the black title/end card immediately after the wife's punchline line ('You Googled that during dinner about me while I was chewing in front of you.'), landing on the joke with no lingering reaction beat before locking into the show's branding."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The entire ~13s dialogue exchange plays out in a single static two-shot with no internal cuts — pacing is driven purely by the dialogue rhythm, pauses, and the characters' facial reactions (deadpan stares, widening eyes) within the frame rather than by editing. The only cut in the whole video is the final hard cut to a ~1.8s black end card with the show title and 'New Episode Daily' CTA, giving the piece a held-shot-then-snap-to-card structure typical of a single-joke skit."
+}

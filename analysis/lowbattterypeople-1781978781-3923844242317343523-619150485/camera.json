@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1781978781-3923844242317343523-619150485",
+  "shots": [
+    {
+      "start": 0,
+      "end": 10.066667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off two-shot on the bed, camera roughly at the sitting wife's eye level so the husband (standing/kneeling beside the headboard) looms taller in frame. Wife occupies the left third with generous headroom under the curved headboard; husband and his lit phone occupy the right two-thirds, his face rim-lit by the warm bedside lamp glow behind him. Pillow and bedspread fill the lower-left corner, phone screen is the only bright point-of-interest on the right. Burned-in subtitle sits bottom-center, never overlapping faces. Both characters face forward/slightly off-axis toward the TV rather than each other, keeping the composition non-symmetrical and slightly deadpan."
+    },
+    {
+      "start": 10.066667,
+      "end": 14.3,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Same locked bedroom two-shot but cut in noticeably tighter than the previous scene: the headboard's curve is cropped closer to the wife's head, less pillow is visible in the lower-left, and both faces read larger in frame for the punchline exchange (\"HAPPY\" / \"SISTER\"). Blocking and lighting are unchanged from the prior shot -- husband still lamp-lit on the right holding the phone, wife shadowed on the left -- so the cut reads as a hard push-in cut rather than a lens zoom, used to land the joke."
+    },
+    {
+      "start": 14.3,
+      "end": 16.3,
+      "shot_type": "other",
+      "camera_movement": "other",
+      "composition_notes": "Static graphic outro card, not a photographed shot: full black background, centered serif title \"LOW BATTERY PEOPLE\" in yellow with \"CREATED BY NIN.\" beneath it in white, and a yellow torn-tape \"NEW EPISODE DAILY\" badge with small burst marks lower-center. All elements are horizontally centered and stacked with even vertical spacing, no camera framing decisions apply."
+    }
+  ],
+  "framing_patterns_notes": "The entire live-action portion (scenes 0-1) is a single locked-off, static two-shot on the bed -- there are no cutaways, reaction inserts, pans, or handheld movement while the characters talk. The only camera-level change across the joke is one hard cut-in to a slightly tighter framing of the same two-shot right as the punchline lands, compressing the two faces and the phone closer together rather than using a slow zoom. Blocking stays fixed throughout: husband upper-right and lamp-lit, wife lower-left and in shadow, phone as the sole bright accent. The video then hard-cuts from that tight live-action frame straight to a static black title card, with no transition shot in between."
+}
