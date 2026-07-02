@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1782715688-3930026225661514955-619150485",
+  "characters": [
+    {
+      "name_or_role": "Paul (driver)",
+      "personality_traits": [
+        "chronic, low-stakes complainer (opens with an unprompted \"I hate Mondays\")",
+        "deadpan and low-energy, matching the show's 'low battery' framing",
+        "passive under mild criticism — doesn't argue back or defend himself when called out by name",
+        "creature-of-habit vibe implied by the passenger's line that this is a weekly routine"
+      ],
+      "emotional_range": [
+        "flat, weary resignation (baseline)",
+        "mild grievance while stating the complaint",
+        "unbothered/unreactive when confronted, no spike in defensiveness or anger"
+      ],
+      "expressions": [
+        "0:00 heavy, half-lidded droopy eyes staring straight ahead through the windshield at gridlocked traffic",
+        "0:01–0:02 eyes remain sunken/tired while delivering \"I hate Mondays\", no eyebrow movement",
+        "0:06–0:08 same droopy, glassy-eyed stare forward, face stays essentially neutral even as he is addressed by name \"Paul\""
+      ],
+      "gestures": [
+        "both hands loosely on the steering wheel throughout",
+        "seated upright, seatbelt fastened, torso and head kept facing forward the entire scene",
+        "no head turn toward the passenger even when directly addressed — posture never breaks from the driving position"
+      ],
+      "interactions_notes": "Paul never turns to look at his passenger; all of his 'listening' is implied through stillness rather than reaction shots, reinforcing a tired, checked-out demeanor. He initiates the exchange but cedes the conversational upper hand once she counters him, staying visually and physically passive."
+    },
+    {
+      "name_or_role": "passenger (woman, unnamed)",
+      "personality_traits": [
+        "dryly observant — immediately calls out Paul's complaint as a recurring pattern",
+        "composed and matter-of-fact, delivers her rebuttal without raised volume or big gesture",
+        "comfortable enough with Paul to use his first name in a slightly needling way, suggesting familiarity (partner/spouse dynamic)"
+      ],
+      "emotional_range": [
+        "neutral/composed at rest (seen from behind, sipping coffee)",
+        "mild, dry exasperation as she turns to respond",
+        "flat, confident assertiveness delivering the punchline retort"
+      ],
+      "expressions": [
+        "0:00–0:02 back to camera, face unseen, calmly holding coffee, no visible reaction to Paul's complaint",
+        "0:03–0:05 turns head in profile toward Paul, eyes at half-mast with a faint, unimpressed arch to the brow",
+        "0:06–0:08 mouth open mid-line, flat/deadpan delivery of \"Because it happens every week, Paul\", eyebrows still low and unimpressed rather than heated"
+      ],
+      "gestures": [
+        "holds a steaming to-go coffee cup with both hands close to her body for the whole scene",
+        "keeps torso facing forward/seatbelt on, only rotates head and neck to address Paul",
+        "no hand gestures accompany her line — the retort is delivered with stillness, letting the words carry the beat"
+      ],
+      "interactions_notes": "She is the one who turns to make eye contact, while Paul stays facing front, giving her the visual 'last word' in the frame. The power dynamic favors her: she corrects him factually and by name, and he offers no rebuttal, gesture, or expression change in response. Their turn-taking is quick and alternating (complaint → tease → fact-check), consistent with a rehearsed, running domestic bit rather than a heated argument."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "video_slug": "lowbattterypeople-1782715688-3930026225661514955-619150485",
+  "cut_count": 3,
+  "avg_shot_length_sec": 2.875,
+  "cuts": [
+    {
+      "timestamp": 4.433333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide two-shot inside the car to a tight close-up on the wife right after Paul's 'You say that every week' line, isolating her deadpan expression before she fires back the punchline."
+    },
+    {
+      "timestamp": 9.366667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts away from the wife's close-up back to a medium shot of Paul the instant her punchline 'Because it happens every week, Paul' lands, letting his reaction/the show title card land on his face for the beat."
+    },
+    {
+      "timestamp": 10.266667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the in-scene shot straight to a black end card with the show logo and 'new episode daily' tag, closing the episode immediately after the punchline beat with no lingering."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 4.433333,
+      "end": 9.366667,
+      "description": "Close-up on the wife's unimpressed, deadpan face as she delivers the punchline 'Because it happens every week, Paul' — her flat expression is the visual payoff of the joke as much as the line itself."
+    }
+  ],
+  "pacing_notes": "The edit holds on only two real story shots: a ~4.4s wide establishing shot of the couple in traffic for the setup exchange, then a slightly longer ~4.9s close-up on the wife's deadpan face to deliver the punchline. Once the joke lands, pacing snaps much faster into two brief branding beats (~0.9s and ~1.2s) — a title-card overlay then a hard cut to a black end card — giving the setup/punchline room to breathe before rapid-fire sign-off."
+}

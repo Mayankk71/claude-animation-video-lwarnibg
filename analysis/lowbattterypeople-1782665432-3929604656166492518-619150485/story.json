@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+  "duration_sec": 10.985375,
+  "hook": {
+    "start": 0.0,
+    "end": 2.589,
+    "description": "Cold open on a stop-motion couple in a dim bedroom at night: the wife (fuzzy brown sweater, bun) sits on the edge of the made bed while the husband (glasses, long dark coat, folded clothes in hand) stands by a wooden chair. Before any setup shot, she deadpans the line 'We don't have anything in common anymore.' An episode-branding overlay ('Episode 44 / BURP-EES') is briefly visible over this same opening frame.",
+    "why_it_works": "Opens mid-scene with no establishing beat, straight into a flatly delivered, universally relatable relationship complaint. The blunt, low-energy line reads as a mini cliffhanger question (what WILL they say they have in common?) that pulls viewers into the next two lines within under 3 seconds."
+  },
+  "setup": {
+    "start": 2.589,
+    "end": 3.512,
+    "description": "Brief silent beat as the husband keeps folding clothes, then quickly rebuts with 'We do.' The quick, confident contradiction sets up an expectation that he is about to name something meaningful they share."
+  },
+  "conflict": {
+    "start": 3.512,
+    "end": 4.998,
+    "description": "The wife challenges him with a sharp 'What?' (reinforced by a bold white 'WHAT?' on-screen caption on her raised-eyebrow, skeptical expression), creating a short suspense gap before he answers -- the tension is entirely about what he'll claim they have in common."
+  },
+  "punchline": {
+    "start": 4.998,
+    "end": 5.782,
+    "description": "Husband answers 'Acid reflex.' -- an absurdly mundane, unromantic shared trait delivered totally deadpan, subverting the expected sentimental answer and landing the joke."
+  },
+  "ending": {
+    "start": 5.782,
+    "end": 10.985375,
+    "description": "No further dialogue: both characters hold exaggerated reaction expressions (wide grin/open mouth) in silence through 8.13s as the scene lingers on the joke. The frame then fades to a branded title/credits card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' (8.13-9.53s), which darkens further into a near-black end card still showing the title plus a 'NEW EPISODE DAILY' badge (9.53-10.99s).",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE - CREATED BY NIN. / NEW EPISODE DAILY badge tag, prompting viewers to expect and return for the next daily episode."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 2.589, "beat_type": "hook", "description": "Wife states 'We don't have anything in common anymore' over the opening bedroom shot; 'Episode 44 / BURP-EES' branding briefly overlaid."},
+    {"start": 2.589, "end": 3.512, "beat_type": "setup", "description": "Silent beat then husband's quick rebuttal 'We do.', with a karaoke-style 'WE' caption appearing on screen."},
+    {"start": 3.512, "end": 4.998, "beat_type": "conflict", "description": "Wife challenges with 'What?' (bold 'WHAT?' caption on screen), a short suspenseful pause before the answer."},
+    {"start": 4.998, "end": 5.782, "beat_type": "punchline", "description": "Husband delivers the absurd payoff: 'Acid reflex.'"},
+    {"start": 5.782, "end": 10.985375, "beat_type": "ending", "description": "Silent exaggerated reaction hold, then fade to 'LOW BATTERY PEOPLE / CREATED BY NIN.' title card and a 'NEW EPISODE DAILY' branded end card."}
+  ],
+  "narrative_notes": "This is an extremely compressed micro-sketch: only 4 short lines of dialogue across roughly 4.8 seconds (0.96s-5.78s) carry the entire hook-setup-conflict-punchline arc, with each beat lasting well under 2 seconds and marked by on-screen captions ('WHAT?', 'WE') rather than visual scene changes -- all four beats occur within a single unbroken shot/scene (scene_boundaries scene-0, 0-8.13s). The ending beat is fused with the show's recurring branding/outro: after a silent reaction hold, the video transitions directly into title-card and 'NEW EPISODE DAILY' overlays rather than any additional character action, so there is no distinct spoken or acted 'ending' beat separate from the branding itself."
+}

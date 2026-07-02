@@ -1,0 +1,309 @@
+{
+  "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+  "duration_sec": 10.985375,
+  "story": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "duration_sec": 10.985375,
+    "hook": {
+      "start": 0.0,
+      "end": 2.589,
+      "description": "Cold open on a stop-motion couple in a dim bedroom at night: the wife (fuzzy brown sweater, bun) sits on the edge of the made bed while the husband (glasses, long dark coat, folded clothes in hand) stands by a wooden chair. Before any setup shot, she deadpans the line 'We don't have anything in common anymore.' An episode-branding overlay ('Episode 44 / BURP-EES') is briefly visible over this same opening frame.",
+      "why_it_works": "Opens mid-scene with no establishing beat, straight into a flatly delivered, universally relatable relationship complaint. The blunt, low-energy line reads as a mini cliffhanger question (what WILL they say they have in common?) that pulls viewers into the next two lines within under 3 seconds."
+    },
+    "setup": {
+      "start": 2.589,
+      "end": 3.512,
+      "description": "Brief silent beat as the husband keeps folding clothes, then quickly rebuts with 'We do.' The quick, confident contradiction sets up an expectation that he is about to name something meaningful they share."
+    },
+    "conflict": {
+      "start": 3.512,
+      "end": 4.998,
+      "description": "The wife challenges him with a sharp 'What?' (reinforced by a bold white 'WHAT?' on-screen caption on her raised-eyebrow, skeptical expression), creating a short suspense gap before he answers -- the tension is entirely about what he'll claim they have in common."
+    },
+    "punchline": {
+      "start": 4.998,
+      "end": 5.782,
+      "description": "Husband answers 'Acid reflex.' -- an absurdly mundane, unromantic shared trait delivered totally deadpan, subverting the expected sentimental answer and landing the joke."
+    },
+    "ending": {
+      "start": 5.782,
+      "end": 10.985375,
+      "description": "No further dialogue: both characters hold exaggerated reaction expressions (wide grin/open mouth) in silence through 8.13s as the scene lingers on the joke. The frame then fades to a branded title/credits card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' (8.13-9.53s), which darkens further into a near-black end card still showing the title plus a 'NEW EPISODE DAILY' badge (9.53-10.99s).",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE - CREATED BY NIN. / NEW EPISODE DAILY badge tag, prompting viewers to expect and return for the next daily episode."
+    },
+    "beat_map": [
+      {
+        "start": 0.0,
+        "end": 2.589,
+        "beat_type": "hook",
+        "description": "Wife states 'We don't have anything in common anymore' over the opening bedroom shot; 'Episode 44 / BURP-EES' branding briefly overlaid."
+      },
+      {
+        "start": 2.589,
+        "end": 3.512,
+        "beat_type": "setup",
+        "description": "Silent beat then husband's quick rebuttal 'We do.', with a karaoke-style 'WE' caption appearing on screen."
+      },
+      {
+        "start": 3.512,
+        "end": 4.998,
+        "beat_type": "conflict",
+        "description": "Wife challenges with 'What?' (bold 'WHAT?' caption on screen), a short suspenseful pause before the answer."
+      },
+      {
+        "start": 4.998,
+        "end": 5.782,
+        "beat_type": "punchline",
+        "description": "Husband delivers the absurd payoff: 'Acid reflex.'"
+      },
+      {
+        "start": 5.782,
+        "end": 10.985375,
+        "beat_type": "ending",
+        "description": "Silent exaggerated reaction hold, then fade to 'LOW BATTERY PEOPLE / CREATED BY NIN.' title card and a 'NEW EPISODE DAILY' branded end card."
+      }
+    ],
+    "narrative_notes": "This is an extremely compressed micro-sketch: only 4 short lines of dialogue across roughly 4.8 seconds (0.96s-5.78s) carry the entire hook-setup-conflict-punchline arc, with each beat lasting well under 2 seconds and marked by on-screen captions ('WHAT?', 'WE') rather than visual scene changes -- all four beats occur within a single unbroken shot/scene (scene_boundaries scene-0, 0-8.13s). The ending beat is fused with the show's recurring branding/outro: after a silent reaction hold, the video transitions directly into title-card and 'NEW EPISODE DAILY' overlays rather than any additional character action, so there is no distinct spoken or acted 'ending' beat separate from the branding itself."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "total_lines": 4,
+    "avg_words_per_line": 3,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.962,
+        "end": 2.589,
+        "text": "We don't have anything in common anymore.",
+        "word_count": 7,
+        "pause_before_sec": 0.69,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3.191,
+        "end": 3.512,
+        "text": "We do.",
+        "word_count": 2,
+        "pause_before_sec": 0.3,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3.894,
+        "end": 4.115,
+        "text": "What?",
+        "word_count": 1,
+        "pause_before_sec": 0.31,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 4.998,
+        "end": 5.782,
+        "text": "Acid reflex.",
+        "word_count": 2,
+        "pause_before_sec": 0.83,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "All four lines are tagged SPEAKER_00 in the transcript despite the clear call-and-response structure (opening complaint -> rebuttal -> confused follow-up -> punchline), so the diarization did not split the two conversational roles; the exchange still reads as a two-beat volley: a flat accusation ('We don't have anything in common anymore.') is met by a curt one-line denial ('We do.'), which triggers a one-word request for clarification ('What?'), resolved by a two-word non-sequitur punchline ('Acid reflex.'). No line overlaps the prior line's end timestamp and no line's text is grammatically incomplete, so there are no interruptions; each turn is a clean, separated exchange with a pause before it.",
+    "speech_rhythm_notes": "Word count collapses turn over turn (7 -> 2 -> 1 -> 2), compressing the dialogue into a rapid-fire volley after the initial 7-word setup line. The pause before each line shrinks through the middle of the exchange (0.69s before line 1, then 0.30s and 0.31s before the two short back-and-forth lines 'We do.' and 'What?'), keeping the rebuttal and clarification snappy, then the longest gap in the whole dialogue (0.83s, from 4.09s-4.92s) sits directly before the 2-word punchline 'Acid reflex.', giving the joke a beat of dead air to land in before the non-sequitur payoff. After the punchline ends at 5.78s, four additional silence windows occur (6.11s-8.63s and 10.10s-10.90s) with no further dialogue, indicating the clip holds on the punchline visually rather than adding more lines."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.962,
+        "end": 2.589,
+        "mechanism": "recognition",
+        "description": "Wife, staring blankly into space with a flat expression while sitting on the edge of the bed, opens with 'We don't have anything in common anymore' - a quietly devastating line about a long marriage gone stale.",
+        "why_it_lands": "The keyframe shows her hands folded primly in her lap and eyes fixed on nothing while the husband calmly folds laundry in the background - the mismatch between her weighty tone and the mundane domestic staging (laundry, bedside lamp, glass of water) makes the line read as an all-too-real thought many long-term couples have had out loud during an ordinary evening."
+      },
+      {
+        "start": 2.589,
+        "end": 3.512,
+        "mechanism": "irony",
+        "description": "Husband immediately contradicts her with a flat, two-word 'We do,' delivered without looking up from folding laundry, undercutting what was set up as a serious relationship complaint.",
+        "why_it_lands": "The reply comes after only a ~0.6s gap and with zero hesitation or defensiveness in his line reading, signaling he already knows the punchline she doesn't - the confidence of the delivery is what makes it funny rather than sad."
+      },
+      {
+        "start": 3.512,
+        "end": 4.115,
+        "mechanism": "escalation",
+        "description": "Wife's confused, one-word 'What?' turns her head back toward him, escalating the exchange toward the reveal.",
+        "why_it_lands": "Her eyebrows visibly lift and her expression shifts from resigned to genuinely curious in the keyframe still captioned WHAT?, converting the scene's emotional register from melancholy to anticipation in a single beat."
+      },
+      {
+        "start": 4.115,
+        "end": 5.782,
+        "mechanism": "deadpan",
+        "description": "After the longest pause in the whole clip (0.83s per the silence data, from 4.09s to 4.92s), the husband answers 'Acid reflex' in the same flat tone he used for 'We do,' revealing the 'thing in common' is a shared bodily ailment, not intimacy.",
+        "why_it_lands": "He never breaks his half-smile or stops folding the laundry stack while saying it - the total absence of embarrassment or comic emphasis on a genuinely gross admission is what converts a bathetic anticlimax into a laugh rather than an awkward confession."
+      },
+      {
+        "start": 5.782,
+        "end": 10.866,
+        "mechanism": "awkward_silence",
+        "description": "Neither character says anything else for the remaining ~5 seconds; the wife holds a stunned, slightly pained open-mouth expression looking off into the middle distance while the husband unbothered moves on to another task near the window.",
+        "why_it_lands": "The scene lets the silence run roughly half the video's total runtime after the punchline instead of cutting away, forcing the audience to sit in her exact reaction - the visual gag of him already having moved on to something unrelated by the window while she's still frozen processing it is the button on the joke."
+      }
+    ],
+    "overall_comedic_style_notes": "An 11-second stop-motion two-hander built entirely around a single bathos/anticlimax structure: a line that sounds like a serious marital complaint ('we don't have anything in common anymore') is answered with a mundane, slightly gross shared trait ('acid reflex'), delivered completely deadpan by a husband who never stops his laundry-folding busywork. Comedic timing relies on short, precisely placed pauses (0.3-0.9s per the silence data) before each successive line to build anticipation toward the punchline, then an unusually long held silence afterward (nearly half the runtime) that keeps the camera on the wife's frozen, slightly betrayed expression rather than cutting away - the humor and the relatable gut-punch about long-relationship intimacy fading into shared mundanity are the same beat, not two different jokes."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "characters": [
+      {
+        "name_or_role": "wife (claymation woman, bun hairstyle, brown sweater)",
+        "personality_traits": [
+          "emotionally expressive and quick to voice dissatisfaction ('We don't have anything in common anymore')",
+          "fidgety/anxious under the surface, hands stay clasped in her lap through the whole scene",
+          "reactive rather than proactive in the exchange - she sets up the complaint but her husband controls the punchline",
+          "ultimately self-aware and willing to laugh at their shared aging quirks once she 'gets' the joke"
+        ],
+        "emotional_range": [
+          "wistful/resigned sadness (opening line, gaze drifted up and away from husband)",
+          "startled surprise ('What?', eyebrows up, head snapping toward him)",
+          "amused/knowing acknowledgment by the final beat, mouth curling into a small smirk"
+        ],
+        "expressions": [
+          "0:00-0:03 - downcast, distant gaze toward the ceiling/window while delivering the complaint, corners of mouth turned down",
+          "0:03 - brief neutral pause after his 'We do', hands tighten slightly in her lap",
+          "0:04 - eyebrows shoot up, mouth opens on 'What?', head turns fully toward him for the first time",
+          "0:05-0:06 - eyes narrow into a knowing, faintly amused look as he says 'Acid reflex', small closed-mouth smirk"
+        ],
+        "gestures": [
+          "seated on the edge of the bed the entire scene, torso static, only the head/eyes move to track him",
+          "hands clasped together / fingers laced in her lap throughout - visible tension/self-soothing",
+          "slight forward lean and head-turn at 'What?' signaling she is actually listening now"
+        ],
+        "interactions_notes": "She stays physically rooted on the bed while he moves and folds laundry across the room; the spatial distance between them visually underlines her opening complaint about having nothing in common. She does not look directly at him while making the complaint (gaze up/away), only turning to make eye contact once he answers - a small but telling avoidance beat. He holds the comedic power (delivers the punchline while continuing an unrelated chore), and she functions as the straight-man/reactor whose surprised 'What?' cues the joke's turn."
+      },
+      {
+        "name_or_role": "husband (claymation man, glasses, hooked nose, black coat)",
+        "personality_traits": [
+          "unbothered and low-key in the face of an emotionally loaded statement - keeps folding laundry without breaking stride",
+          "deadpan comic timing, delivers the punchline as a casual aside rather than a big reaction",
+          "domestically occupied/task-focused, treats a heart-to-heart as background noise to chores",
+          "quietly affectionate/wry - counters her pessimism with a joke instead of an argument"
+        ],
+        "emotional_range": [
+          "calm neutrality while she vents (no visible alarm or defensiveness)",
+          "mild, confident reassurance on 'We do'",
+          "sly, self-satisfied amusement building into a full grin on the 'Acid reflex' punchline"
+        ],
+        "expressions": [
+          "0:00-0:03 - flat, focused expression aimed down at the clothes he is folding, not looking at her",
+          "0:03 - small, calm half-smile as he answers 'We do', still facing the chair/dresser",
+          "0:04-0:05 - smile widens slightly, faint smirk building as she reacts with 'What?'",
+          "0:05-0:06 - broad, toothy grin on 'Acid reflex', clearly pleased with his own line"
+        ],
+        "gestures": [
+          "stands and moves between the dresser/coat rack and the chair, methodically folding and setting down a stack of clothes/blankets",
+          "never stops the folding task while speaking - domestic chore continues uninterrupted through both his lines",
+          "body angled away from her for most of the exchange, only the head/eyes drift toward her as the punchline lands"
+        ],
+        "interactions_notes": "He is the physically active character (crossing the room, handling laundry) while she remains static on the bed, creating a visual contrast between his routine-driven calm and her stationary emotional weight. He answers her without fully turning to face her, reinforcing the 'going through the motions' vibe implied by the episode title 'Burp-ees' and the show's 'Low Battery People' theme (a phone charges beside her throughout, echoing the idea of a relationship running on low power). The comedic power dynamic favors him - he gets the last word and the visual punch-in (grin) - while she supplies the emotional premise and the reaction that lands the joke."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 8.133333,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Single locked-off wide two-shot of the bedroom, camera never moves or reframes for the full 8s. Man stands in the left third by the dresser/coat rack holding folded laundry; woman sits on the right third at the edge of the bed. Ceiling fan is centered at the very top of frame, painting fills the upper-right background over the headboard, window with city-light view sits in the left background. A nightstand/table of props (books, water glass, phone) crops into the bottom-center foreground, cutting off both characters below the waist. The empty middle third of frame (bedspread) acts as visual negative space between the two speakers, letting the cut-free two-shot carry the back-and-forth dialogue like a locked sitcom master."
+      },
+      {
+        "start": 8.133333,
+        "end": 9.533333,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Same static wide two-shot framing as the prior shot, but the image is being crushed toward black as a vignette/fade builds from the edges inward for the outro card. Man raises a phone/binocular-shaped object to his face in the mid-ground while the title card 'LOW BATTERY PEOPLE / CREATED BY NIN.' sits centered over the darkening frame; woman's silhouette remains visible on the right in the same seated pose."
+      },
+      {
+        "start": 9.533333,
+        "end": 10.866667,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Frame is now almost entirely black (full fade-out), with only a sliver of the window and curtains visible on the left edge and a dim character silhouette holding an object near it. This is an outro/logo card, not a diegetic shot: the show title sits upper-center-left and a yellow 'NEW EPISODE DAILY' ribbon graphic is added lower-center, both static with no camera motion."
+      }
+    ],
+    "framing_patterns_notes": "The entire skit is shot as one continuous locked-off wide two-shot with zero cuts, pans, zooms, or reframes across the whole runtime -- all visual variety comes from character blocking/performance and graphic overlays (episode title, ribbon badge) rather than camera work. The man is consistently kept in the left third near the dresser and the woman in the right third at the bed edge, preserving the same rule-of-thirds two-shot composition even as the picture fades to black for the outro card."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "technique": "Best read from the keyframes is rigged 3D CGI made to *look* like stop-motion/claymation rather than actual physical stop-motion: skin has a glossy, slightly waxy clay-like specular highlight, the woman's sweater uses a felted/fuzzy fiber shader, and both characters have exaggerated, asymmetric caricature proportions (long hooked noses, small deep-set eyes) reminiscent of Aardman-style puppets. Against that, there is zero set jitter, no fingerprint/tool-mark texture, no lighting flicker, and the static-camera frames line up pixel-perfectly on background geometry (dresser, painting, lamp, curtains) across all periodic samples -- all of which argue against true frame-by-frame photographed puppetry and for a digital render with a stop-motion-emulating art style. Confidence is moderate; without in-between (non-keyframe) frames it's not possible to confirm whether poses are interpolated continuously or held/stepped like classic 2s-on-2s stop-motion timing.",
+    "facial_animation_notes": "Mouth shapes change per spoken word/viseme across the sampled frames (e.g., open round shape on \"DON'T\", narrower shape on \"ANYMORE\", neutral on \"WE\", wide gap-toothed open-mouth shock on \"WHAT?\", then a smirking closed grin on \"ACID REFLUX\"), consistent with rig-driven lip sync rather than a small fixed set of held mouth poses. The man's face shows a recurring sly asymmetric smirk with visible upper teeth and an eyebrow raise that appears to build gradually rather than snap between two states. The woman's face moves from a flat/tired expression in early frames to progressively raised eyebrows, widened eyes, and an open-mouthed shocked grin by periodic-6/7, again reading as smooth build rather than a hard cut between poses.",
+    "eye_and_blink_notes": "No blink was caught in any of the 11 periodic samples (~1s apart), so blink timing/frequency cannot be characterized from this data -- flagged as a sampling limitation rather than an animation absence. Eye direction does shift meaningfully between frames: the woman's gaze tracks up and to the side (periodic-2, periodic-4) as if reacting to the man off to her left, and the man's eyes are cast down toward the clothes he's folding in the early/mid frames before lifting to meet her gaze later. Eyes have a glossy CG specular dot typical of rendered (not painted) eyeballs.",
+    "head_movement_notes": "The woman's head tilts back and her chin lifts progressively across periodic-4 through periodic-7, consistent with a building physical reaction (surprise/indignation) rather than a single static pose. The man's head is mostly angled downward toward the folded clothes/chair in early-to-mid frames and rotates slightly upward and toward the woman in later frames; the change in his head angle across frames is gradual, not an abrupt snap, again suggesting interpolated rather than heavily-held animation. No frame shows a head pose repeated identically, which argues against long multi-frame holds at this sampling interval.",
+    "gesture_notes": "The man performs a continuous small-object-handling gesture across the sequence -- holding/adjusting a stack of folded dark clothing/towels against a chair, with his arm and hand position shifting incrementally frame to frame (periodic-1 through periodic-7) rather than staying locked, indicating a genuine animated action rather than a static prop hold. In the opening/title frames he holds a phone up near his face. The woman keeps her hands clasped together at chest height for nearly the entire sampled range, with only small finger/wrist adjustments (a ring is visible and catches light differently across frames), reading as a restrained, tense idle gesture rather than active gesturing.",
+    "idle_motion_notes": "The set is largely inert between character performances: the ceiling fan blades are in the same static position in every sampled frame (no rotation), the curtains show no fabric movement, and the lamp, glass, phone-charging cable, and books on the nightstand/bed are pixel-identical in position across frames. The only ambient motion visible is the city-light glow through the window, which stays constant in brightness/pattern. This suggests idle/secondary animation is concentrated entirely on the two characters, with the environment held essentially static.",
+    "frame_rate_feel": "Metadata reports 30fps for an ~11-second clip. Across the periodic keyframes (~1s apart), poses and expressions never repeat identically and appear to progress incrementally rather than jumping between a small number of held extremes, which reads as animation close to full/smooth interpolation rather than an obvious 2s/12fps stutter-hold style. However, the periodic sampling interval is too coarse to rule out short holds or stepped rotation within a given second, so this read should be treated as an approximation, not a frame-accurate measurement.",
+    "overall_animation_style_notes": "The overall look is a single locked-off wide shot of a bedroom scene, character-acting-driven comedy (a couple mid-argument while packing/folding clothes), rendered in a caricatured, big-nosed, clay/felt-textured 3D style that visually quotes stop-motion studios (Aardman/Laika) without the physical-camera artifacts of actual stop-motion. Expression changes (eyebrows, mouth, head tilt) are the primary storytelling tool, matched tightly to the on-screen caption words (\"DON'T\", \"ANYMORE\", \"WE\", \"WHAT?\", \"ACID REFLUX\"), and the environment is kept deliberately static so that all visual attention lands on the two performing characters."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "cut_count": 2,
+    "avg_shot_length_sec": 3.62,
+    "cuts": [
+      {
+        "timestamp": 8.133333,
+        "transition_type": "cross_dissolve",
+        "reason": "The static wide shot of the couple in the bedroom begins fading to black right after the punchline line 'Acid reflex,' with the outro title 'Low Battery People' dissolving in over the same frame - a soft transition out of the joke rather than a hard cut."
+      },
+      {
+        "timestamp": 9.533333,
+        "transition_type": "cross_dissolve",
+        "reason": "Continues the fade started at 8.13s until the room goes fully black, settling on the end-card graphic with the creator credit and the 'New Episode Daily' CTA tag, closing the episode on branding rather than story action."
+      }
+    ],
+    "reaction_shots": [],
+    "pacing_notes": "The entire joke plays out in one unbroken static wide shot (0-8.13s, ~8s long) covering the full setup-and-punchline exchange ('We don't have anything in common anymore.' / 'We do.' / 'What?' / 'Acid reflex.'), so there is no intercutting or reaction-shot coverage during the dialogue itself - the comedy relies on blocking and delivery within a single frame. After the punchline lands, pacing shifts abruptly: two short sub-1.5s dissolve segments (8.13-9.53s and 9.53-10.87s) fade the same shot to black and layer in the outro title and daily-episode CTA tag, turning a single long take into a quick two-step branding fade for the ending."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "voice_delivery_notes": "Transcript shows four short, clipped lines from a single labeled speaker (SPEAKER_00 for all lines, though the dialogue reads as a two-person exchange): a flat declarative opener (\"We don't have anything in common anymore.\"), a terse rebuttal (\"We do.\"), a one-word confused prompt (\"What?\"), and a two-word deadpan punchline (\"Acid reflex.\"). The brevity of each line (2, 1, and 2 words for the last three) implies a clipped, deadpan comedic delivery typical of blackout-style sketch punchlines, inferred from phrasing/word count rather than heard audio.",
+    "pitch_energy_notes": "No audio was heard; pitch/energy is inferred from punctuation and line function only. \"What?\" ending in a question mark implies an upward pitch inflection signaling confusion. \"Acid reflex.\" as the anticlimactic punchline most likely lands flat/deadpan (low energy, matter-of-fact) for comedic contrast against the emotionally loaded opening line, consistent with the genre's low-key delivery style, but this is inferred, not observed.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No music can be confirmed; transcript.json and silence_pauses.json contain no on-screen text or cues indicating background music, so presence is left false rather than guessed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "silence_pauses.json shows the single longest pause in the clip, 0.828s (4.091s-4.919s), falls immediately before the punchline \"Acid reflex.\" (spoken 4.998s-5.782s), functioning as a comedic setup beat. A second notable pause of 0.693s (0.271s-0.964s) sits right after the opening line before the reply \"We do.\" at 3.191s. After the punchline finishes at 5.782s, the clip contains a string of four more mid-length pauses (0.411s, 0.536s, 0.420s, 0.445s) between 6.11s and 8.63s, plus a final 0.804s pause from 10.099s-10.903s -- together suggesting an extended silent hold/reaction beat after the last line of dialogue rather than any further speech."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+    "backgrounds": "A single, unchanging location for the entire episode: a cozy nighttime bedroom in an apartment. Wide static-camera shot shows a bed in the foreground/right, a dresser with a mirror and framed photo on the left, a coat rack with a hanging robe/coat, a nightstand with a lit lamp between the two figures, a window with sheer curtains showing a dark city skyline at night, and a large framed landscape painting on the back wall. A ceiling fan is visible at the top of frame. No location changes or additional sets occur across the video.",
+    "props": [
+      "Bed with blue-gray striped bedspread and white pillow",
+      "Nightstand with lit table lamp, a drinking glass, and a soda/beer can",
+      "Stack of books and a drinking glass on a small table/ottoman at bed foot",
+      "Smartphone plugged into a charging cable resting on the table",
+      "Wired earbuds coiled near the phone",
+      "Wooden dresser with an ornate mirror, a small red tissue box, and a framed photo/picture frame",
+      "Wooden chair holding a folded stack of gray blankets/sweaters",
+      "Coat rack with a long dark robe or coat draped on it",
+      "Window with sheer white curtains revealing a lit-up city skyline at night",
+      "Large framed landscape painting (mountains, trees, bridge) on the back wall",
+      "Ceiling fan",
+      "Man's dark trench coat and glasses (costume prop)",
+      "Woman's fuzzy brown turtleneck sweater and dark skirt (costume prop)"
+    ],
+    "lighting_notes": "Warm, low-key nighttime interior lighting dominated by a single practical lamp on the nightstand, creating soft golden pools of light on the two characters and surrounding furniture while the corners of the room fall into shadow. The window shows cool blue exterior night light (city lights) contrasting with the warm interior tones. The intro/title cards use near-total darkness with the same room silhouetted, emphasizing the lamp and window as the only light sources. Lighting stays consistent and unchanged across the whole episode, reinforcing the static single-set framing.",
+    "color_palette": [
+      "warm amber/gold (lamp light, walls, wood furniture)",
+      "muted taupe and beige (walls, bedding accents)",
+      "cool navy blue (night sky and window glow)",
+      "dark charcoal/black (coats, robe, painting frame)",
+      "warm brown (woman's sweater, wood tones)",
+      "soft blue-gray (bedspread, curtains)"
+    ],
+    "visual_complexity_notes": "The set is a single, moderately detailed but static bedroom rather than a minimal blank backdrop -- it is dressed with believable everyday clutter (books, phone, charger, lamp, framed art, coat rack) that grounds the scene in a lived-in domestic reality, but the camera never moves and no new elements are introduced, so despite the density of props the overall visual complexity stays low and predictable from shot to shot. This appears deliberate: a single fixed, warmly lit stage keeps full attention on the two characters' faces and dialogue delivery (typical of a recurring stop-motion sketch format), while episode-specific humor is carried entirely by the on-screen caption text and voice performance rather than by set changes."
+  }
+}

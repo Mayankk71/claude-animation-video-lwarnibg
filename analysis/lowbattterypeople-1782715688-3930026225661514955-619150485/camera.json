@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1782715688-3930026225661514955-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 4.433333,
+      "shot_type": "over_shoulder",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off camera mounted behind the headrests, roughly at eye level with both puppets' heads. Male character's head sits in the left third, female's head/bun in the right third, both cropped at the shoulders by the bottom frame edge; the rearview mirror hangs dead-center as a symmetry anchor. Windshield fills the upper two-thirds of frame with a wall of red brake lights in gridlocked traffic creating a converging leading line toward the vanishing point in the center background. 'Episode 45' burns in top-left in small caps; 'I HATE MONDAYS' title card is set large and centered across the lower-middle third, overlapping both characters' shoulders without covering their faces."
+    },
+    {
+      "start": 4.433333,
+      "end": 9.366667,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to a static profile close-up of the male character positioned right-of-center; his elongated nose spans nearly half the frame width pointing screen-left, leaving deliberate negative space in front of his face (looking room) rather than behind him. Headroom is tight -- his hair bun and ear are cropped near the top edge. The female character's shoulder and out-of-focus head occupy the far left edge as a soft foreground silhouette, anchoring the two-shot geography from the prior scene. Coffee cup steam is visible bottom-left as a small foreground detail. No camera movement across the sampled frames -- only the puppet's mouth and eyebrows animate (brow lowers, mouth opens mid-line) while framing stays locked."
+    },
+    {
+      "start": 9.366667,
+      "end": 10.266667,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Same static close framing as the prior shot but the male character has turned to face forward/camera-ish instead of profile; his down-turned mouth and heavy-lidded eyes read as 'end of scene' resignation. The show's logo card ('LOW BATTERY PEOPLE' / 'CREATED BY NIN.') is superimposed centered across the middle of the frame, straddling his nose without obscuring his eyes -- text is legibility-first, placed on the more even-toned turtleneck/background area rather than over the busy windshield detail."
+    },
+    {
+      "start": 10.266667,
+      "end": 11.5,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure graphic outro card, no live puppet frame: solid black background with the show title and creator credit stacked and centered horizontally in the upper-middle of frame, and a small yellow 'NEW EPISODE DAILY' ribbon badge centered below it with flanking motion-line accents. Perfectly symmetrical, no camera geometry to speak of -- functions as a static end-slate."
+    }
+  ],
+  "framing_patterns_notes": "The whole reel uses a locked-off camera with zero pans, tilts, or zooms -- every apparent change in shot is achieved through hard cuts between fixed setups rather than camera motion, consistent with a stop-motion workflow. There's a clear two-beat structure: an establishing over-the-shoulder two-shot from behind the seats (used for both the cold-open/title-card moment and, implicitly, the setup line) followed by a hard cut to a tight profile close-up on the male character's face for the punchline/reaction, then a near-identical close-up reused as the card for branding text. Title and credit text are consistently placed centered in the lower-to-middle third of frame, positioned to avoid covering eyes/mouth even when overlapping a character's face, suggesting a rule that text never blocks the performer's expression."
+}

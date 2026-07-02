@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.962,
+      "end": 2.589,
+      "mechanism": "recognition",
+      "description": "Wife, staring blankly into space with a flat expression while sitting on the edge of the bed, opens with 'We don't have anything in common anymore' - a quietly devastating line about a long marriage gone stale.",
+      "why_it_lands": "The keyframe shows her hands folded primly in her lap and eyes fixed on nothing while the husband calmly folds laundry in the background - the mismatch between her weighty tone and the mundane domestic staging (laundry, bedside lamp, glass of water) makes the line read as an all-too-real thought many long-term couples have had out loud during an ordinary evening."
+    },
+    {
+      "start": 2.589,
+      "end": 3.512,
+      "mechanism": "irony",
+      "description": "Husband immediately contradicts her with a flat, two-word 'We do,' delivered without looking up from folding laundry, undercutting what was set up as a serious relationship complaint.",
+      "why_it_lands": "The reply comes after only a ~0.6s gap and with zero hesitation or defensiveness in his line reading, signaling he already knows the punchline she doesn't - the confidence of the delivery is what makes it funny rather than sad."
+    },
+    {
+      "start": 3.512,
+      "end": 4.115,
+      "mechanism": "escalation",
+      "description": "Wife's confused, one-word 'What?' turns her head back toward him, escalating the exchange toward the reveal.",
+      "why_it_lands": "Her eyebrows visibly lift and her expression shifts from resigned to genuinely curious in the keyframe still captioned WHAT?, converting the scene's emotional register from melancholy to anticipation in a single beat."
+    },
+    {
+      "start": 4.115,
+      "end": 5.782,
+      "mechanism": "deadpan",
+      "description": "After the longest pause in the whole clip (0.83s per the silence data, from 4.09s to 4.92s), the husband answers 'Acid reflex' in the same flat tone he used for 'We do,' revealing the 'thing in common' is a shared bodily ailment, not intimacy.",
+      "why_it_lands": "He never breaks his half-smile or stops folding the laundry stack while saying it - the total absence of embarrassment or comic emphasis on a genuinely gross admission is what converts a bathetic anticlimax into a laugh rather than an awkward confession."
+    },
+    {
+      "start": 5.782,
+      "end": 10.866,
+      "mechanism": "awkward_silence",
+      "description": "Neither character says anything else for the remaining ~5 seconds; the wife holds a stunned, slightly pained open-mouth expression looking off into the middle distance while the husband unbothered moves on to another task near the window.",
+      "why_it_lands": "The scene lets the silence run roughly half the video's total runtime after the punchline instead of cutting away, forcing the audience to sit in her exact reaction - the visual gag of him already having moved on to something unrelated by the window while she's still frozen processing it is the button on the joke."
+    }
+  ],
+  "overall_comedic_style_notes": "An 11-second stop-motion two-hander built entirely around a single bathos/anticlimax structure: a line that sounds like a serious marital complaint ('we don't have anything in common anymore') is answered with a mundane, slightly gross shared trait ('acid reflex'), delivered completely deadpan by a husband who never stops his laundry-folding busywork. Comedic timing relies on short, precisely placed pauses (0.3-0.9s per the silence data) before each successive line to build anticipation toward the punchline, then an unusually long held silence afterward (nearly half the runtime) that keeps the camera on the wife's frozen, slightly betrayed expression rather than cutting away - the humor and the relatable gut-punch about long-relationship intimacy fading into shared mundanity are the same beat, not two different jokes."
+}

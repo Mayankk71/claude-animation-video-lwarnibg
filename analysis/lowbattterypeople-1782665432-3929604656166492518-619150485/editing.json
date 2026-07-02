@@ -1,0 +1,19 @@
+{
+  "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 3.62,
+  "cuts": [
+    {
+      "timestamp": 8.133333,
+      "transition_type": "cross_dissolve",
+      "reason": "The static wide shot of the couple in the bedroom begins fading to black right after the punchline line 'Acid reflex,' with the outro title 'Low Battery People' dissolving in over the same frame - a soft transition out of the joke rather than a hard cut."
+    },
+    {
+      "timestamp": 9.533333,
+      "transition_type": "cross_dissolve",
+      "reason": "Continues the fade started at 8.13s until the room goes fully black, settling on the end-card graphic with the creator credit and the 'New Episode Daily' CTA tag, closing the episode on branding rather than story action."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The entire joke plays out in one unbroken static wide shot (0-8.13s, ~8s long) covering the full setup-and-punchline exchange ('We don't have anything in common anymore.' / 'We do.' / 'What?' / 'Acid reflex.'), so there is no intercutting or reaction-shot coverage during the dialogue itself - the comedy relies on blocking and delivery within a single frame. After the punchline lands, pacing shifts abruptly: two short sub-1.5s dissolve segments (8.13-9.53s and 9.53-10.87s) fade the same shot to black and layer in the outro title and daily-episode CTA tag, turning a single long take into a quick two-step branding fade for the ending."
+}

@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1782715688-3930026225661514955-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 4.67,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.617,
+      "end": 1.798,
+      "text": "I hate Mondays.",
+      "word_count": 3,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.759,
+      "end": 3.9,
+      "text": "You say that every week.",
+      "word_count": 5,
+      "pause_before_sec": 0.19,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.323,
+      "end": 8.405,
+      "text": "Because it happens every week, Paul.",
+      "word_count": 6,
+      "pause_before_sec": 0,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All three lines are labeled SPEAKER_00 in the transcript (diarization does not split them into two distinct voices despite the back-and-forth 'you say / because' exchange), so this reads as a scripted call-and-response rather than an overlapping conversation. No line starts before the prior line ends, so there are no true interruptions. The gap before line 2 (0.961s, from 1.798 to 2.759) contains a detected 0.187s micro-pause at 2.40-2.59s, i.e. a short beat before the retort lands. The gap before line 3 (2.423s, from 3.9 to 6.323) is much longer but contains no detected silence-tool pause, meaning the tool's pause windows do not fully account for that gap (likely on-screen action/reaction filling the silence rather than dead air). A third detected pause (10.83-11.50s, 0.666s) falls after the final line ends (8.405s) with no further dialogue, so it sits outside dialogue entirely and belongs to the post-punchline visual beat, not a mid-conversation hesitation.",
+  "speech_rhythm_notes": "Line 1 is a flat, 3-word complaint ('I hate Mondays.') delivered with no pause since it opens the clip. Line 2 is a 5-word deadpan comeback that follows only a brief 0.19s pause, keeping the rhythm tight and quick rather than dragging out the setup. Line 3, the punchline/tag ('Because it happens every week, Paul.'), comes after the longest gap in the dialogue (2.42s from line 2's end to line 3's start) even though the silence-detector did not register a formal pause there, suggesting a held reaction shot or beat before the payoff rather than literal silence. The line lengths increase slightly across the exchange (3, 5, 6 words), giving the delivery a building rather than punchy-short-line pacing, with the longest pause preceding the longest, most specific line (the one that names 'Paul') rather than a short punchline."
+}

@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1782715688-3930026225661514955-619150485",
+  "voice_delivery_notes": "Only three short lines of dialogue across the clip. Line 1 (\"I hate Mondays.\") is a flat, deadpan complaint. Line 2 (\"You say that every week.\") is a quick, matter-of-fact retort delivered almost immediately after (0.96s gap), implying a dry, unbothered tone rather than surprise. Line 3 (\"Because it happens every week, Paul.\") follows a longer gap (about 2.4s) and directly addresses 'Paul' by name, which reads as the punchline delivered with a flat, slightly exasperated or matter-of-fact cadence typical of this deadpan-comedy format -- inferred from phrasing and pacing, not heard directly.",
+  "pitch_energy_notes": "No audio was directly analyzed; pitch and energy are inferred from transcript phrasing and timing only. The short, clipped sentences and lack of exclamation punctuation suggest low-energy, flat/monotone delivery throughout, consistent with a deadpan back-and-forth rather than an animated or high-pitched exchange. The naming of 'Paul' in the final line may carry a slightly pointed or mock-serious inflection, but this is speculative given no direct audio or keyframe evidence.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music is indicated in the transcript or silence data; there is no keyframe or on-screen-text evidence available in the read files to support a music claim, so none is asserted."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json records two pauses. The first is very brief (0.187s, from 2.40s to 2.59s) and falls right after the opening line 'I hate Mondays.' ends (1.798s) and before the reply begins (2.759s), acting as a minimal beat between setup and response. The second and longest silence in the clip is 0.666s (from 10.83s to 11.50s), occurring well after the final line 'Because it happens every week, Paul.' ends at 8.405s -- this is a trailing hold after the punchline has landed, giving the joke room to breathe before the clip presumably ends, rather than a pre-punchline buildup pause."
+}

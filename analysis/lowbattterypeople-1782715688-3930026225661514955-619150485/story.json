@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1782715688-3930026225661514955-619150485",
+  "duration_sec": 11.604042,
+  "hook": {
+    "start": 0.0,
+    "end": 3.9,
+    "description": "Static, held wide shot from behind two stop-motion felt characters (a long-nosed man driving, a woman with a coffee cup beside him) stuck in dense gridlock traffic under gray, foggy light. The man groans 'I hate Mondays.' (0.62-1.80s) and the woman flatly replies 'You say that every week.' (2.76-3.90s).",
+    "why_it_works": "Opens on a universally relatable, low-energy complaint and an instant deadpan rebuttal within the first 4 seconds, using visual stillness (bumper-to-bumper traffic, muted colors) to mirror the tired 'low battery' mood the show's title promises, hooking anyone who has felt the same Monday dread."
+  },
+  "setup": {
+    "start": 3.9,
+    "end": 6.323,
+    "description": "A roughly 2.4-second silent beat after the wife's jab: the camera holds on the man's droopy, world-weary profile staring blankly at the jam, letting the 'you always say that' accusation sit before he answers."
+  },
+  "conflict": {
+    "start": 3.9,
+    "end": 6.323,
+    "description": "There is no separately staged conflict scene; the friction is purely conversational (the implied accusation that his complaint is predictable/repetitive) and plays out in the same held silence as the setup beat rather than through a new shot, action, or escalation."
+  },
+  "punchline": {
+    "start": 6.323,
+    "end": 9.366667,
+    "description": "Cut to a close-up on the man's flat, exasperated face as he delivers the deadpan retort 'Because it happens every week, Paul.' (6.32-8.41s), turning the accusation of repetitiveness into a literal, matter-of-fact statement instead of a big emotional reaction."
+  },
+  "ending": {
+    "start": 9.366667,
+    "end": 11.604042,
+    "description": "The frozen close-up of the man's tired face holds as the show's title card 'LOW BATTERY PEOPLE / Created by Nin.' fades in over it (9.37-10.27s), then the frame cuts to a full black end card repeating the title and adding a yellow ripped-paper 'NEW EPISODE DAILY' stamp (10.27-11.60s).",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / Created by Nin. / NEW EPISODE DAILY"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "beat_type": "hook",
+      "description": "Wide static rear shot inside the car in gridlock traffic; 'I hate Mondays.' / 'You say that every week.' establishes the deadpan couple dynamic immediately."
+    },
+    {
+      "start": 3.9,
+      "end": 6.323,
+      "beat_type": "setup",
+      "description": "Silent ~2.4s hold on the man's grumpy stare before he answers; this window also functions as the story's only 'conflict' (the implied repetitiveness accusation), which never becomes its own visual beat."
+    },
+    {
+      "start": 6.323,
+      "end": 9.366667,
+      "beat_type": "punchline",
+      "description": "Close-up on the man's deadpan delivery of 'Because it happens every week, Paul.', landing the joke on a flat, matter-of-fact tone."
+    },
+    {
+      "start": 9.366667,
+      "end": 10.266667,
+      "beat_type": "ending",
+      "description": "Title card 'LOW BATTERY PEOPLE / Created by Nin.' fades in over the freeze-framed close-up of the man's face."
+    },
+    {
+      "start": 10.266667,
+      "end": 11.604042,
+      "beat_type": "ending",
+      "description": "Cut to a full black end card repeating the title plus the 'NEW EPISODE DAILY' ripped-paper stamp for series branding."
+    }
+  ],
+  "narrative_notes": "This is an 11.6s single-joke micro-sketch, far shorter than a typical 20-25s reel, so the arc compresses to essentially hook-into-punchline with almost no separate setup or conflict: the 'conflict' is never staged as its own scene, only implied by the wife's line and carried through the same silent pause used for setup, hence identical timestamps for setup and conflict above. The entire spoken joke (three lines, ~8 seconds) resolves in one clean back-and-forth with no visible escalation, and the final ~2.2 seconds are pure branding (title card over freeze-frame, then black end card with a daily-episode CTA) rather than any additional story beat."
+}

@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 3,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.962,
+      "end": 2.589,
+      "text": "We don't have anything in common anymore.",
+      "word_count": 7,
+      "pause_before_sec": 0.69,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.191,
+      "end": 3.512,
+      "text": "We do.",
+      "word_count": 2,
+      "pause_before_sec": 0.3,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.894,
+      "end": 4.115,
+      "text": "What?",
+      "word_count": 1,
+      "pause_before_sec": 0.31,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.998,
+      "end": 5.782,
+      "text": "Acid reflex.",
+      "word_count": 2,
+      "pause_before_sec": 0.83,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All four lines are tagged SPEAKER_00 in the transcript despite the clear call-and-response structure (opening complaint -> rebuttal -> confused follow-up -> punchline), so the diarization did not split the two conversational roles; the exchange still reads as a two-beat volley: a flat accusation ('We don't have anything in common anymore.') is met by a curt one-line denial ('We do.'), which triggers a one-word request for clarification ('What?'), resolved by a two-word non-sequitur punchline ('Acid reflex.'). No line overlaps the prior line's end timestamp and no line's text is grammatically incomplete, so there are no interruptions; each turn is a clean, separated exchange with a pause before it.",
+  "speech_rhythm_notes": "Word count collapses turn over turn (7 -> 2 -> 1 -> 2), compressing the dialogue into a rapid-fire volley after the initial 7-word setup line. The pause before each line shrinks through the middle of the exchange (0.69s before line 1, then 0.30s and 0.31s before the two short back-and-forth lines 'We do.' and 'What?'), keeping the rebuttal and clarification snappy, then the longest gap in the whole dialogue (0.83s, from 4.09s-4.92s) sits directly before the 2-word punchline 'Acid reflex.', giving the joke a beat of dead air to land in before the non-sequitur payoff. After the punchline ends at 5.78s, four additional silence windows occur (6.11s-8.63s and 10.10s-10.90s) with no further dialogue, indicating the clip holds on the punchline visually rather than adding more lines."
+}

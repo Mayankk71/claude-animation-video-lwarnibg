@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1782665432-3929604656166492518-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 8.133333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Single locked-off wide two-shot of the bedroom, camera never moves or reframes for the full 8s. Man stands in the left third by the dresser/coat rack holding folded laundry; woman sits on the right third at the edge of the bed. Ceiling fan is centered at the very top of frame, painting fills the upper-right background over the headboard, window with city-light view sits in the left background. A nightstand/table of props (books, water glass, phone) crops into the bottom-center foreground, cutting off both characters below the waist. The empty middle third of frame (bedspread) acts as visual negative space between the two speakers, letting the cut-free two-shot carry the back-and-forth dialogue like a locked sitcom master."
+    },
+    {
+      "start": 8.133333,
+      "end": 9.533333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Same static wide two-shot framing as the prior shot, but the image is being crushed toward black as a vignette/fade builds from the edges inward for the outro card. Man raises a phone/binocular-shaped object to his face in the mid-ground while the title card 'LOW BATTERY PEOPLE / CREATED BY NIN.' sits centered over the darkening frame; woman's silhouette remains visible on the right in the same seated pose."
+    },
+    {
+      "start": 9.533333,
+      "end": 10.866667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Frame is now almost entirely black (full fade-out), with only a sliver of the window and curtains visible on the left edge and a dim character silhouette holding an object near it. This is an outro/logo card, not a diegetic shot: the show title sits upper-center-left and a yellow 'NEW EPISODE DAILY' ribbon graphic is added lower-center, both static with no camera motion."
+    }
+  ],
+  "framing_patterns_notes": "The entire skit is shot as one continuous locked-off wide two-shot with zero cuts, pans, zooms, or reframes across the whole runtime -- all visual variety comes from character blocking/performance and graphic overlays (episode title, ribbon badge) rather than camera work. The man is consistently kept in the left third near the dresser and the woman in the right third at the bed edge, preserving the same rule-of-thirds two-shot composition even as the picture fades to black for the outro card."
+}
