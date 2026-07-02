@@ -1,0 +1,40 @@
+{
+  "video_slug": "lowbattterypeople-1781526587-3920051314851485827-619150485",
+  "cut_count": 5,
+  "avg_shot_length_sec": 2.18,
+  "cuts": [
+    {
+      "timestamp": 5.07,
+      "transition_type": "jump_cut",
+      "reason": "Punches in from the wide bedroom establishing shot to a tight close-up on Paul's exasperated face right as he lands the incredulous word 'possible?', isolating his reaction for comedic emphasis."
+    },
+    {
+      "timestamp": 6.9,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out to the two-shot exactly on the wife's flat 'Paul.', so both her scolding delivery and his sheepish body language read together."
+    },
+    {
+      "timestamp": 8.57,
+      "transition_type": "jump_cut",
+      "reason": "A very short (0.5s) same-angle reframe cut on 'It's', quickening the rhythm right before Paul's excuse/punchline to build anticipation."
+    },
+    {
+      "timestamp": 9.07,
+      "transition_type": "jump_cut",
+      "reason": "Cuts on 'Not', holding the wide two-shot as Paul stumbles into his justification, letting the line land without moving away from the scene."
+    },
+    {
+      "timestamp": 11.73,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut from the live-action punchline beat straight to the black title/outro card, ending the sketch immediately after the joke lands."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 5.07,
+      "end": 6.9,
+      "description": "Tight close-up on Paul's face, eyebrows raised and mouth agape, reacting with disbelief while delivering '...possible?'"
+    }
+  ],
+  "pacing_notes": "Opens on a longer ~5s wide establishing shot to set up the clothes-shopping mess, then tightens sharply into a ~1.8s reaction close-up, a ~1.7s two-shot, and a very quick ~0.5s jump cut right before the punchline word, compressing rhythm as the argument peaks. It then holds slightly longer (~2.7s) on the wide two-shot for Paul's excuse to land, before a brief ~1.2s cut to the black outro card closes the episode."
+}

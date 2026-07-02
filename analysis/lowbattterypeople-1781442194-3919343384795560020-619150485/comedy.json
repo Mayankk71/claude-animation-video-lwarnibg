@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1781442194-3919343384795560020-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "mechanism": "irony",
+      "description": "Opening shot pairs the title card 'YOU NEVER LISTEN TO ME' and caption word 'LISTENING' directly over the man's droopy-eyed, heavy-lidded face before he speaks a single line.",
+      "why_it_lands": "The character rig's permanently half-closed, 'low battery' eyes already read as checked-out and disengaged, so stamping an accusation about not being listened to onto that exact face creates dramatic irony before any dialogue starts."
+    },
+    {
+      "start": 0.452,
+      "end": 1.333,
+      "mechanism": "deadpan",
+      "description": "He states 'You're not listening to me' in a flat, low-energy tone, mouth barely opening, no vocal escalation or raised volume.",
+      "why_it_lands": "The sagging eyebrows and downturned mouth deliver a serious relational accusation with zero visible urgency, so the total mismatch between the emotional weight of the line and the flat, sleepy delivery is the joke itself."
+    },
+    {
+      "start": 1.284,
+      "end": 3.176,
+      "mechanism": "irony",
+      "description": "After a 0.24s beat of silence, he snaps to 'I am literally looking at your face,' punctuating it with a raised, pointed finger (seen in the scene-2 keyframe), while his eyes remain half-lidded and drowsy.",
+      "why_it_lands": "The emphatic word 'literally' plus the jabbing finger gesture promise focused attention, but the character's perpetually sleepy eye design visually contradicts the claim in real time, an irony that's baked into the show's whole visual identity, not just this line reading."
+    },
+    {
+      "start": 3.276,
+      "end": 4.51,
+      "mechanism": "escalation",
+      "description": "The sentence builds through 'You're waiting for me to finish' and then hits a 0.162s micro-pause (4.348-4.51s) right after the word 'finish' before continuing into the punchline clause.",
+      "why_it_lands": "That hair's-width pause mimics the exact behavior being described in the line, a beat where he could yield the floor but doesn't, letting the audience feel the 'waiting to jump in' dynamic land in real time rather than just hearing it described."
+    },
+    {
+      "start": 4.51,
+      "end": 7.522,
+      "mechanism": "recognition",
+      "description": "The line resolves into '...so you can say the thing you were already going to say,' naming the precise, granular habit of pretend-listening while queueing your own response, delivered as one unbroken sentence with no reaction shot from the woman, whose back stays turned to camera the whole scene.",
+      "why_it_lands": "It names a specific micro-behavior most viewers instantly recognize from their own conversations rather than a generic 'you don't listen' complaint, and withholding any cutaway to her face makes the accusation feel aimed straight at the viewer."
+    },
+    {
+      "start": 8.526,
+      "end": 9.367,
+      "mechanism": "awkward_silence",
+      "description": "The longest pause in the piece (0.88s, roughly triple the earlier gaps) sits over his open, deflated expression before a hard cut to black and the 'LOW BATTERY PEOPLE / Created by Nin.' title card, with no reply from the woman.",
+      "why_it_lands": "The scene cuts to the show's own logo instead of giving the dinner partner a comeback, leaving the accusation completely unanswered, which mirrors the exact one-sided non-conversation he just complained about."
+    }
+  ],
+  "overall_comedic_style_notes": "The series' signature device is a visual/verbal irony built into the puppet design itself: every character has permanently heavy-lidded, sleepy 'low battery' eyes, so any emotionally charged or urgent line reads as flat and deadpan by default, letting a single unbroken monologue (here, one continuous rant across three short lines and roughly 9 seconds) carry both the joke and the relatable sting without needing punchline delivery or a reaction shot. The scene partner is kept faceless (shot from behind) for the entire runtime, turning what looks like a two-hander into a direct-address confession, and the piece resolves not with a joke but with unresolved silence (the longest pause of the clip) before cutting straight to the show's branding, favoring a relatable gut-punch about being unheard over a comedic release."
+}

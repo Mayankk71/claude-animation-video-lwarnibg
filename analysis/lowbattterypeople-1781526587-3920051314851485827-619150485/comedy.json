@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1781526587-3920051314851485827-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.251,
+      "end": 5.196,
+      "mechanism": "recognition",
+      "description": "Husband stands holding a suit jacket amid piles of new clothes and shopping bags, complaining that the wife bought three bags of clothes yesterday and none of it matches anything she already owns.",
+      "why_it_lands": "The wide shot pairs his stiff, aggrieved posture (jacket held out like evidence) against the wife's totally unbothered body language as she calmly unpacks another bag, a domestic-argument dynamic instantly recognizable to anyone who has had the 'why did you buy this' conversation."
+    },
+    {
+      "start": 5.516,
+      "end": 6.837,
+      "mechanism": "escalation",
+      "description": "Tight close-up on the husband's face as he demands 'How is that even possible?', his enormous nose and drooping eyes filling the frame in exasperation.",
+      "why_it_lands": "The camera cuts from the wide two-shot to an extreme close-up right as his voice pushes toward a genuine plea for logic, and the 0.38s pause beforehand (5.10-5.48s in silence_pauses.json) lets his confusion visibly build before he says the line, selling real frustration rather than mock anger."
+    },
+    {
+      "start": 7.078,
+      "end": 8.179,
+      "mechanism": "deadpan",
+      "description": "The wife answers his logical question with a flat, unbothered 'It's fashion, Paul.' while continuing to unpack a bag, treating the non-answer as fully sufficient.",
+      "why_it_lands": "Delivered with zero inflection change and no eye contact adjustment, the line functions as a conversation-ending mic-drop; naming him by name ('Paul') gives it a scolding, obvious-in-retrospect tone as if he should already have known better than to ask."
+    },
+    {
+      "start": 8.899,
+      "end": 10.201,
+      "mechanism": "irony",
+      "description": "She doubles down with 'It's not supposed to make sense,' openly admitting the illogic her husband just called out, and using that admission as the justification itself.",
+      "why_it_lands": "The line inverts the normal shape of an argument-ending explanation by explicitly confirming there is no explanation, which is funnier precisely because it happens right after his very reasonable, specific complaint about the clothes not matching."
+    },
+    {
+      "start": 10.315,
+      "end": 12.966,
+      "mechanism": "awkward_silence",
+      "description": "After her final line, the husband is left standing mid-shot, mouth slightly open, saying nothing as the beat holds on his frozen expression before the title card fades in over the same frame.",
+      "why_it_lands": "The trailing pause (0.58s then a full 1.31s of silence per silence_pauses.json, the longest gap in the video) with no rebuttal from him signals total defeat; letting the 'LOW BATTERY PEOPLE' title dissolve in directly over his stunned face uses his silence as the punctuation mark on the joke."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole 13-second gag is a single escalating two-hander: a completely reasonable complaint (mismatched clothes) is met with an increasingly absurd, circular non-justification ('it's fashion' -> 'not supposed to make sense'), and the humor lands on recognition of a real domestic dynamic rather than an outlandish premise. The extreme stop-motion facial features (elongated noses, oversized eyes) do the heavy lifting on reaction shots, letting brief pauses (0.2-0.4s) sit before each punchline and a much longer 1.3s pause close out the scene in silent defeat, with the show's title card timed to land inside that final beat instead of after it."
+}

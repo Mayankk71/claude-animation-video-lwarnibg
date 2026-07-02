@@ -1,0 +1,36 @@
+{
+  "video_slug": "lowbattterypeople-1781442194-3919343384795560020-619150485",
+  "total_lines": 3,
+  "avg_words_per_line": 10,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.452,
+      "end": 1.333,
+      "text": "You're not listening to me.",
+      "word_count": 5,
+      "pause_before_sec": 0.503,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.553,
+      "end": 3.176,
+      "text": "I am literally looking at your face.",
+      "word_count": 7,
+      "pause_before_sec": 0.243,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.276,
+      "end": 7.522,
+      "text": "You're waiting for me to finish so you can say the thing you were already going to say.",
+      "word_count": 18,
+      "pause_before_sec": 0.259,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All three lines are delivered by a single transcribed speaker (SPEAKER_00) with no second voice on record, so the scene reads as one person confronting a silent/unresponsive counterpart rather than a back-and-forth exchange -- fitting a 'checked out, low battery' scene premise. There are zero cross-talk interruptions (each line starts cleanly after the previous one ends, with a measurable gap each time), and the three lines escalate in length and specificity: a blunt 5-word accusation, a 7-word rebuttal of evidence, then an 18-word explanation of the accusation's logic that lands as the punchline of the clip.",
+  "speech_rhythm_notes": "Line 1 ('You're not listening to me.', 5 words, 0.88s) opens after the clip's second-longest pause (0.503s of pre-roll silence from 0.0-0.503s). Line 2 (7 words, 1.62s) follows a short 0.243s gap (1.284-1.527s). Line 3 -- by far the longest line at 18 words and 4.25s -- follows the shortest inter-line gap of the three (0.259s, 3.053-3.312s), giving it almost no runway before the speaker launches into it. Within line 3 itself there is a brief 0.162s internal pause at 4.348-4.510s, which falls right at the clause break between '...finish so you can say' and 'the thing you were already going to say' -- a mid-sentence breath that sets up the punch clause rather than a between-line gap. The single longest pause in the clip (0.883s, 8.526-9.409s) occurs immediately after line 3 ends, leaving the accusation to sit in silence with no reply rather than being answered."
+}

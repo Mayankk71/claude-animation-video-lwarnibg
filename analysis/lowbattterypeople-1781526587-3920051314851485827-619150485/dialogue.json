@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1781526587-3920051314851485827-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 6.2,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.251,
+      "end": 2.653,
+      "text": "You bought three bags of clothes yesterday.",
+      "word_count": 7,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.673,
+      "end": 5.196,
+      "text": "And none of it goes with anything I already have.",
+      "word_count": 10,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.516,
+      "end": 6.837,
+      "text": "How is that even possible?",
+      "word_count": 5,
+      "pause_before_sec": 0.38,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.078,
+      "end": 8.179,
+      "text": "It's fashion, Paul.",
+      "word_count": 3,
+      "pause_before_sec": 0.231,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.899,
+      "end": 10.201,
+      "text": "It's not supposed to make sense.",
+      "word_count": 6,
+      "pause_before_sec": 0.295,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All five lines are labeled SPEAKER_00 in the transcript despite the dialogue clearly reading as a two-person exchange (a partner accusing 'you' of overbuying, answered by someone addressed as 'Paul') -- the diarizer likely collapsed both voices into one channel or one speaker was under-detected; this should be treated as a known limitation rather than evidence of a monologue. No line starts before the prior line ends, so no interruptions are flagged; the exchange proceeds as clean sequential turns with short beat pauses (0.231-0.38s) between each. A micro-pause (0.357s, 2.684-3.041s) falls inside line 2's own speech span (2.673-5.196s, 'And none of it goes with anything I already have.') rather than between turns -- this is a mid-line breath/comma pause, not a conversational gap, and is excluded from pause_before_sec for any line.",
+  "speech_rhythm_notes": "The punchline 'It's fashion, Paul.' (3 words, the shortest line in the clip) is delivered after 'How is that even possible?' following the longest turn-gap pause among the dialogue lines (0.38s before line 3, and 0.231s before the punchline itself is comparatively tight, landing the joke quickly on the heels of the setup question). The closer, 'It's not supposed to make sense.' (6 words), follows a 0.295s pause and lands the tag. After the final transcribed line ends at 10.201s, two much longer silences occur (0.58s at 10.32-10.90s and 1.31s at 11.69-12.99s) outside any dialogue gap -- these sit past the last spoken line and read as a held reaction/visual beat closing out the clip rather than a mid-conversation pause."
+}

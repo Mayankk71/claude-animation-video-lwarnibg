@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1781526587-3920051314851485827-619150485",
+  "duration_sec": 13.076042,
+  "hook": {
+    "start": 0,
+    "end": 2.653,
+    "description": "Cold open mid-argument in a bedroom strewn with shopping bags, crumpled receipts and hanging price tags; the wife sits on the bed pulling clothes from bags while the husband stands beside the closet holding a coat, distressed. The line 'You bought three bags of clothes yesterday' plays as the caption 'YESTERDAY.' lands on screen.",
+    "why_it_works": "Drops the viewer directly into an already-escalated domestic dispute (in medias res) around a universally relatable premise (a partner's impulsive shopping spree); the deadpan, droopy stop-motion expressions plus a punchy single-word caption deliver full context in under 3 seconds with no preamble, so the hook alone promises a relatable payoff."
+  },
+  "setup": {
+    "start": 2.653,
+    "end": 5.196,
+    "description": "The complaint sharpens with 'And none of it goes with anything I already have,' spoken while the camera holds on the cluttered bed of hangers, folded clothes and shopping bags, establishing the specific, oddly particular grievance the joke will need to resolve."
+  },
+  "conflict": {
+    "start": 5.196,
+    "end": 6.837,
+    "description": "Tight close-up on the husband's droopy-eyed, exasperated face as he demands 'How is that even possible?' (caption 'POSSIBLE?'); the push-in isolates his confusion as the emotional peak, turning the vague complaint into a direct question that seems to demand a real answer."
+  },
+  "punchline": {
+    "start": 6.837,
+    "end": 10.201,
+    "description": "After a short beat, the caption 'PAUL.' appears as the reply lands in flat, deadpan delivery: 'It's fashion, Paul. It's not supposed to make sense.' The camera stays tight on the same character's face; the line dismisses the entire setup's logic in one breath, undercutting the frustration built in the conflict beat with a shrugging non-answer rather than an actual explanation."
+  },
+  "ending": {
+    "start": 10.201,
+    "end": 13.076042,
+    "description": "A brief silent hold on the character's blank, resigned face (comedic pause after the punchline) before a hard cut to a black title card.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (yellow ticket-style graphic) - series branding card doubling as a return/subscribe cue."
+  },
+  "beat_map": [
+    {"start": 0, "end": 2.653, "beat_type": "hook", "description": "Mid-argument cold open in a messy bedroom; caption 'YESTERDAY.' lands as wife/narrator states the husband bought three bags of clothes the day before."},
+    {"start": 2.653, "end": 5.196, "beat_type": "setup", "description": "Grievance is specified: none of the new clothes match anything already owned, shown over the cluttered pile of bags and hangers on the bed."},
+    {"start": 5.196, "end": 6.837, "beat_type": "conflict", "description": "Close-up on the husband's exasperated face as he asks 'How is that even possible?', caption 'POSSIBLE?' -- confusion peaks into a direct question."},
+    {"start": 6.837, "end": 10.201, "beat_type": "punchline", "description": "Deadpan reply after a beat: 'It's fashion, Paul. It's not supposed to make sense.' (captions 'IT'S' then continuing), delivered on the same tight close-up, undercutting the setup's logic."},
+    {"start": 10.201, "end": 13.076042, "beat_type": "ending", "description": "Silent resigned hold on the character's face, then hard cut to black title card: 'LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY'."}
+  ],
+  "narrative_notes": "At only ~13 seconds, this reel compresses the arc more aggressively than a typical 20-25s short: hook and setup are really one continuous line of dialogue ('You bought three bags of clothes yesterday... and none of it goes with anything I already have') split into two beats only because a caption break and a slight visual re-frame occur mid-sentence. The conflict beat is a single question rather than an escalating back-and-forth. The 'twist' is not a structural reversal but a shrugging, illogical non-explanation ('it's fashion... not supposed to make sense'), which is the entire comedic engine of the piece. Speaker attribution is uncertain: transcript diarization labels all five lines as a single 'SPEAKER_00', even though two distinct stop-motion characters (husband and wife) are on screen; based on framing, the same close-up character who asks 'How is that even possible?' appears to also deliver 'It's fashion, Paul,' suggesting the husband (named Paul) may be resignedly quoting/anticipating his wife's dismissive answer himself -- but this cannot be confirmed from audio alone. The final ~3 seconds are pure branding (series title card + 'New Episode Daily' CTA), not part of the sketch's diegetic action."
+}

@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1781526587-3920051314851485827-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 5.066667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off wide two-shot of the bedroom set for the full 5s: open wardrobe with hanging clothes fills the left third (negative space/depth cue), the clothes-and-bags-buried bed sits center-right with the man standing at its left edge and the woman seated on the bed in the right third. Crumpled receipt paper and a long receipt-tape trail are scattered across the foreground floor, framing the bottom of the shot. Raking window-shadow stripes across the back wall add depth without any camera move. Intro title/episode-number card and then accumulating dialogue captions are overlaid on this same static frame, meaning the shot itself never cuts or moves for the whole opening beat."
+    },
+    {
+      "start": 5.066667,
+      "end": 6.9,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to an extreme close-up on the man's face only, centered and symmetrical on his elongated nose, glasses sliding down it, mouth open mid-word for the 'POSSIBLE?' line. Minimal headroom (hairline nearly cropped by top of frame), chin near the bottom edge. Background closet rail is thrown out of focus, isolating him from the set. No movement -- a static reaction insert."
+    },
+    {
+      "start": 6.9,
+      "end": 8.566667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cuts back out to a static medium two-shot, both characters facing camera roughly symmetrically -- man mid-ground left, woman foreground right holding a shopping bag. Wider and flatter than the establishing shot, cropping out the wardrobe and most of the floor clutter to keep focus on the two faces and the bag business for the 'IT'S... PAUL.' exchange."
+    },
+    {
+      "start": 8.566667,
+      "end": 9.066667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Very short (0.5s) punch-in insert on the man alone, tighter than the preceding two-shot -- closet rail visible behind him, only a sliver of the woman's shoulder surviving at the right edge. Functions as a quick reaction beat/comedic beat-change rather than a full new setup; framing otherwise static."
+    },
+    {
+      "start": 9.066667,
+      "end": 11.733333,
+      "shot_type": "medium",
+      "camera_movement": "zoom_out",
+      "composition_notes": "Holds on the man's medium reaction shot (closet still visible behind him) and then eases back out over roughly two seconds to reveal the woman again in frame, widening back toward a two-shot just as the 'LOW BATTERY PEOPLE' outro title fades in over the live-action set -- the only shot in the reel with a visible camera move rather than a hard cut."
+    },
+    {
+      "start": 11.733333,
+      "end": 12.966667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black graphic end card, no camera/set at all: centered stacked text -- 'LOW BATTERY PEOPLE' in yellow serif, 'CREATED BY NIN.' in white beneath it, and a yellow ticket-shaped 'NEW EPISODE DAILY' badge with small burst marks lower-center. Pure typographic slate, static."
+    }
+  ],
+  "framing_patterns_notes": "The rig is otherwise fully locked-off: every beat change is a hard cut between static setups rather than a pan or tilt, with the one exception being a slow zoom-out in the final shot to reveal both characters again right before the logo card. The recurring pattern is wide/medium two-shot for exposition and dialogue exchange, then a hard cut to an extreme close-up centered on the man's face for the disbelief punchline ('POSSIBLE?'), then back out to two-shot -- i.e. camera tightens specifically on his reactions, never on the woman alone. The video also brackets the joke with a text-heavy intro/episode-number card and outro branding card, both laid directly over live character frames rather than as separate cutaways (except the final pure-black slate)."
+}

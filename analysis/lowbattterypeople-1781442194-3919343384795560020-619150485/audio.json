@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1781442194-3919343384795560020-619150485",
+  "voice_delivery_notes": "Single speaker (SPEAKER_00) delivers three lines back to back: two short, clipped accusatory statements (\"You're not listening to me.\" / \"I am literally looking at your face.\") followed by one long 18-word run-on sentence (3.276s-7.522s) that reads as a single escalating breath of exasperation. This is inferred from sentence structure and punctuation in the transcript, not heard directly. The short-short-long pacing pattern implies a build from flat accusation to a rambling, mounting complaint.",
+  "pitch_energy_notes": "Not directly heard; inferred from phrasing only. The clipped first two lines suggest a flat, deadpan or pointed low-energy delivery typical of a stated grievance. The long final sentence, structured as one continuous accusatory clause ending on \"the thing you were already going to say,\" implies rising pitch and energy toward the end, landing with emphasis on the final phrase as the punchline/turn of the joke. No audio was analyzed to confirm this.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No on-screen text, caption, or keyframe evidence of background music was available in the read files (transcript.json and silence_pauses.json contain no such cues), so presence of music cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json shows a 0.503s lead-in silence before any speech begins (0.0-0.503s). Small in-dialogue breath pauses follow: 0.243s (1.284-1.527s) between the first and second lines, and 0.259s (3.053-3.312s) between the second and third lines, consistent with natural sentence breaks. A brief 0.162s micro-pause (4.348-4.510s) occurs mid-way through the long third sentence. The longest silence in the clip is 0.883s (8.526-9.409s), occurring right after the final line finishes (dialogue ends at 7.522s per transcript.json), functioning as a held beat after the accusation lands before the clip presumably cuts or resolves."
+}

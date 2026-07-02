@@ -1,0 +1,53 @@
+{
+  "video_slug": "lowbattterypeople-1781442194-3919343384795560020-619150485",
+  "characters": [
+    {
+      "name_or_role": "Woman at dinner table (SPEAKER_00, the ranting partner)",
+      "personality_traits": [
+        "Assertive and confrontational - opens the scene with a direct accusation ('You're not listening to me')",
+        "Articulate and quick with escalating, specific arguments rather than vague complaints",
+        "Emotionally expressive - relies on wide eyes, raised eyebrows and pointed hand gestures to punctuate her speech",
+        "Perceptive/suspicious of her partner's real attention rather than his literal gaze ('You're waiting for me to finish so you can say the thing you were already going to say')"
+      ],
+      "emotional_range": [
+        "Mild irritation at the top of the scene",
+        "Building exasperation as she lists evidence",
+        "Peaks at wide-eyed, open-mouthed incredulity by the final line"
+      ],
+      "expressions": [
+        "0:00-0:01 - eyebrows raised, composed but pointed look while starting the accusation",
+        "0:02 (\"AT\") - eyebrows lifted further, mouth open mid-declaration, eyes wide and fixed on him",
+        "0:03 (\"FACE.\") - same wide-eyed, open-mouth insistence, leaning slightly forward",
+        "0:05-0:07 - eyes wide, mouth ajar in a look of disbelief as she delivers the final, most cutting line"
+      ],
+      "gestures": [
+        "0:00-0:01 - seated upright, turned toward her partner, direct eye contact",
+        "0:02 (\"AT\") - right index finger raised and jabbed upward to emphasize her point",
+        "0:03-0:07 - stays turned toward him, posture leaning in slightly, no retreat or softening"
+      ],
+      "interactions_notes": "She is the sole audible speaker in this clip and drives the entire exchange; she maintains steady eye contact and leans toward her partner throughout, using a raised finger to punctuate her key phrase. She is visually and conversationally dominant in the scene - his silence and blank expression give her monologue nowhere to land, which is the source of the scene's tension."
+    },
+    {
+      "name_or_role": "Man at dinner table (silent partner, the 'low battery' character)",
+      "personality_traits": [
+        "Checked-out and passive - never speaks or reacts on camera despite being directly accused",
+        "Physically present but emotionally absent, embodying the series' 'low battery people' concept of going through the motions without being present",
+        "Unbothered/unreadable - his droopy, half-lidded expression does not shift even as accusations escalate"
+      ],
+      "emotional_range": [
+        "Flat, tired disengagement for the entire scene",
+        "No visible escalation, defensiveness, or surprise even as he is called out"
+      ],
+      "expressions": [
+        "0:00 (title card) - droopy half-lidded eyes, slack open mouth, a caption reading 'LISTENING' ironically overlaid on his blank face",
+        "0:04 (\"WERE\") - same sagging, tired eyes, mouth slightly open, no change in affect",
+        "0:06 (\"THING\") - identical flat, half-lidded stare directly ahead, largely motionless"
+      ],
+      "gestures": [
+        "0:01-0:02 - seen from behind holding a dark rectangular object (phone/device) up near his face, visually explaining why he is not truly present",
+        "0:03-0:07 - upright but static in his chair, no hand gestures, no lean toward or away from her, head barely moving"
+      ],
+      "interactions_notes": "He is filmed largely from behind or in flat medium shots, in contrast to the close, expressive coverage given to her - a visual power imbalance that mirrors the dialogue. He offers no verbal rebuttal in this clip and his one physical action (holding up a device) is the visual proof of the woman's accusation that he isn't really listening. His stillness and lack of eye-contact engagement make him the passive target of her frustration rather than an active participant in the conversation."
+    }
+  ]
+}

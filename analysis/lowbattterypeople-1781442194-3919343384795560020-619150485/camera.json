@@ -1,0 +1,62 @@
+{
+  "video_slug": "lowbattterypeople-1781442194-3919343384795560020-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Static medium two-shot at the dinner table: the man (huge stylized nose, black suit) is left-of-center facing camera, the woman is a soft-focus silhouette in the near-right foreground with her back to camera, creating a shallow-depth-of-field frame within a frame. 'Episode 34' watermark pinned top-left; oversized bold yellow caption 'YOU NEVER LISTEN TO ME' is centered over the middle third of the frame, overlapping the subject's torso rather than avoiding it. A lit candle sits dead-center on the table as a foreground anchor."
+    },
+    {
+      "start": 1.4,
+      "end": 1.5,
+      "shot_type": "over_shoulder",
+      "camera_movement": "static",
+      "composition_notes": "Extremely brief (0.1s) reverse-angle cutaway: man's head and shoulders seen from behind on the left edge, woman now frontal and in focus on the right, caption 'YOU'RE' bottom-center. Functions as a whip-fast reaction beat rather than a sustained shot -- man's back-of-head is cropped tight against the left frame edge."
+    },
+    {
+      "start": 1.5,
+      "end": 3.233333,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut to an extreme close-up of the man's face, dead-center and frontal, nose filling the vertical middle of frame. Raised index finger enters from lower-left as a punctuation gesture on 'literally' and 'face.' Background restaurant lights are reduced to soft bokeh circles, isolating the face against negative space -- no headroom cushion, chin and hairline both near frame edges."
+    },
+    {
+      "start": 3.233333,
+      "end": 5.2,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Cut back out to a medium head-and-shoulders shot, man centered against his booth's black chair back, delivering 'for' / 'so' with a flat, unimpressed expression. Same restaurant bokeh background and candle-in-frame staging as the opening shot, but text overlay is gone -- captions now sit small and low, out of the way of the face."
+    },
+    {
+      "start": 5.2,
+      "end": 5.866667,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Camera punches in on the word 'thing,' pushing from the medium shot to a perfectly symmetrical frontal extreme close-up -- nose runs exact center vertical axis, eyes level left-right, mouth barely visible at the bottom edge. The symmetry itself reads as the joke's visual beat, framing the face like a deadpan mugshot."
+    },
+    {
+      "start": 5.866667,
+      "end": 6.833333,
+      "shot_type": "extreme_close_up",
+      "camera_movement": "static",
+      "composition_notes": "Holds the punched-in extreme close-up from the previous beat -- still dead-center symmetrical framing, caption 'were' low in frame. No further movement; the static hold lets the exaggerated features (droopy eyes, huge nose) sit as the entire visual joke."
+    },
+    {
+      "start": 6.833333,
+      "end": 8.2,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Slight angle change to a three-quarter close-up, man's face tilted and eyes cast down/sideways in a resigned, sad expression -- less strictly symmetrical than the prior shot, giving a softer, more vulnerable read for the line's resolution. Near the end of this shot the outro title card ('LOW BATTERY PEOPLE / CREATED BY NIN.') begins fading in as a text overlay directly on top of this live face, blending the last story beat into the outro."
+    },
+    {
+      "start": 8.2,
+      "end": 9.366667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure black background outro/branding card: centered gold serif title 'LOW BATTERY PEOPLE' with smaller white 'CREATED BY NIN.' beneath it, and a yellow 'NEW EPISODE DAILY' ribbon graphic animating in below. No camera or subject present -- purely a static graphic end card."
+    }
+  ],
+  "framing_patterns_notes": "The video alternates between two framing extremes with almost nothing in between: a medium/wide establishing composition only at the very start (with the bold caption text overlapping the subject rather than sitting in clear space), and then a string of tight-to-extreme close-ups for every subsequent beat, culminating in a hard zoom-in punch on the word 'thing' that lands on a perfectly symmetrical, dead-center face -- the visual punchline mirrors the verbal one. The over-the-shoulder reverse angle is used exactly once, as a near-subliminal 0.1s reaction cutaway rather than a sustained shot. Low-set, small caption text is used consistently under the chin/collar so it never competes with the exaggerated facial features, except in the opening shot where oversized title-card-style text is deliberately laid over the frame. The outro title card is foreshadowed by dissolving text directly onto the final live-action close-up before cutting to a clean black card, rather than a hard cut to the branding screen."
+}

@@ -1,0 +1,50 @@
+{
+  "video_slug": "lowbattterypeople-1781442194-3919343384795560020-619150485",
+  "cut_count": 6,
+  "avg_shot_length_sec": 1.338,
+  "cuts": [
+    {
+      "timestamp": 1.4,
+      "transition_type": "jump_cut",
+      "reason": "Snaps to a near-subliminal (0.1s) reaction cutaway of the woman during the pause right after 'You're not listening to me,' letting her blank stare hang for a beat before he keeps talking."
+    },
+    {
+      "timestamp": 1.5,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back to the man's tight close-up as he resumes with 'I am literally looking at your face,' timed to the restart of dialogue after the micro-pause."
+    },
+    {
+      "timestamp": 3.233333,
+      "transition_type": "hard_cut",
+      "reason": "Pulls back to a wider two-shot at the table right as he launches into the longest, most escalating line ('You're waiting for me to finish...'), resetting the frame for the accusation's build-up."
+    },
+    {
+      "timestamp": 5.866667,
+      "transition_type": "jump_cut",
+      "reason": "Punches straight in on his face without a real camera move, landing right on the word 'were' -- the twist word that reveals he's already rehearsing his comeback -- for punchline emphasis."
+    },
+    {
+      "timestamp": 6.833333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts immediately to the woman's guilty, wide-eyed reaction shot the instant the accusation lands, letting her silent expression deliver the joke instead of a line."
+    },
+    {
+      "timestamp": 8.2,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut to the black end-card/logo screen ('LOW BATTERY PEOPLE') once the reaction has had a moment to breathe, closing out the sketch."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 1.4,
+      "end": 1.5,
+      "description": "Flash-cut reaction shot of the woman during the pause after the opening accusation -- so brief it registers almost subliminally, a quick beat before the man continues."
+    },
+    {
+      "start": 6.833333,
+      "end": 8.2,
+      "description": "Woman's guilty, wide-eyed, mouth-agape reaction shot after being called out for already planning her response -- the visual punchline of the sketch, with no dialogue over it."
+    }
+  ],
+  "pacing_notes": "The cut opens with a 1.4s title-card/hook shot, then snaps into a nearly subliminal 0.1s reaction cutaway during the first pause -- an early comedic jab. It settles into a 1.7s close-up, then expands to the longest shot of the video (2.6s) to carry the escalating, multi-clause accusation line. Right on the word 'were' it punches into a much tighter, shorter (~1s) close-up for emphasis on the reveal. It then holds a bit longer (~1.4s) on the woman's silent reaction shot to let the punchline land, before a final ~1.2s hard cut to the end card. Overall the rhythm is not a steady acceleration but a wind-up-and-release pattern: shots lengthen through the setup and long accusation line, snap short right on the punchline word, then lengthen again for the reaction and outro."
+}
