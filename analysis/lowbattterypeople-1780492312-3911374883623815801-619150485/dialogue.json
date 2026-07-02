@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1780492312-3911374883623815801-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 7,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.351,
+      "end": 2.374,
+      "text": "I just liked your ex's photo by accident.",
+      "word_count": 8,
+      "pause_before_sec": 0.364,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2.714,
+      "end": 2.955,
+      "text": "What?",
+      "word_count": 1,
+      "pause_before_sec": 0.41,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3.095,
+      "end": 6.179,
+      "text": "I unliked it immediately, but I think she got a notification.",
+      "word_count": 11,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.279,
+      "end": 9.423,
+      "text": "So you're saying you accidentally scrolled seven years?",
+      "word_count": 8,
+      "pause_before_sec": 0.171,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Four-line, two-speaker exchange with no overlapping starts: every line begins after the prior line's end timestamp, so none qualify as interruptions per the transcript timing. SPEAKER_01 carries three consecutive lines (confession, 'What?', backpedal) that read as an escalating self-correction, each separated by sub-0.5s gaps; SPEAKER_00 only enters once, on the final line, to deliver the punchline question. The 'What?' interjection (line 2) is attributed to SPEAKER_01 in the transcript despite functioning as a reactive beat mid-conversation, which is worth flagging as a possible diarization artifact since it reads as a call-and-response with a second party.",
+  "speech_rhythm_notes": "The setup runs tight: line 1 to line 3 (SPEAKER_01's confession and backpedal) are separated by gaps under 0.5s, with the 3.095s line even showing 0s of matched silence before it, keeping the self-incrimination breathless and uninterrupted. The matched pause_before values track two real silence windows from silence_pauses.json: 0.41s before 'What?' (2.227-2.63669s) marking the beat of surprise, and 0.171s before the punchline (6.10875-6.27937s). The punchline itself ('So you're saying you accidentally scrolled seven years?', 8 words) is preceded by the shortest pre-line pause of the clip's dialogue but is followed by the longest silence window recorded (1.526s, 10.5709-12.0973s), placed just after the line ends at 9.423s -- a held beat that lets the joke land before the clip closes."
+}

@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780492312-3911374883623815801-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.351,
+      "end": 2.374,
+      "mechanism": "recognition",
+      "description": "Opening confession: 'I just liked your ex's photo by accident.' Flat, matter-of-fact delivery of a universally embarrassing modern mishap (accidental social-media like) dropped cold with no preamble.",
+      "why_it_lands": "The line is thrown out in the same low, level line-reading as small talk, with no vocal build-up over its 2-second span, which is exactly the deadpan blurt that makes the confession recognizable as a real thing people have actually said out loud."
+    },
+    {
+      "start": 2.714,
+      "end": 2.955,
+      "mechanism": "surprise",
+      "description": "One-word reaction, 'What?', from the same speaker who just made the confession, functioning as a self-interrupting double-take rather than a reply from the partner.",
+      "why_it_lands": "It's preceded by only a 0.34s gap (2.374 to 2.714) and is a single clipped word, giving the beat the rhythm of someone catching themselves mid-thought and re-registering the horror of what they just admitted."
+    },
+    {
+      "start": 3.095,
+      "end": 6.179,
+      "mechanism": "escalation",
+      "description": "The walk-back makes it worse: 'I unliked it immediately, but I think she got a notification.' The attempted fix (unliking fast) is immediately undercut by the admission that the damage is already done.",
+      "why_it_lands": "There's a 0.64s pause (4.16-4.80s, the longest pause in the clip) sitting right before 'but I think she got a notification' -- the beat holds just long enough for the audience to think the confession is over before the actual disaster detail lands."
+    },
+    {
+      "start": 6.279,
+      "end": 9.423,
+      "mechanism": "irony",
+      "description": "Punchline: 'So you're saying you accidentally scrolled seven years?' The partner's flat, logical dismantling of the word 'accident' -- you can't 'accidentally' scroll seven years deep into someone's profile.",
+      "why_it_lands": "The whole exchange plays in a single static two-shot with no cutaway (scene boundary shows one unbroken shot from 0 to 10.4s), so the punchline lands purely on the held wide composition and the listener's raised-eyebrow, half-lidded stare in the keyframes rather than on an edit or reaction cut -- the joke is entirely in the deadpan math of the accusation."
+    }
+  ],
+  "overall_comedic_style_notes": "The bit is built as a compact three-beat sitcom exchange (confession, self-interrupted reaction, escalating admission) capped by an outside character's deadpan logic-gag punchline that exposes the impossibility of the claimed 'accident.' Notably the entire dialogue plays in one unbroken static shot (scene_boundaries shows a single 10.4s scene) with no reaction-shot cutting -- the comedy relies on restrained felt-puppet facial acting (raised eyebrows, half-open mouths, sideways glances visible in the keyframes) held in frame rather than editing rhythm. Pauses between lines are short and clipped (0.17-0.64s) rather than one big dramatic beat, keeping the pacing brisk and conversational until the final punchline lands cold."
+}

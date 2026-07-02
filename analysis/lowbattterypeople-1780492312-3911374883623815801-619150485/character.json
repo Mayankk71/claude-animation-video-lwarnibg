@@ -1,0 +1,63 @@
+{
+  "video_slug": "lowbattterypeople-1780492312-3911374883623815801-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (SPEAKER_00)",
+      "personality_traits": [
+        "deadpan straight-man who reacts more with sarcasm than alarm",
+        "passive/checked-out at first (still gripping the TV remote through the whole scene, never puts it down)",
+        "quick with a dry, cutting one-liner once he engages",
+        "not visibly jealous or hurt, more amused/incredulous at his wife's excuse"
+      ],
+      "emotional_range": [
+        "droopy-eyed disinterest",
+        "mild confusion",
+        "dry skepticism",
+        "mock incredulity / comedic outrage played for laughs, not real anger"
+      ],
+      "expressions": [
+        "0:00 neutral, half-lidded gaze toward the TV, mouth in a flat downturned line",
+        "0:03 slight frown/furrow as he half-turns toward her on 'What?'",
+        "0:04-0:06 brow lowers, mouth cracks open in a skeptical half-grimace while listening to the unlike/notification confession",
+        "0:06 eyebrows shoot up, jaw drops open into an exaggerated 'gotcha' grin/gasp as he pivots the joke ('scrolled seven years?')",
+        "0:07-0:09 holds the open-mouthed, wide-eyed deadpan punchline expression, unmoving, letting the line land"
+      ],
+      "gestures": [
+        "keeps the TV remote loosely in one hand in his lap for the entire scene, thumb near the button, never actually pressing it",
+        "other arm rests along the back of the sofa/her armrest, casual and proprietary rather than defensive",
+        "leans slightly toward her and extends an index finger, pointing at her/the phone as he delivers the punchline at 0:06",
+        "head swivels from facing forward (TV) to facing her as the conversation escalates"
+      ],
+      "interactions_notes": "He is physically closer to the TV/background and slower to engage, establishing him as the reactive partner rather than the instigator. He does not make eye contact until she confesses, then holds a steady, almost interrogating stare while pointing at her, which combined with his flat vocal delivery signals he's turning her confession into a joke rather than a real fight. He never touches her or the phone, keeping a clear physical/comedic distance that reinforces the couple's the-joke-is-on-you dynamic."
+    },
+    {
+      "name_or_role": "wife (SPEAKER_01)",
+      "personality_traits": [
+        "impulsive confessor -- blurts out the embarrassing admission unprompted",
+        "self-aware and mildly panicked about the social fallout ('she got a notification')",
+        "fidgety with her phone, using it as a nervous prop throughout",
+        "ultimately unbothered/amused by the end, suggesting she treats the mishap lightly despite the initial panic"
+      ],
+      "emotional_range": [
+        "guilty urgency",
+        "wide-eyed alarm",
+        "flustered embarrassment",
+        "sheepish amusement/relief at the close"
+      ],
+      "expressions": [
+        "0:00 eyes wide and fixed on the phone screen, mouth slightly open mid-sentence as she confesses ('I just liked your ex's photo by accident')",
+        "0:02 brief startled blink toward him on 'What?'",
+        "0:03-0:05 eyebrows pinched up, mouth stretched into an open, tense grimace while explaining she unliked it ('immediately') and that the ex may have gotten a notification -- classic 'oh no' face",
+        "0:05-0:06 mouth open mid-word, eyes darting, visibly rattled as she keeps talking",
+        "0:07-0:09 expression softens; brow relaxes and a small closed-mouth smile/smirk appears as her husband delivers his punchline, suggesting she finds it funny rather than confrontational"
+      ],
+      "gestures": [
+        "holds the phone in both hands throughout, thumbs occasionally moving as if still scrolling/checking the screen",
+        "shoulders hunch slightly forward toward the phone during the confession, a self-protective, guilty posture",
+        "briefly touches/adjusts her grip on the phone when the conversation intensifies, a nervous tell",
+        "settles back into the sofa cushions and relaxes her posture by the final beat"
+      ],
+      "interactions_notes": "She initiates the whole exchange, speaking first and unprompted, positioning her as the one who disrupts the couple's quiet TV-watching routine. She keeps her eyes mostly on her phone or glancing sideways at him rather than fully facing him, reflecting embarrassment. The power dynamic flips over the course of the beat: she starts in control of the reveal (confessing on her own terms) but ends up the target of his punchline, visible in her softened, slightly sheepish smile at the close as he gets the last word."
+    }
+  ]
+}

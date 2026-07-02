@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1780492312-3911374883623815801-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 10.433333,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot of the couple seated on the sofa, man on left / woman on right, both roughly waist-up and centered in the left and right thirds of the frame with a gap of negative space (the sofa's center cushion) between them. Frame never reframes, pans, or zooms for the entire scene despite dialogue and reaction changes - all comedic beats are carried by the puppets' expressions and head turns, not camera work. Background (kitchen, staircase, floor lamp) stays fixed and slightly soft-focus behind them, keeping full attention on the two faces. Title card text (episode name/number) is overlaid directly on top of this static shot without any corresponding camera change."
+    },
+    {
+      "start": 10.433333,
+      "end": 12.033333333333333,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Static full-black end card/outro slate (not a physical camera shot of the set) with centered yellow show title, white subtitle credit, and a centered yellow ribbon graphic below reading the daily-episode tag; no motion, no camera framing of a scene."
+    }
+  ],
+  "framing_patterns_notes": "The entire live-action-style scene (scene 0, ~10.4s, the vast majority of the runtime) is held in a single unmoving medium two-shot - there is no coverage variation (no cut-ins, no close-ups on reactions, no pans/zooms) even as the dialogue escalates and the woman's expression shifts from confused to alarmed to sly; the joke is delivered entirely through puppet performance within one fixed frame. The video then cuts directly to a static black title/outro card, so within this reel there are only two framings total: one locked two-shot for the whole gag, and one static graphic card to close."
+}

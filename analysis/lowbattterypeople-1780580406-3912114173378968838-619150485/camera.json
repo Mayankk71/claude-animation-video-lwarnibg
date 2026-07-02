@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 1.266667,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Cold open: fixed wide shot of a waterfront street packed with fleeing characters running toward camera, a giant tsunami wave frozen mid-break across the upper third of frame behind a city skyline. 'Episode 25' sits top-left as a small caption; 'WHEN THE WORLD ENDS' title card is centered in large yellow serif type, cutting the frame roughly in half and obscuring most of the runners' faces. Abandoned cars and scattered papers/shoes litter the foreground street, establishing chaos before any character is introduced by name."
+    },
+    {
+      "start": 1.266667,
+      "end": 8.0,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Two-shot of the man and woman facing each other on the promenade, positioned center-frame with a metal railing behind them and the same towering wave now static and permanent in the background across the whole width of the shot. Full figures are visible from the knees up; parked cars flank both edges of frame acting as natural bookends. Background crowd continues sprinting past/behind them in early frames, but thins out as the shot holds, isolating the couple in a static composition despite the apocalyptic backdrop -- the visual joke is that the framing treats their small-talk like an ordinary two-shot conversation."
+    },
+    {
+      "start": 8.0,
+      "end": 12.766667,
+      "shot_type": "close-up",
+      "camera_movement": "zoom_in",
+      "composition_notes": "Slow push-in on the same two-shot setup tightens progressively from chest-up to a near-symmetrical close-up on both faces, noses almost touching at center frame. The wave is pushed to the very top edge and increasingly cropped out as the lens tightens, redirecting all attention to eyebrows/eye acting for the punchline beats (captions 'KISSING', 'PART?', 'KNOW'). Headroom shrinks shot by shot; by the final frames only heads and shoulders remain in frame, with the railing and cars cropped out entirely."
+    },
+    {
+      "start": 12.766667,
+      "end": 13.6,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Static black end card, no camera or scene geometry: centered yellow serif title 'LOW BATTERY PEOPLE', smaller white 'CREATED BY NIN.' subtitle beneath it, and a yellow ticket-shaped 'NEW EPISODE DAILY' badge with small burst lines centered lower in the frame -- pure graphic/branding layout, symmetrical about the vertical axis."
+    }
+  ],
+  "framing_patterns_notes": "The video's single comedic beat is built entirely through a slow, continuous push-in: it opens wide on mass chaos (crowd + wave + title card), settles into a static wide two-shot that treats an apocalyptic backdrop as mundane conversational blocking, then tightens into close-up right as the dialogue reaches its punchline lines, isolating facial reactions from the disaster imagery behind them. The wave is always kept in frame as a scale reference until the final close-up crops it out, letting the framing itself (not new camera setups) carry the escalation from spectacle to intimate deadpan comedy."
+}

@@ -1,0 +1,58 @@
+{
+  "video_slug": "lowbattterypeople-1780492312-3911374883623815801-619150485",
+  "duration_sec": 12.180042,
+  "hook": {
+    "start": 0,
+    "end": 2.955,
+    "description": "Cold open on a stop-motion couple (felt-textured, big-nosed characters) already seated on the couch mid-conversation, TV remote in his hand, her phone in hers. He blurts the confession \"I just liked your ex's photo by accident,\" and she snaps back with a stunned \"What?\". A small 'Episode 24' watermark and the episode title card 'LIKED EX'S PHOTO' are overlaid on this same opening shot, branding the premise instantly.",
+    "why_it_works": "No establishing shot or wind-up: the very first line is the embarrassing confession itself, so the premise, stakes, and comedic hook land within 2.5 seconds. The immediate 'What?' gives the viewer a proxy reaction that confirms this is worth watching."
+  },
+  "setup": {
+    "start": 2.955,
+    "end": 6.179,
+    "description": "He tries to walk the confession back, admitting \"I unliked it immediately, but I think she got a notification.\" The attempted damage-control reveals the fix didn't work, digging the hole deeper while his partner's shocked, wide-eyed expression holds on him (captions render the line word-by-word, e.g. 'GOT' visible on screen)."
+  },
+  "conflict": {
+    "start": 6.179,
+    "end": 9.423,
+    "description": "After a short pause, the partner fires back with a pointed, disbelieving follow-up: \"So you're saying you accidentally scrolled seven years?\" Her tone and phrasing directly challenge the plausibility of his 'accident' excuse, functioning as the confrontation beat."
+  },
+  "punchline": {
+    "start": 6.179,
+    "end": 9.423,
+    "description": "The same line that voices the confrontation is also the joke's payoff: the specificity of 'scrolled seven years' exposes that liking an ex's old photo could never be a genuine accident, undercutting his excuse and delivering the comedic twist in a single deadpan question."
+  },
+  "ending": {
+    "start": 9.423,
+    "end": 12.180042,
+    "description": "The scene holds briefly on the couple's frozen, awkward stare after her line lands (a beat of silence, per the pause data, roughly 9.4s-10.1s) before hard-cutting to a black end card with the show's branding.",
+    "cta_or_text_overlay": "Black card reading 'LOW BATTERY PEOPLE' (title) / 'CREATED BY NIN.' (creator credit) / a yellow ticket-style banner reading 'NEW EPISODE DAILY' — series branding/CTA rather than a resolution to the joke."
+  },
+  "beat_map": [
+    {
+      "start": 0,
+      "end": 2.955,
+      "beat_type": "hook",
+      "description": "Man confesses to liking his partner's ex's photo by accident; she reacts with 'What?'. Episode title/number overlay stamps the premise on the same shot."
+    },
+    {
+      "start": 2.955,
+      "end": 6.179,
+      "beat_type": "setup",
+      "description": "He explains he unliked it immediately but suspects a notification already went out, showing his cover-up attempt failed."
+    },
+    {
+      "start": 6.179,
+      "end": 9.423,
+      "beat_type": "punchline",
+      "description": "Fused conflict/punchline beat: partner's sarcastic question 'So you're saying you accidentally scrolled seven years?' both confronts his excuse and delivers the comedic twist that exposes it as implausible."
+    },
+    {
+      "start": 9.423,
+      "end": 12.180042,
+      "beat_type": "ending",
+      "description": "Silent held reaction shot on the couple, then cut to black end card with series title, creator credit, and 'New Episode Daily' banner."
+    }
+  ],
+  "narrative_notes": "At only ~12s of live scene time (plus a ~2s black end card), this reel compresses the arc to three dialogue lines: conflict and punchline are genuinely fused into the single closing question ('So you're saying you accidentally scrolled seven years?'), which simultaneously confronts the excuse and delivers the joke's twist -- there is no separate confrontation line before the payoff, so those two schema fields intentionally share identical timestamps and description logic. The hook is unusually front-loaded: the confession itself (rather than any scene-setting) is the very first line of dialogue, with on-screen episode branding ('Episode 24', title card) doubling down on the hook in the same shot rather than delaying it. The ending is a pure branding/CTA card with no diegetic resolution -- the joke's tension (is the excuse believed?) is left unresolved, which is consistent with a recurring-couple sketch format ('Low Battery People') that relies on daily episodic release rather than closure within a single reel."
+}

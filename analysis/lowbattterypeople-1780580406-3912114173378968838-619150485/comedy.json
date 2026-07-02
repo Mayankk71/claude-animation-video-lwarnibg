@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.0,
+      "end": 1.267,
+      "mechanism": "irony",
+      "description": "Title card 'Episode 25: When the World Ends' drops over a wide shot of a crowd sprinting in terror as a skyscraper-sized tsunami looms over the city.",
+      "why_it_lands": "The wave is drawn frozen mid-crest, taller than the buildings, while background extras have their arms thrown up in cartoonish full-body panic (scene-0 keyframe) -- the scale of dread is set intentionally high so the couple's calm in the next shot reads as absurd by contrast."
+    },
+    {
+      "start": 1.267,
+      "end": 7.218,
+      "mechanism": "irony",
+      "description": "Cut to the two main characters standing at a seaside railing, casually gesturing at each other in ordinary mid-conversation body language, while the same enormous, still-frozen wave hangs directly behind them and litter/abandoned cars fill the street.",
+      "why_it_lands": "Their hand gestures and posture (periodic-3, periodic-6 keyframes) are the exact small, mundane shrugs of a couple bickering about dinner plans, not two people with seconds left to live -- the visual gag runs silently for over 5 seconds before either character speaks, letting the incongruity land before the dialogue explains it."
+    },
+    {
+      "start": 7.218,
+      "end": 8.802,
+      "mechanism": "recognition",
+      "description": "Man says, 'Oh, you thought this was the kissing part?' -- naming and dismissing the disaster-movie cliche where doomed couples embrace before the wave hits.",
+      "why_it_lands": "It works because the shot composition (close two-shot, faces tilted toward each other in periodic-9) had just visually set up exactly that romantic-disaster-movie beat, so the line calls out the audience's own genre expectation a half-second after the frame primed it."
+    },
+    {
+      "start": 8.802,
+      "end": 10.425,
+      "mechanism": "awkward_silence",
+      "description": "A 1.6-second gap between the setup line and the punchline, during which both characters hold flat, unimpressed expressions (visible in periodic-12: raised eyebrow on him, sideways unbothered glance from her) with the wave still motionless behind them.",
+      "why_it_lands": "The pause is nearly as long as either line of dialogue itself, which is unusually long for a 13-second short -- it forces the viewer to sit in the deadpan stare rather than rush to the punchline, mimicking the beat of a live two-hander sketch."
+    },
+    {
+      "start": 10.425,
+      "end": 11.688,
+      "mechanism": "deadpan",
+      "description": "Woman replies, 'You really don't know us at all,' delivered flatly with no change in vocal energy or urgency despite the imminent tsunami.",
+      "why_it_lands": "The flat delivery reframes the joke a second time: it is not just that they are ignoring the apocalypse, it's implied their relationship is too worn-down or jaded for a romantic goodbye at all, turning a disaster gag into a dry aside about a stale relationship."
+    },
+    {
+      "start": 12.767,
+      "end": 13.6,
+      "mechanism": "other:tag_card",
+      "description": "Hard cut from the wave-and-couple scene straight to a black title card reading 'LOW BATTERY PEOPLE, Created by Nin., New Episode Daily,' with no resolution shown of the wave actually hitting.",
+      "why_it_lands": "Ending on the punchline's silence (the 0.47s pause logged right at the cut, 13.17-13.63s) rather than showing impact or fallout is the show's signature button -- it treats the apocalypse as a punchline delivery device, not a plot to pay off, which is part of the 'low battery' premise of characters too checked-out to react to anything, including their own deaths."
+    }
+  ],
+  "overall_comedic_style_notes": "This is a single-joke micro-episode built entirely on juxtaposition: maximal visual stakes (a frozen, city-height tsunami and a screaming crowd) paired with minimal emotional reaction from the two leads, who play the scene as a mundane, slightly irritated couple's conversation. The core mechanism is genre-trope recognition -- the line 'Oh, you thought this was the kissing part?' explicitly names the disaster-movie cliche the shot composition just primed the viewer to expect, then the deadpan rebuttal 'You really don't know us at all' pivots the apocalypse gag into a relatable dig at relationship apathy. The unusually long 1.6s silent beat between setup and punchline (long relative to the video's ~13s runtime) is doing comedic work usually reserved for live-action sketch timing, and the episode ends on that flat note rather than resolving the disaster, reinforcing the series' evident 'low battery' conceit of characters too emotionally depleted to react appropriately to anything."
+}

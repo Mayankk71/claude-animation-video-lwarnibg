@@ -1,0 +1,314 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "duration_sec": 13.716042,
+  "story": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "duration_sec": 13.716042,
+    "hook": {
+      "start": 0,
+      "end": 1.267,
+      "description": "Cold open on a title card, 'WHEN THE WORLD ENDS' in bold yellow serif type, stamped over a wide stop-motion shot of a screaming crowd sprinting down a city street away from a colossal tsunami wave curling over the skyline. An 'Episode 25' tag sits top-left, signaling this is an installment of an ongoing series.",
+      "why_it_works": "Opens on maximum visual stakes (apocalyptic wave, mass panic, dramatic title text) in under 1.3 seconds, instantly promising disaster-movie scale while the 'Episode 25' tag cues returning viewers that a twist/bit is coming from a familiar show."
+    },
+    "setup": {
+      "start": 1.267,
+      "end": 4.5,
+      "description": "Cut to street level: the same panicked crowd streams past in the foreground and background, but the camera settles on two stop-motion figures -- a man in a black coat and a woman in a brown sweater -- standing still and facing each other, calmly gesturing mid-conversation while everyone else flees and the wave looms closer behind them.",
+      "conflict": null
+    },
+    "conflict": {
+      "start": 4.5,
+      "end": 7.218,
+      "description": "No dialogue yet; the visual tension carries the beat. The giant wave keeps closing in over the railing behind the couple, the crowd thins out as it flees, and the two leads remain rooted in place, unbothered -- creating an unresolved 'why aren't they running' expectation right before they finally speak."
+    },
+    "punchline": {
+      "start": 7.218,
+      "end": 11.688,
+      "description": "The man deadpans, 'Oh, you thought this was the kissing part?' followed by 'You really don't know us at all,' delivered with flat, unimpressed expressions rather than romantic urgency. The line subverts the classic disaster-movie trope of a couple sharing a passionate last kiss before the end, revealing instead that this pair is too checked-out/apathetic (in keeping with the 'Low Battery People' premise) to play along with that expectation."
+    },
+    "ending": {
+      "start": 11.688,
+      "end": 13.716,
+      "description": "A final beat holds on the woman's unimpressed, half-lidded stare at the man before a hard cut to a black outro card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a yellow 'NEW EPISODE DAILY' ticket graphic.",
+      "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. -- 'NEW EPISODE DAILY' ticket badge"
+    },
+    "beat_map": [
+      {
+        "start": 0,
+        "end": 1.267,
+        "beat_type": "hook",
+        "description": "Title card 'WHEN THE WORLD ENDS' (Episode 25) over a wide shot of a crowd fleeing a giant tsunami through a city street."
+      },
+      {
+        "start": 1.267,
+        "end": 4.5,
+        "beat_type": "setup",
+        "description": "Street-level cut reveals the crowd sprinting past while a man and woman stand still in the foreground, calmly facing each other instead of running."
+      },
+      {
+        "start": 4.5,
+        "end": 7.218,
+        "beat_type": "conflict",
+        "description": "Silent visual tension builds: the tsunami wave closes in behind the still-motionless couple as the fleeing crowd thins out, with no dialogue yet to explain their calm."
+      },
+      {
+        "start": 7.218,
+        "end": 11.688,
+        "beat_type": "punchline",
+        "description": "Man says 'Oh, you thought this was the kissing part?' and 'You really don't know us at all,' deadpan, subverting the expected disaster-movie farewell kiss."
+      },
+      {
+        "start": 11.688,
+        "end": 13.716,
+        "beat_type": "ending",
+        "description": "Woman's flat, unimpressed reaction shot, then hard cut to black outro card with the show's name, creator credit, and 'NEW EPISODE DAILY' badge."
+      }
+    ],
+    "narrative_notes": "At 13.7s this reel compresses to four visible beats rather than five distinct ones: 'setup' and 'conflict' are really one continuous silent visual gag (calm couple vs. fleeing crowd vs. approaching wave) split here only for timestamp precision -- there is no spoken conflict, just sustained visual dissonance until the punchline dialogue lands at 7.218s. There is no traditional CTA line; the 'ending' functions purely as a branded outro card (series name, creator, 'new episode daily') rather than a spoken sign-off, which is the actual call-to-action for this recurring-series format."
+  },
+  "dialogue": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "total_lines": 2,
+    "avg_words_per_line": 7.5,
+    "lines": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 7.218,
+        "end": 8.802,
+        "text": "Oh, you thought this was the kissing part?",
+        "word_count": 8,
+        "pause_before_sec": 0,
+        "interruption": false
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 10.425,
+        "end": 11.688,
+        "text": "You really don't know us at all.",
+        "word_count": 7,
+        "pause_before_sec": 0,
+        "interruption": false
+      }
+    ],
+    "conversational_flow_notes": "The clip has only two spoken lines, both delivered by the same speaker (SPEAKER_00), functioning as a single two-beat monologue rather than a back-and-forth dialogue. There is a 1.623s silent gap between line 1 (ends 8.802) and line 2 (starts 10.425), but this gap does not match any entry in silence_pauses.json (the only recorded pause is 13.1678-13.6333, which falls after line 2 ends at 11.688), so no pause_before_sec value could be attributed to either line from the data. Neither line overlaps with the other, so there is no interruption.",
+    "speech_rhythm_notes": "Both lines are short and similarly sized (8 words, then 7 words), giving the pair a matched, deadpan rhythm rather than an escalating or punchline structure. The single detected silence (0.4655s, at 13.17-13.63s) occurs after all dialogue has finished, suggesting the beat/pause is being used post-line for reaction or visual payoff rather than mid-dialogue pacing."
+  },
+  "comedy": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "comedic_beats": [
+      {
+        "start": 0.0,
+        "end": 1.267,
+        "mechanism": "irony",
+        "description": "Title card 'Episode 25: When the World Ends' drops over a wide shot of a crowd sprinting in terror as a skyscraper-sized tsunami looms over the city.",
+        "why_it_lands": "The wave is drawn frozen mid-crest, taller than the buildings, while background extras have their arms thrown up in cartoonish full-body panic (scene-0 keyframe) -- the scale of dread is set intentionally high so the couple's calm in the next shot reads as absurd by contrast."
+      },
+      {
+        "start": 1.267,
+        "end": 7.218,
+        "mechanism": "irony",
+        "description": "Cut to the two main characters standing at a seaside railing, casually gesturing at each other in ordinary mid-conversation body language, while the same enormous, still-frozen wave hangs directly behind them and litter/abandoned cars fill the street.",
+        "why_it_lands": "Their hand gestures and posture (periodic-3, periodic-6 keyframes) are the exact small, mundane shrugs of a couple bickering about dinner plans, not two people with seconds left to live -- the visual gag runs silently for over 5 seconds before either character speaks, letting the incongruity land before the dialogue explains it."
+      },
+      {
+        "start": 7.218,
+        "end": 8.802,
+        "mechanism": "recognition",
+        "description": "Man says, 'Oh, you thought this was the kissing part?' -- naming and dismissing the disaster-movie cliche where doomed couples embrace before the wave hits.",
+        "why_it_lands": "It works because the shot composition (close two-shot, faces tilted toward each other in periodic-9) had just visually set up exactly that romantic-disaster-movie beat, so the line calls out the audience's own genre expectation a half-second after the frame primed it."
+      },
+      {
+        "start": 8.802,
+        "end": 10.425,
+        "mechanism": "awkward_silence",
+        "description": "A 1.6-second gap between the setup line and the punchline, during which both characters hold flat, unimpressed expressions (visible in periodic-12: raised eyebrow on him, sideways unbothered glance from her) with the wave still motionless behind them.",
+        "why_it_lands": "The pause is nearly as long as either line of dialogue itself, which is unusually long for a 13-second short -- it forces the viewer to sit in the deadpan stare rather than rush to the punchline, mimicking the beat of a live two-hander sketch."
+      },
+      {
+        "start": 10.425,
+        "end": 11.688,
+        "mechanism": "deadpan",
+        "description": "Woman replies, 'You really don't know us at all,' delivered flatly with no change in vocal energy or urgency despite the imminent tsunami.",
+        "why_it_lands": "The flat delivery reframes the joke a second time: it is not just that they are ignoring the apocalypse, it's implied their relationship is too worn-down or jaded for a romantic goodbye at all, turning a disaster gag into a dry aside about a stale relationship."
+      },
+      {
+        "start": 12.767,
+        "end": 13.6,
+        "mechanism": "other:tag_card",
+        "description": "Hard cut from the wave-and-couple scene straight to a black title card reading 'LOW BATTERY PEOPLE, Created by Nin., New Episode Daily,' with no resolution shown of the wave actually hitting.",
+        "why_it_lands": "Ending on the punchline's silence (the 0.47s pause logged right at the cut, 13.17-13.63s) rather than showing impact or fallout is the show's signature button -- it treats the apocalypse as a punchline delivery device, not a plot to pay off, which is part of the 'low battery' premise of characters too checked-out to react to anything, including their own deaths."
+      }
+    ],
+    "overall_comedic_style_notes": "This is a single-joke micro-episode built entirely on juxtaposition: maximal visual stakes (a frozen, city-height tsunami and a screaming crowd) paired with minimal emotional reaction from the two leads, who play the scene as a mundane, slightly irritated couple's conversation. The core mechanism is genre-trope recognition -- the line 'Oh, you thought this was the kissing part?' explicitly names the disaster-movie cliche the shot composition just primed the viewer to expect, then the deadpan rebuttal 'You really don't know us at all' pivots the apocalypse gag into a relatable dig at relationship apathy. The unusually long 1.6s silent beat between setup and punchline (long relative to the video's ~13s runtime) is doing comedic work usually reserved for live-action sketch timing, and the episode ends on that flat note rather than resolving the disaster, reinforcing the series' evident 'low battery' conceit of characters too emotionally depleted to react appropriately to anything."
+  },
+  "character": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "characters": [
+      {
+        "name_or_role": "Man in black overcoat (deadpan husband/partner figure)",
+        "personality_traits": [
+          "Deadpan and sarcastic - delivers the punchline 'Oh, you thought this was the kissing part?' with a flat, matter-of-fact tone while a tsunami looms behind him",
+          "Unbothered by catastrophe - stands still and gestures casually with open palms while the crowd behind him sprints past in terror",
+          "Mildly condescending/superior toward his companion, as if she should already know how their relationship works",
+          "Jaded/world-weary, implying this apocalyptic banter is a recurring routine for the couple, not their first brush with disaster"
+        ],
+        "emotional_range": [
+          "Calm indifference (arms/hands relaxed, conversational gesturing) at 0:03-0:06 despite the giant wave and screaming extras in frame",
+          "Wry, knowing sarcasm while delivering the 'kissing part' line around 0:07-0:08",
+          "Heavy-lidded, half-closed 'low battery' eyes of resignation as the line lands (0:09-0:10), eyelids drooping mid-conversation as if his energy is running out",
+          "Brief flash of sharp irritation - narrowed eyes, drawn-down eyebrows, bared teeth in a scowl - in the closing beat, as if annoyed she even had to ask"
+        ],
+        "expressions": [
+          "Neutral, slightly bored gaze while facing the woman with the wave rising behind them (periodic-2/3)",
+          "Mouth opens mid-sentence, eyebrows raised in mock-surprise as he asks the 'kissing part' question (periodic-8, synced to on-screen word 'KISSING')",
+          "Eyes droop to half-lidded, sardonic slits as the subtitle 'PART?' appears (periodic-9)",
+          "Eyes remain heavy and unimpressed through 'KNOW' (periodic-11)",
+          "Final beat: eyebrows sharply angled down, eyes narrowed to points, mouth open baring teeth in an irritated snarl (periodic-12), a much more intense expression than anything preceding it"
+        ],
+        "gestures": [
+          "Stands with hands loosely clasped at waist, weight settled back on his heels - a relaxed, non-fleeing posture that contrasts with the panicking crowd",
+          "Opens one hand outward toward the woman in a small explanatory/conversational gesture as he speaks (periodic-3 to periodic-7)",
+          "Leans his head and long nose slightly toward her for emphasis on the punchline",
+          "Body stays planted and squared to her the entire scene - never turns to look at the oncoming wave"
+        ],
+        "interactions_notes": "He faces the woman directly in a tight, face-to-face two-shot, maintaining unbroken eye contact with her rather than the disaster behind them. He initiates and drives the exchange (the questioning, sarcastic line), positioning him as the one 'in the know' and slightly dominant in the banter, while she reacts. Physically they stand almost nose-to-nose, isolated as a calm island amid the fleeing crowd, which visually sets them apart as a bonded pair unfazed by the apocalypse."
+      },
+      {
+        "name_or_role": "Woman in brown turtleneck (deadpan wife/partner figure)",
+        "personality_traits": [
+          "Expectant/naive in the moment - her stance and slightly parted lips suggest she genuinely anticipated a romantic 'movie disaster' beat (a kiss) before the wave hits",
+          "Quick to match her partner's deadpan energy rather than showing fear, despite the tsunami closing in",
+          "Composed and self-possessed - hands stay near her own torso rather than grabbing him or fleeing",
+          "Dryly resigned by the end, absorbing his jab without protest"
+        ],
+        "emotional_range": [
+          "Mild curiosity/anticipation as she looks up at him near the start of the exchange (periodic-2/3)",
+          "Slight surprise/defensiveness as his sarcastic question lands (periodic-8/9), mouth opening as if to respond",
+          "Eyes go heavy-lidded and half-closed in unison with his 'low battery' look, eyebrows knitting slightly (periodic-10/11)",
+          "By the final frame her expression settles into weary, eyes-averted resignation, eyebrows raised slightly as if accepting the tease (periodic-12)"
+        ],
+        "expressions": [
+          "Attentive, wide-eyed look directed up at him as the wave looms behind (periodic-2/3)",
+          "Mouth opens as if about to speak/react right as his 'kissing part' line lands (periodic-8)",
+          "Eyelids droop to the same half-closed 'low battery' state as his (periodic-9 through 11), a mirrored visual gag between the pair",
+          "Final beat: eyes softened and slightly turned away from him, a small resigned almost-smile at the corner of the mouth (periodic-12)"
+        ],
+        "gestures": [
+          "Hands held close to her body near the waist/chest, fingers loosely curled - a composed, non-panicked posture",
+          "Head tilts up toward him throughout, maintaining the conversational eye line despite the height difference from his tall neck and nose",
+          "No stepping or fleeing motion at all during the entire exchange, reinforcing her calm parallel to his stillness",
+          "Slight recoil/lean-back of the head at the punchline moment, a small reactive flinch rather than a big gesture"
+        ],
+        "interactions_notes": "She stays locked in a face-to-face stance with him, mirroring his stillness and eventually his drooping 'low battery' eyes, which visually cements them as a matched pair rather than a leader/follower dynamic. She listens and reacts rather than initiating dialogue in this segment; the power dynamic tilts slightly toward him since he delivers the punchline and she absorbs it, but her calm unhurried physicality signals she is his equal in temperament, not intimidated by him. Neither character ever looks at the wave or the fleeing crowd behind them - their sustained eye contact with each other, ignoring mortal danger, is the core visual joke of the scene."
+      }
+    ]
+  },
+  "camera": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "shots": [
+      {
+        "start": 0.0,
+        "end": 1.266667,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Cold open: fixed wide shot of a waterfront street packed with fleeing characters running toward camera, a giant tsunami wave frozen mid-break across the upper third of frame behind a city skyline. 'Episode 25' sits top-left as a small caption; 'WHEN THE WORLD ENDS' title card is centered in large yellow serif type, cutting the frame roughly in half and obscuring most of the runners' faces. Abandoned cars and scattered papers/shoes litter the foreground street, establishing chaos before any character is introduced by name."
+      },
+      {
+        "start": 1.266667,
+        "end": 8.0,
+        "shot_type": "wide",
+        "camera_movement": "static",
+        "composition_notes": "Two-shot of the man and woman facing each other on the promenade, positioned center-frame with a metal railing behind them and the same towering wave now static and permanent in the background across the whole width of the shot. Full figures are visible from the knees up; parked cars flank both edges of frame acting as natural bookends. Background crowd continues sprinting past/behind them in early frames, but thins out as the shot holds, isolating the couple in a static composition despite the apocalyptic backdrop -- the visual joke is that the framing treats their small-talk like an ordinary two-shot conversation."
+      },
+      {
+        "start": 8.0,
+        "end": 12.766667,
+        "shot_type": "close-up",
+        "camera_movement": "zoom_in",
+        "composition_notes": "Slow push-in on the same two-shot setup tightens progressively from chest-up to a near-symmetrical close-up on both faces, noses almost touching at center frame. The wave is pushed to the very top edge and increasingly cropped out as the lens tightens, redirecting all attention to eyebrows/eye acting for the punchline beats (captions 'KISSING', 'PART?', 'KNOW'). Headroom shrinks shot by shot; by the final frames only heads and shoulders remain in frame, with the railing and cars cropped out entirely."
+      },
+      {
+        "start": 12.766667,
+        "end": 13.6,
+        "shot_type": "other",
+        "camera_movement": "static",
+        "composition_notes": "Static black end card, no camera or scene geometry: centered yellow serif title 'LOW BATTERY PEOPLE', smaller white 'CREATED BY NIN.' subtitle beneath it, and a yellow ticket-shaped 'NEW EPISODE DAILY' badge with small burst lines centered lower in the frame -- pure graphic/branding layout, symmetrical about the vertical axis."
+      }
+    ],
+    "framing_patterns_notes": "The video's single comedic beat is built entirely through a slow, continuous push-in: it opens wide on mass chaos (crowd + wave + title card), settles into a static wide two-shot that treats an apocalyptic backdrop as mundane conversational blocking, then tightens into close-up right as the dialogue reaches its punchline lines, isolating facial reactions from the disaster imagery behind them. The wave is always kept in frame as a scale reference until the final close-up crops it out, letting the framing itself (not new camera setups) carry the escalation from spectacle to intimate deadpan comedy."
+  },
+  "animation": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "technique": "Full 3D CG animation with a caricatured character rig (elongated triangular noses, oversized white-sclera eyes, simplified peg-like hands and feet) rendered with a fuzzed felt/wool-fiber cloth shader on the woman's sweater that visually nods to stop-motion/claymation without actually being physical puppetry. Evidence against true stop-motion: the running crowd (periodic-1/2) shows continuous motion blur on legs and hair rather than frame-holds, and the background tsunami wave is a smoothly lit, photoreal-ish fluid simulation with soft foam detail that would be extremely costly to achieve as a practical set. This is a repost/compilation account (\"Low Battery People,\" title card credits \"Nin.\") showing a clip from a separately produced CG short, with an added text title card and burned-in dialogue captions (\"KISSING\", \"PART?\", \"KNOW\") rather than any animation made by the reposting channel itself.",
+    "facial_animation_notes": "Faces use a small number of clearly distinct blend-shape poses rather than continuous micro-expression drift: across periodic-4 through periodic-13 the same two characters snap between a wide-eyed/eyebrows-raised 'shocked' pose (periodic-4,5,6,7,8,13) and a half-lidded, brow-lowered 'unimpressed/deadpan' pose (periodic-9,10,11,12) with almost no intermediate states visible in the sampled frames, giving a punchy, pose-to-pose comedic rhythm typical of keyframed CG dialogue animation. Mouths open into simple rounded 'scream' shapes during the running scene (periodic-1,2,3) and into smaller talking shapes during the dialogue (periodic-7,8), with visible teeth only in the angriest pose (periodic-12).",
+    "eye_and_blink_notes": "No mid-blink frame is caught in the sample, but eyelid position is doing heavy comedic lifting: fully open white ovals with visible pupils signal panic/surprise (periodic-4 through -8, -13), while the same character's eyes narrow to sagging half-lidded slits in periodic-9 through -12 to sell exasperation/sarcasm mid-apocalypse. Eyes stay locked on each other in the two-shot rather than glancing away, reinforcing a static 'face-off' staging.",
+    "head_movement_notes": "In the crowd-run frames (periodic-1,2,3) heads bob and turn individually per running figure, each on its own phase, giving the crowd an asynchronous, non-cloned feel. In the two-character dialogue block, head movement is minimal and confined to small tilts/tucks -- the man's head cranes slightly forward and down toward the woman in periodic-9/10, and both heads pivot a few degrees toward each other -- while the wave background stays essentially locked in place behind them across ten consecutive periodic samples, suggesting a mostly static two-shot with the animation load carried by the faces and hands rather than the camera or head rig.",
+    "gesture_notes": "Both characters keep clasped, wringing hand gestures in front of the torso through the dialogue scene (periodic-4 through -8), with finger positions shifting slightly frame to frame (e.g., the man's hand opens from a loose fist in periodic-3 to splayed fingers in periodic-5) -- a small, nervous, contained gesture vocabulary rather than broad arm swings. During the running scene, arms pump and swing widely and asynchronously across the crowd (periodic-1,2), contrasting with the tight, restrained hand acting once the scene cuts to the two-shot.",
+    "idle_motion_notes": "Loose strands of hair escaping the woman's bun visibly change angle/position between periodic-9 and periodic-10, implying a light secondary hair-sim or wind sway even though her head is nearly still. Scattered debris (papers, cans, shoes) on the road is static across frames rather than blowing, and the giant wave itself barely changes shape across ~10 sampled frames -- read together, this looks like a deliberate 'frozen moment' staging device (the world paused mid-catastrophe for the joke) rather than an animation limitation.",
+    "frame_rate_feel": "Source is 30fps per metadata.json. The crowd-running frames show smooth motion blur on legs and papers consistent with full-rate or near-full-rate animation rather than 2s/3s stepped holds. The dialogue portion reads as choppier only because of large pose-to-pose jumps in eyebrow/eyelid state between the sparsely-sampled periodic frames (~1s apart) -- within any single expression the surfaces (cloth fuzz, hair) look continuously rendered, so the apparent 'snap' is a keyframed acting choice, not a low-frame-rate artifact.",
+    "overall_animation_style_notes": "The clip pairs broad, silent-movie-style pantomime (screaming crowd, exaggerated running) with a tightly-held two-shot built on subtle eye/eyebrow acting and small hand gestures for the comedic 'mundane conversation during the apocalypse' beat. The felt-textured cloth shader and long-nosed, big-eyed character design give a handcrafted/stop-motion flavor, but the fluid wave simulation and blur-smooth crowd motion point to digital 3D CG rather than physical puppets. Text overlays (title card, episode number, burned-in captions) are added by the reposting 'Low Battery People' account and are not part of the underlying character animation."
+  },
+  "editing": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "cut_count": 2,
+    "avg_shot_length_sec": 4.533333,
+    "cuts": [
+      {
+        "timestamp": 1.266667,
+        "transition_type": "hard_cut",
+        "reason": "Cuts from the wide title-card shot ('When the World Ends', crowd fleeing a tsunami) into the couple's calm two-shot on the promenade, instantly setting up the contrast between world-ending chaos and their deadpan indifference."
+      },
+      {
+        "timestamp": 12.766667,
+        "transition_type": "hard_cut",
+        "reason": "Hard cut from the punchline line 'You really don't know us at all' straight to the black branded end card, snapping off the joke right after the payoff for a quick outro/CTA."
+      }
+    ],
+    "reaction_shots": [
+      {
+        "start": 1.266667,
+        "end": 12.766667,
+        "description": "Single continuous shot holding on the couple's deadpan, unbothered banter and expressions as a giant tsunami looms behind them; the shot never cuts away, letting their non-reaction to the apocalypse (and the 'thought this was the kissing part' misdirection) carry the entire comedic beat instead of advancing any plot action."
+      }
+    ],
+    "pacing_notes": "Editing is front- and back-loaded with quick cuts bracketing one long held shot: a 1.3s title-card cut establishes apocalyptic stakes fast, then the video holds on a single unbroken ~11.5s two-shot for the whole dialogue exchange, letting the deadpan delivery and comic timing breathe without any interior cuts, before snapping to a 0.8s black end card for branding. The lack of mid-scene cutting during the joke keeps focus on performance/dialogue rather than visual rhythm, then the pacing accelerates again sharply for the outro."
+  },
+  "audio": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "voice_delivery_notes": "Only two spoken lines are transcribed, both from SPEAKER_00: \"Oh, you thought this was the kissing part?\" (7.218s-8.802s) and \"You really don't know us at all.\" (10.425s-11.688s). The first line is phrased as a rhetorical/teasing question, implying an upward, playful inflection on \"kissing part?\" followed by a short beat before the deadpan follow-up line delivers the punchline-like reversal. The gap between the two lines (about 1.6s) suggests a comedic pause for the reveal/twist to land before the second line is spoken.",
+    "pitch_energy_notes": "Not directly observable from transcript/silence data alone; inferred only from phrasing. The question \"Oh, you thought this was the kissing part?\" implies a mock-innocent or teasing rising pitch typical of a setup line, while \"You really don't know us at all.\" reads as a flatter, more deadpan delivery typical of a punchline/reversal, which is an inference from sentence structure rather than a directly observed audio cue.",
+    "music": {
+      "present": false,
+      "style": "",
+      "notes": "No music cues are present in transcript.json or silence_pauses.json (no on-screen text or captions referencing music), so presence cannot be confirmed."
+    },
+    "sound_effects": [],
+    "silence_usage_notes": "silence_pauses.json lists a single detected pause of 0.4655s between 13.1678s and 13.6333s, occurring shortly after the second spoken line (\"You really don't know us at all.\", ending at 11.688s). This is the only silence gap flagged by the detector in the clip, positioned in the trailing moments after the dialogue's twist has been delivered, functioning as a brief hold/button beat after the punchline rather than a mid-line dramatic pause."
+  },
+  "environment": {
+    "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+    "backgrounds": "Essentially a single set: a coastal city waterfront promenade/boardwalk lined with a metal guardrail, overlooking a harbor. In the opening seconds the scene is a wide shot of a crowd running in panic down a multi-lane road along the water, with a dense high-rise skyline (skyscrapers, office towers) behind them and a massive tsunami wave looming on the horizon. The video then settles into one static two-shot location: the same promenade railing with the giant wave frozen/slowly looming in the background for the rest of the runtime, where the two main characters have their conversation. Sky is overcast and grey throughout. Opening and closing include flat black title/outro cards with text.",
+    "props": [
+      "giant tsunami wave (background threat, spans full width of frame)",
+      "metal pedestrian guardrail/railing along the promenade",
+      "abandoned cars parked/crashed along the street (sedan, hatchback, several parked cars)",
+      "ornate black lamp posts (street lamps) lining the road",
+      "scattered loose papers and litter blown across the pavement",
+      "small trees in planters/street trees",
+      "debris (cans, bottles, shoes) strewn on the ground",
+      "distant birds/small dark shapes flying in the sky",
+      "yellow 'NEW EPISODE DAILY' ticket-style graphic on outro card",
+      "'Episode 25' text overlay in opening frame"
+    ],
+    "lighting_notes": "Overcast, diffuse grey daylight with a cool, desaturated color grade; no strong directional shadows. Flat, even lighting on the stop-motion figures keeps focus on facial expressions rather than dramatic light/shadow play, consistent with a disaster/apocalypse mood.",
+    "color_palette": [
+      "cool grey (sky, pavement, buildings)",
+      "muted teal/blue-green (the tsunami wave and harbor water)",
+      "warm skin tone (peachy/tan character skin)",
+      "black (character coat, outro background, lamp posts)",
+      "warm brown/tan (female character's sweater)",
+      "bright yellow (title text and outro badge, single vivid accent color)"
+    ],
+    "visual_complexity_notes": "The scene starts as a busier, detailed wide shot (crowd of running background characters, city skyline, cars, litter) but quickly narrows to a minimal two-character close-up against a static, repeated wave backdrop for almost the entire video. This shift from dense chaos to a simple, locked composition seems deliberate: it establishes stakes visually up front, then removes distraction so all attention goes to the two characters' deadpan dialogue and expressions."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "voice_delivery_notes": "Only two spoken lines are transcribed, both from SPEAKER_00: \"Oh, you thought this was the kissing part?\" (7.218s-8.802s) and \"You really don't know us at all.\" (10.425s-11.688s). The first line is phrased as a rhetorical/teasing question, implying an upward, playful inflection on \"kissing part?\" followed by a short beat before the deadpan follow-up line delivers the punchline-like reversal. The gap between the two lines (about 1.6s) suggests a comedic pause for the reveal/twist to land before the second line is spoken.",
+  "pitch_energy_notes": "Not directly observable from transcript/silence data alone; inferred only from phrasing. The question \"Oh, you thought this was the kissing part?\" implies a mock-innocent or teasing rising pitch typical of a setup line, while \"You really don't know us at all.\" reads as a flatter, more deadpan delivery typical of a punchline/reversal, which is an inference from sentence structure rather than a directly observed audio cue.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No music cues are present in transcript.json or silence_pauses.json (no on-screen text or captions referencing music), so presence cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json lists a single detected pause of 0.4655s between 13.1678s and 13.6333s, occurring shortly after the second spoken line (\"You really don't know us at all.\", ending at 11.688s). This is the only silence gap flagged by the detector in the clip, positioned in the trailing moments after the dialogue's twist has been delivered, functioning as a brief hold/button beat after the punchline rather than a mid-line dramatic pause."
+}

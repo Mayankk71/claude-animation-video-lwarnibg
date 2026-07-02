@@ -1,0 +1,65 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "duration_sec": 13.716042,
+  "hook": {
+    "start": 0,
+    "end": 1.267,
+    "description": "Cold open on a title card, 'WHEN THE WORLD ENDS' in bold yellow serif type, stamped over a wide stop-motion shot of a screaming crowd sprinting down a city street away from a colossal tsunami wave curling over the skyline. An 'Episode 25' tag sits top-left, signaling this is an installment of an ongoing series.",
+    "why_it_works": "Opens on maximum visual stakes (apocalyptic wave, mass panic, dramatic title text) in under 1.3 seconds, instantly promising disaster-movie scale while the 'Episode 25' tag cues returning viewers that a twist/bit is coming from a familiar show."
+  },
+  "setup": {
+    "start": 1.267,
+    "end": 4.5,
+    "description": "Cut to street level: the same panicked crowd streams past in the foreground and background, but the camera settles on two stop-motion figures -- a man in a black coat and a woman in a brown sweater -- standing still and facing each other, calmly gesturing mid-conversation while everyone else flees and the wave looms closer behind them.",
+    "conflict": null
+  },
+  "conflict": {
+    "start": 4.5,
+    "end": 7.218,
+    "description": "No dialogue yet; the visual tension carries the beat. The giant wave keeps closing in over the railing behind the couple, the crowd thins out as it flees, and the two leads remain rooted in place, unbothered -- creating an unresolved 'why aren't they running' expectation right before they finally speak."
+  },
+  "punchline": {
+    "start": 7.218,
+    "end": 11.688,
+    "description": "The man deadpans, 'Oh, you thought this was the kissing part?' followed by 'You really don't know us at all,' delivered with flat, unimpressed expressions rather than romantic urgency. The line subverts the classic disaster-movie trope of a couple sharing a passionate last kiss before the end, revealing instead that this pair is too checked-out/apathetic (in keeping with the 'Low Battery People' premise) to play along with that expectation."
+  },
+  "ending": {
+    "start": 11.688,
+    "end": 13.716,
+    "description": "A final beat holds on the woman's unimpressed, half-lidded stare at the man before a hard cut to a black outro card reading 'LOW BATTERY PEOPLE / CREATED BY NIN.' with a yellow 'NEW EPISODE DAILY' ticket graphic.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. -- 'NEW EPISODE DAILY' ticket badge"
+  },
+  "beat_map": [
+    {
+      "start": 0,
+      "end": 1.267,
+      "beat_type": "hook",
+      "description": "Title card 'WHEN THE WORLD ENDS' (Episode 25) over a wide shot of a crowd fleeing a giant tsunami through a city street."
+    },
+    {
+      "start": 1.267,
+      "end": 4.5,
+      "beat_type": "setup",
+      "description": "Street-level cut reveals the crowd sprinting past while a man and woman stand still in the foreground, calmly facing each other instead of running."
+    },
+    {
+      "start": 4.5,
+      "end": 7.218,
+      "beat_type": "conflict",
+      "description": "Silent visual tension builds: the tsunami wave closes in behind the still-motionless couple as the fleeing crowd thins out, with no dialogue yet to explain their calm."
+    },
+    {
+      "start": 7.218,
+      "end": 11.688,
+      "beat_type": "punchline",
+      "description": "Man says 'Oh, you thought this was the kissing part?' and 'You really don't know us at all,' deadpan, subverting the expected disaster-movie farewell kiss."
+    },
+    {
+      "start": 11.688,
+      "end": 13.716,
+      "beat_type": "ending",
+      "description": "Woman's flat, unimpressed reaction shot, then hard cut to black outro card with the show's name, creator credit, and 'NEW EPISODE DAILY' badge."
+    }
+  ],
+  "narrative_notes": "At 13.7s this reel compresses to four visible beats rather than five distinct ones: 'setup' and 'conflict' are really one continuous silent visual gag (calm couple vs. fleeing crowd vs. approaching wave) split here only for timestamp precision -- there is no spoken conflict, just sustained visual dissonance until the punchline dialogue lands at 7.218s. There is no traditional CTA line; the 'ending' functions purely as a branded outro card (series name, creator, 'new episode daily') rather than a spoken sign-off, which is the actual call-to-action for this recurring-series format."
+}

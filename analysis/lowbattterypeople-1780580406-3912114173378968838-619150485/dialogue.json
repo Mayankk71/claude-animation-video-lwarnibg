@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "total_lines": 2,
+  "avg_words_per_line": 7.5,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.218,
+      "end": 8.802,
+      "text": "Oh, you thought this was the kissing part?",
+      "word_count": 8,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 10.425,
+      "end": 11.688,
+      "text": "You really don't know us at all.",
+      "word_count": 7,
+      "pause_before_sec": 0,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "The clip has only two spoken lines, both delivered by the same speaker (SPEAKER_00), functioning as a single two-beat monologue rather than a back-and-forth dialogue. There is a 1.623s silent gap between line 1 (ends 8.802) and line 2 (starts 10.425), but this gap does not match any entry in silence_pauses.json (the only recorded pause is 13.1678-13.6333, which falls after line 2 ends at 11.688), so no pause_before_sec value could be attributed to either line from the data. Neither line overlaps with the other, so there is no interruption.",
+  "speech_rhythm_notes": "Both lines are short and similarly sized (8 words, then 7 words), giving the pair a matched, deadpan rhythm rather than an escalating or punchline structure. The single detected silence (0.4655s, at 13.17-13.63s) occurs after all dialogue has finished, suggesting the beat/pause is being used post-line for reaction or visual payoff rather than mid-dialogue pacing."
+}

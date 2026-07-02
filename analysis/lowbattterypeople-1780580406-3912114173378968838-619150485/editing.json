@@ -1,0 +1,25 @@
+{
+  "video_slug": "lowbattterypeople-1780580406-3912114173378968838-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 4.533333,
+  "cuts": [
+    {
+      "timestamp": 1.266667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide title-card shot ('When the World Ends', crowd fleeing a tsunami) into the couple's calm two-shot on the promenade, instantly setting up the contrast between world-ending chaos and their deadpan indifference."
+    },
+    {
+      "timestamp": 12.766667,
+      "transition_type": "hard_cut",
+      "reason": "Hard cut from the punchline line 'You really don't know us at all' straight to the black branded end card, snapping off the joke right after the payoff for a quick outro/CTA."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 1.266667,
+      "end": 12.766667,
+      "description": "Single continuous shot holding on the couple's deadpan, unbothered banter and expressions as a giant tsunami looms behind them; the shot never cuts away, letting their non-reaction to the apocalypse (and the 'thought this was the kissing part' misdirection) carry the entire comedic beat instead of advancing any plot action."
+    }
+  ],
+  "pacing_notes": "Editing is front- and back-loaded with quick cuts bracketing one long held shot: a 1.3s title-card cut establishes apocalyptic stakes fast, then the video holds on a single unbroken ~11.5s two-shot for the whole dialogue exchange, letting the deadpan delivery and comic timing breathe without any interior cuts, before snapping to a 0.8s black end card for branding. The lack of mid-scene cutting during the joke keeps focus on performance/dialogue rather than visual rhythm, then the pacing accelerates again sharply for the outro."
+}
