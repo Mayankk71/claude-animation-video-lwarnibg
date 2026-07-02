@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1782067920-3924592141011751568-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.371,
+      "end": 3.675,
+      "mechanism": "recognition",
+      "description": "Wife says 'We should clean the garage this weekend,' husband flatly echoes 'We should.'",
+      "why_it_lands": "The 1.36s dead pause (1.757-3.112 per silence_pauses.json) before his echo, combined with his half-lidded, unimpressed stare in keyframe scene-0, signals he is already resigned before he even speaks -- an instantly recognizable non-committal exchange married couples have."
+    },
+    {
+      "start": 5.096,
+      "end": 7.118,
+      "mechanism": "irony",
+      "description": "'She always says we should when she means I should.'",
+      "why_it_lands": "The line names the passive-aggressive pronoun trick out loud, but it's delivered in the exact same flat monotone as the rest of the narration -- the accusation lands like a neutral observation rather than a complaint, which is what makes it sting."
+    },
+    {
+      "start": 7.659,
+      "end": 10.762,
+      "mechanism": "escalation",
+      "description": "'She'll hold one box, get tired, and supervise her from a folding chair.'",
+      "why_it_lands": "Delivered in one unbroken 3.1s breath with no internal pauses, the image escalates through three stages of disengagement (holding, tiring, supervising) and lands on the oddly specific 'folding chair' detail, mimicking a slow-burn rant releasing at the most absurd image."
+    },
+    {
+      "start": 10.717,
+      "end": 12.644,
+      "mechanism": "deadpan",
+      "description": "'Yeah,' followed by a repeated 'We should,' closing the loop back to the opening line.",
+      "why_it_lands": "After a 0.598s pause (10.717-11.315), the husband's mouth curls into a small knowing smirk in the periodic-11 keyframe even as he says the resigned 'Yeah' -- his face contradicts his words, and the exact repetition of the opening line 'We should' confirms nothing is going to change, turning the loop into a relatable gut-punch about lopsided domestic labor rather than a setup-punchline joke."
+    },
+    {
+      "start": 0.0,
+      "end": 13.675,
+      "mechanism": "other",
+      "description": "visual-pun: both characters keep permanently drooping, half-shut 'low battery' eyelids throughout every keyframe (scene-0, periodic-3, periodic-8, periodic-11, periodic-13)",
+      "why_it_lands": "The series title 'Low Battery People' is made literal in the character rig itself -- neither face ever fully opens its eyes or brightens, so the joke about marital burnout is baked into the models' resting expression rather than acted out, reinforcing the punchline before a word is spoken."
+    }
+  ],
+  "overall_comedic_style_notes": "The piece runs on a tight 4-beat structure (setup echo -> named irony -> escalating absurd image -> deadpan callback) inside a single unbroken ~14s dialogue take with no cutaways, so all comedic weight sits on line reading and micro-pauses (per silence_pauses.json, pauses cluster around 0.5-1.4s between clauses) rather than editing. The humor is observational/relatable rather than punchline-driven -- there is no reversal or shock, just a precise, deadpan naming of a familiar dynamic, closed by a callback that proves the cycle repeats."
+}

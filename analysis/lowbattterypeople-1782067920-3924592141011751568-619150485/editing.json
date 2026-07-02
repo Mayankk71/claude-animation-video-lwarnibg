@@ -1,0 +1,11 @@
+{
+  "video_slug": "lowbattterypeople-1782067920-3924592141011751568-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 5.47,
+  "cuts": [
+    {"timestamp": 14.666667, "transition_type": "cross_dissolve", "reason": "footage of the couple dims and fades under the title card right after the husband's deadpan 'we should' punchline, letting the joke land before pulling attention to the branding"},
+    {"timestamp": 14.8, "transition_type": "hard_cut", "reason": "the dimmed garage footage cuts out completely to a plain black card, isolating the show title and 'new episode daily' CTA with no visual distraction for the outro beat"}
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The entire joke (setup, deflection, punchline) plays out in one uninterrupted ~14.7s static two-shot of the husband and wife in the garage, with no cutaways or reaction inserts -- the comedic timing is carried entirely by dialogue and performance rather than editing. Only after the punchline does cutting pick up, with two quick beats (0.13s cross-dissolve into the title card, then a 1.5s hard-cut hold on the full black end card) compressing the branding/CTA into the final ~1.7 seconds."
+}

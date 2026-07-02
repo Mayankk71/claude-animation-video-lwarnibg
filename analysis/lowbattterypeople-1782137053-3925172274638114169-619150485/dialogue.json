@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1782137053-3925172274638114169-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 5.2,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.266,
+      "end": 1.867,
+      "text": "Oh, your nephew is in a relationship?",
+      "word_count": 7,
+      "pause_before_sec": 0.19,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.347,
+      "end": 4.128,
+      "text": "No, he's in a situation ship.",
+      "word_count": 6,
+      "pause_before_sec": 0.49,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 4.609,
+      "end": 5.109,
+      "text": "What's that?",
+      "word_count": 2,
+      "pause_before_sec": 0.56,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.849,
+      "end": 8.111,
+      "text": "More than friends, less than a relationship.",
+      "word_count": 7,
+      "pause_before_sec": 0.75,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 9.652,
+      "end": 11.193,
+      "text": "Oh, the trial version.",
+      "word_count": 4,
+      "pause_before_sec": 1.51,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Clean two-speaker alternating Q&A: SPEAKER_01 opens with a mistaken observation, SPEAKER_00 corrects with a term ('situationship'), SPEAKER_01 asks for clarification, SPEAKER_00 defines it, and SPEAKER_01 closes with a one-line punchline comparison ('the trial version'). No speaker starts before the other finishes and no line is cut off mid-sentence in the transcript text, so interruption is false throughout; the comedic engine here is pause placement and turn-taking rhythm, not overlapping speech.",
+  "speech_rhythm_notes": "Pauses before each line lengthen steadily across the clip (0.19s, then 0.49s, 0.56s, 0.75s, and finally 1.51s), so the gap before the punchline is the longest pause in the clip by a wide margin -- 1.51s (8.01-9.52s) versus a max of 0.75s on any setup line. The punchline itself, 'Oh, the trial version.', is only 4 words, the shortest line except for the clarifying question 'What's that?' (2 words), meaning the clip's two shortest lines are the question that sets up the definition and the closing joke, both preceded by comparatively long pauses (0.56s and 1.51s) that function as comedic beats before a quick payoff."
+}

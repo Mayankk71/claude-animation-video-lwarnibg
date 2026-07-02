@@ -1,0 +1,20 @@
+{
+  "video_slug": "lowbattterypeople-1782137053-3925172274638114169-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 12.166667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off two-shot of the couple on the couch, framed roughly waist-up. The man is taller and positioned right-of-center with his head reaching close to the top edge; the woman is shorter and sits left-of-frame with more headroom above her, so the two heads sit at uneven heights rather than a balanced symmetrical pairing. Both characters look down/sideways at their phones instead of at each other or the lens, keeping eye contact absent throughout. Background (lamp, curtained window, side table) is heavily defocused, pushing all visual weight onto the two felt puppet faces. Every sampled frame across the scene (periodic-0 through periodic-13) shows the identical framing, confirming no pan, tilt, dolly, or zoom occurs during the dialogue -- the shot is held completely static from the cold open through the punchline. Burned-in captions sit centered in the lower-third, directly overlapping the characters' torsos/hands rather than in clear background space."
+    },
+    {
+      "start": 12.166667,
+      "end": 13.673375,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full-black end-card/outro graphic, not a live camera shot. Text is stacked and centered on the vertical axis: show title in large gold serif type, a smaller white 'Created by Nin.' credit line beneath it, and a yellow ribbon-style 'New Episode Daily' badge lower in the frame with small burst/spark marks flanking it. Symmetrical, centered layout with generous negative space above and below the text block; no motion between the two sampled frames of this card."
+    }
+  ],
+  "framing_patterns_notes": "The entire dialogue scene is carried by a single unbroken, locked-off medium two-shot -- there is no coverage, no cutaway, and no push-in on the punchline; all comedic timing is delivered through stillness/expression rather than camera movement. The consistent height mismatch between the two characters (man's head near frame-top, woman's head with more headroom) reads as a deliberate comedic visual asymmetry sustained for the whole shot. Captions are consistently centered in the lower third and overlap the puppets' bodies rather than being composed around them, indicating captions were placed as a fixed template rather than framed compositionally."
+}

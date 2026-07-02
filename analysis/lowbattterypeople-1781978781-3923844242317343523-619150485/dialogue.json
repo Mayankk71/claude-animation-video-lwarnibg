@@ -1,0 +1,81 @@
+{
+  "video_slug": "lowbattterypeople-1781978781-3923844242317343523-619150485",
+  "total_lines": 8,
+  "avg_words_per_line": 4.625,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.772,
+      "end": 1.533,
+      "text": "You weren't listening.",
+      "word_count": 3,
+      "pause_before_sec": 0.335,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.995,
+      "end": 3.696,
+      "text": "I was listening.",
+      "word_count": 3,
+      "pause_before_sec": 1.413,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3.897,
+      "end": 4.818,
+      "text": "What was the story about?",
+      "word_count": 5,
+      "pause_before_sec": 0.203,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.098,
+      "end": 5.639,
+      "text": "Your work?",
+      "word_count": 2,
+      "pause_before_sec": 0.308,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 6.08,
+      "end": 6.42,
+      "text": "Go on.",
+      "word_count": 2,
+      "pause_before_sec": 0.426,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.721,
+      "end": 10.126,
+      "text": "Someone at your work did a thing and you were not happy.",
+      "word_count": 12,
+      "pause_before_sec": 0.251,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 10.406,
+      "end": 11.608,
+      "text": "That was Tuesday's story.",
+      "word_count": 4,
+      "pause_before_sec": 0.346,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 13.01,
+      "end": 14.192,
+      "text": "I was talking about my sister.",
+      "word_count": 6,
+      "pause_before_sec": 1.428,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "The clip is a tight 4-beat exchange: an accusation/denial pair (lines 1-2, 'You weren't listening.' / 'I was listening.'), a clarifying question-answer volley (lines 3-5, 'What was the story about?' / 'Your work?' / 'Go on.') that sets a trap, a padded false recap (line 6, 12 words, more than double the length of any other line) that SPEAKER_00 offers as proof of listening, and a two-part topper where SPEAKER_01 first debunks it as stale info (line 7, 'That was Tuesday's story.') then reveals the actual mismatch (line 8, 'I was talking about my sister.'). No line overlaps another speaker's line (all 8 lines have a positive gap before them per the transcript timestamps), so the comedic tension is built entirely through pause length and terse turn-taking rather than talking over one another.",
+  "speech_rhythm_notes": "The two longest pre-line pauses (1.413s before line 2 and 1.428s before line 8) both precede a speaker's rebuttal/reveal, giving each punch a beat of dead air to land in before delivery. Line 6, the fabricated recap, is the longest line by word count (12 words, ~3.4s duration) and contains four internal micro-pauses (~0.25-0.56s each, at 7.35s, 8.43s, 9.28s, 10.08s per silence_pauses.json) not present in any other line, producing a halting, groping-for-words cadence that undercuts the character's claim of having listened. By contrast, the actual punchline (line 8, 'I was talking about my sister.', 6 words) follows the single longest pause in the whole exchange (1.428s) and is delivered in one unbroken breath, and the final silence window (1.465s, from 14.86s to 16.32s) sits entirely after this last line ends, functioning as a post-punchline hold rather than a pause within dialogue."
+}

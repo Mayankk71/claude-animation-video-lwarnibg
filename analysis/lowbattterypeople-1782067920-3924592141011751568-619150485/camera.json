@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1782067920-3924592141011751568-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 14.666667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Locked-off medium two-shot in a garage; the woman (arms crossed, brown sweater) is placed left-of-center and the man (glasses, dark coat) right-of-center, both roughly on the vertical thirds with the gap between them near frame center. Consistent headroom with the garage shelving line running just above their heads; open garage door and blurred house exterior fill the left edge, giving depth without pulling focus. Camera and framing do not change at all across the full ~14.7s scene - only captions (one word/phrase at a time, lower-third) and the characters' micro-expressions change between periodic samples, confirming this is a single static hold rather than multiple shots disguised as one scene."
+    },
+    {
+      "start": 14.666667,
+      "end": 14.8,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Same garage two-shot composition as the preceding shot but the image is dimmed/darkened under a title card overlay (\"LOW BATTERY PEOPLE / CREATED BY NIN.\") - a brief cross-fade transition frame rather than a new camera setup."
+    },
+    {
+      "start": 14.8,
+      "end": 16.3,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full black end card, no live-action/animated frame visible. Title and creator credit centered horizontally in the upper-middle of frame; a torn-paper \"NEW EPISODE DAILY\" tag sits centered below with small burst/sparkle marks flanking it, all stacked on the vertical center axis."
+    }
+  ],
+  "framing_patterns_notes": "The entire narrative portion of this reel is carried by one unmoving, symmetrical garage two-shot - no cuts, pans, zooms, or coverage changes happen while dialogue plays; all comedic/emotional beats are delivered through captioned dialogue and the characters' facial micro-expressions rather than camera work. The video closes on a static black end card with centered title/credit/CTA text, mirroring the same centered, symmetrical placement logic used in the live scene's two-shot."
+}

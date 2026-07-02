@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1782067920-3924592141011751568-619150485",
+  "duration_sec": 16.404042,
+  "hook": {
+    "start": 0.0,
+    "end": 1.833,
+    "description": "Static two-shot in a cluttered garage: a deadpan, droopy-eyed wife (bun, brown turtleneck, arms crossed) and husband (bald, glasses, long nose, black suit/tie) stand side by side, unmoving. Over this frame a gold serif title card reads 'Episode 40' / 'MARRIAGE TRANSLATION', signaling the series' recurring format. The husband's narration opens with the wife's line: 'We should clean the garage this weekend.'",
+    "why_it_works": "The episode-number/title-card overlay ('MARRIAGE TRANSLATION') tells the viewer in under 2 seconds exactly what kind of joke is coming (a literal translation of a spousal phrase), while the deliberately flat, low-energy expressions on both characters (matching the show's 'Low Battery People' premise) create an instant deadpan comedic tone before a single joke beat has landed."
+  },
+  "setup": {
+    "start": 1.833,
+    "end": 5.096,
+    "description": "After a beat of silence (1.76s-3.11s), the phrase is echoed back stripped of context - 'We should.' (3.134-3.675) - spoken flatly by the same narrating voice. Another held pause (3.67s-5.08s) over the unmoving garage shot lets the repeated phrase hang before the narrator pivots into commentary, priming the audience for the 'translation.'"
+  },
+  "conflict": {
+    "start": 5.096,
+    "end": 7.659,
+    "description": "The narrator (husband) states the joke's premise directly: 'She always says we should when she means I should.' (5.096-7.118), followed by a short pause (7.04-7.67) that acts as comedic timing before the payoff. This is the reveal of the underlying marital tension - the mismatch between the collective 'we' she uses and the solo labor he actually performs - with no change in the static visual, the humor is carried entirely by the narration."
+  },
+  "punchline": {
+    "start": 7.659,
+    "end": 11.283,
+    "description": "The narrator delivers the vivid, specific payoff: 'She'll hold one box, get tired, and supervise her from a folding chair.' (7.659-10.762), immediately followed by a resigned pause (10.72-11.31). The joke lands on the absurd gap between 'we should' and the imagined reality of her doing token effort ('one box') before fully disengaging into supervision from a chair, while the two figures remain frozen in the same garage pose throughout."
+  },
+  "ending": {
+    "start": 11.283,
+    "end": 16.404042,
+    "description": "The husband gives a flat, defeated 'Yeah.' (11.283-11.483), then a beat later repeats the opening phrase 'We should.' (12.284-12.644) as a closing callback, looping the joke back to where it started to underline that nothing will actually change. Dialogue ends at 12.644 and the garage scene holds in silence until roughly 13.7s, then a very brief transitional cut (14.667-14.8s) leads into a black end card (14.8-16.3s).",
+    "cta_or_text_overlay": "Black end card with gold serif text 'LOW BATTERY PEOPLE' and white text 'CREATED BY NIN.' beneath it, plus a yellow ticket-shaped graphic reading 'NEW EPISODE DAILY' as the series' recurring outro/CTA."
+  },
+  "beat_map": [
+    {"start": 0.0, "end": 1.833, "beat_type": "hook", "description": "Title card 'Episode 40 / MARRIAGE TRANSLATION' over static garage two-shot; narrator opens with wife's line, 'We should clean the garage this weekend.'"},
+    {"start": 1.833, "end": 5.096, "beat_type": "setup", "description": "Silent pause, then the bare phrase 'We should.' is echoed back, followed by another pause before the narrator pivots to commentary - priming the 'translation' premise."},
+    {"start": 5.096, "end": 7.659, "beat_type": "conflict", "description": "Narrator states the show's core bit: 'She always says we should when she means I should,' exposing the mismatch between collective language and solo labor, then pauses for comedic timing."},
+    {"start": 7.659, "end": 11.283, "beat_type": "punchline", "description": "Narrator delivers the specific comedic payoff: she'll hold one box, get tired, then 'supervise her from a folding chair' - the gap between 'we' and reality, landing on the absurd image of token effort followed by full disengagement."},
+    {"start": 11.283, "end": 16.404042, "beat_type": "ending", "description": "Defeated 'Yeah.' and a callback repeat of 'We should.' close the loop on the joke; scene holds in silence, brief cut, then black end card with series branding 'LOW BATTERY PEOPLE / CREATED BY NIN.' and 'NEW EPISODE DAILY' ticket graphic."}
+  ],
+  "narrative_notes": "This is an ultra-compressed single-scene format: the entire joke plays out over one static, unmoving two-shot in the garage (scene-0, 0-14.667s per scene_boundaries.json) with all comedic work carried by narration timing and burned-in word captions rather than any blocking, camera movement, or cutaways - there is no visual conflict shown on screen, only a verbal one. Conflict and punchline are tightly fused: the 'she means I should' line (conflict) and the 'folding chair' line (punchline) are really two halves of one continuous comedic thought, separated mainly by a timing pause rather than a structural break. The ending doubles as both narrative callback (repeating the opening 'We should.' to show nothing changes) and the show's fixed branded outro card, so there is no separate CTA beyond the series' recurring 'NEW EPISODE DAILY' tag."
+}

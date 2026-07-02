@@ -1,0 +1,58 @@
+{
+  "video_slug": "lowbattterypeople-1782137053-3925172274638114169-619150485",
+  "characters": [
+    {
+      "name_or_role": "Woman on couch (asker / aunt figure)",
+      "personality_traits": [
+        "disengaged and distracted, keeps scrolling her phone through the entire exchange instead of giving full attention",
+        "curious in a low-effort way — asks the follow-up questions ('What's that?') without looking up",
+        "delivers the closing punchline ('Oh, the trial version') completely deadpan, landing the joke through flatness rather than energy",
+        "passive conversational role: reacts to information rather than initiating it"
+      ],
+      "emotional_range": [
+        "mild surprise (0:00-0:02, eyebrows lifted slightly on 'Oh, your nephew is in a relationship?')",
+        "flat/bored curiosity (0:04, 'What's that?' delivered with heavy-lidded eyes still on phone)",
+        "unchanged deadpan through the punchline at 0:09-0:11, no real emotional payoff shown on her face despite the joke she delivers"
+      ],
+      "expressions": [
+        "0:00 half-lidded droopy eyes, neutral downturned mouth while glancing sideways at the man",
+        "0:02-0:05 eyes drop back to phone screen, mouth relaxed into a slight frown",
+        "0:08-0:11 same heavy-lidded, sunken expression persists even while delivering the 'trial version' punchline — no smile, no widened eyes"
+      ],
+      "gestures": [
+        "both hands cradle the phone at chest height for the entire scene, thumb making small scrolling motions",
+        "brief sideways head turn toward the man at 0:00 when asking the opening question, otherwise head stays angled down toward the phone",
+        "no hand gestures used to emphasize speech — arms stay tucked in, minimal body movement, torso static against couch cushion"
+      ],
+      "interactions_notes": "She initiates the conversation and closes it with the punchline, but never fully turns her body toward the man — only a slight head tilt in his direction. Eye contact is brief and intermittent; her attention visibly stays on the phone, which is part of the visual joke (two people mid-conversation while both remain phone-absorbed). She never raises her voice or expression to match the comedic reveal, reinforcing the deadpan tone of the piece."
+    },
+    {
+      "name_or_role": "Man on couch (explainer / uncle figure)",
+      "personality_traits": [
+        "positions himself as the one 'in the know', explaining a modern relationship term to the woman with mild condescension",
+        "slightly more reactive/animated than the woman, showing brief surprise or discomfort at the concept he's describing",
+        "still fundamentally low-energy — explains the situation while barely lifting his eyes from his own phone",
+        "matter-of-fact, clipped delivery ('No, he's in a situation ship.' / 'More than friends, less than a relationship.')"
+      ],
+      "emotional_range": [
+        "flat neutral base state (0:00), eyes drooping, mouth in a slack downturned line",
+        "brief widened eyes and open mouth at 0:02-0:04 ('No, he's in a situation ship') suggesting mild exasperation or bemusement at having to explain",
+        "furrowed brow and slightly pursed mouth while defining the term at 0:05-0:08, as if choosing words carefully",
+        "returns to flat deadpan by the end of his lines, no emotional escalation despite the topic"
+      ],
+      "expressions": [
+        "0:00 heavy-lidded, sunken eyes fixed downward at phone, mouth closed and neutral",
+        "0:02-0:04 eyes widen slightly, mouth drops open on 'he's' — the most animated beat in the scene",
+        "0:05-0:08 brows knit together, mouth tightens into a thin line while explaining 'more than friends, less than a relationship'",
+        "0:08 onward settles back into slack, tired default expression"
+      ],
+      "gestures": [
+        "one hand holds the phone up at chest level, thumb occasionally tapping the screen",
+        "torso remains wedged against the dark couch bolsters, almost no lateral movement throughout",
+        "head tilts up briefly when reacting to the woman's question, then drops back toward the phone",
+        "no illustrative hand gestures accompany his explanation — arms stay close to the body, contributing to the deliberately inert 'low battery' physicality"
+      ],
+      "interactions_notes": "He responds to the woman's prompts but rarely makes full eye contact with her, mostly answering while looking at his own phone or into middle distance. The power dynamic is mild and comedic: he holds the informational upper hand (explaining slang to her) but delivers it with the same exhausted affect as everything else in the scene, undercutting any authority. Turn-taking is quick and clipped, with minimal pauses, and neither character ever fully faces the other — their side-by-side, phone-in-hand staging visually reinforces the show's joke that these characters are perpetually 'low battery,' emotionally flat regardless of subject matter."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1782048328-3924427971154802321-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 9.5,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1.013,
+      "end": 4.037,
+      "text": "Why did you just Google, is it normal to be annoyed by chewing?",
+      "word_count": 13,
+      "pause_before_sec": 1.023,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 4.278,
+      "end": 5.579,
+      "text": "Nothing, just doing some research.",
+      "word_count": 5,
+      "pause_before_sec": 0.19,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.7,
+      "end": 7.322,
+      "text": "We just had dinner together.",
+      "word_count": 5,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.143,
+      "end": 11.568,
+      "text": "You Googled that during dinner about me while I was chewing in front of you.",
+      "word_count": 15,
+      "pause_before_sec": 0.81,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All four transcribed lines are attributed to a single diarized speaker (SPEAKER_00), so the clip reads as one continuous escalating accusation/interrogation rather than an alternating back-and-forth exchange: an opening accusatory question (1.0-4.0s), a clipped deflection (4.3-5.6s), a short factual follow-up (5.7-7.3s), and a longer accusatory restatement that lands the point (8.1-11.6s). Every line starts after the prior line's end timestamp (no overlapping start times), so there are no true interruptions despite the confrontational tone; any sense of the second party cutting in is carried visually/off-mic rather than in the transcribed speech.",
+  "speech_rhythm_notes": "Gaps between lines shrink and then stretch to set up the punchline: line 2 and line 3 are both only 5 words and follow short gaps (0.19s and 0s respectively), giving a rapid, clipped back-and-forth rhythm in the middle of the clip. The final line is both the longest (15 words) and follows the longest between-line pause in the clip (0.81s, the 7.32-8.13s silence window), so the biggest pause directly precedes the biggest/most damning line, giving it a deliberate beat of tension before the reveal. Several silence windows (1.59-1.75s, 2.10-2.37s inside line 1; 6.52-6.91s inside line 3; 10.02-10.34s inside line 4) fall inside individual lines rather than between them, producing a halting, mid-sentence cadence within the dialogue itself rather than only at scene boundaries; the clip also opens with a 1.02s pre-roll silence and closes with a 2.65s silence tail after the last line."
+}

@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1781978781-3923844242317343523-619150485",
+  "duration_sec": 16.404042,
+  "hook": {
+    "start": 0.0,
+    "end": 3.696,
+    "description": "Cold open in a bedroom, no establishing shot: the wife (bun, brown sweater) hits her husband (suit, still holding his phone) with 'You weren't listening.' He shoots back 'I was listening.' There is zero preamble before the accusation lands.",
+    "why_it_works": "Starting on the accusation itself, with the husband visibly thumbing his phone in the same frame, instantly telegraphs the whole conflict (partner tuned out, phone-distracted) without any setup dialogue, so the viewer is oriented in under a second."
+  },
+  "setup": {
+    "start": 3.696,
+    "end": 6.42,
+    "description": "The wife tests him directly: 'What was the story about?' He stalls with a guess, 'Your work?' (the word 'YOUR' appears as an on-screen caption at this moment), and she gives him rope with a flat 'Go on.', setting up his attempt to bluff his way through."
+  },
+  "conflict": {
+    "start": 6.42,
+    "end": 10.066667,
+    "description": "Still glancing at his phone rather than her, the husband confidently reconstructs a vague, generic paraphrase: 'Someone at your work did a thing and you were not happy.' The guess sounds plausible but is clearly manufactured on the spot rather than recalled, exposing the gap between performing attentiveness and actually listening."
+  },
+  "punchline": {
+    "start": 10.066667,
+    "end": 14.3,
+    "description": "The wife deflates the bluff in two beats: 'That was Tuesday's story' reveals he's recycling an old, already-told anecdote, and the follow-up 'I was talking about my sister' shows he wasn't even in the right topic, let alone the right day — confirming he genuinely was not listening at all."
+  },
+  "ending": {
+    "start": 14.3,
+    "end": 16.404042,
+    "description": "Hard cut from the bedroom scene to a black title card with no dialogue, closing the sketch on the reveal rather than a resolution between the couple.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / Created by NIN. / NEW EPISODE DAILY (yellow ribbon graphic)"
+  },
+  "beat_map": [
+    {
+      "start": 0.0,
+      "end": 3.696,
+      "beat_type": "hook",
+      "description": "Wife accuses husband mid-scene, 'You weren't listening'; he denies it, 'I was listening,' while still holding his phone."
+    },
+    {
+      "start": 3.696,
+      "end": 6.42,
+      "beat_type": "setup",
+      "description": "Wife quizzes him ('What was the story about?'); he guesses ('Your work?') and she lets him keep going ('Go on.')."
+    },
+    {
+      "start": 6.42,
+      "end": 10.066667,
+      "beat_type": "conflict",
+      "description": "He commits to a vague, invented guess ('Someone at your work did a thing and you were not happy') while visibly distracted by his phone, the moment his bluff is fully on the line."
+    },
+    {
+      "start": 10.066667,
+      "end": 14.3,
+      "beat_type": "punchline",
+      "description": "Wife exposes the bluff across two lines: 'That was Tuesday's story' then 'I was talking about my sister,' proving he wasn't listening at all."
+    },
+    {
+      "start": 14.3,
+      "end": 16.404042,
+      "beat_type": "ending",
+      "description": "Cut to black title card: 'LOW BATTERY PEOPLE, Created by NIN.' with a 'NEW EPISODE DAILY' ribbon, branding the sketch as a recurring daily series."
+    }
+  ],
+  "narrative_notes": "Hook and setup are almost fused: the accusation ('You weren't listening') doubles as the hook and immediately triggers the setup's listening-test ('What was the story about?'), leaving only about 3.7s for the hook proper. The punchline itself is delivered in two escalating sub-beats rather than one clean line ('That was Tuesday's story' then 'I was talking about my sister'), which is the actual comedic reveal of how badly he failed. There is no diegetic ending/resolution between the couple; the 'ending' beat is purely a non-diegetic branded outro card (series title + creator credit + daily-upload CTA), not a story beat, so it functions as packaging rather than narrative closure."
+}

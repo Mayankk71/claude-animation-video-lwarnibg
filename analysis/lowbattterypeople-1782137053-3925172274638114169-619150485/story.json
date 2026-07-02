@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1782137053-3925172274638114169-619150485",
+  "duration_sec": 13.673375,
+  "hook": {
+    "start": 0.266,
+    "end": 1.867,
+    "description": "Two deadpan stop-motion characters (deflated, slouched 'low battery' figures with elongated noses) sit on a couch scrolling their phones without looking at each other. The woman opens with a gossipy question, 'Oh, your nephew is in a relationship?', delivered in a flat, low-energy monotone typical of the series.",
+    "why_it_works": "Opens mid-conversation on a relatable, nosy-relative gossip premise with zero preamble, so the viewer is dropped straight into a familiar social scenario within under 2 seconds. The deadpan vocal delivery contrasted with an emotionally loaded topic (a relative's relationship) creates immediate curiosity about the reveal that follows."
+  },
+  "setup": {
+    "start": 1.867,
+    "end": 5.109,
+    "description": "The man corrects her flatly: 'No, he's in a situationship.' The unfamiliar term lands with no reaction from either character, prompting the woman's confused follow-up, 'What's that?' Both remain glued to their phones throughout, establishing the joke's premise: an intentionally vague modern relationship term that needs explaining."
+  },
+  "conflict": {
+    "start": 5.109,
+    "end": 8.111,
+    "description": "After a beat, the man offers a circular, unsatisfying definition: 'More than friends, less than a relationship.' The vagueness of the explanation is the comedic tension -- it technically answers the question but clarifies nothing, mirrored by both characters' continued disengaged phone-scrolling and unchanged deadpan expressions."
+  },
+  "punchline": {
+    "start": 8.111,
+    "end": 11.193,
+    "description": "A roughly 1.5s silent pause (comedic timing beat, no dialogue, same static two-shot) precedes the woman's payoff line: 'Oh, the trial version.' She reframes the wishy-washy dating term as a software/app 'trial version', landing the joke through an unexpected, deadpan analogy delivered without any change in her posture or attention to her phone."
+  },
+  "ending": {
+    "start": 11.193,
+    "end": 13.673375,
+    "description": "The scene holds briefly in silence on the couch after the punchline lands (no further dialogue), then cuts to a black outro card at 12.17s.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / CREATED BY NIN. / NEW EPISODE DAILY (yellow and white text on black card, functioning as series branding and an implicit follow/return-tomorrow cue rather than a direct CTA)"
+  },
+  "beat_map": [
+    {
+      "start": 0.266,
+      "end": 1.867,
+      "beat_type": "hook",
+      "description": "Woman asks 'Oh, your nephew is in a relationship?' in deadpan gossip tone while both characters scroll phones on the couch."
+    },
+    {
+      "start": 1.867,
+      "end": 5.109,
+      "beat_type": "setup",
+      "description": "Man corrects her with the term 'situationship'; woman asks 'What's that?', establishing the joke needs a definition."
+    },
+    {
+      "start": 5.109,
+      "end": 8.111,
+      "beat_type": "conflict",
+      "description": "Man gives a vague, circular explanation ('More than friends, less than a relationship'), creating comedic tension via a non-answer."
+    },
+    {
+      "start": 8.111,
+      "end": 11.193,
+      "beat_type": "punchline",
+      "description": "Silent comedic pause (~1.5s) followed by the woman's deadpan payoff line, 'Oh, the trial version.', reframing the vague term with an unexpected software analogy."
+    },
+    {
+      "start": 11.193,
+      "end": 13.673375,
+      "beat_type": "ending",
+      "description": "Brief silent hold on the couch, then cut to black outro/branding card reading 'Low Battery People, Created by NIN., New episode daily.'"
+    }
+  ],
+  "narrative_notes": "This 13.7s reel is unusually short even for the format, so setup and conflict are tightly fused around a single joke mechanic: an undefined modern relationship term ('situationship') that gets a deliberately unsatisfying definition before being reframed by the punchline. There is no visual scene change or camera movement during the joke itself (scene_boundaries.json shows only one dialogue scene, 0-12.17s, followed by the outro card scene, 12.17-13.57s) -- all comedic escalation is carried by dialogue timing and burned-in caption text over a static two-shot, with the characters' unbroken phone-scrolling apathy serving as the visual through-line/running gag rather than a distinct staged beat. The ~1.5s silence before the punchline (8.111-9.652s) is a deliberate comedic pause and is treated as part of the punchline beat rather than a gap."
+}

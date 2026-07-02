@@ -1,0 +1,63 @@
+{
+  "video_slug": "lowbattterypeople-1782067920-3924592141011751568-619150485",
+  "total_lines": 6,
+  "avg_words_per_line": 5.83,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.371,
+      "end": 1.833,
+      "text": "We should clean the garage this weekend.",
+      "word_count": 7,
+      "pause_before_sec": 0.404,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.134,
+      "end": 3.675,
+      "text": "We should.",
+      "word_count": 2,
+      "pause_before_sec": 1.355,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.096,
+      "end": 7.118,
+      "text": "She always says we should when she means I should.",
+      "word_count": 10,
+      "pause_before_sec": 1.409,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.659,
+      "end": 10.762,
+      "text": "She'll hold one box, get tired, and supervise her from a folding chair.",
+      "word_count": 13,
+      "pause_before_sec": 0.631,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.283,
+      "end": 11.483,
+      "text": "Yeah.",
+      "word_count": 1,
+      "pause_before_sec": 0.598,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 12.284,
+      "end": 12.644,
+      "text": "We should.",
+      "word_count": 2,
+      "pause_before_sec": 0.837,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Only one diarized speaker (SPEAKER_00) across all 6 lines, so this reads as a single-character monologue/aside rather than a back-and-forth exchange; there are zero cross-speaker overlaps and thus no interruptions. The line shape is circular: opening claim (line 1, 7 words) is immediately undercut by a flat 2-word echo (line 2, 'We should.'), which is unpacked as an accusation of hypocrisy across two longer lines (line 3 at 10 words, line 4 at 13 words - the longest line in the clip), then deflated by a 1-word confirmation ('Yeah.', line 5) and closed by repeating the exact 2-word echo from line 2 verbatim as the final line (line 6), giving the piece a setup/callback bookend structure built entirely from pauses and word-count contrast rather than character interaction.",
+  "speech_rhythm_notes": "The two intra-dialogue silences over 1.3s (1.355s before line 2, and the clip's longest gap at 1.409s before line 3) both precede short, blunt lines (2 words and then a 10-word reveal), using the held pause to set up the turn rather than to fill a long line. Word count and pause length move inversely for the two-word refrain: line 2 ('We should.') follows a 1.355s pause while the identical line 6 follows a shorter 0.837s pause, giving the closing echo a slightly quicker, more deflated delivery than the first time the phrase lands. The longest line in the clip (line 4, 13 words) is preceded by the shortest mid-dialogue pause (0.631s), so the elaboration barrels in with almost no breath after the accusation in line 3, while the single-word beats ('Yeah.' at 1 word, and both 'We should.' lines at 2 words) are each cushioned by pauses of roughly 0.6-1.4s, making the clipped lines feel weighted rather than rushed. A 2.646s silence trails the final line, the longest pause in the whole file, functioning as a hold-for-reaction beat after the punchline rather than a mid-dialogue gap."
+}

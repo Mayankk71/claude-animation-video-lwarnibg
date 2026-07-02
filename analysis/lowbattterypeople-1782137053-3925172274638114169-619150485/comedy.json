@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1782137053-3925172274638114169-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.266,
+      "end": 4.128,
+      "mechanism": "recognition",
+      "description": "The aunt assumes her nephew is in a normal 'relationship'; the uncle flatly corrects her with the modern slang term 'situationship,' instantly flagging a generational vocabulary gap.",
+      "why_it_lands": "The correction lands only 2.3s after the setup with no change in expression on either droopy-eyed stop-motion face, so the humor rides purely on the audience's own recognition of the term rather than any performed reaction shot."
+    },
+    {
+      "start": 4.609,
+      "end": 8.111,
+      "mechanism": "deadpan",
+      "description": "Asked 'What's that?', the uncle defines a situationship as 'More than friends, less than a relationship,' delivered in a completely flat monotone while both characters keep their eyes glued to their phones instead of each other.",
+      "why_it_lands": "The definition is genuinely accurate to a real, emotionally loaded modern dating gray area, but it's read with zero inflection and no eye contact between the couple - the mismatch between the subject matter and the slack-mouthed, half-lidded 'low battery' character design (the show's whole visual conceit) is what generates the relatable deadpan effect."
+    },
+    {
+      "start": 8.011,
+      "end": 11.193,
+      "mechanism": "irony",
+      "description": "After the longest silence in the exchange (1.505s, from 8.011s to 9.517s per silence_pauses.json), the aunt closes the scene with 'Oh, the trial version' - reframing a situationship as a consumer-tech/software concept.",
+      "why_it_lands": "That 1.5s pause is more than double any other gap in the dialogue, functioning as a visible wind-up before the tag line; the joke itself works because it recontextualizes a fuzzy romantic term through an oddly precise, unrelated frame (a free trial before you commit to the 'premium' version), the kind of sideways analogy that earns a knowing laugh rather than a built-up punchline."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole bit is a two-hander built on a single sustained visual joke - both characters have the show's signature 'low battery' design (droopy eyelids, slack downturned mouths, hunched posture) and never look up from their phones for the entire 11-second dialogue, so their flat vocal delivery is reinforced by an equally flat, checked-out physical performance. There's no escalation or slapstick; the comedy is entirely dialogue-driven wordplay (relationship -> situationship -> trial version) riding on short, tight pauses between lines (0.15-0.75s) until the one long 1.5s pause right before the closing reframe, which the video uses as its punctuation for the tag-line punchline."
+}

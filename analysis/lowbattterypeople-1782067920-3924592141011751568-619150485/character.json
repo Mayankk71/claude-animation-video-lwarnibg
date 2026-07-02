@@ -1,0 +1,53 @@
+{
+  "video_slug": "lowbattterypeople-1782067920-3924592141011751568-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband / narrator",
+      "personality_traits": [
+        "dry, sarcastic commentator who narrates his own marriage from the outside",
+        "resigned rather than angry — states the imbalance as an accepted fact, not a fresh grievance",
+        "performative mimicry: adopts a slightly higher, sing-song tone to imitate his wife's 'We should' before dropping back to flat delivery for his own commentary",
+        "passive rather than confrontational — never turns to address her directly, just reports to camera/audience"
+      ],
+      "emotional_range": [
+        "flat deadpan through most of the clip",
+        "brief dry amusement/self-satisfaction at his own joke (‘supervise her from a folding chair’)",
+        "mild weary irritation underlying the monotone, never escalating"
+      ],
+      "expressions": [
+        "0:00 stiff neutral stare, half-lidded eyes, mouth closed",
+        "0:00-0:02 mouth opens into an exaggerated oval as he mimics her voice on 'We should' (periodic-3/6)",
+        "0:05 eyebrows lift slightly and mouth stays parted on 'she always says' — mild bemused disbelief",
+        "0:07-0:09 corner of the mouth curls into a small smirk while describing her 'supervising from a folding chair' (periodic-12, visible upturned mouth line)",
+        "0:11 mouth returns to a small round 'oh' on the throwaway 'Yeah'",
+        "0:12 mouth opens again on the final repeated 'We should', expression unchanged from the opening — loop back to neutral/tired stare"
+      ],
+      "gestures": [
+        "stands rigidly upright, arms hanging at sides the entire time — no hand gestures",
+        "head and eyes fixed forward/slightly upward, never turning to look at the wife beside him",
+        "no body weight shift or stepping; only the mouth and eyebrows animate, reinforcing the stop-motion 'talking head' style"
+      ],
+      "interactions_notes": "He stands to the wife's right, both facing forward in profile-adjacent poses rather than toward each other, so there is no eye contact between them despite being inches apart. He speaks entirely about her in third person while she is physically present and silent, which is the joke: he narrates over her rather than to her. He holds full conversational control — all audible lines are his, including his imitation of her catchphrase — while she has no vocal turn at all, establishing a one-sided power dynamic in the telling of the story even though the implied real-world division of labor favors her getting out of chores."
+    },
+    {
+      "name_or_role": "wife (silent character)",
+      "personality_traits": [
+        "implied passive-aggressive delegator ('she always says we should when she means I should') — established entirely through the husband's narration rather than her own actions on screen",
+        "visually checked-out / conserving energy, matching the episode's 'low battery' concept — stands with arms crossed as if physically opting out of the conversation",
+        "unreactive: shows no acknowledgment of being talked about, which itself reads as quietly unbothered or indifferent"
+      ],
+      "emotional_range": [
+        "single sustained low-energy, half-lidded, faintly tired/bored expression for the entire clip — no visible emotional shift"
+      ],
+      "expressions": [
+        "0:00-end: constant heavy-lidded eyes, downturned mouth corners, brows slightly drawn — the same flat, drained look is held across every keyframe (scene-0, periodic-0 through periodic-12), never changing even as the husband narrates increasingly pointed lines about her"
+      ],
+      "gestures": [
+        "arms crossed tightly over her chest for the full duration — the one sustained gesture, read as closed-off/settled rather than defensive",
+        "no head turn toward the husband, gaze fixed forward/off to the side, away from him",
+        "completely static posture and stance throughout, no shifting or stepping"
+      ],
+      "interactions_notes": "She never speaks, gestures toward him, or makes eye contact with the husband despite standing directly beside him; her stillness and crossed arms function as a silent, physical rebuttal to being described as someone who 'gets tired' from one box, letting the visual (arms already crossed, already tired-looking) support the joke without a verbal comeback. The power dynamic on screen belongs to the husband (he narrates, mimics her voice, gets the punchline), but her static 'low battery' expression is the visual gag the whole piece is built around."
+    }
+  ]
+}

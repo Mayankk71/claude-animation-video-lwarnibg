@@ -1,0 +1,34 @@
+{
+  "video_slug": "lowbattterypeople-1781978781-3923844242317343523-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.772,
+      "end": 3.696,
+      "mechanism": "irony",
+      "description": "Wife accuses husband of not listening ('You weren't listening.'); after a 1.41s gap (1.54-2.95) he denies it ('I was listening.') while still holding his phone up and glancing at the screen rather than at her.",
+      "why_it_lands": "The keyframe at this moment shows him thumbing the phone mid-denial with his eyes still down on the screen, so the visual directly contradicts the line reading — the audience is shown the lie a half-second before he tells it, and the 1.41s hesitation before he answers reads as him composing a defense rather than recalling anything."
+    },
+    {
+      "start": 3.897,
+      "end": 10.126,
+      "mechanism": "escalation",
+      "description": "Pressed for details ('What was the story about?'), he stalls with one-word non-answers ('Your work?' ... after her flat 'Go on.') before finally producing a maximally generic guess: 'Someone at your work did a thing and you were not happy,' a sentence built from three separate mid-line hesitations (0.56s, 0.43s, 0.36s pauses inside a single 12-word sentence).",
+      "why_it_lands": "The guess is constructed live, word-clump by word-clump, with the transcript's own pause data showing him stopping almost every three words — the halting cadence itself performs the improvisation, letting the audience watch him build a plausible-sounding lie in real time rather than just hearing the finished (and empty) sentence."
+    },
+    {
+      "start": 10.406,
+      "end": 11.608,
+      "mechanism": "callback",
+      "description": "Wife replies almost instantly (only 0.35s gap) with 'That was Tuesday's story,' revealing his 'guess' is actually a recycled anecdote from days earlier, delivered flat while he cracks a faint, close-mouthed smile in the frame (periodic-11) as if briefly proud of the recall before it's punctured.",
+      "why_it_lands": "Her quick response time — barely a beat compared to his multi-second stalls — signals she had the correction loaded and waiting, which is funnier than an angry reaction; it's the tired, practiced deadpan of someone who has caught this exact move before."
+    },
+    {
+      "start": 13.01,
+      "end": 14.3,
+      "mechanism": "irony",
+      "description": "After the longest pause in the exchange (1.43s, from 11.57-12.99), she delivers the actual gut-punch correction: 'I was talking about my sister,' revealing his entire generic guess about a 'coworker' was aimed at the wrong subject altogether, followed by another long 1.47s silence before the scene cuts to the title card.",
+      "why_it_lands": "The two longest pauses in the whole clip bracket this single line — a beat of anticipation before it and a beat of stunned silence after it — so the editing itself gives the line room to land as more than a joke; his blank stare in the trailing hold reframes the whole bit as a recognizable, slightly sad relationship moment rather than a pure gag."
+    }
+  ],
+  "overall_comedic_style_notes": "The piece runs on a single static two-shot of a stop-motion couple in bed, using minimal but exaggerated facial rigging (heavy-lidded eye rolls, raised brows, a faint smile) to carry almost all the comedic information since the dialogue itself is short and clipped. The mechanism throughout is dramatic/situational irony rather than punchlines or wordplay: the phone in his hand, his vague filler guess, and the reveal that he was wrong about the entire topic all work by showing the audience a truth the character is trying to talk around. Comic timing leans on pause length as a tool — short sub-half-second gaps convey rapid, dismissive retorts (wife) or nervous stalling (husband), while the two ~1.4s pauses bracket the final punchline to let it register as a relatable gut-punch about a partner who nods along without truly listening, ending the scene on unresolved awkward silence rather than a joke tag."
+}
