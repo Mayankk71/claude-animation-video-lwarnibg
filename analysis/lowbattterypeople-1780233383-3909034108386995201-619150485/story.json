@@ -1,0 +1,39 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "duration_sec": 15.700042,
+  "hook": {
+    "start": 0,
+    "end": 2.3,
+    "description": "Cold open in a stop-motion kitchen: two long-nosed characters sit at a table with coffee. The wife (SPEAKER_01) opens with 'Don't get too emotional,' and the husband (SPEAKER_00) reacts with a defensive, surprised 'Me?' while an on-screen episode tag 'FOOTBALL HUSBANDS' brands the scene in the first ~2 seconds.",
+    "why_it_works": "Opens mid-conversation with a warning line that implies a coming contradiction before we know why; the husband's immediate defensive 'Me?' plus his already droopy, tired 'low battery' expression creates instant dramatic irony and curiosity about what he's about to be caught out on."
+  },
+  "setup": {
+    "start": 2.3,
+    "end": 6.506,
+    "description": "Husband doubles down on denial: 'I don't really get emotional about things.' This flat, deadpan claim (delivered with the same sad, low-energy face established in the hook) is the premise the rest of the joke will disprove."
+  },
+  "conflict": {
+    "start": 6.506,
+    "end": 11.594,
+    "description": "Wife contradicts him with specific evidence: 'A team you followed for one month, lost on penalties last night.' Word-level captions (e.g., 'PENALTIES' visible around ~9.4s) emphasize the key evidence as she exposes the gap between his stated emotional detachment and his actual behavior."
+  },
+  "punchline": {
+    "start": 11.594,
+    "end": 14.1,
+    "description": "Wife lands the punchline: 'You sat in the dark holding a cushion.' The husband's on-screen reaction pays it off visually -- a single tear rolls down his face (visible on the keyframe around 12-13s with caption 'DARK') even as he insists he isn't emotional, confirming the irony without another line needed."
+  },
+  "ending": {
+    "start": 14.1,
+    "end": 15.700042,
+    "description": "Hard cut from the kitchen scene to a black title card, then a brief white flash frame, closing the episode.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE / Created by Nin. / 'NEW EPISODE DAILY' badge"
+  },
+  "beat_map": [
+    {"start": 0, "end": 2.3, "beat_type": "hook", "description": "Wife's warning 'Don't get too emotional' and husband's defensive 'Me?', with 'FOOTBALL HUSBANDS' episode-title text overlaying the kitchen scene."},
+    {"start": 2.3, "end": 6.506, "beat_type": "setup", "description": "Husband claims 'I don't really get emotional about things,' establishing the denial that will be disproven."},
+    {"start": 6.506, "end": 11.594, "beat_type": "conflict", "description": "Wife presents contradicting evidence about the football team he followed for a month losing on penalties, with the word 'PENALTIES' called out in captions."},
+    {"start": 11.594, "end": 14.1, "beat_type": "punchline", "description": "Wife's closing line 'You sat in the dark holding a cushion' lands alongside a visible tear on the husband's face, visually confirming the irony of his earlier denial."},
+    {"start": 14.1, "end": 15.700042, "beat_type": "ending", "description": "Cut to black/white title cards reading 'LOW BATTERY PEOPLE,' 'Created by Nin.,' and a 'New episode daily' badge."}
+  ],
+  "narrative_notes": "This 15.7s reel compresses the arc tightly: hook and setup are only lightly separated (both occur before the wife's first piece of evidence at 6.5s), and the conflict and punchline are really one continuous escalating line of dialogue from the wife rather than distinct scenes -- the 'conflict' is the factual accusation and the 'punchline' is the more absurd, visual capping detail ('holding a cushion' + the tear), so the split at 11.594s is drawn at the sentence boundary rather than a hard tonal shift. There is no separate visual location change for any beat -- the entire joke plays out in one continuous static-camera kitchen shot from 0-14.1s (scene_boundaries scene index 0), with only text overlays ('FOOTBALL HUSBANDS', word captions like 'PENALTIES' and 'DARK') marking beat transitions. The ending (14.1-15.7s) is pure branding/CTA with no narrative content, confirmed by scene_boundaries splitting it into two very short scenes (14.1-15.47s and 15.47-15.57s) that are just title-card frames."
+}

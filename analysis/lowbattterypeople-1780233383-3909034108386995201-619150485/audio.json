@@ -1,0 +1,12 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "voice_delivery_notes": "Inferred from transcript phrasing only (no direct audio access). SPEAKER_01 opens with a short, flat warning line (\"Don't get too emotional.\") that reads as a deadpan setup. SPEAKER_00's reply (\"Me? I don't really get emotional about things.\") is split into two short clauses by a comma-less beat, implying a defensive, slightly too-quick denial. SPEAKER_01's two follow-up lines are longer, evidence-listing sentences (\"A team you followed for one month, lost on penalties last night.\" / \"You sat in the dark holding a cushion.\") delivered as flat, matter-of-fact call-outs rather than questions, consistent with a deadpan 'receipts' comedic style typical of this reel's dialogue structure.",
+  "pitch_energy_notes": "No direct audio signal available; pitch/energy is inferred purely from line length and word choice. \"Me?\" (1 word) suggests a short, surprised upward inflection. The two-clause denial that follows likely drops back to a flatter, defensive tone. SPEAKER_01's longer factual lines suggest a level, unhurried, slightly smug energy consistent with someone stating obvious counter-evidence rather than escalating volume or pitch.",
+  "music": {
+    "present": false,
+    "style": "",
+    "notes": "No on-screen text, caption, or other evidence of a music track is present in the transcript or silence data, so presence cannot be confirmed."
+  },
+  "sound_effects": [],
+  "silence_usage_notes": "silence_pauses.json shows the longest gap of the clip (1.877s) spanning 2.341s-4.219s, immediately after SPEAKER_00's denial \"I don't really get emotional about things\" and before SPEAKER_01 begins the rebuttal at 6.506s -- a held beat that lets the denial land before it gets contradicted. The second-longest gap (1.518s, 10.087s-11.605s) sits between the two rebuttal lines, right before the punchline \"You sat in the dark holding a cushion,\" functioning as a setup-to-punchline pause. A final 1.396s pause (14.200s-15.596s) follows the punchline, giving it room to breathe as the clip closes. Shorter pauses (0.2s-0.7s) elsewhere mark ordinary breath/clause breaks within and between lines."
+}

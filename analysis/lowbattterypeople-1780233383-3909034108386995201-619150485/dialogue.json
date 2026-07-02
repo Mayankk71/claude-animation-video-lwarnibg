@@ -1,0 +1,54 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "total_lines": 5,
+  "avg_words_per_line": 6.4,
+  "lines": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.557,
+      "end": 1.519,
+      "text": "Don't get too emotional.",
+      "word_count": 4,
+      "pause_before_sec": 0.57,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.039,
+      "end": 2.28,
+      "text": "Me?",
+      "word_count": 1,
+      "pause_before_sec": 0.52,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.3,
+      "end": 5.785,
+      "text": "I don't really get emotional about things.",
+      "word_count": 7,
+      "pause_before_sec": 0,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 6.506,
+      "end": 10.112,
+      "text": "A team you followed for one month, lost on penalties last night.",
+      "word_count": 12,
+      "pause_before_sec": 0.72,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 11.594,
+      "end": 13.277,
+      "text": "You sat in the dark holding a cushion.",
+      "word_count": 8,
+      "pause_before_sec": 1.52,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "Two-speaker exchange with no timestamp overlaps (zero true interruptions): SPEAKER_01 opens with a warning ('Don't get too emotional'), SPEAKER_00 pushes back with a clipped one-word reactive question ('Me?') then a denial. SPEAKER_01 then holds the floor for two consecutive lines (6.506-13.277s) delivering the specific evidence (the football loss) and the punchline (the cushion image) back-to-back with only a 1.52s gap between them, which reads as a single comedic reveal broken into a setup line and a tag line rather than a back-and-forth.",
+  "speech_rhythm_notes": "The denial line 'I don't really get emotional about things' (2.3-5.785s, 7 words) contains a 1.88s internal pause from 2.34s-4.22s -- the longest pause in the whole clip -- sitting inside the line itself rather than between lines, which comedically undercuts the claim as the speaker hesitates while insisting they are not emotional. The punchline line 'You sat in the dark holding a cushion' (8 words, under 2 seconds of runtime) is preceded by the second-longest pause in the clip (1.52s, 10.09-11.61s), giving the tag line a beat of setup silence before landing. A 1.40s trailing silence (14.20-15.60s) follows the final line, letting the punchline hang before the clip ends."
+}

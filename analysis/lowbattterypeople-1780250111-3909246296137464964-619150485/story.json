@@ -1,0 +1,64 @@
+{
+  "video_slug": "lowbattterypeople-1780250111-3909246296137464964-619150485",
+  "duration_sec": 9.620042,
+  "hook": {
+    "start": 0.29,
+    "end": 1.412,
+    "description": "Stop-motion man (long-nosed, suit, binoculars around neck) on a park picnic blanket turns to his partner and asks, 'You know what I love about us?' The on-screen text 'us?' reinforces the relationship framing. It's a direct-to-partner question that promises a sweet reveal, pulling viewers in within the first second.",
+    "why_it_works": "Opens mid-conversation with a question that implies intimacy and invites the viewer to guess the answer alongside the woman on screen, all inside under 1.5 seconds so it front-loads curiosity before any visual gag has even landed."
+  },
+  "setup": {
+    "start": 1.412,
+    "end": 4.916,
+    "description": "The woman prompts 'What?' (2.012-2.273s), and the man answers, 'We can sit in silence for hours' (3.094-4.916s), with the word 'silence' burned into the frame as text. This establishes the premise: he's framing their comfortable quietness as a romantic trait."
+  },
+  "conflict": {
+    "start": 4.916,
+    "end": 5.257,
+    "description": "A brief silent hold (about a third of a second) between the setup line and the twist, letting the 'comfortable silence' claim sit uncontested for a beat before the woman's expression and the following line undercut it. There is no separate visual conflict scene here; the tension is entirely conversational and compressed into this pause."
+  },
+  "punchline": {
+    "start": 5.257,
+    "end": 7.38,
+    "description": "The man delivers the reveal: 'That's because we already argued internally,' with 'argued' shown as on-screen text while the woman reacts with a startled, wide-eyed, open-mouth expression. The 'comfortable silence' from the setup is recontextualized as each partner having silently fought out an entire argument in their own head before ever speaking, subverting the sentimental framing of the hook."
+  },
+  "ending": {
+    "start": 7.38,
+    "end": 9.620042,
+    "description": "The live scene freezes/holds as the show's title card fades in over the picnic image ('LOW BATTERY PEOPLE / CREATED BY NIN.'), then cuts to a full black card with the same title and a torn-paper badge reading 'NEW EPISODE DAILY.' No further dialogue plays.",
+    "cta_or_text_overlay": "LOW BATTERY PEOPLE — CREATED BY NIN. / NEW EPISODE DAILY badge"
+  },
+  "beat_map": [
+    {
+      "start": 0.29,
+      "end": 1.412,
+      "beat_type": "hook",
+      "description": "Man asks his partner, 'You know what I love about us?' with 'us?' on screen, opening on a teasing relationship question."
+    },
+    {
+      "start": 1.412,
+      "end": 4.916,
+      "beat_type": "setup",
+      "description": "Woman replies 'What?'; man answers 'We can sit in silence for hours,' with 'silence' as on-screen text, framing their quietness as a virtue."
+    },
+    {
+      "start": 4.916,
+      "end": 5.257,
+      "beat_type": "conflict",
+      "description": "Short silent beat where the sentimental claim hangs unresolved just before the twist lands."
+    },
+    {
+      "start": 5.257,
+      "end": 7.38,
+      "beat_type": "punchline",
+      "description": "Man reveals, 'That's because we already argued internally,' ('argued' on screen) as the woman reacts with shock, subverting the earlier romantic framing of their silence."
+    },
+    {
+      "start": 7.38,
+      "end": 9.620042,
+      "beat_type": "ending",
+      "description": "Scene holds while the 'LOW BATTERY PEOPLE / CREATED BY NIN.' title overlays the picnic image, then cuts to a black card with the title and a 'NEW EPISODE DAILY' badge."
+    }
+  ],
+  "narrative_notes": "At 9.6s this is one of the shortest reels in the set, so the arc is heavily compressed: the hook and setup are really one continuous exchange ('You know what I love about us?' / 'What?' / 'We can sit in silence for hours'), and the 'conflict' beat is not a separate visual or verbal scene but just the brief pause after the setup line where the sentimental claim sits unresolved before being undercut. Punchline and reveal are the same beat here (there's no post-punchline reaction scene beyond the woman's shocked face, which is folded into the punchline beat itself). The ending is pure branding (series title card + 'new episode daily' badge) with no additional joke or character action, functioning as a franchise CTA rather than a narrative beat."
+}

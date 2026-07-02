@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 14.1,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Single locked-off wide-medium two-shot for the entire scene, camera never moves or cuts across all sampled frames. Husband (stop-motion figure with elongated nose) sits screen-left in profile/three-quarter view, wife sits screen-right at the kitchen island; both are framed roughly symmetrically at similar distance from camera, facing each other across the counter rather than toward the lens. Kitchen set fills the whole background (window screen-left, stove/cabinets center, dish rack and fridge edge screen-right), giving an eye-level, slightly low camera height that shows full cabinetry and hanging pendant lights above their heads with generous headroom. Coffee cups and open magazine on the counter sit in the lower-third foreground. Title/caption text is burned in center-low, overlapping the counter edge, and does not affect framing of the characters."
+    },
+    {
+      "start": 14.1,
+      "end": 15.466667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Full-frame black title card (\"LOW BATTERY PEOPLE / CREATED BY NIN.\") with centered stacked text and a small yellow 'NEW EPISODE DAILY' ticket graphic below; no live-action framing, pure static graphic card."
+    },
+    {
+      "start": 15.466667,
+      "end": 15.566667,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Single-frame flash/transition card: same title text on a plain white background, centered horizontally in the upper-middle of frame, functioning as a quick end-card flash rather than a composed shot."
+    }
+  ],
+  "framing_patterns_notes": "The entire dialogue scene is shot as one unbroken static wide/medium two-shot with no coverage, no cuts to close-ups on reactions or punchlines, and no camera movement (pan/tilt/zoom) despite the scene running 14+ seconds with an escalating exchange (\"emotional\" / \"me?\" / \"about\" / \"night\") — all comedic beats are carried by puppet posing and dialogue timing rather than reframing. The video ends on two brief static graphic/title cards (black-background full title, then a white-background flash) rather than any additional live-action shot."
+}

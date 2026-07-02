@@ -1,0 +1,55 @@
+{
+  "video_slug": "lowbattterypeople-1780250111-3909246296137464964-619150485",
+  "characters": [
+    {
+      "name_or_role": "Husband (long-nosed man in black suit)",
+      "personality_traits": [
+        "complacent and self-satisfied, opens with a faux-romantic observation about the relationship",
+        "oblivious/unbothered - delivers the setup line with a relaxed, contented half-smile as if unaware of the dark subtext",
+        "fidgety hands - constantly manipulates his glasses instead of using expressive gestures, suggesting low-key nervous energy under a calm surface",
+        "passive - stays visually still and slouched (perpetually reclined into the black bench/sofa cushions) rather than animated"
+      ],
+      "emotional_range": [
+        "content/dreamy at the opening line",
+        "mild pride while stating 'we can sit in silence for hours'",
+        "settles into a smug, closed-mouth smirk once he's made his point, unaware it will be undercut"
+      ],
+      "expressions": [
+        "0:00 (0.29s) - droopy, half-lidded eyes and raised eyebrow, faint closed-mouth smile while asking 'You know what I love about us?'",
+        "0:03 (3.09s) - mouth open mid-sentence, eyebrows lifted, self-satisfied tone as he says 'We can sit in silence for hours'",
+        "later frames - returns to relaxed half-lidded eyes and gentle closed-mouth smirk, gazing forward, content and untroubled"
+      ],
+      "gestures": [
+        "holds his black-framed glasses in both hands throughout, turning/fidgeting with them rather than gesturing openly",
+        "slight forward lean of the head/neck when delivering each line, otherwise torso stays sunk back into the dark bench cushions",
+        "no hand contact with the wife; gestures stay contained close to his own chest"
+      ],
+      "interactions_notes": "He initiates the exchange, turning his head toward her to speak, then holds a still, satisfied pose while she answers. He never looks concerned or defensive when she reveals the punchline, reinforcing that he is the naive/oblivious half of the couple."
+    },
+    {
+      "name_or_role": "Wife (long-nosed woman in brown sweater)",
+      "personality_traits": [
+        "dry and deadpan - delivers the twist line ('we already argued internally') in a flat, matter-of-fact tone with no dramatic reaction",
+        "distracted/unbothered - snacks from a chip bag through nearly the whole scene instead of fully engaging",
+        "quietly the 'straight man' of the pair, undercutting her husband's sentimental setup with blunt honesty",
+        "composed and low-energy, matching his relaxed posture rather than reacting with surprise or annoyance"
+      ],
+      "emotional_range": [
+        "mild, polite curiosity when prompting 'What?'",
+        "flat, unfazed honesty when revealing they 'already argued internally'",
+        "otherwise neutral/half-lidded disinterest while eating"
+      ],
+      "expressions": [
+        "0:00 (0.29s) - half-lidded, neutral gaze, focused on the chip bag rather than her husband",
+        "0:02 (2.01s) - turns head toward him, mouth open, brief flat eyebrow-raise on 'What?'",
+        "0:05 (5.26s) - mouth open mid-word, eyebrows slightly raised, deadpan stare directly at him while delivering 'That's because we already argued internally'"
+      ],
+      "gestures": [
+        "holds and eats from a blue chip bag for nearly the entire scene, hands staying close to her chest",
+        "sits cross-legged/kneeling on the picnic blanket with minimal body movement",
+        "turns only her head (not her torso) toward her husband when responding, keeping her posture otherwise static"
+      ],
+      "interactions_notes": "She reacts to him rather than initiating; her attention is split between the conversation and the chip bag, signaling low engagement. The punchline lands because her tone and body language stay completely unchanged from before to after the reveal - she treats 'already argued internally' as an unremarkable fact, which is the joke's core power dynamic: she is emotionally further along/more resigned than he registers."
+    }
+  ]
+}

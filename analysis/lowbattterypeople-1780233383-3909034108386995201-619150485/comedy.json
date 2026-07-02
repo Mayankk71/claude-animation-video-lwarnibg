@@ -1,0 +1,48 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.557,
+      "end": 2.28,
+      "mechanism": "deadpan",
+      "description": "Wife's flat pre-emptive warning 'Don't get too emotional' is met with a one-word, half-second-delayed 'Me?' from the husband, whose face is already sagging into its default droopy, sad-hound expression.",
+      "why_it_lands": "The husband's stock character design (permanently downturned mouth, heavy-lidded eyes) makes his denial visually implausible before he even finishes the word, and the 0.52s pause (1.52-2.04 in silence_pauses.json) before 'Me?' gives the retort a beat of feigned innocence."
+    },
+    {
+      "start": 2.3,
+      "end": 5.785,
+      "mechanism": "irony",
+      "description": "He states 'I don't really get emotional about things' in a flat, matter-of-fact reading while a single animated tear is already visible sliding down his face in the keyframes (periodic-13, periodic-15).",
+      "why_it_lands": "The gag is entirely visual-verbal mismatch: the line is delivered with zero vocal inflection (true deadpan reading) at the exact moment the character model shows physical evidence of the opposite, so the joke doesn't need a punchline, the image contradicts the claim in real time."
+    },
+    {
+      "start": 6.506,
+      "end": 10.112,
+      "mechanism": "escalation",
+      "description": "The wife's rebuttal escalates the absurdity with a specific, lopsided detail: 'A team you followed for one month, lost on penalties last night' - pairing a laughably short fandom tenure against a devastating loss.",
+      "why_it_lands": "The one-month qualifier is the pivot; it recontextualizes his stoic claim as especially ridiculous because the emotional investment being denied wasn't even earned by loyalty, just recency, which is what makes 'football husbands' instantly recognizable as a type."
+    },
+    {
+      "start": 10.087,
+      "end": 11.605,
+      "mechanism": "awkward_silence",
+      "description": "A 1.52-second pause sits between the accusation about the lost match and the final incriminating detail, with both characters holding their sipping-coffee poses.",
+      "why_it_lands": "It's the longest pause in the whole clip (silence_pauses.json entry 10.087-11.605) and functions as a comedic held beat right before the most specific, damning line, letting the audience's own guess about 'what did he actually do' catch up before the reveal."
+    },
+    {
+      "start": 11.594,
+      "end": 13.277,
+      "mechanism": "recognition",
+      "description": "The punchline detail 'You sat in the dark holding a cushion' names an ultra-specific, mundane, faintly pathetic post-loss ritual rather than a big dramatic outburst.",
+      "why_it_lands": "It lands as a gut-punch recognition beat because it's not exaggerated for spectacle - sitting in the dark hugging a cushion is a plausible, small, embarrassing real behavior, and the husband's face (still tearing, still deadpan) never breaks to defend himself, confirming the accusation silently."
+    },
+    {
+      "start": 13.357,
+      "end": 15.567,
+      "mechanism": "deadpan",
+      "description": "The scene ends on a held shot of the husband's unmoving, tear-streaked deadpan face before a hard cut to the plain white/black 'LOW BATTERY PEOPLE' title card with no further dialogue.",
+      "why_it_lands": "No reaction shot, no comeback line, no music sting on the cut - the refusal to punctuate the moment with anything beyond a static teary stare is itself the joke, consistent with the character's earlier refusal to admit emotion in words."
+    }
+  ],
+  "overall_comedic_style_notes": "The whole piece is a single stationary two-shot with no camera movement, so all comedy is carried by line reading, pause length, and one visual prop (the single animated tear) that contradicts the dialogue. The format is built on dramatic irony rather than punchlines: a character insists he isn't emotional while the animation shows otherwise, and the wife's specificity (one month of fandom, penalties, cushion) does the comedic escalation instead of any exaggerated action. The on-screen category text ('FOOTBALL HUSBANDS') frames this as a recognizable relationship archetype, so the humor works as much through audience self-recognition as through the scripted exchange itself."
+}

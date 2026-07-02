@@ -1,0 +1,45 @@
+{
+  "video_slug": "lowbattterypeople-1780250111-3909246296137464964-619150485",
+  "total_lines": 4,
+  "avg_words_per_line": 5.25,
+  "lines": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.29,
+      "end": 1.412,
+      "text": "You know what I love about us?",
+      "word_count": 7,
+      "pause_before_sec": 0.31,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.012,
+      "end": 2.273,
+      "text": "What?",
+      "word_count": 1,
+      "pause_before_sec": 0.53,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.094,
+      "end": 4.916,
+      "text": "We can sit in silence for hours.",
+      "word_count": 7,
+      "pause_before_sec": 0.88,
+      "interruption": false
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 5.257,
+      "end": 7.38,
+      "text": "That's because we already argued internally.",
+      "word_count": 6,
+      "pause_before_sec": 0.32,
+      "interruption": false
+    }
+  ],
+  "conversational_flow_notes": "All four lines are tagged SPEAKER_00 in the transcript diarization, but the text is structured as a two-beat call-and-response: a setup question ('You know what I love about us?'), a terse one-word reply ('What?'), a deadpan reveal ('We can sit in silence for hours.'), and a punchline that explains the joke ('That's because we already argued internally.'). No line overlaps another (every line starts after the prior line's end timestamp), so there are no true interruptions -- the comedic rhythm comes entirely from pause length and line brevity, not from talking over each other.",
+  "speech_rhythm_notes": "Line 2 ('What?', 1 word) is the shortest line and follows only a 0.31s pause, keeping the setup-to-prompt beat snappy. The longest pre-line pause in the clip (0.88s, from the silence window 2.2345-3.11688) sits directly before line 3 ('We can sit in silence for hours.'), a 0.88s hold that dramatizes the very silence the line describes. The punchline (line 4, 6 words) then arrives after a much shorter 0.32s pause, so the joke's explanation lands quickly on the heels of the reveal rather than being drawn out -- long pause into the setup line, short pause into the punchline."
+}

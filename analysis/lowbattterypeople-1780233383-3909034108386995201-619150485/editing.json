@@ -1,0 +1,19 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "cut_count": 2,
+  "avg_shot_length_sec": 5.19,
+  "cuts": [
+    {
+      "timestamp": 14.1,
+      "transition_type": "hard_cut",
+      "reason": "Cuts hard out of the single continuous kitchen two-shot straight to the show's black outro title card, landing right after the wife's punchline line 'You sat in the dark holding a cushion.' has had a beat to breathe, ending the sketch on the deadpan reveal rather than lingering on it."
+    },
+    {
+      "timestamp": 15.466667,
+      "transition_type": "wipe",
+      "reason": "Very brief (~0.1s) flash/wipe from the black 'Low Battery People / Created by NIN.' card to a blank white frame as the clip ends, functioning as an outro flash-out rather than a story beat."
+    }
+  ],
+  "reaction_shots": [],
+  "pacing_notes": "The entire joke plays out in one uninterrupted static two-shot (0-14.1s, about 90% of the 15.7s runtime): the husband's deadpan, unbothered expression is held on screen throughout as his wife delivers the escalating accusation, so the comedy relies on sustained framing and word-by-word caption timing rather than cutting. Only after the punchline lands does the edit speed up sharply, firing off two quick graphic cuts (a 1.37s black title card, then a 0.1s flash-out) to close the video, giving a 'long held shot, then rapid-fire tag' pacing shape typical of a single-joke skit."
+}

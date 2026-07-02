@@ -1,0 +1,35 @@
+{
+  "video_slug": "lowbattterypeople-1780250111-3909246296137464964-619150485",
+  "cut_count": 4,
+  "avg_shot_length_sec": 1.92,
+  "cuts": [
+    {
+      "timestamp": 2.733333,
+      "transition_type": "hard_cut",
+      "reason": "Cuts from the wide establishing two-shot (husband with binoculars, wife eating chips, 'Us?' text) into a tighter two-shot right as the husband starts his setup line 'We can sit in silence for hours,' tightening focus as the joke's premise begins."
+    },
+    {
+      "timestamp": 5.066667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts to a close push-in on the wife's face just as the punchline word 'argued' lands ('That's because we already argued internally'), isolating her deadpan reaction for comedic emphasis on the twist."
+    },
+    {
+      "timestamp": 7.566667,
+      "transition_type": "hard_cut",
+      "reason": "Cuts back out to the wide two-shot framing as a freeze/title card ('LOW BATTERY PEOPLE / CREATED BY NIN.') is overlaid, signaling the joke has landed and the segment is wrapping into the show's branding."
+    },
+    {
+      "timestamp": 8.566667,
+      "transition_type": "cross_dissolve",
+      "reason": "The live scene dissolves out to a plain black background while the title text and 'NEW EPISODE DAILY' stamp persist, transitioning smoothly from the joke into the outro/CTA card."
+    }
+  ],
+  "reaction_shots": [
+    {
+      "start": 5.066667,
+      "end": 7.566667,
+      "description": "Close-up on the wife's startled, deadpan face reacting to her own line about them having 'already argued internally,' delivered as the visual punchline beat rather than advancing plot."
+    }
+  ],
+  "pacing_notes": "Shot lengths stay fairly even and unhurried through the setup and punchline dialogue (~2.7s, ~2.3s, ~2.5s for the three story beats), giving each line room to land. Once the joke resolves, cutting accelerates sharply into two brief sub-1-second shots (1.0s title-overlay freeze, then 0.93s black outro card), snapping the pace up right at the end for the branding/CTA tag."
+}

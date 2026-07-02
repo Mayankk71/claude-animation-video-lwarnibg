@@ -1,0 +1,57 @@
+{
+  "video_slug": "lowbattterypeople-1780233383-3909034108386995201-619150485",
+  "characters": [
+    {
+      "name_or_role": "husband (SPEAKER_00, football fan)",
+      "personality_traits": [
+        "In denial about his own emotions; claims 'I don't really get emotional about things' while visibly proving the opposite",
+        "Stoic/deadpan facade - long droopy face and downturned mouth stay almost fixed throughout, even as he cracks",
+        "Secretly sentimental about football, exposed as a soft-hearted fan hiding behind a composed exterior",
+        "Passive under his wife's gentle interrogation - doesn't argue back, just absorbs the callout"
+      ],
+      "emotional_range": [
+        "flat/tired composure",
+        "mild defensiveness",
+        "quiet embarrassment",
+        "suppressed grief breaking through as a single tear"
+      ],
+      "expressions": [
+        "0:00 heavy-lidded, neutral deadpan stare while being warned not to get emotional",
+        "0:02 slight surprised eyebrow raise on 'Me?' as he deflects the accusation",
+        "0:06-0:10 eyes widen slightly and mouth drops open as his wife recounts the lost match, expression tightening into embarrassment",
+        "0:11-0:13 single blue tear rolls down his cheek while his mouth stays in the same flat frown - stoic face literally leaking emotion he denied having"
+      ],
+      "gestures": [
+        "Sits leaned back in his chair with arms resting loosely on the table, one hand near his coffee cup - relaxed, unbothered posture at first",
+        "Head tilts slightly toward his wife when questioned, minimal body movement overall - he never gets up or turns away",
+        "Hands stay still/folded near the cup even as the tear falls, contrasting his big emotional reveal with total physical restraint"
+      ],
+      "interactions_notes": "The husband and wife face each other across a kitchen island, both seated with coffee cups, in a static two-shot for the whole scene. He is the target of her calm, itemized 'evidence' (team followed a month, lost on penalties, sat in the dark with a cushion), and he never verbally rebuts her - the power dynamic favors her knowing, matter-of-fact delivery over his weak denial. The tear at the end is the visual punchline that undercuts his opening line, with the wife's placid coffee-sipping continuing uninterrupted as if she expected this outcome all along."
+    },
+    {
+      "name_or_role": "wife (SPEAKER_01)",
+      "personality_traits": [
+        "Dry, observant, and matter-of-fact - delivers pointed specifics ('a team you followed for one month', 'sat in the dark holding a cushion') without raising her voice",
+        "Playfully needling/teasing rather than angry - she is amused and vindicated rather than upset",
+        "Composed and unbothered, functions as the calm 'straight man' setting up her husband's emotional reveal",
+        "Keeps receipts - remembers precise, slightly absurd details of his behavior, suggesting she pays close attention to him"
+      ],
+      "emotional_range": [
+        "gentle warning",
+        "wry amusement",
+        "calm certainty/smugness"
+      ],
+      "expressions": [
+        "0:00 mild, almost warning look while sipping coffee as she tells him not to get emotional",
+        "0:06-0:10 eyebrows lift slightly, mouth opens as she lists the specific evidence of his meltdown, tone light and knowing rather than accusatory",
+        "0:11-0:13 continues sipping her coffee calmly while he tears up, unfazed - her expression stays composed, confirming she predicted this reaction"
+      ],
+      "gestures": [
+        "Holds her coffee cup at chest height for most of the scene, taking small sips between lines",
+        "Sits upright with good posture, hands resting near her cup on the table - controlled, composed body language throughout",
+        "Maintains steady eye contact with her husband while speaking, no fidgeting"
+      ],
+      "interactions_notes": "She initiates and drives the conversation, calmly listing specific proof of her husband's emotional over-investment in football while he can only offer a weak 'Me?' in response. Her continued coffee-drinking and level tone as his tear falls signal she holds the conversational upper hand and isn't surprised by the outcome - a light, teasing spousal dynamic rather than a confrontational one."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "video_slug": "lowbattterypeople-1780250111-3909246296137464964-619150485",
+  "comedic_beats": [
+    {
+      "start": 0.29,
+      "end": 4.916,
+      "mechanism": "recognition",
+      "description": "Man asks 'You know what I love about us?', she flatly says 'What?', and he answers 'We can sit in silence for hours' instead of a romantic compliment.",
+      "why_it_lands": "The 0.88s pause (2.23s-3.12s, the longest gap in the whole clip) after 'What?' primes the audience to expect a tender answer, but both characters keep their same droopy, half-lidded, worn-out eyes throughout scene-0/1 rather than softening for a loving moment, so the mundane 'we sit in silence' answer reads as a true, lived-in couple's-comfort observation rather than a joke written for a punchline."
+    },
+    {
+      "start": 5.257,
+      "end": 7.38,
+      "mechanism": "escalation",
+      "description": "He tops the 'silence' observation with 'That's because we already argued internally' - the couple doesn't just tolerate silence, they've apparently had a full argument without a word being spoken.",
+      "why_it_lands": "The line is delivered in the same flat, matter-of-fact register as the first line (no vocal excitement or setup emphasis), which is exactly what sells the absurd leap from 'comfortable silence' to 'telepathic argument' as just another unremarkable fact about their relationship - the deadpan delivery keeps the escalation grounded instead of cartoonish."
+    },
+    {
+      "start": 7.414,
+      "end": 8.567,
+      "mechanism": "awkward_silence",
+      "description": "Immediately after the 'argued internally' line, the video holds on her wide-eyed, open-mouthed 'argued' reaction shot (scene-2 keyframe) for a full 0.84s silent pause before cutting to the title card, with no further dialogue.",
+      "why_it_lands": "This trailing 0.84s pause is the longest silence in the video besides the opening beat, and it functions as a self-demonstration of the joke's premise - the pair actually falls silent right after a line about sitting in silence for hours, letting the editing itself deliver the punchline rather than another spoken line."
+    }
+  ],
+  "overall_comedic_style_notes": "The humor comes entirely from a two-line dialogue exchange between stop-motion characters whose exaggerated, permanently half-lidded/droopy eyes and long felt noses give them a baseline deadpan expression, so even the 'twist' lines about arguing telepathically are delivered with the same tired, unbothered affect as small talk. The joke structure is a classic misdirection (romantic-sounding setup 'what I love about us' resolved by an unglamorous, relatable long-term-relationship trait), then escalated once more before the video mirrors its own punchline by cutting to a beat of silence and the title card, with on-screen caption words ('silence', 'argued') timed to the dialogue to underline the two key beats."
+}

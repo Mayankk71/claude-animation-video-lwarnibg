@@ -1,0 +1,41 @@
+{
+  "video_slug": "lowbattterypeople-1780250111-3909246296137464964-619150485",
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.733333,
+      "shot_type": "wide",
+      "camera_movement": "static",
+      "composition_notes": "Symmetrical two-shot on the picnic blanket: man crouched behind a black rock/couch shape on the left third with binoculars, woman seated on the right third eating chips. Generous headroom shows blurred autumn trees and background pedestrians filling the middle-ground; picnic basket and condiments sit dead-center as a foreground anchor. Dialogue caption burned in low-center, over the basket."
+    },
+    {
+      "start": 2.733333,
+      "end": 5.066667,
+      "shot_type": "close-up",
+      "camera_movement": "static",
+      "composition_notes": "Hard cut in to a tight, slightly low/tilt-up angle on the man's face that exaggerates his long nose filling the vertical center of frame; hairline is nearly cropped at top of frame (tight headroom). Woman is pushed to the far right edge, partially cropped, kept soft-focus/secondary while he holds his glasses at chest height. Caption remains centered low-third."
+    },
+    {
+      "start": 5.066667,
+      "end": 7.566667,
+      "shot_type": "over_shoulder",
+      "camera_movement": "static",
+      "composition_notes": "Reverse angle over-the-shoulder from behind the man: his nose, hand and glasses occupy the out-of-focus left foreground, cropping his face out of frame entirely. Woman is placed right-of-center in sharp focus reacting with an open mouth; background park-goers stay soft and small on the right edge. Same low-center caption placement as prior shots."
+    },
+    {
+      "start": 7.566667,
+      "end": 8.566667,
+      "shot_type": "medium",
+      "camera_movement": "static",
+      "composition_notes": "Camera pulls back to reuse the opening wide two-shot framing as a freeze-frame end card, now cropped slightly tighter to chest-height on both characters. Show title and creator credit text is centered over the frame, overlapping the man's face/binoculars in the left third; no dialogue caption."
+    },
+    {
+      "start": 8.566667,
+      "end": 9.5,
+      "shot_type": "other",
+      "camera_movement": "static",
+      "composition_notes": "Pure black graphic card, no camera photography: title, creator byline and a 'new episode daily' ribbon badge are stacked and centered in the lower-middle of frame with generous negative space above."
+    }
+  ],
+  "framing_patterns_notes": "The short alternates a single symmetrical wide establishing two-shot with a matched pair of tight reaction cuts: the man always gets a tilt-up close-up that exaggerates his nose for the joke's setup/punchline delivery, while the woman's reaction is shown via an over-the-shoulder shot that crops the man out and keeps her isolated and in focus. Every dialogue shot keeps its caption burned in at the same low-center position regardless of framing. The piece closes by returning to the opening wide two-shot (now as a static end card) before cutting to a black title/outro card, bookending the scene with the same composition it opened on."
+}
