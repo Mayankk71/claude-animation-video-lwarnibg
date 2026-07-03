@@ -203,3 +203,79 @@ Keep both characters' models exactly as shown in `references/characters/sales-re
 Also keep the active-speaker tile highlight behavior consistent across every shot, per `references/layout/gmeet-active-speaker.png` (highlighted border reference) and `references/layout/gmeet-normal.png` (plain border reference), including the brief dual-highlight moment during Shot 4's interruption. This is a niche-specific UI-realism addition, not a trait sourced from the reference reels.
 
 **On the reactivity adjustment (all shots except the outro):** this script deliberately overrides the source reels' "avoid eye contact, stay inert while listening" default. Both characters now visibly, restrainedly react to each other — a reactive glance, a flicker of discomfort, a visible interruption — because the actual goal for this niche is legible, relatable awkwardness rather than a faithful reproduction of the reels' deadpan formula, which was built for a same-room couple, not a Google Meet call. Keep every reaction human-scale and restrained — explicitly not anime-exaggerated — a small real reaction, not a big cartoon one. See the Style Bible's "Niche Creative Adaptations" section for the full rationale and for the related opening-silent-beat and naturalistic-vocal-delivery overrides.
+
+---
+
+## Single-generation experiment (alternative to Shots 1-5 above)
+
+**This is an alternative, not the documented default.** The 5-separate-shot version above remains
+the recommended approach — it exists specifically because the project's first real test generation
+combined multiple beats into one call and Veo3 compressed everything into a single continuous take,
+silently eating the held-silence pause and flattening delivery (see
+`templates/veo3-prompt-template.md`'s "one shot = one generation" rule). This section exists because
+the user wanted to test single-generation again despite that known risk. If it collapses the pause
+or the interruption the same way, that's the known failure mode reasserting itself, not a new bug —
+fall back to the 5-shot version above.
+
+```
+Stop-motion-look 3D CG animation, felted-wool clay-texture shader, matte and fibrous
+skin with visible fiber texture, no glossy CG highlights, no set jitter, no visible
+fingerprints — fully smooth CG motion underneath a handmade-look material, not real
+stop-motion. The two characters and the Google Meet two-tile call framing are exactly
+as shown in the attached reference images — animate them and that framing exactly as
+shown, with no other appearance or layout description needed.
+
+This is one continuous ~12-second clip. Treat every "HARD CUT" below as an instant,
+jarring cut to a new static camera setup — never a smooth transition, pan, tilt, or
+zoom. The camera is fully locked-off for the entire clip; all scene changes happen
+only at the exact hard cuts described.
+
+[0:00–0:02] Wide two-shot, both video tiles visible, camera locked. Neither tile has
+a highlighted border. The Sales Rep looks down, quietly writing on a notepad on her
+desk, pen moving in small, natural, repeated strokes — the only movement she makes.
+The Prospect sits still and settled, looking toward his own screen, doing nothing
+else. No dialogue. Complete silence — no music, no sound effects, no ambient room
+tone, nothing added for "realism."
+
+[0:02–0:05] Same wide two-shot, camera still locked. The instant the Sales Rep
+begins speaking, a soft glowing colored ring appears around her tile's border; the
+Prospect's stays plain. She says, light and casual: "So it's only $30 a month." The
+instant she finishes, her glow disappears and the same glow immediately appears
+around the Prospect's tile instead. He visibly reacts first — a brief, small,
+restrained flicker of discomfort, eyebrows drawing in slightly, mouth tightening,
+not exaggerated — then replies, flat and a little resigned: "That's too expensive."
+His glow disappears the instant he finishes. Complete silence otherwise.
+
+[0:05–0:07] HARD CUT to an isolated close-up on the Sales Rep alone, matching her
+attached reference image, the Prospect out of frame. No dialogue. She takes a
+short, visible beat: her eyes flick briefly to the side, as if glancing toward her
+own screen or his tile — a small, legible, restrained reaction — then settle back
+forward. No other part of her face or body moves. If her tile border is visible, it
+stays plain and unhighlighted. Complete silence.
+
+[0:07–0:10] HARD CUT back to the same wide two-shot as before. The instant the
+Sales Rep begins speaking again, her tile glows. She begins, warm and confident:
+"It's cheaper than your—" Partway through, the Prospect visibly cuts her off: his
+tile also begins glowing for the brief moment both are talking at once — this is
+correct, matching how a real video call looks when two people talk over each other.
+Her mouth stops moving abruptly as she's cut off; a brief, small, restrained flicker
+of surprise/mild frustration crosses her face, then her glow disappears. His glow
+stays lit as he talks over her, soft, hesitant, a little whiny and genuinely
+reluctant — not flat deadpan: "Noo... I need to think about it." His glow
+disappears the instant he finishes. Complete silence otherwise.
+
+[0:10–0:12] HARD CUT to an isolated close-up on the Sales Rep alone, matching her
+attached reference image, the Prospect out of frame. No dialogue. Her expression
+settles into a small, restrained, resigned stillness — the mild frustration fades
+into a flat, quiet "well, that's that" beat. One small, subtle settle of her
+shoulders, nothing more. If her tile border is visible, it stays plain and
+unhighlighted. Complete silence.
+
+Performance throughout: both characters restrained and human-scale in every
+reaction — not exaggerated, not anime. Vocal delivery is naturalistic and low-key,
+not robotic-deadpan monotone.
+```
+
+Same as the 5-shot version: attach all four reference images to this generation call, and build the
+opening topic-card overlay and the closing outro card separately in your video editor — Veo3 can't
+reliably render either.
