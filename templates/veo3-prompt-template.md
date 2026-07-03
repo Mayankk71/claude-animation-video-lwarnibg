@@ -81,13 +81,25 @@ apply these to every prompt this template produces, not just as a one-off fix:
   attached character images through two earlier, progressively-trimmed attempts at this rule (first
   a full appearance description, then a shortened "must match the reference image" note repeated in
   every shot) — repeating any instructional language about the images inside each shot's actual
-  generation text is itself the kind of prompt clutter that competes with image conditioning. The
-  fix: state once, near the top of the whole prompt set (outside any shot's code block) that
-  reference images are attached and must be used as-is, then inside each shot's generation text use
-  nothing more than a bare character label ("Left tile: SALES REP. Right tile: PROSPECT.") — no
-  hair, nose, glasses, clothing, or any other appearance or meta-commentary, anywhere in the
-  generation prompt. Save the full appearance description for the human-readable character section
-  at the top of the script file, for your own reference only.
+  generation text is itself the kind of prompt clutter that competes with image conditioning. State
+  once, near the top of the whole prompt set (outside any shot's code block), that reference images
+  are attached and must be used as-is; inside each shot's generation text, don't name characters by
+  tile position either (see the next bullet) — just point at "the attached reference image" for
+  who/what/where, and describe only what the image can't show.
+- **Never restate a static composition/layout that's already shown in an attached reference image
+  — including the Google Meet split-screen framing itself.** This generalizes the appearance-text
+  rule above: it's not just hair/nose/glasses that competes with image conditioning, any redundant
+  description of what a reference image already depicts can too, including framing/positioning
+  language like "two video tiles side by side, labeled X and Y" or "left tile: SALES REP, right
+  tile: PROSPECT" — the layout reference images (`references/layout/gmeet-active-speaker.png` /
+  `gmeet-normal.png`) already show that exact framing, so restating it in text is both redundant and
+  risks the model reconciling two slightly different descriptions of the same thing instead of just
+  using the image. The fix: when a shot's framing matches an attached reference image, say only
+  something like "the scene and both characters are exactly as shown in the attached reference
+  image — animate it," then move straight into what the image *can't* convey: motion, dialogue, and
+  timed transitions like the active-speaker highlight appearing/disappearing over the course of the
+  shot. When a shot's framing doesn't exactly match any single reference image (e.g. a cropped
+  close-up), describe only the *change* — the cut/reframe itself — not the full composition.
 - **State explicitly that there is no ambient or background audio of any kind.** A real test
   generation added its own room tone / ambient noise unprompted, apparently to make the scene
   read as more "authentic." Don't just say "no music, no SFX" — say it as a hard negative in every

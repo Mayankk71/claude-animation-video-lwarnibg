@@ -62,12 +62,9 @@ single continuous take, eating pauses and flattening delivery. See `templates/ve
 Stop-motion-look 3D CG animation, felted-wool clay-texture shader,
 matte and fibrous skin with visible fiber texture, no glossy CG
 highlights, no set jitter, no visible fingerprints — fully smooth CG
-motion underneath a handmade-look material. Static locked-off wide shot
-framed as a Google Meet split screen: two video tiles side by side,
-labeled "Sales Rep" and "Prospect" in the lower-left corner of each
-tile.
-
-Left tile: SALES REP. Right tile: PROSPECT.
+motion underneath a handmade-look material. The scene and both
+characters are exactly as shown in the attached reference image —
+animate it.
 
 Neither video tile has a highlighted border right now — both stay in
 their plain, quiet resting state for the entire shot, since neither
@@ -89,10 +86,9 @@ Notes: This shot is the canvas for a blurred topic-card graphic (e.g. "OBJECTION
 ## Shot 2 — Opening exchange (0:02–0:05)
 
 ```
-Same static two-tile Meet framing as Shot 1, same felted-wool CG-clean
-shader, camera completely motionless throughout.
-
-Left tile: SALES REP. Right tile: PROSPECT.
+Same framing as Shot 1, exactly as shown in the attached reference
+image, same felted-wool CG-clean shader, camera completely motionless
+throughout.
 
 The instant the Sales Rep begins speaking, a soft glowing colored ring
 appears around the border of her video tile, showing she's the one
@@ -119,10 +115,9 @@ Notes: The objection lands almost immediately once dialogue starts, per the reel
 ## Shot 3 — Reactive pause (0:05–0:07)
 
 ```
-Hard cut to an isolated close-up on the Sales Rep alone, the Prospect's
-tile cropped out. Same felted-wool CG shader.
-
-Left tile only in frame: SALES REP.
+Hard cut to an isolated close-up on the Sales Rep alone, exactly as
+shown in her attached reference image, the Prospect out of frame. Same
+felted-wool CG shader.
 
 If her tile's border is visible within this close-up, it stays plain
 and unhighlighted for the entire shot — she isn't speaking.
@@ -142,10 +137,9 @@ Notes: This is a niche creative adaptation, not reel-sourced (the source reels a
 ## Shot 4 — Interrupted rebuttal (0:07–0:10)
 
 ```
-Hard cut back to the same static two-tile Meet framing as Shot 2, same
-felted-wool CG-clean shader, camera completely motionless throughout.
-
-Left tile: SALES REP. Right tile: PROSPECT.
+Hard cut back to the same framing as Shot 2, exactly as shown in the
+attached reference image, same felted-wool CG-clean shader, camera
+completely motionless throughout.
 
 The instant the Sales Rep begins speaking, a glowing colored ring
 appears around her tile's border while his stays plain. Partway
@@ -179,10 +173,9 @@ Notes: The interruption and both characters' visible reactions to it are the cen
 ## Shot 5 — Closing hold (0:10–0:12)
 
 ```
-Hard cut to an isolated close-up on the Sales Rep alone, the Prospect's
-tile cropped out. Same felted-wool CG shader.
-
-Left tile only in frame: SALES REP.
+Hard cut to an isolated close-up on the Sales Rep alone, exactly as
+shown in her attached reference image, the Prospect out of frame. Same
+felted-wool CG shader.
 
 If her tile's border is visible within this crop, it stays plain and
 unhighlighted for the entire shot — she isn't speaking and doesn't
@@ -205,7 +198,7 @@ Notes: A restrained, human closing beat — awkward stillness rather than a punc
 
 ## Continuity notes
 
-Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot — attach both images to every single generation call and rely on them entirely for appearance. **None of the shot prompts above describe hair, nose, glasses, or clothing in prose, not even briefly by name/role beyond identifying who's in which tile** — an earlier, softer attempt at this (identify by name/role + "must match reference image") still wasn't enough to stop drift in a real test generation, so appearance text has been removed from the prompts entirely. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the source reels' static-camera-plus-hard-cuts default (no zooms).
+Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot — attach both images (plus the two Meet-layout images for the two-tile shots) to every single generation call and rely on them entirely for appearance and composition. **None of the shot prompts above describe hair, nose, glasses, clothing, or the Google Meet split-screen layout in prose** — through several rounds of trimming, first appearance text and then the tile-position/layout description ("two tiles side by side," "left tile / right tile") both turned out to be redundant with what the attached reference images already show, and re-stating either one in text risked confusing the model rather than helping it. Every shot now just points at "the attached reference image" for scene, character, and framing, and only describes what a still image can't show: motion, dialogue, and timed transitions like the active-speaker highlight. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the source reels' static-camera-plus-hard-cuts default (no zooms).
 
 Also keep the active-speaker tile highlight behavior consistent across every shot, per `references/layout/gmeet-active-speaker.png` (highlighted border reference) and `references/layout/gmeet-normal.png` (plain border reference), including the brief dual-highlight moment during Shot 4's interruption. This is a niche-specific UI-realism addition, not a trait sourced from the reference reels.
 
