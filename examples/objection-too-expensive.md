@@ -1,15 +1,17 @@
-# Script — Prospect says "it's too expensive"
+# Script — Prospect says "it's too expensive" → "I need to think about it"
 
-**Runtime:** ~13s across 6 shots
+**Runtime:** ~12s across 5 generated shots + outro card
 **Characters:**
-- **Sales Rep** — woman, dark hair in a neat high bun (no loose strands crossing the face), gold hoop earrings, cream chunky cable-knit turtleneck sweater, heavy-lidded droopy resting eyes, closed neutral flat mouth at rest.
-- **Prospect** — man, bald with a ring of dark curly hair, thick dark eyebrows, heavy-lidded droopy eyes, small round black wire glasses, a pronounced elongated conical nose, black suit jacket over a white shirt and black tie, faint closed-mouth smile line at rest.
+- **Sales Rep** — woman, dark hair in a neat high bun (no loose strands crossing the face), gold hoop earrings, cream chunky cable-knit turtleneck sweater, heavy-lidded droopy resting eyes, closed neutral flat mouth at rest. (Human-reference only — see "no appearance text in shot prompts" below.)
+- **Prospect** — man, bald with a ring of dark curly hair, thick dark eyebrows, heavy-lidded droopy eyes, small round black wire glasses, a pronounced elongated conical nose, black suit jacket over a white shirt and black tie, faint closed-mouth smile line at rest. (Human-reference only.)
 
-**Canonical reference images (generated directly from the Style Bible's invariant character rules — use these, not any earlier version):**
+**Canonical reference images:**
 - `references/characters/sales-rep-v2.png`
 - `references/characters/prospect-v2.png`
 - `references/layout/gmeet-active-speaker.png` — reference for the highlighted/glowing tile border shown around whichever character is currently speaking
 - `references/layout/gmeet-normal.png` — reference for the plain, unhighlighted tile border shown when a character is not speaking
+
+**No appearance text in shot prompts.** The character bullets above are for your own reference only. Every Veo3 shot prompt below states only that reference images are attached and must be animated exactly as shown — it does not re-describe hair, nose, glasses, or clothing in prose anywhere. A real test generation kept drifting from the attached reference images until this appearance text was removed entirely, even after an earlier attempt only trimmed it down rather than cutting it completely.
 
 **Setting:** Google Meet call, both on video. Prospect: wood desk, softly blurred bookshelf + framed art + warm table lamp behind him. Sales Rep: wood desk, softly blurred abstract art print + bookshelf + potted plant + warm table lamp behind her.
 
@@ -17,222 +19,200 @@
 
 | Beat | Time | What happens |
 |---|---|---|
-| Cold open + Hook/Setup (fused) | 0:00–0:04 | Already mid-call. Sales Rep asks for a decision; Prospect states the objection flatly, immediately — no build-up. |
-| Minimal conflict | 0:04–0:06 | Sales Rep asks exactly one flat follow-up question. No pushback, no value pitch, no argument. |
-| Build-up pause | 0:06–0:08 | The script's longest silence. Camera pushes slowly in on Prospect's static face. |
-| Punchline | 0:08–0:11 | Prospect delivers one unbroken sentence — a hyper-specific, mundane detail that undercuts his own objection. |
-| Post-punchline hold / CTA | 0:11–0:13 | Cut to Sales Rep's tile, flat, no reply. Hard cut to outro card. |
+| Silent open (niche adaptation) | 0:00–0:02 | No dialogue. Sales Rep writes something in a notebook; Prospect sits settled. Canvas for a blurred topic-card overlay added in post. |
+| Opening exchange | 0:02–0:05 | Sales Rep names the price; Prospect visibly reacts, then objects. |
+| Reactive pause (niche adaptation) | 0:05–0:07 | Sales Rep has a small, legible reaction beat — a glance to the side — before her rebuttal. |
+| Interrupted rebuttal (niche adaptation) | 0:07–0:10 | Sales Rep starts her comeback; Prospect audibly talks over her with a stalling line. |
+| Closing hold | 0:10–0:12 | Sales Rep settles into a flat, resigned stillness. Hard cut to outro card. |
 
 ## Dialogue
 
-**[0:00] Sales Rep:** "So — any thoughts on the proposal?"
-**[0:01] Prospect:** "Yeah. It's too expensive."
-**[0:04] Sales Rep:** "Too expensive compared to what?"
-**[0:06] *(silence — 2s, longest pause in the script)***
-**[0:08] Prospect:** "The eleven-dollar oat milk latte I bought waiting for this call to start."
-**[0:11] *(silence — 2s trailing hold, no reply from Sales Rep)***
+**[0:02] Sales Rep:** "So it's only $30 a month."
+**[0:03] Prospect:** "That's too expensive."
+**[0:05–0:07] *(pause — Sales Rep's reactive beat)***
+**[0:07] Sales Rep:** "It's cheaper than your—" *(cut off)*
+**[0:08] Prospect (talking over her):** "Noo... I need to think about it."
 
 ## On-screen text / CTA
 
-Hard cut to static black card: **"LOW BATTERY PITCHES"** / small credit line / yellow ribbon graphic: **"NEW OBJECTION DAILY"**. No resolution shown — the call does not visibly continue. Make this card directly in your video editor (Veo3 can't reliably render clean text) — see `templates/veo3-prompt-template.md`'s Generation practicalities.
+Hard cut to static black card: **"LOW BATTERY PITCHES"** / small credit line / yellow ribbon graphic: **"NEW OBJECTION DAILY"**. No resolution shown — the call does not visibly continue. Make this card, and the blurred topic-card overlay for Shot 1, directly in your video editor (Veo3 can't reliably render clean text) — see `templates/veo3-prompt-template.md`'s Generation practicalities.
 
-## Why this follows the Style Bible
+## Why this follows the Style Bible — and where it deliberately doesn't
 
-Fuses hook+setup into one exchange (invariant, 36/46), uses exactly one flat follow-up as the only "conflict" with zero escalation (frequent, 34/46), places the single longest pause immediately before the punchline (invariant, 43/46), and lands the punchline as one unbroken, hyper-specific-detail sentence rather than a vague exaggeration (optional pattern, 18/46 + 29/46) — irony/misdirection mechanism: a sincere-sounding budget objection undercut by a petty, specific personal expense. No reaction shot after the punchline (optional, 17/46), ends on a hard cut to a branded card with zero narrative resolution (invariant, 46/46). The punchline is given to the Prospect, matching the "decision-holding/reactive role gets the last word" optional pattern (24/46).
+**Still reel-evidence-grounded:** the felted-wool CG material and character design, the fully static locked-off camera with hard cuts (never a zoom), the single unchanging location, the warm single-source lighting and muted palette, complete silence except spoken dialogue, and the fused cold-open (invariant, 43/46 — the objection surfaces within the first line or two once dialogue starts).
+
+**Deliberately overridden for this niche, per explicit creative direction** (see the Style Bible's "Niche Creative Adaptations" section): both characters now visibly react to each other (a reactive glance, a flicker of discomfort) instead of staying inert and avoiding eye contact, which is what the source reels actually do; vocal delivery is naturalistic/restrained-awkward rather than strict deadpan monotone; the opening silent business beat and the mid-script interruption aren't reel-sourced at all. The reasoning: the source reels' formula was built for a same-room couple, not a Google Meet call, and the actual goal for this niche is legible awkwardness — the pauses and the expressions — rather than a faithful reproduction of the reels' punchline mechanism.
 
 ---
 
-# Veo3 Prompt Set — Prospect says "it's too expensive"
+# Veo3 Prompt Set — Prospect says "it's too expensive" → "I need to think about it"
 
 **⚠ Generate each shot below as its own separate Veo3 clip. Do not paste multiple shots into one
-generation call.** Testing this against a real generation confirmed that combining shots into
-one prompt causes the model to compress everything into a single continuous take, which silently
-drops the held-silence pause, flattens the punchline into naturalistic (not deadpan) delivery,
-and inserts an unprompted reaction shot. See `templates/veo3-prompt-template.md`'s "Generation
-practicalities" section for the full explanation — every instruction below is written to counter
-that specific failure mode.
+generation call.** Combining shots into one prompt causes the model to compress everything into a
+single continuous take, eating pauses and flattening delivery. See `templates/veo3-prompt-template.md`'s
+"Generation practicalities" section for the full explanation.
 
-**Style keywords (from the Style Bible):** felted-wool/clay stop-motion-*look* CG shader (not real stop-motion — no jitter, no fingerprints, fully smooth motion); heavy-lidded "low battery" eyes on both characters, no blinking; flat downturned mouth held through emotionally loaded lines; elongated nose + small round glasses on the Prospect; animation concentrated on mouth/eyebrows/eyelids only, body completely locked/static; discrete held viseme mouth poses, not fluid lip-sync; locked-off static camera except one permitted slow straight push-in landing on the punchline (shifting focus between speakers is done with hard cuts, never a zoom); warm soft single-source practical light (table lamp) with shallow DOF; fully static background; muted desaturated color palette; complete silence except spoken dialogue, no ambient/room noise added for "realism"; deadpan low-pitch-variation delivery throughout; the currently-speaking character's Meet tile shows a highlighted glowing border while the other stays plain, neither highlighted during a silence (niche UI addition, not reel-sourced); a silently-listening character may hold a small amount of quiet, settled attentiveness rather than reading as fully inert, short of any actual reaction (adaptation note, not reel-sourced).
+**Style keywords (from the Style Bible):** felted-wool/clay stop-motion-*look* CG shader (not real stop-motion — no jitter, no fingerprints, fully smooth motion); heavy-lidded "low battery" eyes, no blinking; elongated nose + small round glasses on the Prospect; animation concentrated on mouth/eyebrows/eyelids, body otherwise still; discrete held viseme mouth poses; locked-off static camera, hard cuts between speakers (never a zoom), one permitted slow push-in reserved for a key beat; warm soft single-source practical light with shallow DOF; fully static background; muted desaturated palette; complete silence except spoken dialogue, nothing added for "realism"; the currently-speaking character's Meet tile shows a highlighted glowing border while the other stays plain (niche UI addition). **Niche creative adaptations layered on top (not reel-sourced):** characters visibly, restrainedly react to each other — a reactive glance, a flicker of discomfort — rather than staying inert; vocal delivery is naturalistic/restrained-awkward, not strict deadpan monotone; an opening silent business beat before dialogue starts.
 
-**Attach `references/characters/sales-rep-v2.png`, `references/characters/prospect-v2.png`, `references/layout/gmeet-active-speaker.png`, and `references/layout/gmeet-normal.png` as image-conditioning input to every single shot generation**, in addition to the text description, for character consistency and correct active-speaker tile framing.
+**Reference images are attached for each character and for both Meet-tile highlight states — animate the characters exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png`. Do not describe their appearance in any shot prompt text below.**
 
-## Shot 1 — Cold open / Hook+Setup (0:00–0:04)
+## Shot 1 — Silent open / niche pacing beat (0:00–0:02)
 
 ```
-Stop-motion-look 3D CG animation, felted-wool clay-texture shader on two
-puppet-style characters, matte and fibrous skin with visible fiber
-texture, no glossy CG highlights, no set jitter, no visible fingerprints
-— fully smooth CG motion underneath a handmade-look material. Static
-locked-off wide shot framed as a Google Meet split screen: two video
-tiles side by side, labeled "Sales Rep" and "Prospect" in the
-lower-left corner of each tile.
+Stop-motion-look 3D CG animation, felted-wool clay-texture shader,
+matte and fibrous skin with visible fiber texture, no glossy CG
+highlights, no set jitter, no visible fingerprints — fully smooth CG
+motion underneath a handmade-look material. Static locked-off wide shot
+framed as a Google Meet split screen: two video tiles side by side,
+labeled "Sales Rep" and "Prospect" in the lower-left corner of each
+tile.
 
-Left tile: SALES REP. Right tile: PROSPECT. Both characters' faces,
-hair, outfits, and each one's own background set dressing must match
-references/characters/sales-rep-v2.png and references/characters/prospect-v2.png
-exactly, with no deviation from the attached reference images — do not
-alter or reinterpret their appearance.
+Left tile: SALES REP. Right tile: PROSPECT. Reference images are
+attached for each character — animate them exactly as shown, with no
+further appearance description in this prompt.
 
-Active-speaker tile highlight: at the exact instant the Sales Rep
-begins speaking, her tile's border shows a highlighted glowing colored
-ring around it (matching references/layout/gmeet-active-speaker.png)
-while the Prospect's tile border stays in its plain unhighlighted state
-(matching references/layout/gmeet-normal.png). The instant she finishes
-her line, her tile's highlight disappears and her border returns to
-plain; simultaneously, the Prospect's tile border immediately switches
-to the highlighted state for exactly the duration of his reply, then
-returns to plain the instant he finishes.
+Active-speaker tile highlight: neither character is speaking during
+this shot, so both tile borders stay in their plain unhighlighted state
+(matching references/layout/gmeet-normal.png) for the entire duration.
 
-Movement, beat by beat: at the start of the shot, the Sales Rep's mouth
-opens and closes through 2-3 discrete held viseme shapes as she speaks
-her line; her eyebrows lift very slightly (a few millimeters) on the
-word "thoughts" and settle back immediately after. Her eyes do not
-change from their heavy-lidded resting openness at any point — no
-widening, no extra blink. Her hands and torso stay still. While she
-speaks, the Prospect is silently listening: his eyes hold their normal
-heavy-lidded openness in a quiet, settled, attentive way — not a
-totally inert stare — but his eyebrows do not move, he does not blink,
-he does not turn his head, and he makes no eye contact with her. As
-soon as she finishes, the Prospect's mouth opens through 1-2 held
-viseme shapes for his short reply; his eyebrows and eyes do not move at
-all during his own line. While he replies, the Sales Rep is now the one
-silently listening, in the same quiet, settled way as he was — steady
-eyes, no eyebrow or head movement, no eye contact with him. Neither
-character blinks anywhere in this shot.
+Movement, beat by beat: the Sales Rep looks down, quietly writing
+something on a notepad on her desk, her pen moving in small, natural,
+repeated strokes — this is the only movement she makes. The Prospect
+sits still and settled, looking toward his own screen, doing nothing
+else. No dialogue from either character. Keep all motion low-key and
+unhurried, not exaggerated.
 
-Dialogue: Sales Rep says, flat and matter-of-fact, "So — any thoughts
-on the proposal?" Immediately after, with no gap, Prospect replies,
-same flat register: "Yeah. It's too expensive." Complete silence except
-the spoken dialogue itself — no ambient room tone, no rustling, no
-incidental environmental sound, nothing added for realism. Camera does
-not move at any point in this shot.
+Complete silence — no dialogue, no music, no sound effects, no ambient
+room tone, nothing added for "realism." Camera does not move at any
+point in this shot.
 ```
-Notes: Establishing two-shot per the shot/reverse-shot default. Both characters deliver flat, low-pitch dialogue with no vocal escalation.
+Notes: This shot is the canvas for a blurred topic-card graphic (e.g. "OBJECTION: IT'S TOO EXPENSIVE") composited over the footage afterward in your video editor — do not add text or blur in the Veo3 generation itself. Niche creative addition, not reel-sourced: buys pacing room before dialogue starts and doubles as a small character beat.
 
-## Shot 2 — Minimal conflict (0:04–0:06)
+## Shot 2 — Opening exchange (0:02–0:05)
 
 ```
 Same static two-tile Meet framing as Shot 1, same felted-wool CG-clean
 shader, camera completely motionless throughout.
 
-Active-speaker tile highlight: the Sales Rep's tile border shows the
-highlighted glowing ring (matching references/layout/gmeet-active-speaker.png)
-for the entire duration of this shot, since she is the only one
-speaking. The Prospect's tile border stays in its plain unhighlighted
-state (matching references/layout/gmeet-normal.png) throughout — he
-does not speak or react, so his tile never highlights.
+Left tile: SALES REP. Right tile: PROSPECT. Reference images are
+attached for each character — animate them exactly as shown, with no
+further appearance description in this prompt.
 
-Movement, beat by beat: the Sales Rep's mouth opens through 2 discrete
-held viseme shapes as she asks her line; her eyebrows do not raise, her
-eyes do not widen — no argumentative or escalating physical cue of any
-kind. The instant she finishes speaking, her mouth returns to its
-closed neutral resting shape and does not move again for the rest of
-this shot. The Prospect is silently listening for the full duration of
-this shot: his hands, mouth, and body stay still, and his eyes hold
-their normal heavy-lidded openness in a quiet, settled, attentive way —
-not a totally inert stare — but no eyebrows raise, no blink, no head
-turn, and no reaction of any kind to her question.
+Active-speaker tile highlight: at the instant the Sales Rep begins
+speaking, her tile border shows the highlighted glowing state (matching
+references/layout/gmeet-active-speaker.png) while the Prospect's tile
+stays plain (matching references/layout/gmeet-normal.png). The instant
+she finishes, her highlight disappears and the Prospect's tile
+immediately highlights for the duration of his reply, then returns to
+plain the instant he finishes.
 
-Dialogue: Sales Rep asks, flat and matter-of-fact, no rising energy:
-"Too expensive compared to what?" Complete silence except the spoken
-dialogue itself — no ambient room tone, no rustling, no incidental
-environmental sound, nothing added for realism.
+Movement, beat by beat: the Sales Rep delivers her line in a light,
+casual, matter-of-fact tone, mouth moving through natural viseme
+shapes. As she finishes, the Prospect visibly reacts before he speaks —
+a brief, readable flicker of discomfort: his eyebrows draw in slightly
+and his mouth tightens for a beat. Keep this small, human, and
+restrained — not exaggerated or cartoonish. He then replies, flat but
+genuine, not robotic-deadpan.
+
+Dialogue: Sales Rep, warm and casual: "So it's only $30 a month." After
+a brief natural beat, Prospect, a little flat and resigned: "That's too
+expensive." Complete silence otherwise — no ambient room tone, no
+music, no sound effects, nothing added for "realism."
 ```
-Notes: This is the script's only "conflict" beat — one flat follow-up question, no pushback, no value-defense speech, no physical reaction from either character.
+Notes: The objection lands almost immediately once dialogue starts, per the reel-evidence fused hook+setup pattern. The Prospect's visible discomfort here is a niche creative adaptation — restrained, human-scale reaction, overriding the source reels' inert-listening default.
 
-## Shot 3 — Build-up pause (0:06–0:08)
-
-```
-Hard cut to an isolated tight close-up on the Prospect alone — the
-Sales Rep's tile is fully cropped out of frame. Same felted-wool
-clay-look CG shader, matte and fibrous, heavy-lidded unblinking eyes
-behind small round glasses, elongated nose, faint closed-mouth smile
-line. Slow, continuous, straight-line push-in toward his face — the
-only camera movement in the entire piece — beginning at the start of
-this shot and continuing smoothly through to the end.
-
-Active-speaker tile highlight: neither character is speaking during
-this shot, so if any Meet-tile border chrome is visible within this
-close-up crop, it must be shown in its plain unhighlighted state
-(matching references/layout/gmeet-normal.png) — no glow, no highlight
-ring, for the entire duration.
-
-This entire clip shows the character in complete silence and stillness:
-no dialogue, no lip movement, no eyebrow movement, no blinking, no
-change in expression of any kind, for the full 2-second duration. His
-hands remain exactly as clasped as in the previous shot, completely
-unmoving. Background (bookshelf, framed art, warm lamp) stays
-completely static behind him, softly blurred by shallow depth of field.
-Complete silence — no music, no sound effects, no ambient room tone, no
-rustling, nothing added for "realism" — and no filler movement of any
-kind: this is a held silence, the longest pause in the piece, and
-nothing in the frame should move except the slow camera push-in itself.
-This shot is a shared silence, not a listening reaction — keep it fully
-inert, not the subtle "settled attentiveness" used in Shots 1-2.
-```
-Notes: This silence must read as measurably longer and more inert than any other moment in the piece — it is the load-bearing comedic-timing beat per the Style Bible. Generate this as its own dedicated clip; do not let it bleed into the talking shots on either side of it.
-
-## Shot 4 — Punchline (0:08–0:11)
+## Shot 3 — Reactive pause (0:05–0:07)
 
 ```
-Continuous framing with Shot 3's tight close-up on the Prospect (push-in
-now settled tight on his face), same static clay/felt shader, no
-blinking, faint closed-mouth resting expression before he begins to
-speak.
+Hard cut to an isolated close-up on the Sales Rep alone, the Prospect's
+tile cropped out. Same felted-wool CG shader.
 
-Active-speaker tile highlight: the instant the Prospect begins
-speaking, his tile's border (if visible within this close-up crop)
-switches to the highlighted glowing state (matching
-references/layout/gmeet-active-speaker.png) and stays highlighted for
-the full duration of his line, since he is the only one speaking in
-this shot.
+Left tile only in frame: SALES REP. Reference image is attached for
+this character — animate exactly as shown, with no further appearance
+description in this prompt.
 
-Movement, beat by beat: his mouth opens through a small sequence of
-discrete held viseme shapes as he delivers the full line in one
-continuous breath with no internal pause between words or clauses. His
-eyebrows and eyes do not move at all during delivery — no emphasis
-raise, no widening on the reveal. As the line ends, his mouth returns
-immediately to its closed neutral resting shape; the rest of his face
-does not change.
+Active-speaker tile highlight: she is not speaking during this shot;
+if her tile border is visible within this close-up crop, it stays in
+its plain unhighlighted state (matching references/layout/gmeet-normal.png)
+for the entire duration.
 
-Dialogue, delivered as one unbroken sentence, completely deadpan, flat
-and low-pitch throughout, with the pitch staying level or dropping
-slightly at the end — explicitly NOT rising into a question, no
-questioning inflection anywhere in the line: "The eleven-dollar oat
-milk latte I bought waiting for this call to start." Only his mouth
-moves through the held viseme poses; his eyebrows, eyes, hands, and the
-rest of his body remain completely locked and static. Complete silence
-except his spoken line — no music, no sound effects, no ambient room
-tone, nothing added for "realism."
+Movement, beat by beat: no dialogue. She takes a short, visible beat
+processing what he just said: her eyes flick briefly to the side, as
+if glancing toward her own screen or his tile — a small, legible
+reaction — then settle back forward. This is one small movement, held
+briefly, then over; restrained, not an exaggerated expression. No other
+part of her face or body moves.
+
+Complete silence — no dialogue, no music, no sound effects, no ambient
+room tone, nothing added for "realism."
 ```
-Notes: Punchline isolates the Prospect in tight close-up per the invariant punchline-framing rule; delivered as one unbroken escalating-detail sentence anchored on a hyper-specific quantified detail ($11, oat milk latte). The explicit "not a question / no rising inflection" instruction directly addresses the upward inflection that showed up in the first real test generation.
+Notes: This is a niche creative adaptation, not reel-sourced (the source reels avoid this kind of legible reaction) — see the Style Bible's Niche Creative Adaptations section. This beat is where the script's awkwardness actually lives, not in a punchline.
 
-## Shot 5 — Post-punchline hold (0:11–0:13)
+## Shot 4 — Interrupted rebuttal (0:07–0:10)
 
 ```
-Hard cut to an isolated static close-up on the Sales Rep alone, the
-Prospect's tile fully cropped out. Same felted-wool CG shader,
-heavy-lidded droopy eyes unblinking, closed neutral mouth held
-completely still. Camera fully locked, no movement of any kind.
+Hard cut back to the same static two-tile Meet framing as Shot 2, same
+felted-wool CG-clean shader, camera completely motionless throughout.
 
-Active-speaker tile highlight: she is not speaking anywhere in this
-shot and there is no reply, so if her tile's border is visible within
-this crop, it must stay in its plain unhighlighted state (matching
-references/layout/gmeet-normal.png) for the entire duration — same
-silence logic as Shot 3.
+Left tile: SALES REP. Right tile: PROSPECT. Reference images are
+attached for each character — animate them exactly as shown, with no
+further appearance description in this prompt.
 
-For the entire 2-second duration of this shot, her expression does not
-change from how it appeared at the end of Shot 2: no surprise, no
-eyebrows raising, no eyes widening, no mouth movement, no head tilt, no
-new expression forming at any point. She does not reply and does not
-react to the line she just heard — this shot is a flat, unreactive
-hold, not a reaction shot, and should read as fully inert, not the
-subtle "settled attentiveness" used for the listening moments in Shots
-1-2 — this is a deliberate withheld reaction, not passive listening.
-Warm table-lamp lighting unchanged. Complete silence — no music, no
-sound effects, no ambient room tone, nothing added for "realism."
+Active-speaker tile highlight: at the instant the Sales Rep begins
+speaking, her tile highlights (matching references/layout/gmeet-active-speaker.png)
+while the Prospect's stays plain. Partway through her line, the instant
+the Prospect begins talking over her, BOTH tiles briefly show the
+highlighted state at the same time for the moment of overlap — this is
+correct, matching how real Meet behaves when two people talk at once.
+As her line is cut off, her tile's highlight disappears; the Prospect's
+tile stays highlighted for the remainder of his line, then returns to
+plain the instant he finishes.
+
+Movement, beat by beat: the Sales Rep begins her rebuttal with the same
+light, confident delivery as Shot 2. Before she can finish, the
+Prospect visibly cuts in: his mouth starts moving partway through her
+sentence — an audible interruption, not a clean turn-taking exchange.
+His own expression shows mild discomfort/reluctance as he does it,
+eyebrows slightly drawn, a stalling quality to his delivery. The Sales
+Rep's mouth stops moving abruptly as she's cut off; a brief, readable
+flicker of surprise/mild frustration crosses her face — small and
+restrained, not exaggerated — as she registers being interrupted, then
+she holds still for the remainder of the shot.
+
+Dialogue: Sales Rep, warm and confident, begins: "It's cheaper than
+your—" and is audibly cut off mid-sentence. Talking over her, Prospect,
+soft, hesitant, a little whiny and reluctant — genuinely stalling, not
+flat deadpan: "Noo... I need to think about it." Complete silence
+otherwise — no ambient room tone, no music, no sound effects, nothing
+added for "realism."
 ```
-Notes: The first real test generation inserted an unprompted surprised reaction here (raised eyebrows, widened eyes) — this shot's language exists specifically to prevent that. No reaction or reply is shown; per the Style Bible this is a legitimate, common choice, not a gap to fill.
+Notes: The interruption and both characters' visible reactions to it are the centerpiece niche creative adaptation in this script — deliberately more expressive than the source reels' inert-listening default (see the Style Bible's Niche Creative Adaptations section). Keep the overlap brief and legible, not chaotic.
+
+## Shot 5 — Closing hold (0:10–0:12)
+
+```
+Hard cut to an isolated close-up on the Sales Rep alone, the Prospect's
+tile cropped out. Same felted-wool CG shader.
+
+Left tile only in frame: SALES REP. Reference image is attached for
+this character — animate exactly as shown, with no further appearance
+description in this prompt.
+
+Active-speaker tile highlight: she is not speaking during this shot and
+there is no reply from her; if her tile border is visible within this
+crop, it stays in its plain unhighlighted state (matching
+references/layout/gmeet-normal.png) for the entire duration.
+
+Movement, beat by beat: no dialogue. Her expression settles into a
+small, restrained, resigned stillness — the mild frustration from Shot
+4 fades into a flat, quiet "well, that's that" beat. One small, subtle
+settle of her shoulders, nothing more. Hold essentially still for the
+remainder of the shot.
+
+Complete silence — no music, no sound effects, no ambient room tone,
+nothing added for "realism."
+```
+Notes: A restrained, human closing beat — awkward stillness rather than a punchline reaction, matching the niche's actual comedic core (pacing and expression, not a forced final line).
 
 ## Shot 6 — Outro card
 
@@ -240,8 +220,8 @@ Notes: The first real test generation inserted an unprompted surprised reaction 
 
 ## Continuity notes
 
-Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot — attach both images to every single generation call and rely on them for appearance; the shot prompts above deliberately do NOT re-describe hair, nose, glasses, or clothing in prose beyond identifying each character by name/role, since a real test generation drifted away from the reference images and a long freeform text description competing with the attached images is the likely cause. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the single push-in in Shots 3–4.
+Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot — attach both images to every single generation call and rely on them entirely for appearance. **None of the shot prompts above describe hair, nose, glasses, or clothing in prose, not even briefly by name/role beyond identifying who's in which tile** — an earlier, softer attempt at this (identify by name/role + "must match reference image") still wasn't enough to stop drift in a real test generation, so appearance text has been removed from the prompts entirely. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the source reels' static-camera-plus-hard-cuts default (no zooms).
 
-Also keep the active-speaker tile highlight behavior consistent across every shot, per `references/layout/gmeet-active-speaker.png` (highlighted border reference) and `references/layout/gmeet-normal.png` (plain border reference): whichever character is talking at that moment has a highlighted glowing border on their tile, the other character's tile stays plain, and neither tile highlights during a silent beat (Shots 3 and 5). This is a niche-specific UI-realism addition — see the Style Bible's Prompt and Script Generation Guidelines section — not a trait sourced from the reference reels. Attach all four reference images to every shot's generation call, not just once.
+Also keep the active-speaker tile highlight behavior consistent across every shot, per `references/layout/gmeet-active-speaker.png` (highlighted border reference) and `references/layout/gmeet-normal.png` (plain border reference), including the brief dual-highlight moment during Shot 4's interruption. This is a niche-specific UI-realism addition, not a trait sourced from the reference reels.
 
-**On the listening-character adjustment (Shots 1-2 only):** a real test generation read as lifeless/uncanny with the previous fully-inert listening language, so those two shots now allow a small amount of quiet, "settled attentiveness" for whichever character is silently listening — steady heavy-lidded eyes rather than a described-as-"completely motionless" stare — while still forbidding any actual reaction, eyebrow move, blink, head turn, or eye contact between the characters. This is a deliberate small adaptation choice, not a reel-evidence finding (the 46-video analysis shows characters essentially never react to or make eye contact with each other — 27/46 explicitly avoid eye contact, and mutual-reaction/zoom-following-the-conversation staging was checked and found in only 1/46, flagged there as a one-off outlier, not a pattern). **Shots 3 and 5 are intentionally excluded from this adjustment** — Shot 3 is the load-bearing shared silence and Shot 5 is a deliberate withheld reaction to the punchline; both must stay fully inert exactly as written, since that stillness is the real, evidence-backed comedic mechanism.
+**On the reactivity adjustment (all shots except the outro):** this script deliberately overrides the source reels' "avoid eye contact, stay inert while listening" default. Both characters now visibly, restrainedly react to each other — a reactive glance, a flicker of discomfort, a visible interruption — because the actual goal for this niche is legible, relatable awkwardness rather than a faithful reproduction of the reels' deadpan formula, which was built for a same-room couple, not a Google Meet call. Keep every reaction human-scale and restrained — explicitly not anime-exaggerated — a small real reaction, not a big cartoon one. See the Style Bible's "Niche Creative Adaptations" section for the full rationale and for the related opening-silent-beat and naturalistic-vocal-delivery overrides.

@@ -270,13 +270,13 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "heavy-lidded, half-closed 'low battery' eyes as the default resting expression, no blinking during the shot"
 - "flat, slightly downturned mouth at rest, held even through emotionally loaded lines — deadpan face sculpt, not an expressive/animated face rig"
 - "elongated wedge/conical nose; small round glasses on at least one character"
-- "(prompt-craft note, not a visual trait) when reference images are attached, identify each character by name/role only and state their appearance must match the attached reference image exactly — do not also write a long freeform appearance description in the text, which can compete with and override image conditioning"
+- "(prompt-craft note, not a visual trait — supersedes any earlier, softer version of this rule) when reference images are attached, do not describe character appearance in the prompt text AT ALL, not even briefly by name/role — simply state that reference images are attached for each character and that they must be animated exactly as shown. Any appearance text in the prompt, however short, risks competing with and overriding image conditioning; real test generations drifted from the reference images until this was removed entirely"
 
 **Rig / animation**
 - "animate only the mouth, eyebrows, and eyelids; keep torso, arms, and legs completely locked and static — no idle breathing sway, no cloth simulation, no hair simulation"
 - "mouth reads as a small set of discrete held viseme poses swapped on each spoken word, not continuous fluid phoneme-level lip-sync"
 - "at most one small looping gesture per character (e.g., tapping a keyboard, adjusting glasses, scrolling a phone) held for most of the shot"
-- "(adaptation note, not reel-sourced — see Character Design section 4) when a character is silently listening (not deliberately withholding a punchline reaction), a small amount of quiet, settled attentiveness is fine — e.g. steady rather than 'completely motionless' eyes — as long as it stops short of any actual reaction, eyebrow move, blink, or eye contact with the other character"
+- "(niche creative adaptation, not reel-sourced — supersedes the 'settled attentiveness' note below and see the Niche Creative Adaptations section) characters actively, visibly react to each other's lines — human-scale, restrained expression, not exaggerated/anime — including a brief reactive glance toward one's own screen or the other participant's tile. This deliberately overrides the source reels' 'no reaction, no eye contact' default for this niche only"
 
 **Camera**
 - "locked-off, static camera for every shot — no pans, no tilts, no handheld shake"
@@ -293,7 +293,8 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 **Editing / audio / performance**
 - "0-6 hard cuts total, no dissolves or wipes except optionally into the closing card; average shot length 2-7 seconds"
 - "no score, no sound design, no foley, no ambient room noise of any kind — complete silence except the spoken dialogue itself; do not add any environmental or 'authenticity' audio"
-- "every line, including the punchline, delivered in a flat, low-pitch-variation, deadpan monotone regardless of emotional stakes"
+- "every line, including the punchline, delivered in a flat, low-pitch-variation, deadpan monotone regardless of emotional stakes" (this describes the source reels; see the niche-adaptation override just below for how this niche's vocal delivery should actually be prompted)
+- "(niche creative adaptation, not reel-sourced) vocal delivery for this niche is naturalistic and restrained-awkward rather than strict flat monotone — a reluctant line should sound genuinely reluctant (soft, hesitant), not robotic; keep it low-key and human, never escalated or exaggerated"
 - "hold a long silence (0.6-3.3s) directly before or after the punchline; no filler movement or sound during the hold"
 - "(optional) burned-in episode/scenario label in the corner of the opening shot; static branded end-card with hard cut, no narrative resolution shown after it"
 
@@ -307,6 +308,15 @@ Unlike everything else in this section, the following rule is **not traced to th
 - If a shot's framing crops down to a single character's tile, state explicitly whether that visible tile border is highlighted or plain for that beat — never leave it implicit.
 
 Reference images: `references/layout/gmeet-active-speaker.png` (highlighted state) and `references/layout/gmeet-normal.png` (plain state).
+
+### Niche Creative Adaptations (Sales-Objection Skits)
+
+Everything else in this document is a record of what the 46 source reels actually do. This section is different on purpose: it's a set of **deliberate creative choices for the sales-objection niche, made on the user's explicit direction, that knowingly override specific reel-derived tendencies** rather than extend them. Do not confuse these with the invariant/frequent/optional evidence tags used elsewhere — they carry no evidence count because they aren't reel findings. The reasoning: the source reels and this niche aren't in the same situation (an in-person couple vs. two people on a Google Meet call), so faithfully reproducing every reel tendency stops being the goal once it works against what the sales-objection content actually needs, which is legible, relatable awkwardness rather than a faithful replica of "Low Battery People."
+
+- **Expressive, human-scale reactions are encouraged, not suppressed.** The reel-derived "avoid eye contact" and "stay inert while listening" defaults are deliberately overridden for this niche. Characters should visibly, believably react to what the other person just said — including a brief reactive glance toward their own screen or the other participant's tile (not literal eye contact through the call, which wouldn't make sense for a video call anyway, but a legible "I see what you just did" beat). Keep it restrained and human-scale — explicitly **not anime-exaggerated** — a small, real reaction, not a big cartoon one.
+- **The comedic core for this niche is awkwardness — pacing and expression — not a punchline mechanism.** The source reels' "hyper-specific undercut line" punchline shape isn't a requirement here; held silences and readable discomfort do more of the work than a clever final line does. Scripts don't need to force a one-liner "reveal" structure.
+- **Vocal delivery is naturalistic and restrained-awkward, not strict deadpan monotone.** A reluctant, stalling line should sound genuinely reluctant — soft, hesitant, a little deflated — rather than flat and robotic. Still low-key and controlled, never escalated or shouty.
+- **An opening silent "settling in" business beat is standard before dialogue starts.** Not reel-evidence (nothing like this appears in the 46 source reels) — added for two practical/creative reasons: (1) it gives editing room to composite a blurred topic-card graphic over the opening seconds afterward, the same way the outro card is built in a video editor rather than generated with Veo3; (2) it's a small, natural character beat (e.g. the Sales Rep writing something in a notebook while the call connects). Keep this beat itself low-key and silent — no dialogue, no exaggerated business — it's a pacing device, not a joke.
 
 ### Script structure template
 

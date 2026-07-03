@@ -73,14 +73,15 @@ apply these to every prompt this template produces, not just as a one-off fix:
   frame) is highlighted or plain for that beat — don't leave it implicit. This is a sales-objection-
   niche UI-realism addition, not a trait found in the source reels (see the Style Bible's Prompt
   and Script Generation Guidelines section for how it's flagged there).
-- **When reference images are attached, don't re-describe appearance at length in the text
-  prompt — a real test generation drifted away from the attached character images, and the
-  likely cause is a long freeform appearance description in the text competing with the image
-  conditioning.** Identify each character briefly by name/role only (e.g. "SALES REP" / "PROSPECT")
-  and state once, plainly, that their appearance must match the attached reference image exactly
-  with no deviation — do not restate hair, nose, glasses, clothing, etc. in prose in every shot.
-  Save the full appearance description for the human-readable character section at the top of the
-  script file (for your own reference), not for the generation prompt text itself.
+- **When reference images are attached, do not describe character appearance in the shot prompt
+  text at all — not even briefly by name/role.** An earlier, softer version of this rule (identify
+  by name/role + "must match the reference image") still wasn't enough; real test generations kept
+  drifting from the attached character images until appearance text was removed from the prompt
+  entirely. Simply state that reference images are attached for each character and that they must
+  be animated exactly as shown — no hair, nose, glasses, clothing, or other appearance description
+  anywhere in the generation prompt. Save the full appearance description for the human-readable
+  character section at the top of the script file (for your own reference only), never for the
+  generation prompt text itself.
 - **State explicitly that there is no ambient or background audio of any kind.** A real test
   generation added its own room tone / ambient noise unprompted, apparently to make the scene
   read as more "authentic." Don't just say "no music, no SFX" — say it as a hard negative in every
@@ -93,12 +94,23 @@ apply these to every prompt this template produces, not just as a one-off fix:
   actually shifts attention between speakers in the other 45 is a **hard cut** to the other
   character's static shot — keep using shot/reverse-shot cuts for this, not continuous camera
   movement, and reserve the one permitted push-in exclusively for landing on the punchline.
-- **"Deadpan and static" is not the same as "checked out" — a fully inert listening character can
-  read as lifeless/uncanny in a real generation even though it's technically correct.** It's a
-  legitimate adaptation choice (not something found in the source reels, which mostly show zero
-  reaction) to give the listening character a small amount of quiet, attentive stillness — e.g.
-  eyes remain steady and settled rather than described as "completely motionless" — as long as it
-  stops well short of a visible reaction, an eyebrow move, a blink, or eye contact with the other
-  character. Keep this subtle and only apply it to shots where a character is silently listening,
-  never to a shot that is deliberately staging "no reaction" to a punchline (that withheld-reaction
-  choice is real, evidence-backed style and should stay fully inert).
+- **Characters should actively, visibly react to each other — this supersedes the earlier "subtle
+  settled attentiveness" guidance, which still read as lifeless/uncanny in real test generations.**
+  This is a deliberate creative choice for the sales-objection niche (not something the source
+  reels do — they mostly show zero reaction and avoid eye contact) made because the point of this
+  niche's content is legible awkwardness, not a faithful replica of the reference reels' deadpan
+  formula. Write real, human-scale reactions: a brief reactive glance toward one's own screen or
+  the other participant's tile, a small readable shift in expression — restrained and natural, not
+  anime-exaggerated. See the Style Bible's "Niche Creative Adaptations" section for the full
+  rationale and for related overrides (naturalistic vocal delivery instead of strict deadpan
+  monotone, and an opening silent business beat before dialogue starts).
+- **Open on a few seconds of silent business before any dialogue starts**, e.g. a character
+  writing something in a notebook while the call connects — not found in the source reels, but
+  useful for two reasons: it gives you room to composite a blurred topic-card graphic over the
+  opening footage afterward (build it in your video editor, the same way the outro card is built,
+  not generated with Veo3), and it's a small natural character beat. Keep this beat itself quiet
+  and low-key, no dialogue.
+- **The comedic core for this niche is awkwardness — pacing and expression — not a forced
+  punchline.** Don't feel obligated to reproduce the source reels' "hyper-specific undercut line"
+  shape; held silences and readable discomfort are doing more of the work here than a clever final
+  line.
