@@ -72,6 +72,20 @@ apply these to every prompt this template produces, not just as a one-off fix:
   otherwise.
 - **Platform watermarks are unavoidable** (e.g. a small Gemini sparkle icon in-frame) — this is
   not a prompt problem and doesn't need addressing; crop it out in post if it matters.
+- **A scripted interruption needs explicit "voices overlap" language, not just "cuts her off."**
+  A real test generation with fairly strong cut-off language still rendered the interruption as a
+  clean back-to-back handoff — the first line finished in full, the second started about 0.06s
+  later, no actual overlap. Push harder: say the second character's line "starts while her voice is
+  still audible on [the last word]" and that "the two voices genuinely overlap for a beat," and that
+  the first line "stops abruptly, unfinished, the instant his voice starts." This may still not
+  produce a perfect overlap (Veo3 tends to serialize dialogue), but it's the strongest lever
+  available in the prompt text.
+- **The same reference images and prompt text can still produce meaningfully different results
+  from one generation to the next.** One test with an unchanged reference image and materially the
+  same prompt structure came back dramatically cleaner than two prior attempts — correct spelling,
+  no hallucinated UI, a correctly-behaving highlight — where earlier attempts had all three wrong.
+  Don't over-conclude from a single bad (or single good) generation; if something looks broken,
+  it's worth trying again before concluding the prompt itself needs to change.
 - **Do not try to prompt a dynamic active-speaker tile highlight at all — leave Meet-tile chrome
   static and add any highlight ring in post-production instead.** An earlier version of this rule
   asked for a highlight ring to appear/disappear on whichever tile is currently speaking. A real

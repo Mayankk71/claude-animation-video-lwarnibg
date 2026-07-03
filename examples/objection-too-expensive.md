@@ -147,11 +147,14 @@ she holds that same settled expression for the remainder of the shot
 while he continues talking over her.
 
 Dialogue: Sales Rep, warm and confident, begins: "It's cheaper than
-your—" and is audibly cut off mid-sentence. Talking over her, Prospect,
-soft, hesitant, a little whiny and reluctant — genuinely stalling, not
-flat deadpan: "Noo... I need to think about it." Complete silence
-otherwise — no ambient room tone, no music, no sound effects, nothing
-added for "realism."
+your—" Prospect's "Noo..." starts while her voice is still audible on
+"your" — the two voices genuinely overlap for a beat, his cutting
+directly into hers, not a clean back-to-back handoff with a gap between
+them. Her line stops abruptly, unfinished, the instant his voice
+starts. Talking over her, Prospect, soft, hesitant, a little whiny and
+reluctant — genuinely stalling, not flat deadpan: "Noo... I need to
+think about it." Complete silence otherwise — no ambient room tone, no
+music, no sound effects, nothing added for "realism."
 ```
 Notes: The interruption and both characters' visible reactions to it are the centerpiece niche creative adaptation in this script — deliberately more expressive than the source reels' inert-listening default (see the Style Bible's Niche Creative Adaptations section). Keep the overlap brief and legible, not chaotic.
 
@@ -238,11 +241,13 @@ forward. No other part of her face or body moves. Complete silence.
 begins her rebuttal warm and confident, mouth moving through natural viseme shapes:
 "It's cheaper than your—" Prospect (listening, about to interrupt): a restless,
 uncomfortable tightening builds around his eyes and mouth as he listens, small and
-readable, leading directly into him cutting in. Prospect (speaking): partway
-through her sentence he visibly cuts her off — this is correct, matching how a real
-video call looks when two people talk over each other — eyebrows slightly drawn, a
-stalling, reluctant quality to his mouth movement, soft and hesitant, genuinely
-stalling, not flat deadpan: "Noo... I need to think about it." Sales Rep (reacting,
+readable, leading directly into him cutting in. Prospect (speaking): his "Noo..."
+starts while her voice is still audible on "your" — the two voices genuinely
+overlap for a beat, his cutting directly into hers, not a clean back-to-back
+handoff with a gap between them — eyebrows slightly drawn, a stalling, reluctant
+quality to his mouth movement, soft and hesitant, genuinely stalling, not flat
+deadpan: "Noo... I need to think about it." Her line stops abruptly, unfinished,
+the instant his voice starts. Sales Rep (reacting,
 then listening): her mouth stops moving abruptly as she's cut off; a brief, small,
 restrained flicker of surprise/mild frustration crosses her face, then she holds
 that same settled expression for the rest of the beat while he continues talking

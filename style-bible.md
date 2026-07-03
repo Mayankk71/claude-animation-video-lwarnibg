@@ -297,6 +297,7 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "every line, including the punchline, delivered in a flat, low-pitch-variation, deadpan monotone regardless of emotional stakes" (this describes the source reels; see the niche-adaptation override just below for how this niche's vocal delivery should actually be prompted)
 - "(niche creative adaptation, not reel-sourced) vocal delivery for this niche is naturalistic and restrained-awkward rather than strict flat monotone — a reluctant line should sound genuinely reluctant (soft, hesitant), not robotic; keep it low-key and human, never escalated or exaggerated"
 - "hold a long silence (0.6-3.3s) directly before or after the punchline; no filler movement or sound during the hold"
+- "(prompt-craft note) a scripted interruption needs explicit 'voices overlap' language, not just 'cuts her off' — say the interrupting line starts while the first character's voice is still audible on their last word, and that the first line stops abruptly, unfinished. A real test generation with fairly strong cut-off language still rendered the interruption as a clean back-to-back handoff (about a 0.06s gap, no real overlap) — push harder in the text, though Veo3 may still tend to serialize dialogue regardless"
 - "(optional) burned-in episode/scenario label in the corner of the opening shot; static branded end-card with hard cut, no narrative resolution shown after it"
 
 ### Retired: Google Meet active-speaker highlight (do not prompt this)
