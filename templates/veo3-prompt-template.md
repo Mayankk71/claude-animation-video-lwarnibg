@@ -73,3 +73,32 @@ apply these to every prompt this template produces, not just as a one-off fix:
   frame) is highlighted or plain for that beat — don't leave it implicit. This is a sales-objection-
   niche UI-realism addition, not a trait found in the source reels (see the Style Bible's Prompt
   and Script Generation Guidelines section for how it's flagged there).
+- **When reference images are attached, don't re-describe appearance at length in the text
+  prompt — a real test generation drifted away from the attached character images, and the
+  likely cause is a long freeform appearance description in the text competing with the image
+  conditioning.** Identify each character briefly by name/role only (e.g. "SALES REP" / "PROSPECT")
+  and state once, plainly, that their appearance must match the attached reference image exactly
+  with no deviation — do not restate hair, nose, glasses, clothing, etc. in prose in every shot.
+  Save the full appearance description for the human-readable character section at the top of the
+  script file (for your own reference), not for the generation prompt text itself.
+- **State explicitly that there is no ambient or background audio of any kind.** A real test
+  generation added its own room tone / ambient noise unprompted, apparently to make the scene
+  read as more "authentic." Don't just say "no music, no SFX" — say it as a hard negative in every
+  shot: "complete silence except the spoken dialogue itself — no ambient room tone, no rustling,
+  no incidental environmental sound, nothing added for realism."
+- **A static camera and hard cuts are the real mechanism for shifting focus between speakers —
+  not a zoom.** It's tempting to ask for a push-in/pull-back/push-in choreography to visually
+  follow the conversation, but the source reels essentially never do this (a zoom-out camera move
+  appears in only 1 of 46 reference reels, flagged in its own analysis as the sole exception). What
+  actually shifts attention between speakers in the other 45 is a **hard cut** to the other
+  character's static shot — keep using shot/reverse-shot cuts for this, not continuous camera
+  movement, and reserve the one permitted push-in exclusively for landing on the punchline.
+- **"Deadpan and static" is not the same as "checked out" — a fully inert listening character can
+  read as lifeless/uncanny in a real generation even though it's technically correct.** It's a
+  legitimate adaptation choice (not something found in the source reels, which mostly show zero
+  reaction) to give the listening character a small amount of quiet, attentive stillness — e.g.
+  eyes remain steady and settled rather than described as "completely motionless" — as long as it
+  stops well short of a visible reaction, an eyebrow move, a blink, or eye contact with the other
+  character. Keep this subtle and only apply it to shots where a character is silently listening,
+  never to a shot that is deliberately staging "no reaction" to a punchline (that withheld-reaction
+  choice is real, evidence-backed style and should stay fully inert).

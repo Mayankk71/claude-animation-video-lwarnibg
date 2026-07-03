@@ -52,7 +52,7 @@ and inserts an unprompted reaction shot. See `templates/veo3-prompt-template.md`
 practicalities" section for the full explanation — every instruction below is written to counter
 that specific failure mode.
 
-**Style keywords (from the Style Bible):** felted-wool/clay stop-motion-*look* CG shader (not real stop-motion — no jitter, no fingerprints, fully smooth motion); heavy-lidded "low battery" eyes on both characters, no blinking; flat downturned mouth held through emotionally loaded lines; elongated nose + small round glasses on the Prospect; animation concentrated on mouth/eyebrows/eyelids only, body completely locked/static; discrete held viseme mouth poses, not fluid lip-sync; locked-off static camera except one permitted slow straight push-in landing on the punchline; warm soft single-source practical light (table lamp) with shallow DOF; fully static background; muted desaturated color palette; no music, no SFX; deadpan low-pitch-variation delivery throughout; the currently-speaking character's Meet tile shows a highlighted glowing border while the other stays plain, neither highlighted during a silence (niche UI addition, not reel-sourced).
+**Style keywords (from the Style Bible):** felted-wool/clay stop-motion-*look* CG shader (not real stop-motion — no jitter, no fingerprints, fully smooth motion); heavy-lidded "low battery" eyes on both characters, no blinking; flat downturned mouth held through emotionally loaded lines; elongated nose + small round glasses on the Prospect; animation concentrated on mouth/eyebrows/eyelids only, body completely locked/static; discrete held viseme mouth poses, not fluid lip-sync; locked-off static camera except one permitted slow straight push-in landing on the punchline (shifting focus between speakers is done with hard cuts, never a zoom); warm soft single-source practical light (table lamp) with shallow DOF; fully static background; muted desaturated color palette; complete silence except spoken dialogue, no ambient/room noise added for "realism"; deadpan low-pitch-variation delivery throughout; the currently-speaking character's Meet tile shows a highlighted glowing border while the other stays plain, neither highlighted during a silence (niche UI addition, not reel-sourced); a silently-listening character may hold a small amount of quiet, settled attentiveness rather than reading as fully inert, short of any actual reaction (adaptation note, not reel-sourced).
 
 **Attach `references/characters/sales-rep-v2.png`, `references/characters/prospect-v2.png`, `references/layout/gmeet-active-speaker.png`, and `references/layout/gmeet-normal.png` as image-conditioning input to every single shot generation**, in addition to the text description, for character consistency and correct active-speaker tile framing.
 
@@ -67,19 +67,11 @@ locked-off wide shot framed as a Google Meet split screen: two video
 tiles side by side, labeled "Sales Rep" and "Prospect" in the
 lower-left corner of each tile.
 
-Left tile: SALES REP, a woman with dark hair pulled back neatly into a
-high bun with no loose strands crossing her face, thick dark eyebrows,
-heavy-lidded droopy half-closed eyes, gold hoop earrings, wearing a
-cream chunky cable-knit turtleneck sweater, hands clasped calmly on a
-wood desk. Behind her, softly blurred: an abstract art print, a
-bookshelf, a potted plant, and a warm lit table lamp.
-
-Right tile: PROSPECT, a bald man with a ring of dark curly hair, thick
-dark eyebrows, heavy-lidded droopy eyes, small round black wire
-glasses, a pronounced elongated conical nose, a faint closed-mouth
-smile line at rest, wearing a black suit jacket, white shirt, and black
-tie, hands clasped on a wood desk. Behind him, softly blurred: a
-bookshelf, framed art, and a warm lit table lamp.
+Left tile: SALES REP. Right tile: PROSPECT. Both characters' faces,
+hair, outfits, and each one's own background set dressing must match
+references/characters/sales-rep-v2.png and references/characters/prospect-v2.png
+exactly, with no deviation from the attached reference images — do not
+alter or reinterpret their appearance.
 
 Active-speaker tile highlight: at the exact instant the Sales Rep
 begins speaking, her tile's border shows a highlighted glowing colored
@@ -96,16 +88,24 @@ opens and closes through 2-3 discrete held viseme shapes as she speaks
 her line; her eyebrows lift very slightly (a few millimeters) on the
 word "thoughts" and settle back immediately after. Her eyes do not
 change from their heavy-lidded resting openness at any point — no
-widening, no extra blink. Her hands, torso, and the Prospect's entire
-body remain completely motionless and silent while she speaks. As soon
-as she finishes, the Prospect's mouth opens through 1-2 held viseme
-shapes for his short reply; his eyebrows and eyes do not move at all
-during his line. Neither character blinks anywhere in this shot.
+widening, no extra blink. Her hands and torso stay still. While she
+speaks, the Prospect is silently listening: his eyes hold their normal
+heavy-lidded openness in a quiet, settled, attentive way — not a
+totally inert stare — but his eyebrows do not move, he does not blink,
+he does not turn his head, and he makes no eye contact with her. As
+soon as she finishes, the Prospect's mouth opens through 1-2 held
+viseme shapes for his short reply; his eyebrows and eyes do not move at
+all during his own line. While he replies, the Sales Rep is now the one
+silently listening, in the same quiet, settled way as he was — steady
+eyes, no eyebrow or head movement, no eye contact with him. Neither
+character blinks anywhere in this shot.
 
 Dialogue: Sales Rep says, flat and matter-of-fact, "So — any thoughts
 on the proposal?" Immediately after, with no gap, Prospect replies,
-same flat register: "Yeah. It's too expensive." No music, no sound
-effects, dialogue only. Camera does not move at any point in this shot.
+same flat register: "Yeah. It's too expensive." Complete silence except
+the spoken dialogue itself — no ambient room tone, no rustling, no
+incidental environmental sound, nothing added for realism. Camera does
+not move at any point in this shot.
 ```
 Notes: Establishing two-shot per the shot/reverse-shot default. Both characters deliver flat, low-pitch dialogue with no vocal escalation.
 
@@ -127,12 +127,16 @@ held viseme shapes as she asks her line; her eyebrows do not raise, her
 eyes do not widen — no argumentative or escalating physical cue of any
 kind. The instant she finishes speaking, her mouth returns to its
 closed neutral resting shape and does not move again for the rest of
-this shot. The Prospect's entire body — face, eyes, mouth, hands — stays
-completely motionless and silent for the full duration of this shot; he
-does not react to her question in any way.
+this shot. The Prospect is silently listening for the full duration of
+this shot: his hands, mouth, and body stay still, and his eyes hold
+their normal heavy-lidded openness in a quiet, settled, attentive way —
+not a totally inert stare — but no eyebrows raise, no blink, no head
+turn, and no reaction of any kind to her question.
 
 Dialogue: Sales Rep asks, flat and matter-of-fact, no rising energy:
-"Too expensive compared to what?" No music, no SFX.
+"Too expensive compared to what?" Complete silence except the spoken
+dialogue itself — no ambient room tone, no rustling, no incidental
+environmental sound, nothing added for realism.
 ```
 Notes: This is the script's only "conflict" beat — one flat follow-up question, no pushback, no value-defense speech, no physical reaction from either character.
 
@@ -159,9 +163,12 @@ change in expression of any kind, for the full 2-second duration. His
 hands remain exactly as clasped as in the previous shot, completely
 unmoving. Background (bookshelf, framed art, warm lamp) stays
 completely static behind him, softly blurred by shallow depth of field.
-No music, no sound effects, no filler movement of any kind — this is a
-held silence, the longest pause in the piece, and nothing in the frame
-should move except the slow camera push-in itself.
+Complete silence — no music, no sound effects, no ambient room tone, no
+rustling, nothing added for "realism" — and no filler movement of any
+kind: this is a held silence, the longest pause in the piece, and
+nothing in the frame should move except the slow camera push-in itself.
+This shot is a shared silence, not a listening reaction — keep it fully
+inert, not the subtle "settled attentiveness" used in Shots 1-2.
 ```
 Notes: This silence must read as measurably longer and more inert than any other moment in the piece — it is the load-bearing comedic-timing beat per the Style Bible. Generate this as its own dedicated clip; do not let it bleed into the talking shots on either side of it.
 
@@ -194,8 +201,9 @@ slightly at the end — explicitly NOT rising into a question, no
 questioning inflection anywhere in the line: "The eleven-dollar oat
 milk latte I bought waiting for this call to start." Only his mouth
 moves through the held viseme poses; his eyebrows, eyes, hands, and the
-rest of his body remain completely locked and static. No music, no
-sound effects.
+rest of his body remain completely locked and static. Complete silence
+except his spoken line — no music, no sound effects, no ambient room
+tone, nothing added for "realism."
 ```
 Notes: Punchline isolates the Prospect in tight close-up per the invariant punchline-framing rule; delivered as one unbroken escalating-detail sentence anchored on a hyper-specific quantified detail ($11, oat milk latte). The explicit "not a question / no rising inflection" instruction directly addresses the upward inflection that showed up in the first real test generation.
 
@@ -218,8 +226,11 @@ change from how it appeared at the end of Shot 2: no surprise, no
 eyebrows raising, no eyes widening, no mouth movement, no head tilt, no
 new expression forming at any point. She does not reply and does not
 react to the line she just heard — this shot is a flat, unreactive
-hold, not a reaction shot. Warm table-lamp lighting unchanged. No
-music, no sound effects.
+hold, not a reaction shot, and should read as fully inert, not the
+subtle "settled attentiveness" used for the listening moments in Shots
+1-2 — this is a deliberate withheld reaction, not passive listening.
+Warm table-lamp lighting unchanged. Complete silence — no music, no
+sound effects, no ambient room tone, nothing added for "realism."
 ```
 Notes: The first real test generation inserted an unprompted surprised reaction here (raised eyebrows, widened eyes) — this shot's language exists specifically to prevent that. No reaction or reply is shown; per the Style Bible this is a legitimate, common choice, not a gap to fill.
 
@@ -229,6 +240,8 @@ Notes: The first real test generation inserted an unprompted surprised reaction 
 
 ## Continuity notes
 
-Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot: the Prospect's bald head, ring of dark hair, round black glasses, elongated conical nose, black suit/tie, and heavy-lidded eyes; the Sales Rep's neat high bun, gold hoop earrings, cream cable-knit sweater, and — now corrected to match the Style Bible's invariant rule — heavy-lidded droopy eyes matching the Prospect's degree of heaviness, not wide or alert. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the single push-in in Shots 3–4.
+Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot — attach both images to every single generation call and rely on them for appearance; the shot prompts above deliberately do NOT re-describe hair, nose, glasses, or clothing in prose beyond identifying each character by name/role, since a real test generation drifted away from the reference images and a long freeform text description competing with the attached images is the likely cause. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the single push-in in Shots 3–4.
 
 Also keep the active-speaker tile highlight behavior consistent across every shot, per `references/layout/gmeet-active-speaker.png` (highlighted border reference) and `references/layout/gmeet-normal.png` (plain border reference): whichever character is talking at that moment has a highlighted glowing border on their tile, the other character's tile stays plain, and neither tile highlights during a silent beat (Shots 3 and 5). This is a niche-specific UI-realism addition — see the Style Bible's Prompt and Script Generation Guidelines section — not a trait sourced from the reference reels. Attach all four reference images to every shot's generation call, not just once.
+
+**On the listening-character adjustment (Shots 1-2 only):** a real test generation read as lifeless/uncanny with the previous fully-inert listening language, so those two shots now allow a small amount of quiet, "settled attentiveness" for whichever character is silently listening — steady heavy-lidded eyes rather than a described-as-"completely motionless" stare — while still forbidding any actual reaction, eyebrow move, blink, head turn, or eye contact between the characters. This is a deliberate small adaptation choice, not a reel-evidence finding (the 46-video analysis shows characters essentially never react to or make eye contact with each other — 27/46 explicitly avoid eye contact, and mutual-reaction/zoom-following-the-conversation staging was checked and found in only 1/46, flagged there as a one-off outlier, not a pattern). **Shots 3 and 5 are intentionally excluded from this adjustment** — Shot 3 is the load-bearing shared silence and Shot 5 is a deliberate withheld reaction to the punchline; both must stay fully inert exactly as written, since that stillness is the real, evidence-backed comedic mechanism.

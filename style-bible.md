@@ -132,6 +132,9 @@ One partner — usually the male character — holds or fixates on a phone/devic
 ### Avoiding eye contact (frequent, 27/46)
 The two characters rarely make direct eye contact with each other — both tend to face forward toward the camera or a shared focal point (a TV, in the source reels) rather than turning toward one another, even mid-argument. For a Google Meet framing, this maps naturally onto both participants looking at their own screen/camera rather than at each other (which, notably, is also how real video calls actually look).
 
+### Adaptation note: deadpan/static is not the same as lifeless
+This is a deliberate small **adaptation choice for Veo3 prompting, not a reel-evidence classification** — flagging it separately so it isn't confused with the invariant/frequent/optional tags above. A real test generation rendered the non-speaking character as fully inert while their partner talked, and it read as lifeless/uncanny on screen even though "no reaction, no eye contact" is the evidence-backed style. When prompting a silently-listening character (not a character deliberately withholding a reaction to a punchline — that specific choice should stay fully inert, see the "withholding the reaction" rule under Comedy), it's fine to describe a small amount of quiet, settled attentiveness rather than literal total motionlessness, as long as it stops well short of an actual reaction, an eyebrow move, a blink, or eye contact with the other character.
+
 ### Who delivers the punchline (optional, 24/46)
 In a substantial share of reels, the **female character** delivers the final punchline or verdict line. This is a real pattern but not a majority behavior — treat it as a legitimate default lean (e.g., leaning toward giving the "reactive"/decision-holding role the last word) rather than a rule.
 
@@ -152,7 +155,7 @@ Where camera movement does occur, it is a **slow, continuous, straight-line push
 A meaningful minority of reels play the entire joke — every line of dialogue — in **one unbroken static shot with zero internal cuts**. This is a clean, simple option, especially for shorter or two-line scripts.
 
 ### Shot/reverse-shot (frequent, 26/46)
-The more common pattern: open on a **wide static two-shot** establishing both characters and the setting, then cut to **isolated close-ups on each speaker's face** for their individual lines.
+The more common pattern: open on a **wide static two-shot** establishing both characters and the setting, then cut to **isolated close-ups on each speaker's face** for their individual lines. This hard cut — not a camera zoom — is the mechanism that shifts visual attention to whichever character is currently speaking; a zoom-out/zoom-back-in choreography following the conversation appears in only 1 of 46 reels, and that video's own analysis flags it as the sole exception to the static-camera rule, not a pattern to build on.
 
 ### Isolating the punchline (frequent, 30/46)
 Regardless of which shot pattern is used elsewhere, the punchline itself is very often delivered in a **tight close-up on one character's face alone**, with the partner cropped out of frame or softly blurred. This isolates the deadpan delivery from any competing visual information at the exact moment the joke lands.
@@ -267,11 +270,13 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "heavy-lidded, half-closed 'low battery' eyes as the default resting expression, no blinking during the shot"
 - "flat, slightly downturned mouth at rest, held even through emotionally loaded lines — deadpan face sculpt, not an expressive/animated face rig"
 - "elongated wedge/conical nose; small round glasses on at least one character"
+- "(prompt-craft note, not a visual trait) when reference images are attached, identify each character by name/role only and state their appearance must match the attached reference image exactly — do not also write a long freeform appearance description in the text, which can compete with and override image conditioning"
 
 **Rig / animation**
 - "animate only the mouth, eyebrows, and eyelids; keep torso, arms, and legs completely locked and static — no idle breathing sway, no cloth simulation, no hair simulation"
 - "mouth reads as a small set of discrete held viseme poses swapped on each spoken word, not continuous fluid phoneme-level lip-sync"
 - "at most one small looping gesture per character (e.g., tapping a keyboard, adjusting glasses, scrolling a phone) held for most of the shot"
+- "(adaptation note, not reel-sourced — see Character Design section 4) when a character is silently listening (not deliberately withholding a punchline reaction), a small amount of quiet, settled attentiveness is fine — e.g. steady rather than 'completely motionless' eyes — as long as it stops short of any actual reaction, eyebrow move, blink, or eye contact with the other character"
 
 **Camera**
 - "locked-off, static camera for every shot — no pans, no tilts, no handheld shake"
@@ -287,7 +292,7 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 
 **Editing / audio / performance**
 - "0-6 hard cuts total, no dissolves or wipes except optionally into the closing card; average shot length 2-7 seconds"
-- "no score, no sound design, no foley — dialogue and room tone only"
+- "no score, no sound design, no foley, no ambient room noise of any kind — complete silence except the spoken dialogue itself; do not add any environmental or 'authenticity' audio"
 - "every line, including the punchline, delivered in a flat, low-pitch-variation, deadpan monotone regardless of emotional stakes"
 - "hold a long silence (0.6-3.3s) directly before or after the punchline; no filler movement or sound during the hold"
 - "(optional) burned-in episode/scenario label in the corner of the opening shot; static branded end-card with hard cut, no narrative resolution shown after it"
