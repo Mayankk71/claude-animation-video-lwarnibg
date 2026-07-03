@@ -62,19 +62,16 @@ apply these to every prompt this template produces, not just as a one-off fix:
   otherwise.
 - **Platform watermarks are unavoidable** (e.g. a small Gemini sparkle icon in-frame) — this is
   not a prompt problem and doesn't need addressing; crop it out in post if it matters.
-- **State the active-speaker tile highlight explicitly in every shot that shows Meet-tile chrome —
-  but describe it as a plain visual effect, never by naming a reference file.** Real Google Meet
-  puts a colored highlight ring around whichever participant's tile is currently producing audio.
-  Every shot prompt must say, in plain cinematic language, whose tile is highlighted right now and
-  why — e.g. "a soft glowing colored ring appears around her tile's border while his stays plain" —
-  never "(matching references/layout/gmeet-active-speaker.png)" or any other file-path reference
-  inside the actual generation prompt text. The model has no filesystem access and can't act on a
-  path string; naming files inside the prompt is just clutter at best. Keep file paths (for
-  attaching the actual reference images) in the human-readable notes around the prompt, never
-  inside the ` ``` ` block itself. Show **neither** tile highlighted during a shared silence/pause
-  beat. If a shot's framing crops to a single character's tile, still state explicitly whether that
-  tile's border is highlighted or plain for that beat. This is a sales-objection-niche UI-realism
-  addition, not a trait found in the source reels.
+- **Do not try to prompt a dynamic active-speaker tile highlight at all — leave Meet-tile chrome
+  static and add any highlight ring in post-production instead.** An earlier version of this rule
+  asked for a highlight ring to appear/disappear on whichever tile is currently speaking. A real
+  test generation showed this doesn't work: the highlight appeared on the wrong tile while the
+  other character was actually speaking, both tiles lit up at once in two different colors, and a
+  highlight lingered on a tile well after that character had stopped talking. This is a timed,
+  conditional visual effect tied precisely to audio content, and the model isn't reliably tracking
+  it — asking for it just adds confusion without a payoff. If you want the active-speaker highlight
+  look, composite it by hand afterward in a video editor, synced exactly to the real dialogue
+  timing, rather than prompting for it.
 - **When reference images are attached, do not describe character appearance in the shot prompt
   text at all, and state the "reference images are attached" instruction only ONCE per prompt set —
   never repeat it inside every individual shot.** Real test generations kept drifting from the
@@ -91,15 +88,14 @@ apply these to every prompt this template produces, not just as a one-off fix:
   rule above: it's not just hair/nose/glasses that competes with image conditioning, any redundant
   description of what a reference image already depicts can too, including framing/positioning
   language like "two video tiles side by side, labeled X and Y" or "left tile: SALES REP, right
-  tile: PROSPECT" — the layout reference images (`references/layout/gmeet-active-speaker.png` /
-  `gmeet-normal.png`) already show that exact framing, so restating it in text is both redundant and
-  risks the model reconciling two slightly different descriptions of the same thing instead of just
-  using the image. The fix: when a shot's framing matches an attached reference image, say only
-  something like "the scene and both characters are exactly as shown in the attached reference
-  image — animate it," then move straight into what the image *can't* convey: motion, dialogue, and
-  timed transitions like the active-speaker highlight appearing/disappearing over the course of the
-  shot. When a shot's framing doesn't exactly match any single reference image (e.g. a cropped
-  close-up), describe only the *change* — the cut/reframe itself — not the full composition.
+  tile: PROSPECT" — the layout reference image (`references/layout/gmeet-normal.png`) already shows
+  that exact framing, so restating it in text is both redundant and risks the model reconciling two
+  slightly different descriptions of the same thing instead of just using the image. The fix: when a
+  shot's framing matches an attached reference image, say only something like "the scene and both
+  characters are exactly as shown in the attached reference image — animate it," then move straight
+  into what the image *can't* convey: motion and dialogue. When a shot's framing doesn't exactly
+  match any single reference image (e.g. a cropped close-up), describe only the *change* — the
+  cut/reframe itself — not the full composition.
 - **State explicitly that there is no ambient or background audio of any kind.** A real test
   generation added its own room tone / ambient noise unprompted, apparently to make the scene
   read as more "authentic." Don't just say "no music, no SFX" — say it as a hard negative in every

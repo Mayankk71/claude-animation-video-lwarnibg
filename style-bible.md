@@ -271,7 +271,7 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "flat, slightly downturned mouth at rest, held even through emotionally loaded lines — deadpan face sculpt, not an expressive/animated face rig"
 - "elongated wedge/conical nose; small round glasses on at least one character"
 - "(prompt-craft note, not a visual trait — supersedes any earlier, softer version of this rule) when reference images are attached, do not describe character appearance in the prompt text AT ALL, not even briefly by name/role, and state the 'reference images are attached' instruction only ONCE per prompt set, never repeated inside every individual shot. Real test generations kept drifting from the reference images through two earlier, progressively-trimmed attempts at this rule; repeating any instructional language about the images inside every shot's generation text is itself the kind of clutter that competes with image conditioning"
-- "(prompt-craft note, not a visual trait) never restate a static composition/layout that's already shown in an attached reference image — this includes the Google Meet split-screen framing itself. Don't write 'two video tiles side by side, labeled X and Y' or 'left tile: SALES REP, right tile: PROSPECT' if a reference image already shows that exact framing; say only that the scene matches the attached reference image, then describe what a still image can't show — motion, dialogue, and timed transitions like the active-speaker highlight changing over the course of the shot. If a shot's framing doesn't match any single reference image (e.g. a cropped close-up), describe only the cut/reframe itself, not the whole composition"
+- "(prompt-craft note, not a visual trait) never restate a static composition/layout that's already shown in an attached reference image — this includes the Google Meet split-screen framing itself. Don't write 'two video tiles side by side, labeled X and Y' or 'left tile: SALES REP, right tile: PROSPECT' if a reference image already shows that exact framing; say only that the scene matches the attached reference image, then describe what a still image can't show — motion and dialogue. If a shot's framing doesn't match any single reference image (e.g. a cropped close-up), describe only the cut/reframe itself, not the whole composition"
 
 **Rig / animation**
 - "animate only the mouth, eyebrows, and eyelids; keep torso, arms, and legs completely locked and static — no idle breathing sway, no cloth simulation, no hair simulation"
@@ -283,7 +283,7 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "locked-off, static camera for every shot — no pans, no tilts, no handheld shake"
 - "the only allowed camera movement is a slow, continuous, straight-line push-in toward a character's face, timed to land tight exactly on the punchline"
 - "shot/reverse-shot pattern — open on a wide static two-shot, cut to isolated tight close-ups per speaker, partner cropped out of frame or softly blurred during the other's line"
-- "(niche UI addition, not reel-sourced — see note below) whichever character is currently speaking has a highlighted/glowing colored border ring around their Google Meet tile for the span they're talking; the other tile stays in its plain unhighlighted state; neither tile is highlighted during a shared silence. Describe this as a plain visual effect in the generation prompt ('a soft glowing ring appears around her tile's border') — never by naming a reference file path inside the prompt text; the model can't act on a path string, and it's just clutter there. Keep file paths in the human-readable notes around the prompt, not inside the generation text itself"
+- "(retired — do not prompt this, see note below) an earlier version of this bank asked for a dynamic active-speaker highlight ring on the Google Meet tile; real test generations rendered it on the wrong tile, on both tiles at once in mismatched colors, or lingering after the speaker stopped. Leave Meet-tile chrome static in the generation prompt and add any highlight ring by hand in post-production instead"
 
 **Lighting / set**
 - "warm, soft, naturalistic key light motivated by a single practical in-frame source (desk lamp, window, laptop/monitor glow); shallow depth of field with a softly blurred background"
@@ -299,16 +299,17 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "hold a long silence (0.6-3.3s) directly before or after the punchline; no filler movement or sound during the hold"
 - "(optional) burned-in episode/scenario label in the corner of the opening shot; static branded end-card with hard cut, no narrative resolution shown after it"
 
-### Niche-specific UI addition: Google Meet active-speaker highlight
+### Retired: Google Meet active-speaker highlight (do not prompt this)
 
-Unlike everything else in this section, the following rule is **not traced to the reference reels** — the source set was never shot as a video call, so there's no evidence trail or classification tag for it. It's a Google-Meet-realism addition specific to the sales-objection niche, and should always be applied regardless: real Meet puts a colored highlight ring around whichever participant's tile is currently producing audio. Every Veo3 shot prompt that shows Meet-tile chrome must say explicitly, in plain language, which tile is highlighted for that beat:
-
-- The **currently-speaking** character's tile shows a highlighted/glowing border for exactly the span they're talking.
-- The **other** character's tile stays in its plain, unhighlighted resting state.
-- During a **shared silence/pause beat**, neither tile is highlighted.
-- If a shot's framing crops down to a single character's tile, state explicitly whether that visible tile border is highlighted or plain for that beat — never leave it implicit.
-
-Reference images: `references/layout/gmeet-active-speaker.png` (highlighted state) and `references/layout/gmeet-normal.png` (plain state).
+An earlier version of this document asked every Veo3 shot to describe a dynamic highlight ring
+appearing on whichever character's tile was currently speaking — a Google-Meet-realism addition,
+not traced to the reference reels. A real test generation showed this doesn't work: the highlight
+appeared on the wrong tile while the other character was actually speaking, both tiles lit up
+simultaneously in two different colors, and a highlight lingered on a tile after that character had
+stopped talking. It's a timed, conditional visual effect tied precisely to audio content, and the
+model isn't reliably tracking it — asking for it just adds confusion. **Leave Meet-tile chrome
+static in every generation prompt; add any active-speaker highlight by hand in post-production
+instead, synced exactly to the real dialogue timing.**
 
 ### Niche Creative Adaptations (Sales-Objection Skits)
 
