@@ -67,13 +67,11 @@ framed as a Google Meet split screen: two video tiles side by side,
 labeled "Sales Rep" and "Prospect" in the lower-left corner of each
 tile.
 
-Left tile: SALES REP. Right tile: PROSPECT. Reference images are
-attached for each character — animate them exactly as shown, with no
-further appearance description in this prompt.
+Left tile: SALES REP. Right tile: PROSPECT.
 
-Active-speaker tile highlight: neither character is speaking during
-this shot, so both tile borders stay in their plain unhighlighted state
-(matching references/layout/gmeet-normal.png) for the entire duration.
+Neither video tile has a highlighted border right now — both stay in
+their plain, quiet resting state for the entire shot, since neither
+person is speaking.
 
 Movement, beat by beat: the Sales Rep looks down, quietly writing
 something on a notepad on her desk, her pen moving in small, natural,
@@ -94,17 +92,14 @@ Notes: This shot is the canvas for a blurred topic-card graphic (e.g. "OBJECTION
 Same static two-tile Meet framing as Shot 1, same felted-wool CG-clean
 shader, camera completely motionless throughout.
 
-Left tile: SALES REP. Right tile: PROSPECT. Reference images are
-attached for each character — animate them exactly as shown, with no
-further appearance description in this prompt.
+Left tile: SALES REP. Right tile: PROSPECT.
 
-Active-speaker tile highlight: at the instant the Sales Rep begins
-speaking, her tile border shows the highlighted glowing state (matching
-references/layout/gmeet-active-speaker.png) while the Prospect's tile
-stays plain (matching references/layout/gmeet-normal.png). The instant
-she finishes, her highlight disappears and the Prospect's tile
-immediately highlights for the duration of his reply, then returns to
-plain the instant he finishes.
+The instant the Sales Rep begins speaking, a soft glowing colored ring
+appears around the border of her video tile, showing she's the one
+talking, while the Prospect's tile stays plain. The instant she
+finishes, that glow disappears from her tile and immediately appears
+around the Prospect's tile instead for the duration of his reply, then
+disappears again the instant he finishes.
 
 Movement, beat by beat: the Sales Rep delivers her line in a light,
 casual, matter-of-fact tone, mouth moving through natural viseme
@@ -127,14 +122,10 @@ Notes: The objection lands almost immediately once dialogue starts, per the reel
 Hard cut to an isolated close-up on the Sales Rep alone, the Prospect's
 tile cropped out. Same felted-wool CG shader.
 
-Left tile only in frame: SALES REP. Reference image is attached for
-this character — animate exactly as shown, with no further appearance
-description in this prompt.
+Left tile only in frame: SALES REP.
 
-Active-speaker tile highlight: she is not speaking during this shot;
-if her tile border is visible within this close-up crop, it stays in
-its plain unhighlighted state (matching references/layout/gmeet-normal.png)
-for the entire duration.
+If her tile's border is visible within this close-up, it stays plain
+and unhighlighted for the entire shot — she isn't speaking.
 
 Movement, beat by beat: no dialogue. She takes a short, visible beat
 processing what he just said: her eyes flick briefly to the side, as
@@ -154,19 +145,16 @@ Notes: This is a niche creative adaptation, not reel-sourced (the source reels a
 Hard cut back to the same static two-tile Meet framing as Shot 2, same
 felted-wool CG-clean shader, camera completely motionless throughout.
 
-Left tile: SALES REP. Right tile: PROSPECT. Reference images are
-attached for each character — animate them exactly as shown, with no
-further appearance description in this prompt.
+Left tile: SALES REP. Right tile: PROSPECT.
 
-Active-speaker tile highlight: at the instant the Sales Rep begins
-speaking, her tile highlights (matching references/layout/gmeet-active-speaker.png)
-while the Prospect's stays plain. Partway through her line, the instant
-the Prospect begins talking over her, BOTH tiles briefly show the
-highlighted state at the same time for the moment of overlap — this is
-correct, matching how real Meet behaves when two people talk at once.
-As her line is cut off, her tile's highlight disappears; the Prospect's
-tile stays highlighted for the remainder of his line, then returns to
-plain the instant he finishes.
+The instant the Sales Rep begins speaking, a glowing colored ring
+appears around her tile's border while his stays plain. Partway
+through her line, the instant the Prospect starts talking over her,
+that same glow appears around his tile too — for a brief moment both
+tiles glow at once, since both people are talking simultaneously, the
+way a real video call shows it. As her line is cut off, the glow
+disappears from her tile; his tile keeps glowing for the rest of his
+line, then the glow disappears the instant he finishes.
 
 Movement, beat by beat: the Sales Rep begins her rebuttal with the same
 light, confident delivery as Shot 2. Before she can finish, the
@@ -194,14 +182,11 @@ Notes: The interruption and both characters' visible reactions to it are the cen
 Hard cut to an isolated close-up on the Sales Rep alone, the Prospect's
 tile cropped out. Same felted-wool CG shader.
 
-Left tile only in frame: SALES REP. Reference image is attached for
-this character — animate exactly as shown, with no further appearance
-description in this prompt.
+Left tile only in frame: SALES REP.
 
-Active-speaker tile highlight: she is not speaking during this shot and
-there is no reply from her; if her tile border is visible within this
-crop, it stays in its plain unhighlighted state (matching
-references/layout/gmeet-normal.png) for the entire duration.
+If her tile's border is visible within this crop, it stays plain and
+unhighlighted for the entire shot — she isn't speaking and doesn't
+reply.
 
 Movement, beat by beat: no dialogue. Her expression settles into a
 small, restrained, resigned stillness — the mild frustration from Shot

@@ -62,26 +62,32 @@ apply these to every prompt this template produces, not just as a one-off fix:
   otherwise.
 - **Platform watermarks are unavoidable** (e.g. a small Gemini sparkle icon in-frame) — this is
   not a prompt problem and doesn't need addressing; crop it out in post if it matters.
-- **State the active-speaker tile highlight explicitly in every shot that shows Meet-tile chrome.**
-  Real Google Meet puts a colored highlight ring around whichever participant's tile is currently
-  producing audio. Every shot prompt must say, in plain terms, whose tile is highlighted right now
-  and why: highlight the currently-speaking character's tile border for exactly the span they're
-  talking (matching `references/layout/gmeet-active-speaker.png`), keep the other character's tile
-  in its plain unhighlighted state (matching `references/layout/gmeet-normal.png`), and show
-  **neither** tile highlighted during a shared silence/pause beat. If a shot's framing crops down
-  to a single character's tile, still state explicitly whether that tile's border (if visible in
-  frame) is highlighted or plain for that beat — don't leave it implicit. This is a sales-objection-
-  niche UI-realism addition, not a trait found in the source reels (see the Style Bible's Prompt
-  and Script Generation Guidelines section for how it's flagged there).
+- **State the active-speaker tile highlight explicitly in every shot that shows Meet-tile chrome —
+  but describe it as a plain visual effect, never by naming a reference file.** Real Google Meet
+  puts a colored highlight ring around whichever participant's tile is currently producing audio.
+  Every shot prompt must say, in plain cinematic language, whose tile is highlighted right now and
+  why — e.g. "a soft glowing colored ring appears around her tile's border while his stays plain" —
+  never "(matching references/layout/gmeet-active-speaker.png)" or any other file-path reference
+  inside the actual generation prompt text. The model has no filesystem access and can't act on a
+  path string; naming files inside the prompt is just clutter at best. Keep file paths (for
+  attaching the actual reference images) in the human-readable notes around the prompt, never
+  inside the ` ``` ` block itself. Show **neither** tile highlighted during a shared silence/pause
+  beat. If a shot's framing crops to a single character's tile, still state explicitly whether that
+  tile's border is highlighted or plain for that beat. This is a sales-objection-niche UI-realism
+  addition, not a trait found in the source reels.
 - **When reference images are attached, do not describe character appearance in the shot prompt
-  text at all — not even briefly by name/role.** An earlier, softer version of this rule (identify
-  by name/role + "must match the reference image") still wasn't enough; real test generations kept
-  drifting from the attached character images until appearance text was removed from the prompt
-  entirely. Simply state that reference images are attached for each character and that they must
-  be animated exactly as shown — no hair, nose, glasses, clothing, or other appearance description
-  anywhere in the generation prompt. Save the full appearance description for the human-readable
-  character section at the top of the script file (for your own reference only), never for the
-  generation prompt text itself.
+  text at all, and state the "reference images are attached" instruction only ONCE per prompt set —
+  never repeat it inside every individual shot.** Real test generations kept drifting from the
+  attached character images through two earlier, progressively-trimmed attempts at this rule (first
+  a full appearance description, then a shortened "must match the reference image" note repeated in
+  every shot) — repeating any instructional language about the images inside each shot's actual
+  generation text is itself the kind of prompt clutter that competes with image conditioning. The
+  fix: state once, near the top of the whole prompt set (outside any shot's code block) that
+  reference images are attached and must be used as-is, then inside each shot's generation text use
+  nothing more than a bare character label ("Left tile: SALES REP. Right tile: PROSPECT.") — no
+  hair, nose, glasses, clothing, or any other appearance or meta-commentary, anywhere in the
+  generation prompt. Save the full appearance description for the human-readable character section
+  at the top of the script file, for your own reference only.
 - **State explicitly that there is no ambient or background audio of any kind.** A real test
   generation added its own room tone / ambient noise unprompted, apparently to make the scene
   read as more "authentic." Don't just say "no music, no SFX" — say it as a hard negative in every
