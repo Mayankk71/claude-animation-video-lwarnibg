@@ -8,6 +8,8 @@
 **Canonical reference images (generated directly from the Style Bible's invariant character rules — use these, not any earlier version):**
 - `references/characters/sales-rep-v2.png`
 - `references/characters/prospect-v2.png`
+- `references/layout/gmeet-active-speaker.png` — reference for the highlighted/glowing tile border shown around whichever character is currently speaking
+- `references/layout/gmeet-normal.png` — reference for the plain, unhighlighted tile border shown when a character is not speaking
 
 **Setting:** Google Meet call, both on video. Prospect: wood desk, softly blurred bookshelf + framed art + warm table lamp behind him. Sales Rep: wood desk, softly blurred abstract art print + bookshelf + potted plant + warm table lamp behind her.
 
@@ -50,9 +52,9 @@ and inserts an unprompted reaction shot. See `templates/veo3-prompt-template.md`
 practicalities" section for the full explanation — every instruction below is written to counter
 that specific failure mode.
 
-**Style keywords (from the Style Bible):** felted-wool/clay stop-motion-*look* CG shader (not real stop-motion — no jitter, no fingerprints, fully smooth motion); heavy-lidded "low battery" eyes on both characters, no blinking; flat downturned mouth held through emotionally loaded lines; elongated nose + small round glasses on the Prospect; animation concentrated on mouth/eyebrows/eyelids only, body completely locked/static; discrete held viseme mouth poses, not fluid lip-sync; locked-off static camera except one permitted slow straight push-in landing on the punchline; warm soft single-source practical light (table lamp) with shallow DOF; fully static background; muted desaturated color palette; no music, no SFX; deadpan low-pitch-variation delivery throughout.
+**Style keywords (from the Style Bible):** felted-wool/clay stop-motion-*look* CG shader (not real stop-motion — no jitter, no fingerprints, fully smooth motion); heavy-lidded "low battery" eyes on both characters, no blinking; flat downturned mouth held through emotionally loaded lines; elongated nose + small round glasses on the Prospect; animation concentrated on mouth/eyebrows/eyelids only, body completely locked/static; discrete held viseme mouth poses, not fluid lip-sync; locked-off static camera except one permitted slow straight push-in landing on the punchline; warm soft single-source practical light (table lamp) with shallow DOF; fully static background; muted desaturated color palette; no music, no SFX; deadpan low-pitch-variation delivery throughout; the currently-speaking character's Meet tile shows a highlighted glowing border while the other stays plain, neither highlighted during a silence (niche UI addition, not reel-sourced).
 
-**Attach `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` as image-conditioning input to every single shot generation**, in addition to the text description, for character consistency.
+**Attach `references/characters/sales-rep-v2.png`, `references/characters/prospect-v2.png`, `references/layout/gmeet-active-speaker.png`, and `references/layout/gmeet-normal.png` as image-conditioning input to every single shot generation**, in addition to the text description, for character consistency and correct active-speaker tile framing.
 
 ## Shot 1 — Cold open / Hook+Setup (0:00–0:04)
 
@@ -79,6 +81,16 @@ smile line at rest, wearing a black suit jacket, white shirt, and black
 tie, hands clasped on a wood desk. Behind him, softly blurred: a
 bookshelf, framed art, and a warm lit table lamp.
 
+Active-speaker tile highlight: at the exact instant the Sales Rep
+begins speaking, her tile's border shows a highlighted glowing colored
+ring around it (matching references/layout/gmeet-active-speaker.png)
+while the Prospect's tile border stays in its plain unhighlighted state
+(matching references/layout/gmeet-normal.png). The instant she finishes
+her line, her tile's highlight disappears and her border returns to
+plain; simultaneously, the Prospect's tile border immediately switches
+to the highlighted state for exactly the duration of his reply, then
+returns to plain the instant he finishes.
+
 Movement, beat by beat: at the start of the shot, the Sales Rep's mouth
 opens and closes through 2-3 discrete held viseme shapes as she speaks
 her line; her eyebrows lift very slightly (a few millimeters) on the
@@ -102,6 +114,13 @@ Notes: Establishing two-shot per the shot/reverse-shot default. Both characters 
 ```
 Same static two-tile Meet framing as Shot 1, same felted-wool CG-clean
 shader, camera completely motionless throughout.
+
+Active-speaker tile highlight: the Sales Rep's tile border shows the
+highlighted glowing ring (matching references/layout/gmeet-active-speaker.png)
+for the entire duration of this shot, since she is the only one
+speaking. The Prospect's tile border stays in its plain unhighlighted
+state (matching references/layout/gmeet-normal.png) throughout — he
+does not speak or react, so his tile never highlights.
 
 Movement, beat by beat: the Sales Rep's mouth opens through 2 discrete
 held viseme shapes as she asks her line; her eyebrows do not raise, her
@@ -128,6 +147,12 @@ line. Slow, continuous, straight-line push-in toward his face — the
 only camera movement in the entire piece — beginning at the start of
 this shot and continuing smoothly through to the end.
 
+Active-speaker tile highlight: neither character is speaking during
+this shot, so if any Meet-tile border chrome is visible within this
+close-up crop, it must be shown in its plain unhighlighted state
+(matching references/layout/gmeet-normal.png) — no glow, no highlight
+ring, for the entire duration.
+
 This entire clip shows the character in complete silence and stillness:
 no dialogue, no lip movement, no eyebrow movement, no blinking, no
 change in expression of any kind, for the full 2-second duration. His
@@ -147,6 +172,13 @@ Continuous framing with Shot 3's tight close-up on the Prospect (push-in
 now settled tight on his face), same static clay/felt shader, no
 blinking, faint closed-mouth resting expression before he begins to
 speak.
+
+Active-speaker tile highlight: the instant the Prospect begins
+speaking, his tile's border (if visible within this close-up crop)
+switches to the highlighted glowing state (matching
+references/layout/gmeet-active-speaker.png) and stays highlighted for
+the full duration of his line, since he is the only one speaking in
+this shot.
 
 Movement, beat by beat: his mouth opens through a small sequence of
 discrete held viseme shapes as he delivers the full line in one
@@ -175,6 +207,12 @@ Prospect's tile fully cropped out. Same felted-wool CG shader,
 heavy-lidded droopy eyes unblinking, closed neutral mouth held
 completely still. Camera fully locked, no movement of any kind.
 
+Active-speaker tile highlight: she is not speaking anywhere in this
+shot and there is no reply, so if her tile's border is visible within
+this crop, it must stay in its plain unhighlighted state (matching
+references/layout/gmeet-normal.png) for the entire duration — same
+silence logic as Shot 3.
+
 For the entire 2-second duration of this shot, her expression does not
 change from how it appeared at the end of Shot 2: no surprise, no
 eyebrows raising, no eyes widening, no mouth movement, no head tilt, no
@@ -191,4 +229,6 @@ Notes: The first real test generation inserted an unprompted surprised reaction 
 
 ## Continuity notes
 
-Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot: the Prospect's bald head, ring of dark hair, round black glasses, elongated conical nose, black suit/tie, and heavy-lidded eyes; the Sales Rep's neat high bun, gold hoop earrings, cream cable-knit sweater, and — now corrected to match the Style Bible's invariant rule — heavy-lidded droopy eyes matching the Prospect's degree of heaviness, not wide or alert. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the single push-in in Shots 3–4. Attach both reference images to every shot's generation call, not just once.
+Keep both characters' models exactly as shown in `references/characters/sales-rep-v2.png` and `references/characters/prospect-v2.png` across every shot: the Prospect's bald head, ring of dark hair, round black glasses, elongated conical nose, black suit/tie, and heavy-lidded eyes; the Sales Rep's neat high bun, gold hoop earrings, cream cable-knit sweater, and — now corrected to match the Style Bible's invariant rule — heavy-lidded droopy eyes matching the Prospect's degree of heaviness, not wide or alert. Keep each character's own set dressing (Prospect: bookshelf + framed art + lamp; Sales Rep: abstract art print + bookshelf + plant + lamp) and the warm/muted desaturated color grade identical across all shots — the only visual variation across the whole piece should come from reframing (wide two-shot → isolated close-ups), never a location or character-design change, and never a camera movement beyond the single push-in in Shots 3–4.
+
+Also keep the active-speaker tile highlight behavior consistent across every shot, per `references/layout/gmeet-active-speaker.png` (highlighted border reference) and `references/layout/gmeet-normal.png` (plain border reference): whichever character is talking at that moment has a highlighted glowing border on their tile, the other character's tile stays plain, and neither tile highlights during a silent beat (Shots 3 and 5). This is a niche-specific UI-realism addition — see the Style Bible's Prompt and Script Generation Guidelines section — not a trait sourced from the reference reels. Attach all four reference images to every shot's generation call, not just once.

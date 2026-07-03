@@ -277,6 +277,7 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "locked-off, static camera for every shot — no pans, no tilts, no handheld shake"
 - "the only allowed camera movement is a slow, continuous, straight-line push-in toward a character's face, timed to land tight exactly on the punchline"
 - "shot/reverse-shot pattern — open on a wide static two-shot, cut to isolated tight close-ups per speaker, partner cropped out of frame or softly blurred during the other's line"
+- "(niche UI addition, not reel-sourced — see note below) whichever character is currently speaking has a highlighted/glowing colored border ring around their Google Meet tile for the span they're talking; the other tile stays in its plain unhighlighted state; neither tile is highlighted during a shared silence"
 
 **Lighting / set**
 - "warm, soft, naturalistic key light motivated by a single practical in-frame source (desk lamp, window, laptop/monitor glow); shallow depth of field with a softly blurred background"
@@ -290,6 +291,17 @@ Use these phrases directly when constructing Veo3 generation prompts. They are w
 - "every line, including the punchline, delivered in a flat, low-pitch-variation, deadpan monotone regardless of emotional stakes"
 - "hold a long silence (0.6-3.3s) directly before or after the punchline; no filler movement or sound during the hold"
 - "(optional) burned-in episode/scenario label in the corner of the opening shot; static branded end-card with hard cut, no narrative resolution shown after it"
+
+### Niche-specific UI addition: Google Meet active-speaker highlight
+
+Unlike everything else in this section, the following rule is **not traced to the reference reels** — the source set was never shot as a video call, so there's no evidence trail or classification tag for it. It's a Google-Meet-realism addition specific to the sales-objection niche, and should always be applied regardless: real Meet puts a colored highlight ring around whichever participant's tile is currently producing audio. Every Veo3 shot prompt that shows Meet-tile chrome must say explicitly, in plain language, which tile is highlighted for that beat:
+
+- The **currently-speaking** character's tile shows a highlighted/glowing border for exactly the span they're talking.
+- The **other** character's tile stays in its plain, unhighlighted resting state.
+- During a **shared silence/pause beat**, neither tile is highlighted.
+- If a shot's framing crops down to a single character's tile, state explicitly whether that visible tile border is highlighted or plain for that beat — never leave it implicit.
+
+Reference images: `references/layout/gmeet-active-speaker.png` (highlighted state) and `references/layout/gmeet-normal.png` (plain state).
 
 ### Script structure template
 

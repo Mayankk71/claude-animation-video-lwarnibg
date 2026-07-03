@@ -62,3 +62,14 @@ apply these to every prompt this template produces, not just as a one-off fix:
   otherwise.
 - **Platform watermarks are unavoidable** (e.g. a small Gemini sparkle icon in-frame) — this is
   not a prompt problem and doesn't need addressing; crop it out in post if it matters.
+- **State the active-speaker tile highlight explicitly in every shot that shows Meet-tile chrome.**
+  Real Google Meet puts a colored highlight ring around whichever participant's tile is currently
+  producing audio. Every shot prompt must say, in plain terms, whose tile is highlighted right now
+  and why: highlight the currently-speaking character's tile border for exactly the span they're
+  talking (matching `references/layout/gmeet-active-speaker.png`), keep the other character's tile
+  in its plain unhighlighted state (matching `references/layout/gmeet-normal.png`), and show
+  **neither** tile highlighted during a shared silence/pause beat. If a shot's framing crops down
+  to a single character's tile, still state explicitly whether that tile's border (if visible in
+  frame) is highlighted or plain for that beat — don't leave it implicit. This is a sales-objection-
+  niche UI-realism addition, not a trait found in the source reels (see the Style Bible's Prompt
+  and Script Generation Guidelines section for how it's flagged there).

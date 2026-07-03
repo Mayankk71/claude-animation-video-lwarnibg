@@ -374,6 +374,7 @@
       "CAMERA: locked-off, static camera for every shot — no pans, no tilts, no handheld shake",
       "CAMERA: the only allowed camera movement is a slow, continuous, straight-line push-in toward a character's face, timed to land tight exactly on the punchline line",
       "CAMERA: shot/reverse-shot pattern — open on a wide static two-shot, cut to isolated tight close-ups per speaker, partner cropped out of frame or softly blurred during the other's line",
+      "UI ADDITION (niche-specific, not reel-sourced): whichever character is currently speaking has a highlighted/glowing colored border ring around their Google Meet tile for the span they're talking; the other tile stays in its plain unhighlighted state; neither tile is highlighted during a shared silence. Reference images: references/layout/gmeet-active-speaker.png (highlighted) and references/layout/gmeet-normal.png (plain).",
       "LIGHTING: warm, soft, naturalistic key light motivated by a single practical in-frame source (desk lamp, window, laptop/monitor glow); shallow depth of field with a softly blurred background",
       "SET: completely static background — furniture, screens, props, and decor do not move, drift, flicker, or animate at all between frames",
       "SET: single unchanging location for the whole scene; visual variety comes only from reframing between the wide two-shot and tight close-ups, never a location change",
