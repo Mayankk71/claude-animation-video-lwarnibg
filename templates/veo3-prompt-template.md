@@ -53,6 +53,16 @@ apply these to every prompt this template produces, not just as a one-off fix:
   — no new expression forms at any point in this shot." This applies to every shot, not only the
   ones that are explicitly about stillness or a reaction — vague direction is exactly what let
   an unprompted surprised reaction slip into a real test generation.
+- **Every dialogue beat needs an explicit action/expression line for BOTH characters, not just the
+  one who's talking.** Don't write "she says X, he reacts" and leave it there — describe what the
+  speaking character's face and mouth are doing as they deliver the line, AND separately describe
+  what the listening character's face/eyes are doing at that same moment, even if the answer is
+  "stays steady, no reaction yet." If a two-character shot has two lines back to back, give this
+  same speaker/listener pair of action lines for each line — never let a character go a whole beat
+  with no stated expression just because they aren't the one speaking right then. This is what
+  actually produces the reactive, alive quality this niche is going for (see the Style Bible's
+  "Niche Creative Adaptations" section) — a line of dialogue with no listener reaction described is
+  a line where the model is free to leave that character looking dead in-frame.
 - **Held-silence beats need their own dedicated shot**, prompted as e.g. "this entire clip shows
   the character in complete silence and stillness — no dialogue, no lip movement, no change in
   expression — for the full duration," not as a pause folded into a longer talking shot.

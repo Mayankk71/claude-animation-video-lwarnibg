@@ -87,13 +87,16 @@ Same framing as Shot 1, exactly as shown in the attached reference
 image, same felted-wool CG-clean shader, camera completely motionless
 throughout.
 
-Movement, beat by beat: the Sales Rep delivers her line in a light,
-casual, matter-of-fact tone, mouth moving through natural viseme
-shapes. As she finishes, the Prospect visibly reacts before he speaks —
-a brief, readable flicker of discomfort: his eyebrows draw in slightly
-and his mouth tightens for a beat. Keep this small, human, and
-restrained — not exaggerated or cartoonish. He then replies, flat but
-genuine, not robotic-deadpan.
+Movement, beat by beat: Sales Rep (speaking) — her mouth moves through
+natural viseme shapes in a light, casual, matter-of-fact delivery, a
+faint easy set to her face. Prospect (listening) — his eyes stay on his
+own screen, holding steady at first, then a small, readable tightening
+begins around his eyes and mouth as the price registers with him,
+building through the end of her line. Prospect (speaking) — the instant
+she finishes, his eyebrows draw in slightly and his mouth tightens for
+a beat before he replies; keep this small, human, and restrained, not
+exaggerated or cartoonish. Sales Rep (listening) — her expression holds
+steady and attentive while he replies, no reaction yet, waiting.
 
 Dialogue: Sales Rep, warm and casual: "So it's only $30 a month." After
 a brief natural beat, Prospect, a little flat and resigned: "That's too
@@ -128,16 +131,20 @@ Hard cut back to the same framing as Shot 2, exactly as shown in the
 attached reference image, same felted-wool CG-clean shader, camera
 completely motionless throughout.
 
-Movement, beat by beat: the Sales Rep begins her rebuttal with the same
-light, confident delivery as Shot 2. Before she can finish, the
-Prospect visibly cuts in: his mouth starts moving partway through her
-sentence — an audible interruption, not a clean turn-taking exchange.
-His own expression shows mild discomfort/reluctance as he does it,
-eyebrows slightly drawn, a stalling quality to his delivery. The Sales
-Rep's mouth stops moving abruptly as she's cut off; a brief, readable
-flicker of surprise/mild frustration crosses her face — small and
-restrained, not exaggerated — as she registers being interrupted, then
-she holds still for the remainder of the shot.
+Movement, beat by beat: Sales Rep (speaking) — she begins her rebuttal
+with the same light, confident delivery as Shot 2. Prospect (listening,
+about to interrupt) — a restless, uncomfortable tightening builds
+around his eyes and mouth as he listens, small and readable, leading
+directly into him cutting in. Prospect (speaking) — his mouth starts
+moving partway through her sentence, an audible interruption, not a
+clean turn-taking exchange; his expression shows mild
+discomfort/reluctance as he does it, eyebrows slightly drawn, a
+stalling quality to his delivery. Sales Rep (reacting, then listening)
+— her mouth stops moving abruptly as she's cut off; a brief, readable
+flicker of surprise/mild frustration crosses her face, small and
+restrained, not exaggerated, as she registers being interrupted, then
+she holds that same settled expression for the remainder of the shot
+while he continues talking over her.
 
 Dialogue: Sales Rep, warm and confident, begins: "It's cheaper than
 your—" and is audibly cut off mid-sentence. Talking over her, Prospect,
@@ -211,11 +218,15 @@ settled, looking toward his own screen, doing nothing else. No dialogue. Complet
 silence — no music, no sound effects, no ambient room tone, nothing added for
 "realism."
 
-[0:02–0:05] Same wide two-shot, camera still locked. She says, light and casual:
-"So it's only $30 a month." He visibly reacts first — a brief, small, restrained
-flicker of discomfort, eyebrows drawing in slightly, mouth tightening, not
-exaggerated — then replies, flat and a little resigned: "That's too expensive."
-Complete silence otherwise.
+[0:02–0:05] Same wide two-shot, camera still locked. Sales Rep (speaking): mouth
+moves through natural viseme shapes in a light, casual delivery, a faint easy set to
+her face; says "So it's only $30 a month." Prospect (listening): eyes stay on his
+own screen, holding steady at first, then a small readable tightening builds around
+his eyes and mouth as the price registers, through the end of her line. Prospect
+(speaking): the instant she finishes, his eyebrows draw in slightly and his mouth
+tightens for a beat, then he replies flat and a little resigned: "That's too
+expensive." Sales Rep (listening): her expression holds steady and attentive, no
+reaction yet, waiting. Complete silence otherwise.
 
 [0:05–0:07] HARD CUT to an isolated close-up on the Sales Rep alone, matching her
 attached reference image, the Prospect out of frame. No dialogue. She takes a
@@ -223,13 +234,19 @@ short, visible beat: her eyes flick briefly to the side, as if glancing toward h
 own screen or his tile — a small, legible, restrained reaction — then settle back
 forward. No other part of her face or body moves. Complete silence.
 
-[0:07–0:10] HARD CUT back to the same wide two-shot as before. She begins, warm and
-confident: "It's cheaper than your—" Partway through, the Prospect visibly cuts her
-off — this is correct, matching how a real video call looks when two people talk
-over each other. Her mouth stops moving abruptly as she's cut off; a brief, small,
-restrained flicker of surprise/mild frustration crosses her face. He talks over
-her, soft, hesitant, a little whiny and genuinely reluctant — not flat deadpan:
-"Noo... I need to think about it." Complete silence otherwise.
+[0:07–0:10] HARD CUT back to the same wide two-shot as before. Sales Rep (speaking):
+begins her rebuttal warm and confident, mouth moving through natural viseme shapes:
+"It's cheaper than your—" Prospect (listening, about to interrupt): a restless,
+uncomfortable tightening builds around his eyes and mouth as he listens, small and
+readable, leading directly into him cutting in. Prospect (speaking): partway
+through her sentence he visibly cuts her off — this is correct, matching how a real
+video call looks when two people talk over each other — eyebrows slightly drawn, a
+stalling, reluctant quality to his mouth movement, soft and hesitant, genuinely
+stalling, not flat deadpan: "Noo... I need to think about it." Sales Rep (reacting,
+then listening): her mouth stops moving abruptly as she's cut off; a brief, small,
+restrained flicker of surprise/mild frustration crosses her face, then she holds
+that same settled expression for the rest of the beat while he continues talking
+over her. Complete silence otherwise.
 
 [0:10–0:12] HARD CUT to an isolated close-up on the Sales Rep alone, matching her
 attached reference image, the Prospect out of frame. No dialogue. Her expression
